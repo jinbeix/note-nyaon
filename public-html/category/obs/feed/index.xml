@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OBS &#8211; にゃおんノート</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Fri, 14 Jun 2024 09:02:47 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>OBS &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>メモ：OBSの設定値（音量関係）</title>
+		<link>./../../../2024-06-05/%e3%83%a1%e3%83%a2%ef%bc%9aobs%e3%81%ae%e8%a8%ad%e5%ae%9a%e5%80%a4%ef%bc%88%e9%9f%b3%e9%87%8f%e9%96%a2%e4%bf%82%ef%bc%89/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 01:37:00 +0000</pubDate>
+				<category><![CDATA[OBS]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[OBSの設定値をメモしておく。配信をしていると各音源の相対値で聞こえ方かわってる&#8230;]]></description>
+										<content:encoded><![CDATA[<p>OBSの設定値をメモしておく。<br />配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。</p>
+<p><span style="color: #3d85c6;">※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた。</span></p>
+</p>
+<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="349" data-original-width="383" height="292" src="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904-300x273.png" width="320" /></a></div>
+<p><span style="color: #3d85c6;"><br /></span></p>
+<h2 style="text-align: left;"># 絶竜詩している頃の設定値 2024-06-05</h2>
+<h3 style="text-align: left;">## 音源：FF14ゲーム音</h3>
+<h4 style="text-align: left;">### 音声ミキサー</h4>
+<p>-5.0dB</p>
+<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+<p>5.4dB</p>
+<p></p>
+<h3 style="text-align: left;">## 音源：USBイヤホン（Discord音声（みんなの声））</h3>
+<h4 style="text-align: left;">### 音声ミキサー：</h4>
+<p>-1.8dB</p>
+<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+<p>ゲイン：11.0dB</p>
+<h4 style="text-align: left;">### フィルター：コンプレッサー</h4>
+<p>比率： 4.00:1</p>
+<p>しきい値： -16.20dB</p>
+<p>アタックタイム： 6ms</p>
+<p>リリースタイム： 60ms</p>
+<p>出力ゲイン：0.00dB</p>
+<p>サイドチェイン/タッキングソース： 未設定</p>
+<p></p>
+<h3 style="text-align: left;">## 音源：USBイヤホンマイク（Discord音声（自分の声））</h3>
+<h4 style="text-align: left;">### 音声ミキサー：</h4>
+<p>-1.9dB</p>
+<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+<p>ゲイン：17.20dB</p>
+<h4 style="text-align: left;">### フィルター：ノイズ抑制</h4>
+<p>RNNoise（高品質、CPU使用率高め）</p>
+<h4 style="text-align: left;">### フィルター：コンプレッサー</h4>
+<p>比率： 4.00:1</p>
+<p>しきい値： -13.00dB</p>
+<p>アタックタイム： 6ms</p>
+<p>リリースタイム： 60ms</p>
+<p>出力ゲイン：0.00dB</p>
+<p>サイドチェイン/タッキングソース： 未設定</p>
+<p></p>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

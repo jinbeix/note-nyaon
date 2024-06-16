@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	わたあめ1年史（2019年5月～2020年8月） へのコメント	</title>
+	<atom:link href="./../../%E3%82%8F%E3%81%9F%E3%81%82%E3%82%811%E5%B9%B4%E5%8F%B2%EF%BC%882019%E5%B9%B45%E6%9C%88%EF%BD%9E2020%E5%B9%B48%E6%9C%88%EF%BC%89/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Wed, 26 Aug 2020 02:56:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+</channel>
+</rss>

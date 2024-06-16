@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>好き &#8211; にゃおんノート</title>
+	<atom:link href="./../../%E5%A5%BD%E3%81%8D/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Fri, 14 Jun 2024 09:07:17 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>好き &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>この人のような文章が書けるようになりたいと思える人のひとり</title>
+		<link>./../../../2024-02-16/%e3%81%93%e3%81%ae%e4%ba%ba%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%96%87%e7%ab%a0%e3%81%8c%e6%9b%b8%e3%81%91%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9f%e3%81%84%e3%81%a8%e6%80%9d/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2024 07:49:00 +0000</pubDate>
+				<category><![CDATA[とりとめのない話]]></category>
+		<category><![CDATA[好き]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Yuka S.さん（rurune）の文が好き。https://note.com/&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Yuka S.さん（rurune）の文が好き。<br /><a href="https://note.com/rurune" target="_blank" rel="noopener">https://note.com/rurune</a></p>
+<p>Ultima Online時代にPKK（プレイヤーキラーに対抗する集団）に所属していたこの人の日記に出会い、そこで繰り広げられる人間ドラマや癖の強いPKキャラを演じるプレイヤー達のロールプレイやプレイヤーとしての姿みたいなのを読んで、更新を楽しみにしていた時期があったのよね。</p>
+<p>あまり明確に何がと考えたことがなかったけれど、何年も経った今でも「間違いなく好きだった」と言える。</p>
+<p>少し前になんとなしに検索したらnoteを書いているのを見つけたときはひとりで「わー！わー！いたー！」って小躍りしてた。</p>
+<p>むかし大事な人を亡くして、二度とその言葉を聞くことも読むことも出来なくなったことがあった。だから「また読める！」というのは本当に本当に嬉しかった。</p>
+<p>何がそんなに好きなんだろうね？</p>
+<p>文体とかに関する詳しいことはわからない。<br />読みやすい平易な言葉を使っている、けれど胸を熱くする。難しくないから素直にそのまま読めるのがいいのかな？</p>
+<p>この人のような文章が書けるようになりたいと思える人のひとり。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

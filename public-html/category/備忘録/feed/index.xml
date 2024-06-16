@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>備忘録 &#8211; にゃおんノート</title>
+	<atom:link href="./../../%E5%82%99%E5%BF%98%E9%8C%B2/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Sat, 15 Jun 2024 02:31:29 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>備忘録 &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>メモ：OBSの設定値（音量関係）</title>
+		<link>./../../../2024-06-05/%e3%83%a1%e3%83%a2%ef%bc%9aobs%e3%81%ae%e8%a8%ad%e5%ae%9a%e5%80%a4%ef%bc%88%e9%9f%b3%e9%87%8f%e9%96%a2%e4%bf%82%ef%bc%89/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2024 01:37:00 +0000</pubDate>
+				<category><![CDATA[OBS]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[OBSの設定値をメモしておく。配信をしていると各音源の相対値で聞こえ方かわってる&#8230;]]></description>
+										<content:encoded><![CDATA[<p>OBSの設定値をメモしておく。<br />配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。</p>
+<p><span style="color: #3d85c6;">※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた。</span></p>
+</p>
+<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="349" data-original-width="383" height="292" src="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904-300x273.png" width="320" /></a></div>
+<p><span style="color: #3d85c6;"><br /></span></p>
+<h2 style="text-align: left;"># 絶竜詩している頃の設定値 2024-06-05</h2>
+<h3 style="text-align: left;">## 音源：FF14ゲーム音</h3>
+<h4 style="text-align: left;">### 音声ミキサー</h4>
+<p>-5.0dB</p>
+<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+<p>5.4dB</p>
+<p></p>
+<h3 style="text-align: left;">## 音源：USBイヤホン（Discord音声（みんなの声））</h3>
+<h4 style="text-align: left;">### 音声ミキサー：</h4>
+<p>-1.8dB</p>
+<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+<p>ゲイン：11.0dB</p>
+<h4 style="text-align: left;">### フィルター：コンプレッサー</h4>
+<p>比率： 4.00:1</p>
+<p>しきい値： -16.20dB</p>
+<p>アタックタイム： 6ms</p>
+<p>リリースタイム： 60ms</p>
+<p>出力ゲイン：0.00dB</p>
+<p>サイドチェイン/タッキングソース： 未設定</p>
+<p></p>
+<h3 style="text-align: left;">## 音源：USBイヤホンマイク（Discord音声（自分の声））</h3>
+<h4 style="text-align: left;">### 音声ミキサー：</h4>
+<p>-1.9dB</p>
+<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+<p>ゲイン：17.20dB</p>
+<h4 style="text-align: left;">### フィルター：ノイズ抑制</h4>
+<p>RNNoise（高品質、CPU使用率高め）</p>
+<h4 style="text-align: left;">### フィルター：コンプレッサー</h4>
+<p>比率： 4.00:1</p>
+<p>しきい値： -13.00dB</p>
+<p>アタックタイム： 6ms</p>
+<p>リリースタイム： 60ms</p>
+<p>出力ゲイン：0.00dB</p>
+<p>サイドチェイン/タッキングソース： 未設定</p>
+<p></p>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>回顧録：2014年のバハ侵攻4層</title>
+		<link>./../../../2023-08-10/%e5%9b%9e%e9%a1%a7%e9%8c%b2%ef%bc%9a2014%e5%b9%b4%e3%81%ae%e3%83%90%e3%83%8f%e4%be%b5%e6%94%bb4%e5%b1%a4/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 02:29:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<category><![CDATA[大迷宮バハムート]]></category>
+		<guid isPermaLink="false">./../../../2023-08-10/%e5%9b%9e%e9%a1%a7%e9%8c%b2%ef%bc%9a2014%e5%b9%b4%e3%81%ae%e3%83%90%e3%83%8f%e4%be%b5%e6%94%bb4%e5%b1%a4/index.html</guid>
+
+					<description><![CDATA[私がはじめてFF14で固定を主催したのがバハ侵攻編でした。 先日（2023-08&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>私がはじめてFF14で固定を主催したのがバハ侵攻編でした。</p>
+
+
+
+<p><a href="https://note.nyaon.st/2023/08/4-2023.html" target="_blank" rel="noopener">先日（2023-08-09）バハ侵攻4層を下限でクリアした</a>ので、良い機会だから2014年の動画を眺めつつ当時の記憶を書き出してみる。</p>
+
+
+
+<p>以下、大迷宮バハムート侵攻4層のギミックネタバレがあるので見たくない人は開かないでね。</p>
+
+
+
+<details class="accordion_cat">
+<summary>振り返って書いたもの（押すと開く）</summary>
+<div>pets
+<div>
+<h4 style="text-align: left;">◆ナイトが自分でストンスキンできたので、MTが痛いシーンで自分で軽減をつけられた。</h4>
+<p>レイヴンなんとかの強攻撃に合わせてストンスキン便利すぎる。</p>
+<h4 style="text-align: left;">◆スタートからのフェーズでネール中央配置なのは遠隔近接誰が隕石になっても捨てやすいようにだったはず。（2時や10時は近接用に空けてたんじゃないかな）</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆履行後のネール着地を天地崩壊の待機位置に落としてた。</h4>
+<p>こうしている理由は「天地崩壊待ちの間にふっとばしで死ぬことを気にせずに近接も殴り続けられる。」だったはず。</p>
+<h4 style="text-align: left;">◆召喚はDoT師だった。</h4>
+<p>DoTをばらまくアビリティがあったので雑魚フェーズでは「一度ネールに近づける → DoTばらまきでネールと雑魚にDoT付与 → 遠くで倒す」という動きをしていた。</p>
+<h4 style="text-align: left;">◆学者も設置型DoT（青いドーム）が置けた。</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆TP（スタミナ）の概念があった。</h4>
+<p>TPは攻撃アクションをする時消費する。殴り系のMPみたいなもの。<br>スプリントをするとがっつり減る。<br>TPがないとオートアタックしかできなかったような？</p>
+<p>詩人がTP回復できたような気がする？MP回復もあったような？記憶が混ざってるかも。</p>
+<h4 style="text-align: left;">◆ヒーラーにもスタンスがあった。攻撃／回復切り替え。</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆タンクのスタンスも「タンク用」と「攻撃用」があった。戦士の攻撃スタンスが攻撃つよかった気がする。</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆龍神フェーズで私の記憶では「緑マーカー（１）捨て位置に寄せて戦う」というやり方だった気がしてたけど動画はそんなことないねｗ</h4>
+<p>※予め寄って戦うことで「最寄りの外周が捨て位置」という認識にして捨てやすくしてた気がするけどうろ覚え。</p>
+<h4 style="text-align: left;">◆フィールドマーカーは3つしか置けなかった。</h4>
+<p>2番＝天地崩壊の目安だけど、「延長線上の外周が2時」という意味があった。</p>
+<p>3番＝7時方面の捨て位置。2時と4時は柱を目安にすればいいのだけど、7時だけ柱位置と違う場所に捨てるのが一番安全だったので、場所がわかるように7時マーカーを置いてた…と記憶してる。</p>
+<p>1番＝カータ2回目の捨て位置目安であると同時に、1番マーカー外周と北の竜をチェックすればパターン判定ができるってやりかただった気がする。（その2匹ならカメラを回す手間なく両方視認しやすい……とかだった気がします）</p>
+<h4 style="text-align: left;">◆その他</h4>
+<p>・wait使ったマクロでタイムラインを流してた。（見てられないから役に立ってたのかは不明）<br>・ボイスチャットは使ってなかった（普及してなかった）。<br>・固定の予定日はロドスト日記で調整／告知してた。</p>
+<div>&nbsp;</div>
+</div>
+</div>
+</details>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>絶アレキちゃん　－完－</title>
+		<link>./../../../2023-07-10/%e7%b5%b6%e3%82%a2%e3%83%ac%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93%e3%80%80%ef%bc%8d%e5%ae%8c%ef%bc%8d/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 10 Jul 2023 07:50:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<category><![CDATA[絶アレキサンダー]]></category>
+		<guid isPermaLink="false">./../../../2023-07-10/%e7%b5%b6%e3%82%a2%e3%83%ac%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93%e3%80%80%ef%bc%8d%e5%ae%8c%ef%bc%8d/index.html</guid>
+
+					<description><![CDATA[&#160;内容 2023-03-04(土)～2023-07-09(日)　※土日&#8230;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;内容</p>
+<p style="text-align: left;">
+<ul style="text-align: left;">
+<li>2023-03-04(土)～2023-07-09(日)　<br />※土日月の週３で曜日固定<br />※メンバー集めは2022年11月くらいからしてた気がする。</li>
+<li>計66.1時間（クリア＋消化12周）</li>
+<li>クリア時間：45.6時間くらい</li>
+<li>暗ナ白学モ竜機召</li>
+<li>とった戦術</li>
+<ul>
+<li>リキッド：ぬけまる</li>
+<li>サイコロ：１２１１</li>
+<li>２体：ぬけまる</li>
+<li>プライム：みんとっと（断絶リリティア）</li>
+<li>パレキ：みんとっと</li>
+</ul>
+</ul>
+<p><span><a name='more'></a></span></p>
+<div>毎回めっちゃ笑ってめっちゃ楽しかったけど全然内容覚えていない。<br />集まって一緒してくれてありがとー！<br />また10年後に！（？）</div>
+<div></div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgud_5536GBdVgUwiQPMeNJVmhGIU-tKlUd9L-Cwc54e27Qt3ZvhOU5qra3IsBNClybZk1T_qatDQggblGoQg-OkVfsR2nUAwfPFQ3we8dBZneAGg1mGPArRwTjvFwtckY57wfv7toXPNSA2YQB7RC7ZMExTmdVEPayEiaJR4AqiDHJmdF3XMMQIvYBqz1X/s1920/ffxiv_20230709_231804_513.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgud_5536GBdVgUwiQPMeNJVmhGIU-tKlUd9L-Cwc54e27Qt3ZvhOU5qra3IsBNClybZk1T_qatDQggblGoQg-OkVfsR2nUAwfPFQ3we8dBZneAGg1mGPArRwTjvFwtckY57wfv7toXPNSA2YQB7RC7ZMExTmdVEPayEiaJR4AqiDHJmdF3XMMQIvYBqz1X/s320/ffxiv_20230709_231804_513.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid2R2gG5GKBJij4IhPTfRM3HjLCLjhpsSu-8k_YYudhRf6QerlYyaLkUK6GCxqvYK_DeU9UPJYUtuxqcy3SEGTP9Ni1XgM3y_mxUmHK-sr70DeNm3YZ7-tPfa_Oht-F8FZ5l6PFyUtbXrfEtSwB5F5GvFruzeqMqnizudx38wxf9w7dTYHLlwZ-GEuqNIp/s1920/ffxiv_20230709_231825_336.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid2R2gG5GKBJij4IhPTfRM3HjLCLjhpsSu-8k_YYudhRf6QerlYyaLkUK6GCxqvYK_DeU9UPJYUtuxqcy3SEGTP9Ni1XgM3y_mxUmHK-sr70DeNm3YZ7-tPfa_Oht-F8FZ5l6PFyUtbXrfEtSwB5F5GvFruzeqMqnizudx38wxf9w7dTYHLlwZ-GEuqNIp/s320/ffxiv_20230709_231825_336.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZBHl784Z8w89QjVJe-JxCg3yS57fOm_KlzF96XeD231KT1v6eS76qILegoY4TIr63Bo_Kv_9XImBp5YQUJZFTxtZ3uME6fEEB9LpdoOapdY-eukpw2G_CyxRwe5MR6Ia9WWn3BDuQDM8MfuYtoNwvuGRePRY199DjWEwjc9J9W-3ibho-bKep4ArVEfF/s1920/ffxiv_20230709_231850_392.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZBHl784Z8w89QjVJe-JxCg3yS57fOm_KlzF96XeD231KT1v6eS76qILegoY4TIr63Bo_Kv_9XImBp5YQUJZFTxtZ3uME6fEEB9LpdoOapdY-eukpw2G_CyxRwe5MR6Ia9WWn3BDuQDM8MfuYtoNwvuGRePRY199DjWEwjc9J9W-3ibho-bKep4ArVEfF/s320/ffxiv_20230709_231850_392.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVJuDBPEy0_DfdxBA5GuknErrjAybluTGlrzSr-kQmwv3PvQxb7ln-sX_c8XXJCNCbAeh1Ib1Pm8K2JAq9pIqrhFKr9Rit1OGdSA17SigWEhpAfe0OTaobLjLH9fCylGfR_GmzbNOZQIBoyR4SEPHWJBwlCxrdB_sMXe15mHG0yDeCpBBdJ_Ig7wx4pemg/s1920/ffxiv_20230709_231858_104.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVJuDBPEy0_DfdxBA5GuknErrjAybluTGlrzSr-kQmwv3PvQxb7ln-sX_c8XXJCNCbAeh1Ib1Pm8K2JAq9pIqrhFKr9Rit1OGdSA17SigWEhpAfe0OTaobLjLH9fCylGfR_GmzbNOZQIBoyR4SEPHWJBwlCxrdB_sMXe15mHG0yDeCpBBdJ_Ig7wx4pemg/s320/ffxiv_20230709_231858_104.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4efDDQEdam4hQkKHA5IWSKOqncULrPmzBenwLbnH2acMwPo4HE5xlzn-QrRe1ku7DdeLndJqvvJzyvIC7Sj1tUr9RLvwxnY2I0qZFBdeoZVv7NuCmT95zTPYjd0q0nrgJt4BivHzlzHrwBUIhwoG9KoqeJ0NxalmaRiMGkU2USFawLfA7E84ZqsmxGTOR/s1920/ffxiv_20230709_231915_106.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4efDDQEdam4hQkKHA5IWSKOqncULrPmzBenwLbnH2acMwPo4HE5xlzn-QrRe1ku7DdeLndJqvvJzyvIC7Sj1tUr9RLvwxnY2I0qZFBdeoZVv7NuCmT95zTPYjd0q0nrgJt4BivHzlzHrwBUIhwoG9KoqeJ0NxalmaRiMGkU2USFawLfA7E84ZqsmxGTOR/s320/ffxiv_20230709_231915_106.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5q_t8HTQaV5WBJl_GI8H7fwVdKniP3K3odR4nLnUXd7_we_5jXnXxv4_kvPCEBWzf-Il5JaB6TII1KtF7ujHvZMC9sGpclu4SgBVw1l2ldvQEvHjcY_HB-Oim3RCG3_AqpbP55MgKK_INvuZdChGp6nn-SOG8Km-XNyWpFPZN5nNfrT14Om8_EZNkCSUE/s1920/ffxiv_20230709_231927_621.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5q_t8HTQaV5WBJl_GI8H7fwVdKniP3K3odR4nLnUXd7_we_5jXnXxv4_kvPCEBWzf-Il5JaB6TII1KtF7ujHvZMC9sGpclu4SgBVw1l2ldvQEvHjcY_HB-Oim3RCG3_AqpbP55MgKK_INvuZdChGp6nn-SOG8Km-XNyWpFPZN5nNfrT14Om8_EZNkCSUE/s320/ffxiv_20230709_231927_621.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIeR1NLUjkf6jP_kkRUwSShOEHUc1xi9Nc_zUGQK26-7M6b2g8nT4VR7SxsB9_ZHWAnnAOJ9C0TeZIiAX5QMeOf09LZBzrXCE9R5x8Dr6w_gMEHDZEdcSP-mx7oPg3DMxrbOe2vkxTytYPi0cpAB2QzWgWpNFBcQ7LJMr1pPiGQgnHkDdkzmFOS9LCg7Mf/s1920/ffxiv_20230709_231948_191.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIeR1NLUjkf6jP_kkRUwSShOEHUc1xi9Nc_zUGQK26-7M6b2g8nT4VR7SxsB9_ZHWAnnAOJ9C0TeZIiAX5QMeOf09LZBzrXCE9R5x8Dr6w_gMEHDZEdcSP-mx7oPg3DMxrbOe2vkxTytYPi0cpAB2QzWgWpNFBcQ7LJMr1pPiGQgnHkDdkzmFOS9LCg7Mf/s320/ffxiv_20230709_231948_191.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9eWRTfh6eTzdW5zNc219lCIyx3cr3-MXEcJnclwMm56uUNE27qiarIQNXnqdyhbS3PLWWyxt5j0R8jY9CIC4u4TObRKUvv6vzubpkB8Fg-yuGKDsUGsaV6W7n3ivmfjLHIxGNQerNCeJdFxwaXnLW__2X4-beUKjF3mY44H4yR7Kdtd4EcglL-tJ2WGNX/s1920/ffxiv_20230709_231957_669.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9eWRTfh6eTzdW5zNc219lCIyx3cr3-MXEcJnclwMm56uUNE27qiarIQNXnqdyhbS3PLWWyxt5j0R8jY9CIC4u4TObRKUvv6vzubpkB8Fg-yuGKDsUGsaV6W7n3ivmfjLHIxGNQerNCeJdFxwaXnLW__2X4-beUKjF3mY44H4yR7Kdtd4EcglL-tJ2WGNX/s320/ffxiv_20230709_231957_669.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfkIMKXDk7J_1i9WEOlFFMulADpA7L8-pKNIJN60yWScrRUWXJdklvQzGHY4KK2dm9KKlKKR1KOp2lQTCKHdNgaoXKl3VF1bG6h7VDdvMv0MA8VL1LPJ_s3TsIfbClQ5W7KTwnjc9juEGm70UsbggdaMiZiNPXlQEd2cv-uMbqAh7n_LQdGympRyqatcgL/s1920/ffxiv_20230709_234118_949.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfkIMKXDk7J_1i9WEOlFFMulADpA7L8-pKNIJN60yWScrRUWXJdklvQzGHY4KK2dm9KKlKKR1KOp2lQTCKHdNgaoXKl3VF1bG6h7VDdvMv0MA8VL1LPJ_s3TsIfbClQ5W7KTwnjc9juEGm70UsbggdaMiZiNPXlQEd2cv-uMbqAh7n_LQdGympRyqatcgL/s320/ffxiv_20230709_234118_949.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapZZJD7paDqFAYNb3_mu-JTIp8Dc-vyzg0VGKLwb0J3BqliEIFmJTwMsukSCt5i_XSlw-ULJxvLAe_d6mGKY78zq_FhP-1e6Sn7_fQ9BhLduyrRSRY1AB6ZDjVKhssQ8U0hgd-uUVlZKkF_1R27lnjiF8U5LfBmcwF-O9EA9y4gXB0qN58F4QuhjH7m37/s1920/ffxiv_20230709_234132_115.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgapZZJD7paDqFAYNb3_mu-JTIp8Dc-vyzg0VGKLwb0J3BqliEIFmJTwMsukSCt5i_XSlw-ULJxvLAe_d6mGKY78zq_FhP-1e6Sn7_fQ9BhLduyrRSRY1AB6ZDjVKhssQ8U0hgd-uUVlZKkF_1R27lnjiF8U5LfBmcwF-O9EA9y4gXB0qN58F4QuhjH7m37/s320/ffxiv_20230709_234132_115.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsEJUlKbSLnp3_DYgcA6ayvtv0dDP4nkEE-hWklJkRmGx06zFLwejj35EQ7GN665Zel3dVJTODN77aHcp3Wfv3QCWAibHFAkC40zgbIQHHsu93RZcSakd9sCuYGU2vnDlmV6-IEvVRlqjnHKSUVZ_1wgxQtaQCvQNKSmQ6M5qaAJGBtoRWRfxWqNcfKyTc/s1920/ffxiv_20230709_234141_559.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsEJUlKbSLnp3_DYgcA6ayvtv0dDP4nkEE-hWklJkRmGx06zFLwejj35EQ7GN665Zel3dVJTODN77aHcp3Wfv3QCWAibHFAkC40zgbIQHHsu93RZcSakd9sCuYGU2vnDlmV6-IEvVRlqjnHKSUVZ_1wgxQtaQCvQNKSmQ6M5qaAJGBtoRWRfxWqNcfKyTc/s320/ffxiv_20230709_234141_559.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-U7lYVj4bMGN5r6MtI6AGwWH-d6idvWn_msdoCvU9baY0-qozfKksTQbDSSJqjieagArG8DOvaCngyyQFz1btCO2-Uyx_xLrnfhlmbEhkAGMTtJEVLoYCxtngKucsXM5T5CKumR2S0JDBeeGmjvyvODtvuKjh8_8O-8Ms_rRTpVzZNWrGIl1WwFvuZzVk/s1920/ffxiv_20230709_234151_222.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-U7lYVj4bMGN5r6MtI6AGwWH-d6idvWn_msdoCvU9baY0-qozfKksTQbDSSJqjieagArG8DOvaCngyyQFz1btCO2-Uyx_xLrnfhlmbEhkAGMTtJEVLoYCxtngKucsXM5T5CKumR2S0JDBeeGmjvyvODtvuKjh8_8O-8Ms_rRTpVzZNWrGIl1WwFvuZzVk/s320/ffxiv_20230709_234151_222.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Glz5nxae44uqikq9HC5frV8o1En6FHhUv8hG8zmBlYZ6VTOX9yicPuLBaGFIXsyxvMI22gjmrwjKb7hGeMQ1tdCk8yYMDY78WCWphxtjsUlTfbAcVwxagK6iFrQq_p_Gxz7LYFczz63JSYRyGV3UUCjAGG955wle4YJQX2gh7m9EMt3Vuz56LvXPah_M/s1920/ffxiv_20230709_234202_849.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Glz5nxae44uqikq9HC5frV8o1En6FHhUv8hG8zmBlYZ6VTOX9yicPuLBaGFIXsyxvMI22gjmrwjKb7hGeMQ1tdCk8yYMDY78WCWphxtjsUlTfbAcVwxagK6iFrQq_p_Gxz7LYFczz63JSYRyGV3UUCjAGG955wle4YJQX2gh7m9EMt3Vuz56LvXPah_M/s320/ffxiv_20230709_234202_849.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzFD5iPnqom5I97maCyNQ_8yguEYlL_stZeZgMzamB0MOeHamI1XJv7CR_WHsjO1r0p4XhyAHcXtvOGgntgmQwL36RZlqmA0y0YEcHyXyN5wx-GWp_ZBqvK7AZcxlHK3rGWYrGR98nI_jHCOYsrW5NshtmyZZMAJW3ASgRp0Kt2lcA8uEUMFlSmBwGVWMB/s1920/ffxiv_20230709_234210_544.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzFD5iPnqom5I97maCyNQ_8yguEYlL_stZeZgMzamB0MOeHamI1XJv7CR_WHsjO1r0p4XhyAHcXtvOGgntgmQwL36RZlqmA0y0YEcHyXyN5wx-GWp_ZBqvK7AZcxlHK3rGWYrGR98nI_jHCOYsrW5NshtmyZZMAJW3ASgRp0Kt2lcA8uEUMFlSmBwGVWMB/s320/ffxiv_20230709_234210_544.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkS_y6yFwGEt-tSfCtorgFRRnT5CJDMNwZc3fDA_UwtmO78nSUSaH3ByG23Cq8FoXpoMYN9NqGziDMfovEc0K9-8wvu6e58C95KtlXMAZwa_SvV0PioqKCWodu4vrBpNvWaxT3O-iwWbjsmy8cGMaf1im7KgUY2JQ1P5-wZAhDc4bGqsGJbQXZbtqXdtdC/s1920/ffxiv_20230709_234225_241.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkS_y6yFwGEt-tSfCtorgFRRnT5CJDMNwZc3fDA_UwtmO78nSUSaH3ByG23Cq8FoXpoMYN9NqGziDMfovEc0K9-8wvu6e58C95KtlXMAZwa_SvV0PioqKCWodu4vrBpNvWaxT3O-iwWbjsmy8cGMaf1im7KgUY2JQ1P5-wZAhDc4bGqsGJbQXZbtqXdtdC/s320/ffxiv_20230709_234225_241.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1hue6f5njtplBZm5qo8JYqUbMxn5cSpkyam1dXlCgTCZfVEimH64YoBDkQTvUC8EMm9jqx0oQ91JonFY5oeQ7weidI8ZGBZUeq-O0yum2dVAhC95QO_2_6kIuL7iZwnHGRcaLEgtQ86INAY1_G1YlfP84SOK1t2NOU6mp9-QtHJ1OFjCsX0c91Tz1EDM/s1920/ffxiv_20230709_234235_129.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1hue6f5njtplBZm5qo8JYqUbMxn5cSpkyam1dXlCgTCZfVEimH64YoBDkQTvUC8EMm9jqx0oQ91JonFY5oeQ7weidI8ZGBZUeq-O0yum2dVAhC95QO_2_6kIuL7iZwnHGRcaLEgtQ86INAY1_G1YlfP84SOK1t2NOU6mp9-QtHJ1OFjCsX0c91Tz1EDM/s320/ffxiv_20230709_234235_129.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt75_nWc2Sb41m_cBs8-yCjIK_yk6mBeaDJ8HFGgUTSMPS8IC-l-I0fELJGgFWJXscdR_UDSPAHWL-PZGj-3FzWLcbRQ1fZ9jmRWxL_SuD41zlLu_6n4uKsu3IwTVeSZkaX2IKdng9RaeKKJwAMdq3WKd1-3vdTsf4HpB3D9W5yaQvbU-vH1qr5N19wfqi/s1920/ffxiv_20230709_232651_081.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt75_nWc2Sb41m_cBs8-yCjIK_yk6mBeaDJ8HFGgUTSMPS8IC-l-I0fELJGgFWJXscdR_UDSPAHWL-PZGj-3FzWLcbRQ1fZ9jmRWxL_SuD41zlLu_6n4uKsu3IwTVeSZkaX2IKdng9RaeKKJwAMdq3WKd1-3vdTsf4HpB3D9W5yaQvbU-vH1qr5N19wfqi/s320/ffxiv_20230709_232651_081.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSKt-aPnZEx1fYavnK7Ua26AEsPZQ47AVhpqDu0rSpE6NqC1FiVy_rmUAU2GKvYQtGjCmTlb-8h8DBRrn0xup4TuIjatLXJibFd7Bqf4IFPaIlyrmfT7PM2R5SlWRBmqbcSemEqiLpNTklzjuWXLuCHtrwyPfA9IHvOnDV5kEJsUmKNWF0RJnIgvtqEPV1/s1920/ffxiv_20230709_232700_717.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSKt-aPnZEx1fYavnK7Ua26AEsPZQ47AVhpqDu0rSpE6NqC1FiVy_rmUAU2GKvYQtGjCmTlb-8h8DBRrn0xup4TuIjatLXJibFd7Bqf4IFPaIlyrmfT7PM2R5SlWRBmqbcSemEqiLpNTklzjuWXLuCHtrwyPfA9IHvOnDV5kEJsUmKNWF0RJnIgvtqEPV1/s320/ffxiv_20230709_232700_717.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjNRZlY7Qcs9oRQq2Dc1wCJHYoEEdu27QfGMWAiJ6oX4iUfeQe04eq5swEBIKOdlLSi_u8DxylbbhvVimleGDU5kfyVVXuuy4amW-GUR93WhS8baP8S6Z_pVKGgyUvqcRmMZJ55vLiJr4kQ9349uZWExzgToC2ENNkCMcmOxqspwXsl23V8GstQAKIGKPr/s1920/ffxiv_20230709_232708_280.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjNRZlY7Qcs9oRQq2Dc1wCJHYoEEdu27QfGMWAiJ6oX4iUfeQe04eq5swEBIKOdlLSi_u8DxylbbhvVimleGDU5kfyVVXuuy4amW-GUR93WhS8baP8S6Z_pVKGgyUvqcRmMZJ55vLiJr4kQ9349uZWExzgToC2ENNkCMcmOxqspwXsl23V8GstQAKIGKPr/s320/ffxiv_20230709_232708_280.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxiM6hYANxlUojzY53Vrdl45jPo8idaAIBKL4K6AXkllSsza9F-u-Do4vnC0QvImmmf3r3kKvsgzWiHNTxt6ZEFFGbKcm5YEKGhbuBvet_29IDNVxNChTihlRCjhEJQ1IDvBdFDxHDfw8mPYxbsRuwk2JSH26QvaqmyIfszK6fZcX70xBkD08n24BGV6q/s1920/ffxiv_20230709_232720_600.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxiM6hYANxlUojzY53Vrdl45jPo8idaAIBKL4K6AXkllSsza9F-u-Do4vnC0QvImmmf3r3kKvsgzWiHNTxt6ZEFFGbKcm5YEKGhbuBvet_29IDNVxNChTihlRCjhEJQ1IDvBdFDxHDfw8mPYxbsRuwk2JSH26QvaqmyIfszK6fZcX70xBkD08n24BGV6q/s320/ffxiv_20230709_232720_600.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlNrK8IxmG_G0wo8fFQ1l0OTZugJcgNipbc19u5O9R4ARabuD3Ul-g31A8FPfI6r45Pnhzsfa9CuCvW9IKWxF44KLFPh7rd4g00qq9WQNh4gfuDx-_FLoO8MBTEq2rI1EWTPuy8WX0vdzteKnZCNuluLJFSnpvk4Rqrt8lcgSdGK2keMMDb5MXoM-IeVf/s1920/ffxiv_20230709_232334_590.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlNrK8IxmG_G0wo8fFQ1l0OTZugJcgNipbc19u5O9R4ARabuD3Ul-g31A8FPfI6r45Pnhzsfa9CuCvW9IKWxF44KLFPh7rd4g00qq9WQNh4gfuDx-_FLoO8MBTEq2rI1EWTPuy8WX0vdzteKnZCNuluLJFSnpvk4Rqrt8lcgSdGK2keMMDb5MXoM-IeVf/s320/ffxiv_20230709_232334_590.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYP8l56mzW4C-zbGpaEDY-1FHZcF_AgE9z-MnQWpgd7f00rU_Dni0-6vR3A5g4c-Sc6uVQdm2n-dcMYP0VQXRZeLZnlj3c8Cyr-OwdGmlSzRBfh2jJNVtf6PH4U7C9Ggq6iUbaNmM852n_KzbFa9wBuMnmYDw_dFbnSNfHH4VsjB0Zhss5ZCyK--4VVtlQ/s1920/ffxiv_20230709_232412_338.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYP8l56mzW4C-zbGpaEDY-1FHZcF_AgE9z-MnQWpgd7f00rU_Dni0-6vR3A5g4c-Sc6uVQdm2n-dcMYP0VQXRZeLZnlj3c8Cyr-OwdGmlSzRBfh2jJNVtf6PH4U7C9Ggq6iUbaNmM852n_KzbFa9wBuMnmYDw_dFbnSNfHH4VsjB0Zhss5ZCyK--4VVtlQ/s320/ffxiv_20230709_232412_338.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGWExB0Ex525GQRKmVLUTzUof2f8UQFajQnrAxE1XmpkdHQkdqA1OXykd9wiFMJcxUAnDVdgNeZ1I7oUSRwPFoD6VwwquBP6cVnR_IKTfh853KiirlDPyBqM_Bl4yqkLMYsRzoDak7U_jrpHktF_SEDBSeqTmpGZT9d3EkIoDFvzdt7ZSQw4fcFaIa8_rt/s1920/ffxiv_20230709_234043_571.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGWExB0Ex525GQRKmVLUTzUof2f8UQFajQnrAxE1XmpkdHQkdqA1OXykd9wiFMJcxUAnDVdgNeZ1I7oUSRwPFoD6VwwquBP6cVnR_IKTfh853KiirlDPyBqM_Bl4yqkLMYsRzoDak7U_jrpHktF_SEDBSeqTmpGZT9d3EkIoDFvzdt7ZSQw4fcFaIa8_rt/s320/ffxiv_20230709_234043_571.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-CZwQC6cL81GGgIi67T3azYPlSisz4_4LM9UVPixrFb6_RtljXYefonDhNWvPRylzjpodxcJtKxFaD6ilm-LLkLz5C-QImPzHx7nr7AhbnoLes6PsIygsXXUnbvxA229fKiiZ2dLToBWlaGTvNx2r1HjjwY7MzVFW1ldRwKcJBWsaMvCxLWTSTKY5Lscy/s773/ffxiv_20230709_224820_966_copy.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="773" data-original-width="736" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-CZwQC6cL81GGgIi67T3azYPlSisz4_4LM9UVPixrFb6_RtljXYefonDhNWvPRylzjpodxcJtKxFaD6ilm-LLkLz5C-QImPzHx7nr7AhbnoLes6PsIygsXXUnbvxA229fKiiZ2dLToBWlaGTvNx2r1HjjwY7MzVFW1ldRwKcJBWsaMvCxLWTSTKY5Lscy/s320/ffxiv_20230709_224820_966_copy.png" width="305" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUdNHOLiIM9iRm99CGx55jDVWatCSub36uuP_UODzUoA3TldHWC-f0omh5pnvSQ6hFQ7Z4ySxNNl3TmjMi8W70e4IhD-lSJXiPDS0yuxaJE715JlJqJDye-15xOF7L9UVa34Uap7n2XYuyKTlQ9mr_KisdUBnHTZ_4WgRfgf7SXOdZxl8s0A-FD77eqguK/s1920/ffxiv_20230709_224654_022.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUdNHOLiIM9iRm99CGx55jDVWatCSub36uuP_UODzUoA3TldHWC-f0omh5pnvSQ6hFQ7Z4ySxNNl3TmjMi8W70e4IhD-lSJXiPDS0yuxaJE715JlJqJDye-15xOF7L9UVa34Uap7n2XYuyKTlQ9mr_KisdUBnHTZ_4WgRfgf7SXOdZxl8s0A-FD77eqguK/s320/ffxiv_20230709_224654_022.png" width="320" /></a></div>
+<p></p>
+<div></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FF14：1年タイムラプス</title>
+		<link>./../../../2023-05-06/ff14%ef%bc%9a1%e5%b9%b4%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%a9%e3%83%97%e3%82%b9/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sat, 06 May 2023 00:16:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2023-05-06/ff14%ef%bc%9a1%e5%b9%b4%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%a9%e3%83%97%e3%82%b9/index.html</guid>
+
+					<description><![CDATA[2022年&#160; 2021年 2020年 2019年 2018年 2017&#8230;]]></description>
+										<content:encoded><![CDATA[<p>2022年&nbsp;</p>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK0C3q0oGEs3ta9cyDlPkvrmLLSu1Fe6LI30YV-1o62KLQJq9IrA7y_Jd4xHWo2XYulmjXJtnT1ObNR3li1TH2DrEdK3Mg-NOqmoj_FE4ltSxABeB2wRgS8sg_YPbHEENthj5nlJ5hDJOPO9QYWIo8nPSqHWtncGIpde0fE_44Dn3wv7BXepEGA0Nqxw/s1920/ffxiv_20220511_230946_821.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK0C3q0oGEs3ta9cyDlPkvrmLLSu1Fe6LI30YV-1o62KLQJq9IrA7y_Jd4xHWo2XYulmjXJtnT1ObNR3li1TH2DrEdK3Mg-NOqmoj_FE4ltSxABeB2wRgS8sg_YPbHEENthj5nlJ5hDJOPO9QYWIo8nPSqHWtncGIpde0fE_44Dn3wv7BXepEGA0Nqxw/s320/ffxiv_20220511_230946_821.png" width="320" /></a><span><a name='more'></a></span></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHaVefLuad9m02Fl2laqjezC11ZxvaoL2r7etyBjqPZkvhi9AQN2szEVOHN941D99v-lM_0Db3ZsMMhoAaew1LBEKddjUitrgD4Ydx6PMrYLek-IagtWu24j_qGtfKL5bGEiWWYbR-gtayaMozWtyfdXAIRuA1aAPSeeAZb7qweIqHHrGEvm1fTZGxGg/s1920/ffxiv_20220511_230920_087.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHaVefLuad9m02Fl2laqjezC11ZxvaoL2r7etyBjqPZkvhi9AQN2szEVOHN941D99v-lM_0Db3ZsMMhoAaew1LBEKddjUitrgD4Ydx6PMrYLek-IagtWu24j_qGtfKL5bGEiWWYbR-gtayaMozWtyfdXAIRuA1aAPSeeAZb7qweIqHHrGEvm1fTZGxGg/s320/ffxiv_20220511_230920_087.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhINNmb87uR7gFnSyctdA4tMGl2RH5cV4erWMJqFmTx-0ybxYCcc59FbPyFhopBs_bCUJ1pM05BD9aH2gxXEkvA1SAKwmDDB-Fc8Zt-bJvKiNLMLr7cGU706oCNQesrVMSknN8grtunmvw3kBbQULsqygGkUy3wQ19Jmv3aZPTe4VjTLHH3tNbfRv1aAg/s1920/ffxiv_20220511_225550_723.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhINNmb87uR7gFnSyctdA4tMGl2RH5cV4erWMJqFmTx-0ybxYCcc59FbPyFhopBs_bCUJ1pM05BD9aH2gxXEkvA1SAKwmDDB-Fc8Zt-bJvKiNLMLr7cGU706oCNQesrVMSknN8grtunmvw3kBbQULsqygGkUy3wQ19Jmv3aZPTe4VjTLHH3tNbfRv1aAg/s320/ffxiv_20220511_225550_723.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjm18Nm4Jkc13a5QNgvgMTDVB5biSaqWTixOrwmRnXOmL2DghpbqdCfyKOyDgWviYYVu0JqDrAZZu_d7kVaoBWS3MfMLTxS7aKgcRGcuiAXYn4a_O-sffzOquEfxub1inO-AwmYC8p5aHC07N_McQkFPpnDuYb9jbYUtFrQ9yZz6gXHkp52EzMp-XEOg/s4032/IMG_5213.HEIC" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="3024" data-original-width="4032" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjm18Nm4Jkc13a5QNgvgMTDVB5biSaqWTixOrwmRnXOmL2DghpbqdCfyKOyDgWviYYVu0JqDrAZZu_d7kVaoBWS3MfMLTxS7aKgcRGcuiAXYn4a_O-sffzOquEfxub1inO-AwmYC8p5aHC07N_McQkFPpnDuYb9jbYUtFrQ9yZz6gXHkp52EzMp-XEOg/s320/IMG_5213.HEIC" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr2KcAu73pzREIMOv0bKtaKEpsWiGwoJUgxE-g7LdcI2tTqyeRvT-_9_MYxvPqU26tw7ys0IEEk8LPxC6JgHjPD4FuYjD0tXRMAIrWl7vvyFjqZMu_f3Whsl6XwPBYfq-aQWq0NzGXoKQCpG2GLmU9_BUElH1O11-vSCQTkU9DlLrcZldTqouH9l_HHw/s1920/ffxiv_20220508_000315_805.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr2KcAu73pzREIMOv0bKtaKEpsWiGwoJUgxE-g7LdcI2tTqyeRvT-_9_MYxvPqU26tw7ys0IEEk8LPxC6JgHjPD4FuYjD0tXRMAIrWl7vvyFjqZMu_f3Whsl6XwPBYfq-aQWq0NzGXoKQCpG2GLmU9_BUElH1O11-vSCQTkU9DlLrcZldTqouH9l_HHw/s320/ffxiv_20220508_000315_805.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbe3YfAeRSyexxjnY7c37axYHfK4OQvwmFuwyexB78opoZXzWH--bto7Nuc5v9d9OLNcON8D6URm2q3aTWhqnFTwHL98AqC765fqrK1SmO9rp7EjgsS9niRiMMJSVJpzu5HHfMRLuWPjc18n5xPyHidw6mOlRyGfCvfZr0ZbxeisnpiRoPXLOUsh9Ndw/s1920/ffxiv_20220508_000227_926.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbe3YfAeRSyexxjnY7c37axYHfK4OQvwmFuwyexB78opoZXzWH--bto7Nuc5v9d9OLNcON8D6URm2q3aTWhqnFTwHL98AqC765fqrK1SmO9rp7EjgsS9niRiMMJSVJpzu5HHfMRLuWPjc18n5xPyHidw6mOlRyGfCvfZr0ZbxeisnpiRoPXLOUsh9Ndw/s320/ffxiv_20220508_000227_926.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUhUa6kOVSuj8BxDmqMw45iFSGklLJbXvcUPfCf-jC8QvE-PVZojhTn7LlgGCQbnpEp29Jnd1PpDFdXUr1V2zGbOkrqQiSIS3gW23sMlG4twJyhfh-BiQ7Mm4fYoJwEQI8layGVDFUir2U55mA1KTb7y65oqZcXhA5LHwouY55fURZLVLskUTotphkQA/s1920/ffxiv_20220507_233338_766.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUhUa6kOVSuj8BxDmqMw45iFSGklLJbXvcUPfCf-jC8QvE-PVZojhTn7LlgGCQbnpEp29Jnd1PpDFdXUr1V2zGbOkrqQiSIS3gW23sMlG4twJyhfh-BiQ7Mm4fYoJwEQI8layGVDFUir2U55mA1KTb7y65oqZcXhA5LHwouY55fURZLVLskUTotphkQA/s320/ffxiv_20220507_233338_766.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xqe5KNa2X7URKlHHJRBYQZq3v6TefQhE4tCKXgd5GH8BhP8bQ65tq6NP5vTeOdO9LN6yAqhA9PugONseOdRlzACoDCO9jU6d0_ZgcUPAz92ICpZdT77q-1lx1FSBWDDttJewFYqFTAx-c4jjsAjfJW9JryNY7VZi7_dDzUmcgCAJVmCgnu9TBRquJA/s1920/ffxiv_20220503_235624_118.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Xqe5KNa2X7URKlHHJRBYQZq3v6TefQhE4tCKXgd5GH8BhP8bQ65tq6NP5vTeOdO9LN6yAqhA9PugONseOdRlzACoDCO9jU6d0_ZgcUPAz92ICpZdT77q-1lx1FSBWDDttJewFYqFTAx-c4jjsAjfJW9JryNY7VZi7_dDzUmcgCAJVmCgnu9TBRquJA/s320/ffxiv_20220503_235624_118.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQh13IY0s9TzaXnX775zP1cvX2OnFk5pL2ekQFLCeckdSL1uACoE_vYZmdE5Ue58NfjP_QJYJnrL8BS3DyfVambDu1OF2MhfZwQAV0BEM1p04mU0FnZ8Znig0HEV1-GF8f9tXpsOLvvf8W5RnhEXvelATfsaBded-f3JXSn48uEDZw7TP3fZJd4hJfhg/s1920/ffxiv_20220503_235255_172.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQh13IY0s9TzaXnX775zP1cvX2OnFk5pL2ekQFLCeckdSL1uACoE_vYZmdE5Ue58NfjP_QJYJnrL8BS3DyfVambDu1OF2MhfZwQAV0BEM1p04mU0FnZ8Znig0HEV1-GF8f9tXpsOLvvf8W5RnhEXvelATfsaBded-f3JXSn48uEDZw7TP3fZJd4hJfhg/s320/ffxiv_20220503_235255_172.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrs2QtxzppP-Of4P94hMMxoATIPb6pAt8asSzHJbzgHXW0sMirkZ9YnlJ_CKuL0Up7_UIPAA6ohVKtvHVwxNnif5T9ZTOxF5MTrVPE5dL815niWYutFlXQYW8AY5WwxC-PS2wxo6QqZxwbxRLEX473lptgHNJr_sgI_S2M71I1-vJfYxnd1SAxLDcF5A/s1920/ffxiv_20220503_235113_244.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrs2QtxzppP-Of4P94hMMxoATIPb6pAt8asSzHJbzgHXW0sMirkZ9YnlJ_CKuL0Up7_UIPAA6ohVKtvHVwxNnif5T9ZTOxF5MTrVPE5dL815niWYutFlXQYW8AY5WwxC-PS2wxo6QqZxwbxRLEX473lptgHNJr_sgI_S2M71I1-vJfYxnd1SAxLDcF5A/s320/ffxiv_20220503_235113_244.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6EALmcvHYVM1VxiVH9jbsfKVUOcTZTTmk_OCMQrFMPpvxeU4_5dm4a_HzointZvZwVQQVB_sA5-sh-cG5ffawWhc9A41umaGzAb36Y1o0DBYY5xwsyYX7mx5N2abiMJ-KBOX6AXAAyA3o_mk2UuHdfKD60iXFf-Rv6iB5UR8S5lFtcdA3UnVD60T13w/s1920/ffxiv_20220503_232404_966.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6EALmcvHYVM1VxiVH9jbsfKVUOcTZTTmk_OCMQrFMPpvxeU4_5dm4a_HzointZvZwVQQVB_sA5-sh-cG5ffawWhc9A41umaGzAb36Y1o0DBYY5xwsyYX7mx5N2abiMJ-KBOX6AXAAyA3o_mk2UuHdfKD60iXFf-Rv6iB5UR8S5lFtcdA3UnVD60T13w/s320/ffxiv_20220503_232404_966.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9h_xzpEi8ASPNWkR3fdxLnVxh6RMDym4_SPihLsMOdVndPyxyHR_LI0mijhHNWVokYk3rstR4hH0prqwsYPRkHsmV1wb0XNeX6h57eRQkJha79Z_QDJqhV4Nw8pLHfRTZEh2cezyGo8wJn3aRwJHsWr0qWfI5q2gxm52VxSaXR4rAPN-VZX5PEMVTw/s1920/ffxiv_20220503_075629_772.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9h_xzpEi8ASPNWkR3fdxLnVxh6RMDym4_SPihLsMOdVndPyxyHR_LI0mijhHNWVokYk3rstR4hH0prqwsYPRkHsmV1wb0XNeX6h57eRQkJha79Z_QDJqhV4Nw8pLHfRTZEh2cezyGo8wJn3aRwJHsWr0qWfI5q2gxm52VxSaXR4rAPN-VZX5PEMVTw/s320/ffxiv_20220503_075629_772.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL2GYzk8mFMpFetdLMnSEzk5kJcGoKuwuUEuHRUry_1mzqKpG_yJso49SSpKen7Mhq9xDWZdOJNsuAcVojobIDHfGn7XamoQXf88H5OocCE4qhKp79eX33yHFa7iN6Nm8JrOtNjiRvTOJc8jvlSxRm6dFmv3Fna9MzHatxQNAIFqq-0QyPUoFse_2mKw/s1920/ffxiv_20220501_200801_683.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL2GYzk8mFMpFetdLMnSEzk5kJcGoKuwuUEuHRUry_1mzqKpG_yJso49SSpKen7Mhq9xDWZdOJNsuAcVojobIDHfGn7XamoQXf88H5OocCE4qhKp79eX33yHFa7iN6Nm8JrOtNjiRvTOJc8jvlSxRm6dFmv3Fna9MzHatxQNAIFqq-0QyPUoFse_2mKw/s320/ffxiv_20220501_200801_683.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2021年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeme00nPJRgaUiM3wdGHugBDmb5cyA0MO16BYqS6koWAPgZAHZZTQdqfaWW9BFlV0KfOkFdG_tg0ChObzEypRRr1NcspyxhL-krICbuk6Uw3wqXRfUY4430Lc9Nd-lxWvIu-yo4C7K-VpPY92IqbSpAn07XivQefKXaoreOOB9ram3gZmPYpRyhzW7NA/s1920/ffxiv_20210509_095201_259.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeme00nPJRgaUiM3wdGHugBDmb5cyA0MO16BYqS6koWAPgZAHZZTQdqfaWW9BFlV0KfOkFdG_tg0ChObzEypRRr1NcspyxhL-krICbuk6Uw3wqXRfUY4430Lc9Nd-lxWvIu-yo4C7K-VpPY92IqbSpAn07XivQefKXaoreOOB9ram3gZmPYpRyhzW7NA/s320/ffxiv_20210509_095201_259.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfmI4bdXvNBjvNLG9Fun2kQaC9NtuGsn-NP1O-f2BYpV_4h-IdwQ4nVblC5hk92J_OndoErxdFmUbMkvZpOvPqmAvUtv_k60Wpn33Hj4eL97YFImyvdbe5AVuSqw8aS80qDhXVi8HHQN89iGuI81woqLtKzYqrHndcBB4V_QnNZaj-vySeAsW9Kdz_qQ/s1920/ffxiv_20210507_230433_345.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfmI4bdXvNBjvNLG9Fun2kQaC9NtuGsn-NP1O-f2BYpV_4h-IdwQ4nVblC5hk92J_OndoErxdFmUbMkvZpOvPqmAvUtv_k60Wpn33Hj4eL97YFImyvdbe5AVuSqw8aS80qDhXVi8HHQN89iGuI81woqLtKzYqrHndcBB4V_QnNZaj-vySeAsW9Kdz_qQ/s320/ffxiv_20210507_230433_345.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Z1ebWTcNk6hjvFHr8leJiy2XvjLdnaECu_657ZJWE6QeYeUtBoLMlTDs984O9pfduuMCcCRZYUZ4ya8W6yqBB2bQQkrH_fpCPFaS_t-8wCJ50vOqY5Qwa3j4_lnp2xRGZfYCkLlX4ke9ogjr5oYn7Jv4WsOrPZc0msQI1vVoBZXs55EHLPUlDaLKDg/s1920/ffxiv_20210507_230418_385.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Z1ebWTcNk6hjvFHr8leJiy2XvjLdnaECu_657ZJWE6QeYeUtBoLMlTDs984O9pfduuMCcCRZYUZ4ya8W6yqBB2bQQkrH_fpCPFaS_t-8wCJ50vOqY5Qwa3j4_lnp2xRGZfYCkLlX4ke9ogjr5oYn7Jv4WsOrPZc0msQI1vVoBZXs55EHLPUlDaLKDg/s320/ffxiv_20210507_230418_385.png" width="180" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptVp12AcR6DXzd3sJuU6kTbYrm_s-pX24Cd7B1Nlga8Y3rr9T_pG7kQK2avBxgJsL9KDeQrVDto4uOvjeRJSKJvi8IVV8qXhOLmYpx0GKocceyvXUnqrQMBb273gwfq1sWGUpGuIzsrzWoscHFQZpcFsgtl2qFW1hy18m0ZZ45GkY2lInTcebw1c4hA/s1920/ffxiv_20210507_225301_142.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptVp12AcR6DXzd3sJuU6kTbYrm_s-pX24Cd7B1Nlga8Y3rr9T_pG7kQK2avBxgJsL9KDeQrVDto4uOvjeRJSKJvi8IVV8qXhOLmYpx0GKocceyvXUnqrQMBb273gwfq1sWGUpGuIzsrzWoscHFQZpcFsgtl2qFW1hy18m0ZZ45GkY2lInTcebw1c4hA/s320/ffxiv_20210507_225301_142.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizDfXjn5SDL7H29m7fkMITSyW1LP6Se1tqFkuKoDqnjdYUoMQ1eNcWniH3GxKCj0AozsESjnKZyMKCb9Ye9RwQazyejm4J_omrvWilsk55SAXKKs0GGVPNXeU4k5rLPyoUwG_PIuSR64b2CO1v3D9JBQl7RXgjsA7kt2PhxGVjM_pWZJQGsh4v4We3FA/s1920/ffxiv_20210507_143120_360.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizDfXjn5SDL7H29m7fkMITSyW1LP6Se1tqFkuKoDqnjdYUoMQ1eNcWniH3GxKCj0AozsESjnKZyMKCb9Ye9RwQazyejm4J_omrvWilsk55SAXKKs0GGVPNXeU4k5rLPyoUwG_PIuSR64b2CO1v3D9JBQl7RXgjsA7kt2PhxGVjM_pWZJQGsh4v4We3FA/s320/ffxiv_20210507_143120_360.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcMEB86kXNRD7GCfPEJm-CZ1WJM3quwtaVHecXhjnldmb0mAwSDzegEB4r3ddIcqJh6UoN7F_rJcy5sxp10DD1GNuuRJ_iPhZ4NCr4ssOcT0OWeUyVu4xLhf2eJZ1j-eimn5llUUyB6BULQbi0b3jb1X-bRKV7EZY7y1_b-w8LUP9b4_qjyqJWMZgL8w/s1920/ffxiv_20210506_194415_524.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcMEB86kXNRD7GCfPEJm-CZ1WJM3quwtaVHecXhjnldmb0mAwSDzegEB4r3ddIcqJh6UoN7F_rJcy5sxp10DD1GNuuRJ_iPhZ4NCr4ssOcT0OWeUyVu4xLhf2eJZ1j-eimn5llUUyB6BULQbi0b3jb1X-bRKV7EZY7y1_b-w8LUP9b4_qjyqJWMZgL8w/s320/ffxiv_20210506_194415_524.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4HLhHLa95r_ovrICLcnYdWnfPDAHEx8R4B9HygPakR5NC0B-cRF6SZrBBE10T_1y_LvN_OCcXcakZi0kI2cbC9Av-OBp1L9fz0_ZCos6OE37nLBQclvRZOBqV_Lia3bLxQzP7Q9tSk6RW72dq5i5yuZrM0h0FbgU6TUlPZZ2dYh1Q9xxkAcLniQh8_Q/s1920/ffxiv_20210504_235811_017.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4HLhHLa95r_ovrICLcnYdWnfPDAHEx8R4B9HygPakR5NC0B-cRF6SZrBBE10T_1y_LvN_OCcXcakZi0kI2cbC9Av-OBp1L9fz0_ZCos6OE37nLBQclvRZOBqV_Lia3bLxQzP7Q9tSk6RW72dq5i5yuZrM0h0FbgU6TUlPZZ2dYh1Q9xxkAcLniQh8_Q/s320/ffxiv_20210504_235811_017.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2020年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTIt_iBnmaggpaWW9CHZlx6oUZzgCIjueKDi2eOCBwlUJAFBPLDXKoJ2cSKzXwgnULM6mkQkrpdnijOjwebTwbIwFJZrrK2pscWfUjT-w57iB8e-gbL4WLlpNHwOswRLhqYFxGXZoLjUqe5Cc3Hyo0iQzRyA_ixt12RDxXP6xiroi_cih4YJqTxKxMmQ/s1920/ffxiv_20200809_221541_297.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTIt_iBnmaggpaWW9CHZlx6oUZzgCIjueKDi2eOCBwlUJAFBPLDXKoJ2cSKzXwgnULM6mkQkrpdnijOjwebTwbIwFJZrrK2pscWfUjT-w57iB8e-gbL4WLlpNHwOswRLhqYFxGXZoLjUqe5Cc3Hyo0iQzRyA_ixt12RDxXP6xiroi_cih4YJqTxKxMmQ/s320/ffxiv_20200809_221541_297.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0C7Y3wULfeoYbpmJBDMxiTOtnmyhIHc8DuF8bjAiRdXWIYndWhtX5C93ag-8v7vsIor_AmON-Dy96H6qZKffF0z-aLFI_lRijul6AFKreWaxXeF50Zuw0c4-W8-nas7ny689zbvi80b2WaYByHGhXDFW7O8caJgXt_UgwDbE_zGovSa0zYBew6AEuag/s1920/ffxiv_20200809_081450_976.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0C7Y3wULfeoYbpmJBDMxiTOtnmyhIHc8DuF8bjAiRdXWIYndWhtX5C93ag-8v7vsIor_AmON-Dy96H6qZKffF0z-aLFI_lRijul6AFKreWaxXeF50Zuw0c4-W8-nas7ny689zbvi80b2WaYByHGhXDFW7O8caJgXt_UgwDbE_zGovSa0zYBew6AEuag/s320/ffxiv_20200809_081450_976.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8dK6C5hz0XtroR3nlNAUqKcsqPAFV_BmnVzy8MWLB99iKuSp4KBTRy9-nkOqawxl6YHBDO-h7UD0BzQHIHwU-iHvHJnwPPJQ5CzOVzqs-QoxiXfEh99Nx67TRUkvBhuMOLwbVzij7nS-xDB93B9aEJludPjVN5bq1YDWQ6BV7iqOYtFAVSJYfRod27g/s808/IMG_1453.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="455" data-original-width="808" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8dK6C5hz0XtroR3nlNAUqKcsqPAFV_BmnVzy8MWLB99iKuSp4KBTRy9-nkOqawxl6YHBDO-h7UD0BzQHIHwU-iHvHJnwPPJQ5CzOVzqs-QoxiXfEh99Nx67TRUkvBhuMOLwbVzij7nS-xDB93B9aEJludPjVN5bq1YDWQ6BV7iqOYtFAVSJYfRod27g/s320/IMG_1453.JPG" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUn2-0K7PZ7PvyyR0NOHD3yWMujJVJaoJOkV9V313OA43HcJloGZQX1T-Jb1xyifufUnHTOLv8q89YTESDJsBg-wCkkoxcpSPiiFBB7CQEj2nGGAsooyyxSGvutbQ3zUwxOMUubB3r5YbZQUvYwpZMlG_8t3qnCewyeTo6qT459pGu54bJoyLqHkbzxw/s808/IMG_1451.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="455" data-original-width="808" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUn2-0K7PZ7PvyyR0NOHD3yWMujJVJaoJOkV9V313OA43HcJloGZQX1T-Jb1xyifufUnHTOLv8q89YTESDJsBg-wCkkoxcpSPiiFBB7CQEj2nGGAsooyyxSGvutbQ3zUwxOMUubB3r5YbZQUvYwpZMlG_8t3qnCewyeTo6qT459pGu54bJoyLqHkbzxw/s320/IMG_1451.JPG" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDYK6z75E3Wsqy4SbN1ga8jotqPTyzoWq9GCEC6ZHzSe0RaqX7r14R_lA-AGwd3VHQktkcbruQbq1rge0xCZE0xnT7kbm2HNMVrEuERf5nlGlNfFC7_tNBY-HwGgc650395fzNXgHLUjSo01iyHWZttUsaCXARKb0YfwTlJ-V_vgZqhjTDsoW9YDGyuA/s808/IMG_1043.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="455" data-original-width="808" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDYK6z75E3Wsqy4SbN1ga8jotqPTyzoWq9GCEC6ZHzSe0RaqX7r14R_lA-AGwd3VHQktkcbruQbq1rge0xCZE0xnT7kbm2HNMVrEuERf5nlGlNfFC7_tNBY-HwGgc650395fzNXgHLUjSo01iyHWZttUsaCXARKb0YfwTlJ-V_vgZqhjTDsoW9YDGyuA/s320/IMG_1043.JPG" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2019年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnrnBmHZ1pvp7wbLnwmfZsWow7c7-V-ReEYYxJRWD-5YQxFa4GaYPcI2wUVLl-DKuFLq9nmAbJxBguyP8OshajOKZG7e6wnGkRXFfLUtjeqbDzWcwyd14BQF1oFNQuInL-sbQvPjQzku45hOoEIHyOJth5reUNFv7Oj7ERSX1I_6-snSAcWUjqfz2XZg/s1920/ffxiv_20190504_162834_504.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1017" data-original-width="1920" height="170" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnrnBmHZ1pvp7wbLnwmfZsWow7c7-V-ReEYYxJRWD-5YQxFa4GaYPcI2wUVLl-DKuFLq9nmAbJxBguyP8OshajOKZG7e6wnGkRXFfLUtjeqbDzWcwyd14BQF1oFNQuInL-sbQvPjQzku45hOoEIHyOJth5reUNFv7Oj7ERSX1I_6-snSAcWUjqfz2XZg/s320/ffxiv_20190504_162834_504.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG5R3PNVuqAzAqWnaOLc1WISsFHHE7wXW3pkDmIDZOC3SgToHRein3d417sz3AecOINCUufit6o6o95xsr6fAu1r63KtQJEv9Shv-d1QdeKnxbRZtWbEi7ueNKuPWmF4t_VJjB2FQ7REfGADNPv4FlWzjMAYWl3TBzJ7C9qa61RhkwgCHx0tvHllZs3w/s1920/ffxiv_20190504_160844_510.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1017" data-original-width="1920" height="170" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG5R3PNVuqAzAqWnaOLc1WISsFHHE7wXW3pkDmIDZOC3SgToHRein3d417sz3AecOINCUufit6o6o95xsr6fAu1r63KtQJEv9Shv-d1QdeKnxbRZtWbEi7ueNKuPWmF4t_VJjB2FQ7REfGADNPv4FlWzjMAYWl3TBzJ7C9qa61RhkwgCHx0tvHllZs3w/s320/ffxiv_20190504_160844_510.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2018年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBr9OEZkr-NQTMDPP43NGJodlEyK6S5I4My-m2GFtHxZ7CoYJuEu68zATRIwEarCFxIq-SOXFDWgBQHMay9ltNXqbfdwEOp-sm0ZwwsXWdkbp90E7CF4ugXdODLLsZehqwRX2U9g7We5-DiW1dGXtMN0U2COcykBgAc5SC38g7olvUlX9Dtb0ee3eTqg/s448/WoWScrnShot_101518_213614.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="415" data-original-width="448" height="296" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBr9OEZkr-NQTMDPP43NGJodlEyK6S5I4My-m2GFtHxZ7CoYJuEu68zATRIwEarCFxIq-SOXFDWgBQHMay9ltNXqbfdwEOp-sm0ZwwsXWdkbp90E7CF4ugXdODLLsZehqwRX2U9g7We5-DiW1dGXtMN0U2COcykBgAc5SC38g7olvUlX9Dtb0ee3eTqg/s320/WoWScrnShot_101518_213614.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCImHJrvLQrCyr0A4YaQesoq88QSdRjfWw5Cowhg818Y4HBs3bnDNFD3tpOXFxP_QQYnXlLPOc_CJEok8PSvPSh979XqfVeHxuRrwJbR87QZbk8BqXVV5ctDakfN7kE5EEa8hIUWrB5ykpwOMmTtgqD2qJ7aWEtZ0kYwvI3AohW60mOBz9hFziPZAHeQ/s342/WoWScrnShot_091418_102032.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="321" data-original-width="342" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCImHJrvLQrCyr0A4YaQesoq88QSdRjfWw5Cowhg818Y4HBs3bnDNFD3tpOXFxP_QQYnXlLPOc_CJEok8PSvPSh979XqfVeHxuRrwJbR87QZbk8BqXVV5ctDakfN7kE5EEa8hIUWrB5ykpwOMmTtgqD2qJ7aWEtZ0kYwvI3AohW60mOBz9hFziPZAHeQ/s320/WoWScrnShot_091418_102032.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2017年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2as5vTBdj0PH8GOE_wl8i3RU0sck6xZD7EISJdWQGV36aWT45mOj5OhypOEYBH2TlXvDaeGD9wsd8lUVYAf3V1ktUbmHVct5Js-Yf47kPqYIC-BWeflI_HV2Qld4LJdK9u9Vi1MrBBPtFdCUUOXpCA6bahY-LPOAIFq1eP8rPXFdiUoEGGpo51RE12Q/s1900/ffxiv_20171109_221839.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2as5vTBdj0PH8GOE_wl8i3RU0sck6xZD7EISJdWQGV36aWT45mOj5OhypOEYBH2TlXvDaeGD9wsd8lUVYAf3V1ktUbmHVct5Js-Yf47kPqYIC-BWeflI_HV2Qld4LJdK9u9Vi1MrBBPtFdCUUOXpCA6bahY-LPOAIFq1eP8rPXFdiUoEGGpo51RE12Q/s320/ffxiv_20171109_221839.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSiO6JTZxnqf5UuYdeDE-btG6fNn5RgV8DoslFtK-vj31Y2zgK7aMU5XEo36NI64vjIqBAnlUPPARLi0Nk4oN3gYCt1YeaZGnIrGNbePEOF9GIUEUfqiWpkUNX2JvQo8Rq6s_7PAwzSuFSMWTCZ0iWFytyffuuNWOKVDlqPfCx-v3-tt7qBytl4oQJGg/s1900/ffxiv_20171031_190141.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSiO6JTZxnqf5UuYdeDE-btG6fNn5RgV8DoslFtK-vj31Y2zgK7aMU5XEo36NI64vjIqBAnlUPPARLi0Nk4oN3gYCt1YeaZGnIrGNbePEOF9GIUEUfqiWpkUNX2JvQo8Rq6s_7PAwzSuFSMWTCZ0iWFytyffuuNWOKVDlqPfCx-v3-tt7qBytl4oQJGg/s320/ffxiv_20171031_190141.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLnGAQN-8zRDES6kC6CAtcpzdyAldGm8mgetlWe2al10Avyf0Urkd97ru6J6bP2mVmK-EICpgRsJrVRxBIXavlv9t_GZtj4nUaCuE1IxCeTmWgpBtBrFRyiXJJ3aqTUoZnk6ibaRLYonOPAA_aq6Fbx0yGX9zAJhFTVa1lQIDvrYQru7JgIj-nVsfc2g/s1900/ffxiv_20171030_171305.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLnGAQN-8zRDES6kC6CAtcpzdyAldGm8mgetlWe2al10Avyf0Urkd97ru6J6bP2mVmK-EICpgRsJrVRxBIXavlv9t_GZtj4nUaCuE1IxCeTmWgpBtBrFRyiXJJ3aqTUoZnk6ibaRLYonOPAA_aq6Fbx0yGX9zAJhFTVa1lQIDvrYQru7JgIj-nVsfc2g/s320/ffxiv_20171030_171305.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwIZcWv7n4YTZBx9SQ3dNTJZluLIjOgLDeJpXFjL97xlGV7NnBoA_WPwsiw9t32sxFkAqu7kM6cOyR1ks4hWbIWtpmP6BmaGybREvQVL63H9pphIafhzpyptiDcyUiLf6l_h6mzlOoGpCrblTbn1tPNQX0vaa5YHnV5vzFrjPOVTTD3YWFOFnNTme8g/s1900/ffxiv_20171029_033354.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwIZcWv7n4YTZBx9SQ3dNTJZluLIjOgLDeJpXFjL97xlGV7NnBoA_WPwsiw9t32sxFkAqu7kM6cOyR1ks4hWbIWtpmP6BmaGybREvQVL63H9pphIafhzpyptiDcyUiLf6l_h6mzlOoGpCrblTbn1tPNQX0vaa5YHnV5vzFrjPOVTTD3YWFOFnNTme8g/s320/ffxiv_20171029_033354.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinN4aZ49qgm8l2J4ZJK3BN2tX9XvbCUO-3JcqalIOJiceHHTK39QhM033DK43m7RDoI8WhxdC9Xni1UDnAIh8WOL4oZtEkNYhBtn8LSUWE_cYJkM8-TVt0UNDjUhdHjtd0gLZrS98WOSU_NHBENXwI4l468JGr8D9QDsDClqbZWyc3zgxfXhQc7ZYAow/s1900/ffxiv_20171024_005210.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinN4aZ49qgm8l2J4ZJK3BN2tX9XvbCUO-3JcqalIOJiceHHTK39QhM033DK43m7RDoI8WhxdC9Xni1UDnAIh8WOL4oZtEkNYhBtn8LSUWE_cYJkM8-TVt0UNDjUhdHjtd0gLZrS98WOSU_NHBENXwI4l468JGr8D9QDsDClqbZWyc3zgxfXhQc7ZYAow/s320/ffxiv_20171024_005210.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBnxI-ou9e5OEBh3ItC6CX3zIehuIjX659Et--6f7lUL0F1i73Wr2bATbJZDnjAbySIpsH0V0qwk5FdlZyQl8nFWuo4coNEO9mXLhFp7MjsoezdMvSRSIYuzj0zEIV9Ss1V9GViMIz6k6I23j94IukOOlMJohpw2X8F6fSwF7xyZKmoRTp6_1NialOg/s1900/ffxiv_20171024_004102.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBnxI-ou9e5OEBh3ItC6CX3zIehuIjX659Et--6f7lUL0F1i73Wr2bATbJZDnjAbySIpsH0V0qwk5FdlZyQl8nFWuo4coNEO9mXLhFp7MjsoezdMvSRSIYuzj0zEIV9Ss1V9GViMIz6k6I23j94IukOOlMJohpw2X8F6fSwF7xyZKmoRTp6_1NialOg/s320/ffxiv_20171024_004102.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipZQn7X6rqNHv6o5EWFLi5rn_dK3dcACQM88ya9ZuKWBi2Z5pPjVtWjPVfp-qDWa60rZmdM-ihzdZMmqD7y89bWtpFulI0nO81GeH3AfqvSeebsEB-HmMFWMsH8YZg_iWxWId4boKOiQTPFlnzvt82PD2qLFUXZPepQzhMNIQLwoZGXiNBQOAAiQTtbg/s1900/ffxiv_20171021_152123.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipZQn7X6rqNHv6o5EWFLi5rn_dK3dcACQM88ya9ZuKWBi2Z5pPjVtWjPVfp-qDWa60rZmdM-ihzdZMmqD7y89bWtpFulI0nO81GeH3AfqvSeebsEB-HmMFWMsH8YZg_iWxWId4boKOiQTPFlnzvt82PD2qLFUXZPepQzhMNIQLwoZGXiNBQOAAiQTtbg/s320/ffxiv_20171021_152123.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9hPdWyT55XNxZq1u8mcXNh37iyfAK0gFUxsZjLtosiEWvmdJyjCyPqVRKSlNeBA9v5UmIjcM6wHOpLfg-CEfTZhcep3Bwx92gXYGpPcUH_gbx-mOtRnXT3UsgyE_egXJsYUMpLxdJdN4DI5fY_FxPCvoQKmL7oXd2w897KaaaAqi_UmirdQbYcoYvQ/s1900/ffxiv_20171020_051914.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1900" height="168" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9hPdWyT55XNxZq1u8mcXNh37iyfAK0gFUxsZjLtosiEWvmdJyjCyPqVRKSlNeBA9v5UmIjcM6wHOpLfg-CEfTZhcep3Bwx92gXYGpPcUH_gbx-mOtRnXT3UsgyE_egXJsYUMpLxdJdN4DI5fY_FxPCvoQKmL7oXd2w897KaaaAqi_UmirdQbYcoYvQ/s320/ffxiv_20171020_051914.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9CdzSG-qUbCHztJQBOypqp0ZJ2W8dwP-gaNepZZzm2gn1lsrlohPWU5qttqgTKJNY1mn2695riLvzhYtyLfDIjNVdCzR-fp15poca0NdzS6lfzNZX5K0yfN-zMPH28JeRdFWGMlVK4vhMTGgpr1w6LnqV9nnE3UwbbWx-XLM21Cs1uCDrG3cMjLKjjQ/s1895/ffxiv_20171018_183615.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9CdzSG-qUbCHztJQBOypqp0ZJ2W8dwP-gaNepZZzm2gn1lsrlohPWU5qttqgTKJNY1mn2695riLvzhYtyLfDIjNVdCzR-fp15poca0NdzS6lfzNZX5K0yfN-zMPH28JeRdFWGMlVK4vhMTGgpr1w6LnqV9nnE3UwbbWx-XLM21Cs1uCDrG3cMjLKjjQ/s320/ffxiv_20171018_183615.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3D8A_LyCVGbJmemloxf8GeBjpr-EJjpWu2z7kXk2PzQqMz94GF7KHQd_VpmK0mcmVXbt66Hx4ATIyvytsCzjt91Z3FrOxvcyfQ_G7uxOR9-OvdfgEyxWjvwh3C4cq9icQxCQaHHcT42O3YAYzTEKWCeDH6C_eMe8Tm1EWyDJ_2O7ofyRe6HPY0Fq40Q/s1895/ffxiv_20171015_175541.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3D8A_LyCVGbJmemloxf8GeBjpr-EJjpWu2z7kXk2PzQqMz94GF7KHQd_VpmK0mcmVXbt66Hx4ATIyvytsCzjt91Z3FrOxvcyfQ_G7uxOR9-OvdfgEyxWjvwh3C4cq9icQxCQaHHcT42O3YAYzTEKWCeDH6C_eMe8Tm1EWyDJ_2O7ofyRe6HPY0Fq40Q/s320/ffxiv_20171015_175541.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOA-Azk1biQQlhlPDXfFbdhQXgYDqmMP5GduvbHxZKifw-08VrIYPfqDi990vNeFF0BTdir8NGebsXi876OwwZyCxnfYmdPGFluNnK19r1oqmHoeBIwZoRpcD2Zar96qqtiHeFLmBFrQ2KTcD33NI18L9LncXTTNz_i_LGynKa5yRC3DggRrWzpmypwQ/s1895/ffxiv_20171013_225700.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOA-Azk1biQQlhlPDXfFbdhQXgYDqmMP5GduvbHxZKifw-08VrIYPfqDi990vNeFF0BTdir8NGebsXi876OwwZyCxnfYmdPGFluNnK19r1oqmHoeBIwZoRpcD2Zar96qqtiHeFLmBFrQ2KTcD33NI18L9LncXTTNz_i_LGynKa5yRC3DggRrWzpmypwQ/s320/ffxiv_20171013_225700.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxuhouucD1sMuSdyqyZ30jN-CLYfks_iSQVRPKBBVJ7tyRILiZtai1PH-hBwhONOi2KtmZgGzA7aYA9lGUNKioxg5g1YLo48de07oaIu8F0EtjglGJTpo3Zciu5d9zRnEaE9HBoix1CBU3CW5kg5jmU-ZNAFpeikjqibmtJZS8Ug0WkbpjMKDA5wFWlw/s1895/ffxiv_20171013_210239.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxuhouucD1sMuSdyqyZ30jN-CLYfks_iSQVRPKBBVJ7tyRILiZtai1PH-hBwhONOi2KtmZgGzA7aYA9lGUNKioxg5g1YLo48de07oaIu8F0EtjglGJTpo3Zciu5d9zRnEaE9HBoix1CBU3CW5kg5jmU-ZNAFpeikjqibmtJZS8Ug0WkbpjMKDA5wFWlw/s320/ffxiv_20171013_210239.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwWDfiMMdsT-uDpdjHXqsjCIFqlTlDZrg603UV5ZNIRehpHwyWukPdpq4jAflEnpNvVckHxUPrCn2PIF7qWGUtQudddbTDNuPpb691vTD9iYAnlS6BkkwtpDY-XMzbQrPprrmLWvDWevirIOKayvmigi6LJVcBUfZ2ap1WemBcdIBNd1NODxVJFwXSw/s1895/ffxiv_20171006_003052.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwWDfiMMdsT-uDpdjHXqsjCIFqlTlDZrg603UV5ZNIRehpHwyWukPdpq4jAflEnpNvVckHxUPrCn2PIF7qWGUtQudddbTDNuPpb691vTD9iYAnlS6BkkwtpDY-XMzbQrPprrmLWvDWevirIOKayvmigi6LJVcBUfZ2ap1WemBcdIBNd1NODxVJFwXSw/s320/ffxiv_20171006_003052.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_jlPgJkBKTuj5A-7EY8SzNjCMVa0CrdjMvbA9Ic5snZXSWrdS_x4iU0_vtCCI7Uhtjkcs7Z7H17dPSEVz7SZeBOAy9pm9PaIJblI4ZFbIF27PPrHhPtiu61abHQmZdhJxH2Ow8VfJ1YK7iA_It1pAJt8OxiG0kkAzb0yV0wrJBkxxq43CYnMA2c4rA/s1895/ffxiv_20170921_233709.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_jlPgJkBKTuj5A-7EY8SzNjCMVa0CrdjMvbA9Ic5snZXSWrdS_x4iU0_vtCCI7Uhtjkcs7Z7H17dPSEVz7SZeBOAy9pm9PaIJblI4ZFbIF27PPrHhPtiu61abHQmZdhJxH2Ow8VfJ1YK7iA_It1pAJt8OxiG0kkAzb0yV0wrJBkxxq43CYnMA2c4rA/s320/ffxiv_20170921_233709.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirIWK9ZUatD9czTSfLxx-6ydkPpBlrCup0Fm1kAyNCaFig5bUfAtytEVg-ontmLrzzYAYJp4azgOJ4OwYWeSmPaWgsgH-COlBlN1V1M6OkSwXWvapmCrB6qVZNr16naop7lSM7uRtIvaCtZWf0h9p6xh_QEfW1CpTNEU_DcBmWFB09xXuv5obCwNEWMg/s1895/ffxiv_20170921_214325.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirIWK9ZUatD9czTSfLxx-6ydkPpBlrCup0Fm1kAyNCaFig5bUfAtytEVg-ontmLrzzYAYJp4azgOJ4OwYWeSmPaWgsgH-COlBlN1V1M6OkSwXWvapmCrB6qVZNr16naop7lSM7uRtIvaCtZWf0h9p6xh_QEfW1CpTNEU_DcBmWFB09xXuv5obCwNEWMg/s320/ffxiv_20170921_214325.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLvJqtYz1rbIRshdhBTh1qrL1rUNU5rnPjDWoIjlp78OwAlRWqflLxE8aoOD56oA575adR_2h-i2cmtOftKfF3FJwDrqITTzgEvhQ7z60Ohfwnrt1or1XeLsnRHIBQJMsSa020VPJZb0bOkDaHoGKrLhxC597De50Fohj9Krca5UfLeinbRkkKBLKuMQ/s1895/ffxiv_20170914_060756.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="979" data-original-width="1895" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLvJqtYz1rbIRshdhBTh1qrL1rUNU5rnPjDWoIjlp78OwAlRWqflLxE8aoOD56oA575adR_2h-i2cmtOftKfF3FJwDrqITTzgEvhQ7z60Ohfwnrt1or1XeLsnRHIBQJMsSa020VPJZb0bOkDaHoGKrLhxC597De50Fohj9Krca5UfLeinbRkkKBLKuMQ/s320/ffxiv_20170914_060756.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlgvXCixSoO4TDiSFbsaKdK5ipQNMGaLOoo9pmC9Bc79vouaJ3KmhnCv_oUuUdx_IA0d-Kxy41b4WjTaQAac0LBATizcfz6CUp9JP7MzPC0UJ24D1rHzCv9Kgj_mD_59tQMqoAG9lZp7VRa4mKSeRxJ3hx8GqRrwaNgXybJi5iBQIArRAeoFVkaaFJDQ/s808/IMG_7978.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="456" data-original-width="808" height="181" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlgvXCixSoO4TDiSFbsaKdK5ipQNMGaLOoo9pmC9Bc79vouaJ3KmhnCv_oUuUdx_IA0d-Kxy41b4WjTaQAac0LBATizcfz6CUp9JP7MzPC0UJ24D1rHzCv9Kgj_mD_59tQMqoAG9lZp7VRa4mKSeRxJ3hx8GqRrwaNgXybJi5iBQIArRAeoFVkaaFJDQ/s320/IMG_7978.JPG" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2016年</div>
+<div style="clear: both; text-align: center;">なし</div>
+<div style="clear: both; text-align: left;"></div>
+<div style="clear: both; text-align: left;">2015年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBkZTqR2OUDUcHLwTsanwPYlSvFBv-ENRLwyMt28OQX8Xr0RNZhc4urzYYWvXZhpp2ky9ohwEoTXK8G6Mf77gDJjXEiRO6arsep5pWqls6FEk_K3fSrdOHKBC1xNc-LfOupgyRKXp1JAoZLER0tG_Mq84uEZ07Sgx_4CIRMdSvXSO869l-FCRzsyAEQ/s1920/ffxiv_20150724_132459.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="995" data-original-width="1920" height="166" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBkZTqR2OUDUcHLwTsanwPYlSvFBv-ENRLwyMt28OQX8Xr0RNZhc4urzYYWvXZhpp2ky9ohwEoTXK8G6Mf77gDJjXEiRO6arsep5pWqls6FEk_K3fSrdOHKBC1xNc-LfOupgyRKXp1JAoZLER0tG_Mq84uEZ07Sgx_4CIRMdSvXSO869l-FCRzsyAEQ/s320/ffxiv_20150724_132459.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgwwwwsKxpQfUBTOfi23036y98nZhIQQLspPnRcdowRoMlskMQxOjSe6yzVQ3gqOywS4ZxU6ZT6rgPqFqQp80FNKk1XcjWn_k9tfvNzY9F8XKfpApxd0bxx8wuciSh43FUY_Q9cT7wC9sInISdfR1QReBah5T4C-9tZCvK9Go-lfDsqn4MYhA0SytjVg/s1920/ffxiv_20150709_001558.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="995" data-original-width="1920" height="166" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgwwwwsKxpQfUBTOfi23036y98nZhIQQLspPnRcdowRoMlskMQxOjSe6yzVQ3gqOywS4ZxU6ZT6rgPqFqQp80FNKk1XcjWn_k9tfvNzY9F8XKfpApxd0bxx8wuciSh43FUY_Q9cT7wC9sInISdfR1QReBah5T4C-9tZCvK9Go-lfDsqn4MYhA0SytjVg/s320/ffxiv_20150709_001558.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsDFZ--2PbLMwtekOVTFASK7Ai_6p1UYCvb51QHyLxHS2jzMaAKB-zJyf6f5Uor3Sv-VlqHOXMib4mxBVVOqZLLEwcefKEsH1hJXX6ScC5QlITJ8dKSxBuiHJg_A5wBG7v5UC6wqVz8VP4jWrUlEJyJJM0h8JlcIRXwKOX0fSbSg_5mSNl36mM0eZmVw/s3264/IMG_0595.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="3264" data-original-width="2448" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsDFZ--2PbLMwtekOVTFASK7Ai_6p1UYCvb51QHyLxHS2jzMaAKB-zJyf6f5Uor3Sv-VlqHOXMib4mxBVVOqZLLEwcefKEsH1hJXX6ScC5QlITJ8dKSxBuiHJg_A5wBG7v5UC6wqVz8VP4jWrUlEJyJJM0h8JlcIRXwKOX0fSbSg_5mSNl36mM0eZmVw/s320/IMG_0595.JPG" width="240" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyBGBjaT85VYv07wtXV2sz-2y7OQfi_cr00OG7vUBIlwEUFjBTUzuzVBvP--ZC6413j1gePSqHDJ5JEc8rLJ3q5ZGjw9S4JGIGC5s4mmv7XOv_thmvWr_HZzpr7gNRrYdvCwMUGhZjcVaoUID2R3lMFerYyVy5fcc1x7gt4k8RLSljw9JYsW6mKXzg/s3264/IMG_0586.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="3264" data-original-width="2448" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCRyBGBjaT85VYv07wtXV2sz-2y7OQfi_cr00OG7vUBIlwEUFjBTUzuzVBvP--ZC6413j1gePSqHDJ5JEc8rLJ3q5ZGjw9S4JGIGC5s4mmv7XOv_thmvWr_HZzpr7gNRrYdvCwMUGhZjcVaoUID2R3lMFerYyVy5fcc1x7gt4k8RLSljw9JYsW6mKXzg/s320/IMG_0586.JPG" width="240" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGW_3H564qBWy1W14z1fayCXjZPdMFSmcic93hiPokbREeHHDPeT2ULBQ2MX7DJ_90qac744BUObniCXqgwAfVilzGHQHCHQDKRfJqDiG95mE4Z3Nv18sFuNaCX-JNAskqtYofq4Is_11JYCqfm_vy2CKxsxnz_T1ZRiGqcWG70ajdZvDrPVtz_BiUsw/s3264/IMG_0585.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGW_3H564qBWy1W14z1fayCXjZPdMFSmcic93hiPokbREeHHDPeT2ULBQ2MX7DJ_90qac744BUObniCXqgwAfVilzGHQHCHQDKRfJqDiG95mE4Z3Nv18sFuNaCX-JNAskqtYofq4Is_11JYCqfm_vy2CKxsxnz_T1ZRiGqcWG70ajdZvDrPVtz_BiUsw/s320/IMG_0585.JPG" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIziviR6Jm84tAQBJAEfM9w__n5htKkEcFIq4shpNSlvzRWwSzZ2NNClVrLkL1Yhc7MC5eXJxqaddUk4urRbZkH5-eCTq7SPpAYbUJoJtw7h-msnPAsY4bLIzb00s84CAk7iiAU2GOQaGLzkI8VuX6kQ7AzJwS6TbXsACq7YPo-P2lmtgIsop39hi9-A/s1920/ffxiv_20150204_052331.webp" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="995" data-original-width="1920" height="166" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIziviR6Jm84tAQBJAEfM9w__n5htKkEcFIq4shpNSlvzRWwSzZ2NNClVrLkL1Yhc7MC5eXJxqaddUk4urRbZkH5-eCTq7SPpAYbUJoJtw7h-msnPAsY4bLIzb00s84CAk7iiAU2GOQaGLzkI8VuX6kQ7AzJwS6TbXsACq7YPo-P2lmtgIsop39hi9-A/s320/ffxiv_20150204_052331.webp" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz9kCVTX-XFKRXbiB0-WATBLsz6rQCM5gKXbrjhwZd8VxENY_60iPXT9Qlfoq6Ilm7fN-KKzdbAILaVBl77iOdeNBAOUPoqGHbmf9XokdNwdHKqcl2pFMkM0zUwnolPD4i5w2mokx3CMyWzdxitlx4FogDrZxqUSVrfj8Kr9vHYmZlBrP57Z1mfxXRmA/s1920/ffxiv_20150104_003011.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1027" data-original-width="1920" height="171" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz9kCVTX-XFKRXbiB0-WATBLsz6rQCM5gKXbrjhwZd8VxENY_60iPXT9Qlfoq6Ilm7fN-KKzdbAILaVBl77iOdeNBAOUPoqGHbmf9XokdNwdHKqcl2pFMkM0zUwnolPD4i5w2mokx3CMyWzdxitlx4FogDrZxqUSVrfj8Kr9vHYmZlBrP57Z1mfxXRmA/s320/ffxiv_20150104_003011.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2014年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOiG7lSxiTxCf9IY4runo2ZuttxmW9-EYUTKwWnCejSVE9F6Gs8dAk5rhqB0ZNE7SKgAyIsW5XsaTOhcfePIR8AIS9gx80P9C0P9UktHXe9STwGpJbjrstksFNLBB3r3HLBUd69LKTGldSCy0V0g_tq5Yy0vluH06GQ8WCgXXP96mQyri8AQXgsKVyA/s3264/IMG_0283.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="2448" data-original-width="3264" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOiG7lSxiTxCf9IY4runo2ZuttxmW9-EYUTKwWnCejSVE9F6Gs8dAk5rhqB0ZNE7SKgAyIsW5XsaTOhcfePIR8AIS9gx80P9C0P9UktHXe9STwGpJbjrstksFNLBB3r3HLBUd69LKTGldSCy0V0g_tq5Yy0vluH06GQ8WCgXXP96mQyri8AQXgsKVyA/s320/IMG_0283.JPG" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKdp58NynMZEES6q_dRUpWD_664x-3flCJQg8GOGwMh56H0epOUapTiJgv0JIx1TmHPm6sBsYP88nPrJEllfP9j2Wu4MDGDkwldwY5FamOOTA-zCftJbU4HM67CeALAiJ5xsh7x-bSCE8oUmtV6MS7DZzeB2GKXTh76oj4ZpZ-qjzaVnDdaFSic4zcvg/s1902/ffxiv_20140720_181356.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1054" data-original-width="1902" height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKdp58NynMZEES6q_dRUpWD_664x-3flCJQg8GOGwMh56H0epOUapTiJgv0JIx1TmHPm6sBsYP88nPrJEllfP9j2Wu4MDGDkwldwY5FamOOTA-zCftJbU4HM67CeALAiJ5xsh7x-bSCE8oUmtV6MS7DZzeB2GKXTh76oj4ZpZ-qjzaVnDdaFSic4zcvg/s320/ffxiv_20140720_181356.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGqdIcyyRgtMU0atfSewnN5ijiUHlDngkAxJowEPxIKqHnUuMV4OXzXTjfiZN0kfNK_ZmfuFCv3szUkSuQqyCoLKLENq2CBv9RkixinQ3ZYY0Gq_EJd_bTQGL3X3Lw_L_1f8Z5IAUFjZ5RqIKzzAOuu4kQgOZJTupo6anezMrQQFbiCFGil8JwABR7w/s1902/ffxiv_20140702_192645.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1054" data-original-width="1902" height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGqdIcyyRgtMU0atfSewnN5ijiUHlDngkAxJowEPxIKqHnUuMV4OXzXTjfiZN0kfNK_ZmfuFCv3szUkSuQqyCoLKLENq2CBv9RkixinQ3ZYY0Gq_EJd_bTQGL3X3Lw_L_1f8Z5IAUFjZ5RqIKzzAOuu4kQgOZJTupo6anezMrQQFbiCFGil8JwABR7w/s320/ffxiv_20140702_192645.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifG-4mlfbETPvO6C7vQrKUlsNIT2RmZbVrpQDwT5pAY6iW7f40eJW999Y1q4l6YpTkV7-gCXCgym-No_pzcQf-mHPJNiInYj9dkWRhamroplQV1jqFyWZJy3T6mWfk4jyffgwa7cIOzqdWfKFu5aRpBxELAt_KUznF3PFLviVGZgHP5xBeEjHC18nOSA/s1902/ffxiv_20140622_200405.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1054" data-original-width="1902" height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifG-4mlfbETPvO6C7vQrKUlsNIT2RmZbVrpQDwT5pAY6iW7f40eJW999Y1q4l6YpTkV7-gCXCgym-No_pzcQf-mHPJNiInYj9dkWRhamroplQV1jqFyWZJy3T6mWfk4jyffgwa7cIOzqdWfKFu5aRpBxELAt_KUznF3PFLviVGZgHP5xBeEjHC18nOSA/s320/ffxiv_20140622_200405.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLd67V0JHGvvlnXRcQA44mhtCWxDZkG3_LG9LJhzXUa06CH4qdK4Dc5zAIJnr6duXMPxNdqHVmNMMUI0B63hCe2dK7jlZ95nwnGprigJYBpCicln5gbJJiTBMkVnxXwowh5azRg4isGaG_5xC89TG1h-k5BVwhzivKTEDg0vCR4Alpg78VI-sa9s9_wA/s1902/ffxiv_20140617_192411.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1054" data-original-width="1902" height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLd67V0JHGvvlnXRcQA44mhtCWxDZkG3_LG9LJhzXUa06CH4qdK4Dc5zAIJnr6duXMPxNdqHVmNMMUI0B63hCe2dK7jlZ95nwnGprigJYBpCicln5gbJJiTBMkVnxXwowh5azRg4isGaG_5xC89TG1h-k5BVwhzivKTEDg0vCR4Alpg78VI-sa9s9_wA/s320/ffxiv_20140617_192411.jpg" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhboDzrOJj8yMSTMRPtXX0GfkA4zlYSFQygVvkVLr5gkqeKKNg8HbMZs8WB8spaWqoqc9-oxwj3xHX7Tvuo6hYg5nqw34v_Rqsc6DnMWSj2VZeVwZn0gBMYBiCN2oIzCnfRlTL9q8eDAyq1_exNWSwP69dFl1xu9hsQcOyE680hfQfpvqNUSaMHp4iNxw/s1902/ffxiv_20140603_225145.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1054" data-original-width="1902" height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhboDzrOJj8yMSTMRPtXX0GfkA4zlYSFQygVvkVLr5gkqeKKNg8HbMZs8WB8spaWqoqc9-oxwj3xHX7Tvuo6hYg5nqw34v_Rqsc6DnMWSj2VZeVwZn0gBMYBiCN2oIzCnfRlTL9q8eDAyq1_exNWSwP69dFl1xu9hsQcOyE680hfQfpvqNUSaMHp4iNxw/s320/ffxiv_20140603_225145.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"></div>
+<div style="clear: both; text-align: left;">2013年</div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRm83CKjxvzkIBNCR7mlB6sXUmt_CtoZSoeb1x52Kl0hBFDeowWx562_dKFsNnGE-Uh3KXZPDtAwgZKSYD7CQkOXhFNbCqOJ28z9hoBzroBfsZosRebm60Tm0rlOy8VYAEI706yzq2se3sg9yo3zLMcDHFItyaKEJxAREg19MTbL80juHxCHjjRqHjXQ/s1889/ffxiv_20131213_212034.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1020" data-original-width="1889" height="173" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRm83CKjxvzkIBNCR7mlB6sXUmt_CtoZSoeb1x52Kl0hBFDeowWx562_dKFsNnGE-Uh3KXZPDtAwgZKSYD7CQkOXhFNbCqOJ28z9hoBzroBfsZosRebm60Tm0rlOy8VYAEI706yzq2se3sg9yo3zLMcDHFItyaKEJxAREg19MTbL80juHxCHjjRqHjXQ/s320/ffxiv_20131213_212034.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAaecM34MiVXKvuLOrKvl3YH4bW_X0XXbFzTb-dW1_0UPYW14FxvglUm7ohiMh4SZ7xLT9DSQbZkalXweD8LO6F15HMR5zvIMMdo6TIv4MGTSkd0QLSl9QGZpn03ZV4s22WGyRO6UEjV4LbdTmdRmFgDV1azKSy_CAnye219rkCwandQVw2-h__f7BQ/s1600/ffxiv_20131208_013859.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1600" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAAaecM34MiVXKvuLOrKvl3YH4bW_X0XXbFzTb-dW1_0UPYW14FxvglUm7ohiMh4SZ7xLT9DSQbZkalXweD8LO6F15HMR5zvIMMdo6TIv4MGTSkd0QLSl9QGZpn03ZV4s22WGyRO6UEjV4LbdTmdRmFgDV1azKSy_CAnye219rkCwandQVw2-h__f7BQ/s320/ffxiv_20131208_013859.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFz9UynM_5UFjjSsFSJOLnJT_S6jpc-FhOY3q0ssIGPFmPeJmmLw3fSX5WWsj1D3GIezdctFX-0gfW1n6AXpBbKAfYo-jfs-c-kBvir6govWja9nZAPkpi6zmJ6Gj5TYPPqRUX_3kRg70TU_yEojzSQ1B1igc8dpnmwZUUML-eEe8j429oj847sNUsNQ/s1600/ffxiv_20131206_005620.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1600" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFz9UynM_5UFjjSsFSJOLnJT_S6jpc-FhOY3q0ssIGPFmPeJmmLw3fSX5WWsj1D3GIezdctFX-0gfW1n6AXpBbKAfYo-jfs-c-kBvir6govWja9nZAPkpi6zmJ6Gj5TYPPqRUX_3kRg70TU_yEojzSQ1B1igc8dpnmwZUUML-eEe8j429oj847sNUsNQ/s320/ffxiv_20131206_005620.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML-TymxAI8EiM1ddl6pG0hUgLvf2iUHbu8rJorZExcYNN4JmtHFugV4_HhuLkxhBN_ts5iM6Am8CzqBoqq4cj_NMThtvrj6Xv6oQ9pZ9M7TiHPT2LsnpLj7HONyqWwFSunaUwnsBqLXHGz3TlpWgOfC4dwRiBj-2iU38Mr5dQmYMPchkrknIb2kgsQw/s1600/ffxiv_20131127_210422.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1600" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML-TymxAI8EiM1ddl6pG0hUgLvf2iUHbu8rJorZExcYNN4JmtHFugV4_HhuLkxhBN_ts5iM6Am8CzqBoqq4cj_NMThtvrj6Xv6oQ9pZ9M7TiHPT2LsnpLj7HONyqWwFSunaUwnsBqLXHGz3TlpWgOfC4dwRiBj-2iU38Mr5dQmYMPchkrknIb2kgsQw/s320/ffxiv_20131127_210422.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJML9lKmhAI7M6lk8kpXxNB104LGPZgVkklHZjUSAQ8DDm4ysSjKOVo9xQVJb6m0N5-MS8hrHcRk5lOGz8-Z6mGGftcBK5d2Q6jusfrO0NoOa7ipSliagtMMWuJkqlp2l4jhL4W27Fwo1l0CyOO1p4_ZI_FMwFuYP8fv4z3qR-Wo6sETnidl6Ky6zhBg/s1600/ffxiv_20131126_114721.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1600" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJML9lKmhAI7M6lk8kpXxNB104LGPZgVkklHZjUSAQ8DDm4ysSjKOVo9xQVJb6m0N5-MS8hrHcRk5lOGz8-Z6mGGftcBK5d2Q6jusfrO0NoOa7ipSliagtMMWuJkqlp2l4jhL4W27Fwo1l0CyOO1p4_ZI_FMwFuYP8fv4z3qR-Wo6sETnidl6Ky6zhBg/s320/ffxiv_20131126_114721.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZYRG9P4q5Ai0ERCzuSq6uC6b5tf6DtxZiIaYNR8ddy-oqpfbpHEJaJmcot8XXDEvxVnN60nrQ0b0Rf6Akxo2YWttNYAiuUZSPMU-HJY4YbwdliPOJgbrPFd_d5Y5pPM5DHfEN79YWyCCPxlGf-b69MSgTD2HiVZWuj-z6ygOqMEb54ryvO9Q0LQUJ6g/s1600/ffxiv_20131122_015713.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1600" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZYRG9P4q5Ai0ERCzuSq6uC6b5tf6DtxZiIaYNR8ddy-oqpfbpHEJaJmcot8XXDEvxVnN60nrQ0b0Rf6Akxo2YWttNYAiuUZSPMU-HJY4YbwdliPOJgbrPFd_d5Y5pPM5DHfEN79YWyCCPxlGf-b69MSgTD2HiVZWuj-z6ygOqMEb54ryvO9Q0LQUJ6g/s320/ffxiv_20131122_015713.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipgmtgXC4LSS9l8Mzw5OhF7DQQoagC0rl761LM_9NKC9Wt3WqiKZuid3izQQzj1WsJeR6-edxU9PsbeFYN2_JDpgUPVmrnyeyBlcMBGTr5bJvADOGXp9Lsipi3FmqUYPDUF14UL2YHti4POV0JRc9oYOXEOVdXsnNbIgH3MSc0kQpFIWPX4x49r0ca-g/s1600/ffxiv_20131116_201728.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1000" data-original-width="1600" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipgmtgXC4LSS9l8Mzw5OhF7DQQoagC0rl761LM_9NKC9Wt3WqiKZuid3izQQzj1WsJeR6-edxU9PsbeFYN2_JDpgUPVmrnyeyBlcMBGTr5bJvADOGXp9Lsipi3FmqUYPDUF14UL2YHti4POV0JRc9oYOXEOVdXsnNbIgH3MSc0kQpFIWPX4x49r0ca-g/s320/ffxiv_20131116_201728.png" width="320" /></a></div>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FF14：好きなカットシーンを集め残していく</title>
+		<link>./../../../2023-05-03/ff14%ef%bc%9a%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%ab%e3%83%83%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%92%e9%9b%86%e3%82%81%e6%ae%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 03 May 2023 11:18:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[ネタばれ注意]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2023-05-03/ff14%ef%bc%9a%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%ab%e3%83%83%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%92%e9%9b%86%e3%82%81%e6%ae%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f/index.html</guid>
+
+					<description><![CDATA[具体的な内容は省く。見ればわかる。 ここを押すと開く pets －－－－－ Lv&#8230;]]></description>
+										<content:encoded><![CDATA[<p>具体的な内容は省く。見ればわかる。</p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOKLAsnFKm9mahBhwJrbGblRaGaFYQYyqpP8oyhqNpY9Rs8ZAKvlcuMGuW_iB4tR8wppP_oB4aL6SVqAatUe0eeIX1_VXKFwiJsvdSHjIeDovm3Pq1nRBOC4pRr6jsh4Cboen27OifZKM3qnnprEN05jg_6e-TMtyYc6gFehrL0Zs4S3oXEIYlnr6tIQ/s1920/ffxiv_20210621_205209_217.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOKLAsnFKm9mahBhwJrbGblRaGaFYQYyqpP8oyhqNpY9Rs8ZAKvlcuMGuW_iB4tR8wppP_oB4aL6SVqAatUe0eeIX1_VXKFwiJsvdSHjIeDovm3Pq1nRBOC4pRr6jsh4Cboen27OifZKM3qnnprEN05jg_6e-TMtyYc6gFehrL0Zs4S3oXEIYlnr6tIQ/s320/ffxiv_20210621_205209_217.png" width="320" /></a></div>
+<p></p>
+<p></p>
+<div name="box1">ここを押すと開く</div>
+<div>
+        <span>pets</span></p>
+<div>
+      －－－－－</p>
+<p>Lv80：その者の結末<br />Lv80：漆黒のヴィランズ（カットシーン2）<br />Lv80：漆黒のヴィランズ（カットシーン5）</p>
+<p>Lv80：黄道航行<br /><b><span style="color: #3d85c6;">Lv80：クリスタルの残光（カットシーン3）</span></b>★たぶん一番好き。</p>
+<p>Lv84：薄情なヒト<br />Lv84：青き星の君たちへ<br />Lv87：幸せを運ぶ鳥（カットシーン１）<br />Lv88：拡がる終末（カットシーン４）★ここの彼の言葉は頷きしか無い。<br />Lv88：結び繋ぎて</p>
+<p>            －－－－－
+    </p></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>色いろいろ</title>
+		<link>./../../../2022-02-12/%e8%89%b2%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sat, 12 Feb 2022 00:46:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-12/%e8%89%b2%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/index.html</guid>
+
+					<description><![CDATA[瑠璃色るりいろ #1e50a2]]></description>
+										<content:encoded><![CDATA[<div style="text-align: left;">瑠璃色るりいろ #1e50a2</div>
+<div style="text-align: left;"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>技術的なあれこれメモ</title>
+		<link>./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 11 Feb 2022 02:30:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[チラシの裏]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</guid>
+
+					<description><![CDATA[個人的なメモ。すぐ忘れるから。 ffmpeg wavの音量を確認して音量を調整す&#8230;]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;">個人的なメモ。すぐ忘れるから。</p>
+<h2 style="text-align: left;">ffmpeg</h2>
+<h3 style="text-align: left;">wavの音量を確認して音量を調整する</h3>
+<h4 style="text-align: left;">ファイルの音量確認</h4>
+<p>ffmpeg -i 005_ずんだもん（ノーマル）_あれあれ？どうして….wav -vn -af volumedetect -f null &#8211;</p>
+<h4 style="text-align: left;">ファイルの音量を変更してコピーを作って保存</h4>
+<p>ffmpeg -i 005_ずんだもん（ノーマル）_あれあれ？どうして….wav -codec:v copy -af volume=6.1dB 005_ずんだもん（ノーマル）_あれあれ？どうして_6.1dBup.wav</p>
+<h3 style="text-align: left;">AV1エンコードの動画 input_av1.mp4 を、グラボを使って、h264に変換、プリセットslowでCQ15。コピーとしてファイル名 output_h264.mp4 として出力。</h3>
+<p style="text-align: left;">ffmpeg -i input_av1.mp4 -c:v h264_nvenc -preset slow -cq 15 -c:a copy output_h264.mp4</p>
+<h2 style="text-align: left;">HTMLでネタばれとかを折りたたむやつ</h2>
+<p>（2023-06-23追記）</p>
+<h3 style="text-align: left;">っていうか &lt;details&gt; &lt;summary&gt;をつかって以下のように書けば実現できると！</h3>
+<p>&lt;details class=&#8221;accordion_cat&#8221;&gt;<br />&lt;summary&gt;参考URL（押すと開く）&lt;/summary&gt;<br />&lt;div class=&#8221;ribbon15-wrapper&#8221;&gt;&lt;span class=&#8221;ribbon15 material-icons&#8221;&gt;pets&lt;/span&gt;<br />&nbsp; &nbsp; &lt;div&gt;<br />&nbsp; &nbsp;&nbsp;&#8212;<br />&nbsp; &nbsp;&nbsp;リンクをだしたりね。&lt;br&gt;<br />&nbsp; &nbsp;&nbsp;&lt;a href=&#8221;https://www.webcreatorbox.com/tech/details-summary&#8221;&gt;https://www.webcreatorbox.com/tech/details-summary&lt;/a&gt;<br />&nbsp; &nbsp;&nbsp;&#8212;<br />&nbsp; &nbsp;&nbsp;&lt;/div&gt;<br />&lt;/div&gt;<br />&lt;/details&gt;</p>
+<p>なんてこった。</p>
+</p>
+<details>
+<summary>参考URL（押すと開く）</summary>
+<div>
+    <span>pets</span><br />
+    リンクをだしたりね。</p>
+<div>
+      <a href="https://www.webcreatorbox.com/tech/details-summary">https://www.webcreatorbox.com/tech/details-summary</a>
+    </div>
+</p></div>
+</details>
+<p>（//2023-06-23追記ここまで）</p>
+<div name="box1">ここを押すと開く（１）</div>
+<div>
+    <span>pets</span></p>
+<div>
+    隠す文字ここ（１）<br />
+      メッセージを書くよ。<br />
+      もにゃもにゃ<br />
+      ほにゃーん。
+    </div>
+</p></div>
+<hr />
+<h3 style="text-align: left;">
+以下、ソース。</h3>
+<h4 style="text-align: left;">HTML</h4>
+<div>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;div</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;openCloseButton&#8221;</span> <span style="color: #e50000;">name</span>=<span style="color: blue;">&#8220;box1&#8221;</span><span style="color: maroon;">&gt;</span>ここを押すと開く（１）<span style="color: maroon;">&lt;/div&gt;</span></div>
+<div><span style="color: maroon;">&lt;div</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;ribbon15-wrapper openCloseBox&#8221;</span><span style="color: maroon;">&gt;</span><span style="color: maroon;">&lt;span</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;ribbon15 material-icons&#8221;</span><span style="color: maroon;">&gt;</span>pets<span style="color: maroon;">&lt;/span&gt;</span></div>
+<div><span style="color: maroon;">&nbsp; &nbsp; &lt;div&gt;</span></div>
+<div><span style="color: maroon;">    &#8212;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; 隠す文字ここ（１）<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; メッセージを書くよ。<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; もにゃもにゃ<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; ほにゃーん。</div>
+<div><span style="color: maroon;">    &#8212;</span></div>
+<div>&nbsp; &nbsp; <span style="color: maroon;">&lt;/div&gt;</span></div>
+<div><span style="color: maroon;">&lt;/div&gt;</span></div>
+</div>
+<p></p>
+<div>
+<h4 style="text-align: left;">スタイルシート</h4>
+<div>スタイルシートのリボンは<a href="https://saruwakakun.com/" target="_blank" rel="noopener">サルワカ</a>さんの。</div>
+<div></div>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;style&gt;</span></div>
+<div><span style="color: maroon;">.ribbon15-wrapper</span> { &nbsp;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">relative</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">margin</span>: <span style="color: #098658;">15px</span> <span style="color: #0451a5;">auto</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">10px</span> <span style="color: #098658;">55px</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">30px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">95%</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#f1f1f1</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">box-sizing</span>: <span style="color: #0451a5;">border-box</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15</span> { &nbsp;</div>
+<div>&nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-block</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">-6px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">right</span>: <span style="color: #098658;">10px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">margin</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">10px</span> <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">z-index</span>: <span style="color: #098658;">2</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">text-align</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">font-size</span>: <span style="color: #098658;">17px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">background</span>: <span style="color: #795e26;">linear-gradient</span>(<span style="color: #0451a5;">#ff785b</span> <span style="color: #098658;">0%</span>, <span style="color: #0451a5;">#e95738</span> <span style="color: #098658;">100%</span>);</div>
+<div>&nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">2px</span> <span style="color: #098658;">0</span> <span style="color: #098658;">0</span> <span style="color: #098658;">0</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15:before</span> {</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8221;</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">right</span>: <span style="color: #098658;">-6px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border</span>: <span style="color: #0451a5;">none</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-bottom</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">6px</span> <span style="color: #0451a5;">#cf4a2d</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-right</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">6px</span> <span style="color: #0451a5;">transparent</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15:after</span> {</div>
+<div>&nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8221;</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">100%</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-left</span>: <span style="color: #098658;">20px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">#e95738</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-right</span>: <span style="color: #098658;">20px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">#e95738</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-bottom</span>: <span style="color: #098658;">10px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">transparent</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton</span>{</div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*開閉ボタン機能用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">cursor</span>: <span style="color: #0451a5;">pointer</span>;</div>
+<div></div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*ボタンデザイン用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-flex</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">cursor</span>: <span style="color: #0451a5;">pointer</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">20px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">relative</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#ffd98a</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">2px</span> <span style="color: #098658;">5px</span> <span style="color: #098658;">2px</span> <span style="color: #098658;">25px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-size</span>: <span style="color: #098658;">20px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">#474747</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">0</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">align-items</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton::before</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*開閉ボタン機能用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transition</span>: <span style="color: #098658;">.4s</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transform</span>: <span style="color: #795e26;">rotate</span>(<span style="color: #098658;">0deg</span>);</div>
+<p></p>
+<div>&nbsp; &nbsp; <span style="color: green;">/*ボタンデザイン用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-family</span>: <span style="color: #a31515;">&#8220;Material Icons&#8221;</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8216;</span><span style="color: #ee0000;">e91d</span><span style="color: #a31515;">&#8216;</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-block</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">line-height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">0em</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#ffa337</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-weight</span>: <span style="color: #098658;">900</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">text-align</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">line-height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">-1.35em</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">3px</span> <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">50%</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton.is-active::before</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transform</span>: <span style="color: #795e26;">rotate</span>(<span style="color: #098658;">30deg</span>);</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.openCloseBox</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>:<span style="color: #0451a5;">#ffffff00</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">opacity</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">visibility</span>: <span style="color: #0451a5;">hidden</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transition</span>: <span style="color: #098658;">.8s</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseBox.is-open</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>:<span style="color: #0451a5;">#363636</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #0451a5;">auto</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">opacity</span>: <span style="color: #098658;">1</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">visibility</span>: <span style="color: #0451a5;">visible</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">&lt;/style&gt;</span></div>
+</div>
+</div>
+<div>
+<h4 style="text-align: left;">JavaScript</h4>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;script&gt;</span></div>
+<div><span style="color: #001080;">document</span>.<span style="color: #795e26;">addEventListener</span>(<span style="color: #a31515;">&#8216;DOMContentLoaded&#8217;</span>,() <span style="color: blue;">=&gt;</span> {</div>
+<div>&nbsp; <span style="color: blue;">const</span> <span style="color: #0070c1;">title</span> = <span style="color: #001080;">document</span>.<span style="color: #795e26;">querySelectorAll</span>(<span style="color: #a31515;">&#8216;.openCloseButton&#8217;</span>);</div>
+<div>&nbsp; </div>
+<div>&nbsp; <span style="color: #af00db;">for</span> (<span style="color: blue;">let</span> <span style="color: #001080;">i</span> = <span style="color: #098658;">0</span>; <span style="color: #001080;">i</span> &lt; <span style="color: #0070c1;">title</span>.<span style="color: #001080;">length</span>; <span style="color: #001080;">i</span>++){</div>
+<div>&nbsp; &nbsp; <span style="color: blue;">let</span> <span style="color: #001080;">titleEach</span> = <span style="color: #0070c1;">title</span>[<span style="color: #001080;">i</span>];</div>
+<div>&nbsp; &nbsp; <span style="color: blue;">let</span> <span style="color: #001080;">content</span> = <span style="color: #001080;">titleEach</span>.<span style="color: #001080;">nextElementSibling</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #001080;">titleEach</span>.<span style="color: #795e26;">addEventListener</span>(<span style="color: #a31515;">&#8216;click&#8217;</span>, () <span style="color: blue;">=&gt;</span> {</div>
+<div>&nbsp; &nbsp; &nbsp; <span style="color: #001080;">titleEach</span>.<span style="color: #001080;">classList</span>.<span style="color: #795e26;">toggle</span>(<span style="color: #a31515;">&#8216;is-active&#8217;</span>);</div>
+<div>&nbsp; &nbsp; &nbsp; <span style="color: #001080;">content</span>.<span style="color: #001080;">classList</span>.<span style="color: #795e26;">toggle</span>(<span style="color: #a31515;">&#8216;is-open&#8217;</span>);</div>
+<div>&nbsp; &nbsp; });</div>
+<div>&nbsp; }</div>
+<div>});</div>
+<div><span style="color: maroon;">&lt;/script&gt;</span></div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>はじめてのBloggerのデザイン構築時のメモ</title>
+		<link>./../../../2022-02-04/%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%aeblogger%e3%81%ae%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e6%a7%8b%e7%af%89%e6%99%82%e3%81%ae%e3%83%a1%e3%83%a2/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 13:35:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-04/%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%aeblogger%e3%81%ae%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e6%a7%8b%e7%af%89%e6%99%82%e3%81%ae%e3%83%a1%e3%83%a2/index.html</guid>
+
+					<description><![CDATA[素人Bloggerがデザインいじってて気づいたことを書き残すメモ。何か増えたら書&#8230;]]></description>
+										<content:encoded><![CDATA[<div style="text-align: left;">
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmGuLi1-s2rDdxoCwiHFUQAeI7GyKGY6dR5eCil8gW2ZucYVP2p8luM-cdFWSvMR9mWzBYCJmHz58tpIU9ZTbHDN7NCNnmIfrk50wnYQTN8h0F3HdTsLAXSv2JUKcCXmiu-5C0Z1oSyBvXJDvhl6ayMVm3n-YN-9ZtA70a5PQenaiNoa4YlBkijI6sQ/s3648/R0010036.JPG" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="2736" data-original-width="3648" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmGuLi1-s2rDdxoCwiHFUQAeI7GyKGY6dR5eCil8gW2ZucYVP2p8luM-cdFWSvMR9mWzBYCJmHz58tpIU9ZTbHDN7NCNnmIfrk50wnYQTN8h0F3HdTsLAXSv2JUKcCXmiu-5C0Z1oSyBvXJDvhl6ayMVm3n-YN-9ZtA70a5PQenaiNoa4YlBkijI6sQ/s320/R0010036.JPG" width="320" /></a></div>
+<p>素人Bloggerがデザインいじってて気づいたことを書き残すメモ。<br />何か増えたら書き足す…かも？</div>
+<div style="text-align: left;"></div>
+<h3 style="text-align: left;">モバイル端末で見た時のデザインがPC表示になってる。</h3>
+<div>→　テーマのカスタマイズ右側▼押して「モバイルの設定」を開いて、モバイル版を表示させるように選択すればokぽい。</div>
+<div></div>
+<h3 style="text-align: left;">モバイル端末表示とPC版表示でデザインが違ってる。</h3>
+<div>→　テーマのカスタマイズ右側▼押して「モバイルの設定」を開いて、QRコード上のプルダウンで「カスタム」を選んだらPC版と似た感じのデザインになった。</div>
+<div></div>
+<h3 style="text-align: left;">モバイル版の表示のチェックをしたい。</h3>
+<div>→　PCでアクセスしたURLに「<span style="color: #2b00fe;"><b>?m=1</b></span>」を付けたらモバイル版表示がPCブラウザで見れてチェックできた。</div>
+<div></div>
+<div>（例）&nbsp;<a href="https://note.nyaon.st/?m=1">https://note.nyaon.st/?m=1</a></div>
+<div><span style="color: #2b00fe;"><b><br /></b></span></div>
+<div><span style="color: #2b00fe;"><b>?m=0</b></span>にするか<span style="color: #2b00fe;"><b>?m=1</b></span>自体を削ればPC版表示に戻る。</div>
+<div></div>
+<h3 style="text-align: left;">テーマ適用後にカスタマイズしたい。</h3>
+<div>→　テーマのカスタマイズ右側▼押して「バックアップ」でローカルにxmlファイルを保存して、そのファイルをコピーしたものを、PC上でテキストエディタで編集し、適用のためにアップロードした。</div>
+<div></div>
+<div>この手順の方がわたしはブラウザ上で編集するよりやりやすかった。</div>
+<div></div>
+<h3 style="text-align: left;">レイアウト情報もバックアップするxmlに含まれているっぽい？</h3>
+<div>→　テーマメニューからバックアップした少し古いものを戻したら、レイアウトメニューで削除したガジェットが復活してたりしたので、バックアップしたxmlにそのあたりの情報も含まれているっぽい？</div>
+<div></div>
+<div>なのでレイアウトメニューからいじった後もバックアップ再取得しておくと安心かもしれない。</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BloggerでGoogleマテリアルアイコンを使うメモ</title>
+		<link>./../../../2022-02-03/blogger%e3%81%a7google%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e3%82%92%e4%bd%bf%e3%81%86%e3%83%a1%e3%83%a2/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 02 Feb 2022 18:28:00 +0000</pubDate>
+				<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-03/blogger%e3%81%a7google%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e3%82%92%e4%bd%bf%e3%81%86%e3%83%a1%e3%83%a2/index.html</guid>
+
+					<description><![CDATA[リンク ≫&#160;Googleフォント マテリアルアイコン ≫&#160;G&#8230;]]></description>
+										<content:encoded><![CDATA[<div style="text-align: left;">
+<h3 style="text-align: left;">リンク</h3>
+</div>
+<blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px; text-align: left;">
+<div style="text-align: left;">
+<div style="text-align: left;">≫&nbsp;<a href="https://fonts.google.com/icons" target="_blank" rel="noopener">Googleフォント マテリアルアイコン</a></div>
+</div>
+<div style="text-align: left;">
+<div style="text-align: left;">≫&nbsp;<a href="https://developers.google.com/fonts/docs/material_icons" target="_blank" rel="noopener">Googleフォント マテリアルアイコン使い方ページ</a></div>
+</div>
+</blockquote>
+<div style="text-align: left;">
+<div style="text-align: left;"></div>
+<h3 style="text-align: left;">BloggerでGoogleフォントのマテリアルアイコンを使う手順</h3>
+<p><span>face</span> ←こういうの</div>
+<div style="text-align: left;">
+<ol style="text-align: left;">
+<li>Bloggerのテーマの「カスタマイズ」右横にある▼を押してHTML編集に入る。</li>
+<li>&lt;head&gt;直下に下記のタグを書き込んで保存する。</li>
+<li>Googleフォントのiconページで使いたいものを探して選び、icon font欄にあるフォント名を確認する。<br />（「face」とか「link」とかそういうの）</li>
+<li>記事投稿画面でメニューアイコン左端のHTML編集に入り、表示させたい位置に下記のように(3)で確認したアイコン名を含めたタグを書き込む。<br />
+<blockquote><p><span style="color: #2b00fe; font-family: Consolas;">&lt;span class=&#8221;material-icons&#8221;&gt;face&lt;/span&gt;</span></p></blockquote>
+</li>
+</ol>
+<div>以上。</div>
+<div></div>
+<div>ちなみに記事投稿画面ではアイコンは確認できない。実際のページ表示時に適用されます。</div>
+</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;">
+<h3 style="text-align: left;">&lt;head&gt;タグ直下に書く内容</h3>
+<blockquote><p><span style="color: #2b00fe; font-family: Consolas;">&lt;link href=&#8217;https://fonts.googleapis.com/icon?family=Material+Icons&#8217; rel=&#8217;stylesheet&#8217;/&gt;<br />&lt;style&gt;<br />.material-icons {<br />&nbsp; font-family: &amp;#39;Material Icons&amp;#39;;<br />&nbsp; font-weight: normal;<br />&nbsp; font-style: normal;<br />&nbsp; font-size: 24px;&nbsp; /* Preferred icon size */<br />&nbsp; line-height: 1;<br />&nbsp; text-transform: none;<br />&nbsp; letter-spacing: normal;<br />&nbsp; word-wrap: normal;<br />&nbsp; white-space: nowrap;<br />&nbsp; direction: ltr;<br />&nbsp; /* Support for all WebKit browsers. */<br />&nbsp; -webkit-font-smoothing: antialiased;<br />&nbsp; /* Support for Safari and Chrome. */<br />&nbsp; text-rendering: optimizeLegibility;<br />&nbsp; /* Support for Firefox. */<br />&nbsp; -moz-osx-font-smoothing: grayscale;<br />&nbsp; /* Support for IE. */<br />&nbsp; font-feature-settings: &amp;#39;liga&amp;#39;;<br />&nbsp; display: inline-flex;<br />&nbsp; vertical-align: middle;<br />&nbsp;&nbsp;&nbsp; }<br />&nbsp; &lt;/style&gt;</span></p></blockquote>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ジョジョで好きな言葉</title>
+		<link>./../../../2022-02-01/%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7%e3%81%a7%e5%a5%bd%e3%81%8d%e3%81%aa%e8%a8%80%e8%91%89/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Tue, 01 Feb 2022 11:23:00 +0000</pubDate>
+				<category><![CDATA[ジョジョの奇妙な冒険]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-01/%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7%e3%81%a7%e5%a5%bd%e3%81%8d%e3%81%aa%e8%a8%80%e8%91%89/index.html</guid>
+
+					<description><![CDATA[「あれって誰の言葉だっけー？」と頭悩ますことが多いのでメモ書き。思い出したら積ん&#8230;]]></description>
+										<content:encoded><![CDATA[<p>「あれって誰の言葉だっけー？」と頭悩ますことが多いのでメモ書き。思い出したら積んでいく。</p>
+<div></div>
+<h2 style="text-align: left;">Part 5『黄金の風』：プロシュート兄貴「その言葉を頭の中に思い浮かべた時にはもうやってる」</h2>
+<div>有言実行っていうか言う前にもうしてる。</div>
+<div></div>
+<div>あれしたい、これしたいと思うことはあるけど、思うだけじゃ何も変わらない。思ったならどう実現させるかを考えて行動しよう、と思える言葉。</div>
+<div></div>
+<div>参考：<br />≫<a href="https://dic.nicovideo.jp/id/5114250" target="_blank" rel="noopener">「ブッ殺す」と心の中で思ったならッ!その時スデに行動は終わっているんだッ!</a>&nbsp;（ニコニコ大百科）</div>
+<div></div>
+<h2 style="text-align: left;">Part 7 『スティール・ボール・ラン』：大統領「ナプキンを取れる者が決めている！」</h2>
+<div>のくだり。</div>
+<div></div>
+<div>作中の意図（？）とは違う捉え方かもしれないけれど、誰かに決められて生きるのではなく自分で選択して能動的に生きたい、生きるためには「取る」という行動をしないといけない、と受け止めました。</div>
+<div></div>
+<div>参考：<br />≫<a href="https://dic.nicovideo.jp/id/5623081" target="_blank" rel="noopener">わたしが「ナプキン」をとる</a> （ニコニコ大百科）</div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

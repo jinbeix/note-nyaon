@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	下限自力解明：オメガシグマ零式4層 へのコメント	</title>
+	<atom:link href="./../../%E4%B8%8B%E9%99%90%E8%87%AA%E5%8A%9B%E8%A7%A3%E6%98%8E%EF%BC%9A%E3%82%AA%E3%83%A1%E3%82%AC%E3%82%B7%E3%82%B0%E3%83%9E%E9%9B%B6%E5%BC%8F4%E5%B1%A4/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Mon, 01 May 2023 06:19:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+</channel>
+</rss>

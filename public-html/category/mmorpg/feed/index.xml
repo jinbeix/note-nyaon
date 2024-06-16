@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MMORPG &#8211; にゃおんノート</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Fri, 14 Jun 2024 09:02:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>MMORPG &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>妄想MMORPG</title>
+		<link>./../../../2024-06-10/%e5%a6%84%e6%83%b3mmorpg/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2024 05:35:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[MMORPG]]></category>
+		<category><![CDATA[とりとめのない話]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[絶竜詩戦争をクリアしたので忘れないうちに感想文でもとちまちま書いている時に、ふと&#8230;]]></description>
+										<content:encoded><![CDATA[<p>絶竜詩戦争をクリアしたので忘れないうちに感想文でもとちまちま書いている時に、ふと思った。</p>
+<p>　◇　◇　◇</p>
+<p>冬に旅立った冒険者が数ヶ月を経てなんだかすごいモンスターを倒して帰ってきた。季節はもう夏。山頂の雪もすっかり溶けてしまっていた。</p>
+<p>帰ってきた町はいつもと変わりなくて、町に残っていた馴染みの顔と酒を酌み交わしながらその冒険譚を語って聞かせたりする。</p>
+<p>そこには他の冒険から帰ってきた友人なんかもいて、こっちはどうだった、そっちはどうだみたいな話をしたり。</p>
+<p>そういった戦いをする冒険者もいれば、町でいろいろなものをクラフトしたり、素敵な家を建てたり、演奏をしたり、そういったいろんな人がいる。</p>
+<p>そういう色んな人がいてこの町はまわってる。</p>
+<p>　◇　◇　◇</p>
+<p>みたいなそんな映像があたまに浮かんだわけだ。</p>
+<p>例えば絶とか行かないぴよもちや他のフレとかが今日はどうだった？と聞いてきて、こうだったって話すそれとかって、こういうシーンに該当するのかな～とか。</p>
+<p>そんな妄想ファンタジー。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

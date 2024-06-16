@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SNS &#8211; にゃおんノート</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Fri, 14 Jun 2024 22:01:33 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>SNS &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bluesky（SNS）の楽しみ方とか設定のはなし</title>
+		<link>./../../../2024-04-10/bluesky%ef%bc%88sns%ef%bc%89%e3%81%ae%e6%a5%bd%e3%81%97%e3%81%bf%e6%96%b9%e3%81%a8%e3%81%8b%e8%a8%ad%e5%ae%9a%e3%81%ae%e3%81%af%e3%81%aa%e3%81%97/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 10 Apr 2024 01:02:00 +0000</pubDate>
+				<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[SNS]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[&#160;一見すると旧Twitter（現X）に似ているので、その視点だと「人が&#8230;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;一見すると旧Twitter（現X）に似ているので、その視点だと「人が少なくて機能も少ないTwitter」と思われそうなBluesky。</p>
+<p>実際はTwitterと似てるけどちょっと違う。</p>
+<p>feed（フィード）という「検索条件をシェアする」という機能がおもしろい。</p>
+<p>例えば「富士山というワードが入った画像だけのfeed」をフォロー（※）すると、そのfeedの中で富士山画像がいろいろ見れます。</p>
+<p>他には「6時間以内で、日本語の投稿で、いいねが多い順に100投稿がみれるfeed」とか「自分をフォローしているけど自分はフォローしていない人の投稿だけ見られるfeed」とか。</p>
+<p>このfeedがユーザーが自由に作れるので、アイデア次第でいろいろ面白いfeedがあります。</p>
+<p>投稿から「5文字、7文字、5文字の関係ない3人の3つの投稿を選んで俳句ぽく表示するfeed」なんかもあるｗ</p>
+<p>△　▼　△</p>
+<p>…と面白いものでもあるのだけど、初期に説明がないとよくわからない部分でもある。</p>
+<p>それを知らないまま去ってる人も多いんじゃないかなと思って、Blueskyはじめたならここらへんみてみると良いよ。ってリンク集でも残しておきます。</p>
+<p>※リンク先の情報に関する責任は負いません。古い情報もあるかも。</p>
+<p><span><a name='more'></a></span></p>
+<h3 style="text-align: left;">「feedって？」はここを見てみるといいかも</h3>
+<p>≫&nbsp;<a href="https://note.com/ffi/n/n2781f9206d84" target="_blank" rel="noopener">Blueskyが楽しい（カスタムフィード編）（note.com  Fujii Ryoichiさん）</a></p>
+<h3 style="text-align: left;">例えばわたしはこんなfeedみてます</h3>
+<p>≫ <a href="https://note.nyaon.st/2024/02/blueskyfeed.html" target="_blank" rel="noopener">わたしが見ているfeed（このサイト、FF14のとか面白いのとか）</a></p>
+<h3 style="text-align: left;">Blueskyに興味を持ってはじめたい人が知っておくと良いはなし</h3>
+<p>≫&nbsp;<a href="https://note.com/ooba8686/n/ne7d5ce027219" target="_blank" rel="noopener">【Bluesky】アカウントを作る前に必ず読む資料（note.com 大葉さん）</a></p>
+<h3 style="text-align: left;">使う際の初期設定のはなし</h3>
+<p>≫&nbsp;<a href="https://note.com/seelsorge/n/n5606cdf05410" target="_blank" rel="noopener">はじめてのBluesky(設定・注意すること)ガイド（note.com 峰さん）</a></p>
+<h3 style="text-align: left;">Blueskyにセクシーな画像を投稿する際はラベルつけようのはなし</h3>
+<p>≫ 操作の話：<a href="https://note.com/ooba8686/n/n05a636256d4d" target="_blank" rel="noopener">【Bluesky】写真やイラスト投稿、閲覧時の操作、注意事項（note.com 大葉さん）</a><br />≫ 概念の話：<a href="https://note.com/ooba8686/n/nac36e42cb228" target="_blank" rel="noopener">【Bluesky】イラストを投稿する前に必ず読む資料（note.com 大葉さん）</a></p>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>私がBlueskyで登録してるfeedめも</title>
+		<link>./../../../2024-02-04/%e7%a7%81%e3%81%8cbluesky%e3%81%a7%e7%99%bb%e9%8c%b2%e3%81%97%e3%81%a6%e3%82%8bfeed%e3%82%81%e3%82%82/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sun, 04 Feb 2024 04:22:00 +0000</pubDate>
+				<category><![CDATA[Bluesky]]></category>
+		<category><![CDATA[SNS]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[私がBlueskyで登録しているfeed。 ✿ FF14っぽいの FF14_un&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>私がBlueskyで登録しているfeed。</p>
+
+
+
+<h2 class="wp-block-heading">✿ FF14っぽいの</h2>
+
+
+
+<h3 class="wp-block-heading">FF14_unofficial</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:dppvzotf533qrogibmvl3mt3/feed/aaaditopu23osFF14全般の投稿。
+</div></figure>
+
+
+
+<h3 class="wp-block-heading">FF14たのしい、おもしろい</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaad5ul77ueqwFF14っぽい中で「楽しい」「面白い」を含む投稿。
+</div></figure>
+
+
+
+<h3 class="wp-block-heading">Final Fantasy General</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:ie5avn76oe43lsvokl523ydd/feed/aaai3xpxzyz56
+</div></figure>
+
+
+
+<p>Final Fantasy全般（14に限らないよ）。英語も含む。</p>
+
+
+
+<h2 class="wp-block-heading"><u><span style="color: #0b5394;">✿ 趣味っぽいの</span></u></h2>
+
+
+
+<h3 class="wp-block-heading">茶道だいすき</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaaililmrzct4
+</div></figure>
+
+
+
+<p>茶道ぽいワードで検索した結果。</p>
+
+
+
+<h3 class="wp-block-heading">着物だいすき</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaakidotycemw
+</div></figure>
+
+
+
+<p>着物っぽいワードで検索した結果。</p>
+
+
+
+<h3 class="wp-block-heading">富士山が見たい！</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaad5rr42qjfa
+</div></figure>
+
+
+
+<p>富士山っぽいワードが含まれつつ画像がついてる投稿。</p>
+
+
+
+<h2 class="wp-block-heading"><u><span style="color: #0b5394;">✿ なんか面白い・不思議なやつ</span></u></h2>
+
+
+
+<h3 class="wp-block-heading">N-Feed</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:64aqvld6on6kzrejzqha4w6j/feed/n-feed
+</div></figure>
+
+
+
+<ol>
+<li><span style="font-size: small; font-weight: normal;">自分の投稿からなにか１ワード選ばれる。</span></li>
+
+
+
+<li><span style="font-size: small; font-weight: normal;">そのワードが含まれるどこかのだれかの３投稿が続く。</span></li>
+
+
+
+<li><span style="font-size: small; font-weight: normal;">また別の自分の投稿から別のなにか１ワードが選ばれる。</span></li>
+
+
+
+<li><span style="font-size: small; font-weight: normal;">（以下繰り返し）</span></li>
+</ol>
+
+
+
+<div><span style="font-size: small; font-weight: normal;">新どのワードで引っ張っているのかみるのも面白い。新たたな出会いがあったり！</span></div>
+
+
+
+<h3 class="wp-block-heading">ランダムセッション575</h3>
+
+
+
+<div>
+<p style="font-size: medium; font-weight: 400;"><a href="https://bsky.app/profile/did:plc:kf6t4wjnff7x7bcbngvefb36/feed/aaamycemtidju" target="_blank" rel="noopener">https://bsky.app/profile/did:plc:kf6t4wjnff7x7bcbngvefb36/feed/aaamycemtidju</a></p>
+<p style="font-size: medium; font-weight: 400;">たまさかの出会いが紡ぐ五七五</p>
+</div>
+
+
+
+<h3 class="wp-block-heading">ヒンメル</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:ruwnuvzigdl3527oe3vjrqwj/feed/aaaknc67czcvu
+</div></figure>
+
+
+
+<p>フリーレン公式。勇者ヒンメルならそうしそうなこと</p>
+
+
+
+<div><span style="font-size: small; font-weight: normal;"><br><br></span></div>
+
+
+
+<h2 class="wp-block-heading"><u><span style="color: #0b5394;">✿ 機能的なやつ</span></u></h2>
+
+
+
+<h3 class="wp-block-heading">Hot text (ja)&nbsp;</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaaimvioffyl4
+</div></figure>
+
+
+
+<p>数時間以内、日本語、<u>画像を含まない</u>、いいね多い順に100投稿を表示。<br>Hot(ja)が画像だらけになったので作成した。</p>
+
+
+
+<h3 class="wp-block-heading">Popular With Friends&nbsp;</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:z72i7hdynmk6r22z27h6tvur/feed/with-friends
+</div></figure>
+
+
+
+<p>フォロワーの中で人気あるっぽい投稿。</p>
+
+
+
+<h3 class="wp-block-heading">Latest From Follows</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys/feed/bestoffollows
+</div></figure>
+
+
+
+<p>フォロワーの最後の投稿一覧。</p>
+
+
+
+<h3 class="wp-block-heading">My Bangers</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/bangers
+</div></figure>
+
+
+
+<p>自分の投稿でいいね多いやつ。</p>
+
+
+
+<h3 class="wp-block-heading">RepostNextPost+</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:6zpjzzdzet62go7lnaoq4xog/feed/rp-next-post-p
+</div></figure>
+
+
+
+<p>リポストの直後のポスト（とリポスト）が流れてくるフィード。</p>
+
+
+
+<h3 class="wp-block-heading">Hot(ja)</h3>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://bsky.app/profile/did:plc:kwibnjihi6sfdphwfzlogfwi/feed/recent-fav
+</div></figure>
+
+
+
+<div>6時間前までの日本語の投稿をLIKE数が多い順に並べています。画像あり。</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>今回のツイ絶ちの記録は21時間</title>
+		<link>./../../../2023-08-02/%e4%bb%8a%e5%9b%9e%e3%81%ae%e3%83%84%e3%82%a4%e7%b5%b6%e3%81%a1%e3%81%ae%e8%a8%98%e9%8c%b2%e3%81%af21%e6%99%82%e9%96%93/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 06:11:00 +0000</pubDate>
+				<category><![CDATA[ActivityPub]]></category>
+		<category><![CDATA[ATProtocol]]></category>
+		<category><![CDATA[Mastodon]]></category>
+		<category><![CDATA[SNS]]></category>
+		<category><![CDATA[とりとめのない話]]></category>
+		<guid isPermaLink="false">./../../../2023-08-02/%e4%bb%8a%e5%9b%9e%e3%81%ae%e3%83%84%e3%82%a4%e7%b5%b6%e3%81%a1%e3%81%ae%e8%a8%98%e9%8c%b2%e3%81%af21%e6%99%82%e9%96%93/index.html</guid>
+
+					<description><![CDATA[&#160;外的要因により確認せざるを得ない状況となったため、今回のツイ絶ちの記&#8230;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;外的要因により確認せざるを得ない状況となったため、今回のツイ絶ちの記録は21時間でした。</p>
+<p>　◇　◆　◇</p>
+<p>今回ツイ絶ちして個人的に意外だったのはもっと「ツイッター見たいﾊｧﾊｧ」ってなるかと思ったらそうでもなかった点。</p>
+<p>BlueskyやMastodonで駄文投下することが可能だったのがまず大きいかな？</p>
+<p>ツイッターにしかいない人のツイートを見えない事に関しても、そこまで気にならなかったのは個人的に少し意外でした。</p>
+<p>仮にこのままツイッターが突然失くなっても気にならなさそう。これはツイッター意外のルートでもどうにか繋がるだろうって思っているから気にならないのかも知れない。</p>
+<p>数多のMMOやSNSを渡り歩いてきた経験からの感覚かもしれない。</p>
+<p>　◇　◆　◇</p>
+<p>一方で自分にとってのSNS、ツイッターだったものの価値ってどこにあるのだろうと考える良い機会でもありました。</p>
+<p>いま主に運用しているのがほぼFF14用アカウントなのだけど、元々別のアカウントを使っていて、そちらでは「着物」や「猫」「茶道」「バイク」「写真」といったワードで検索して、みつかった人たちのツイートを覗き込んで、いいなと思った人をフォローして、ゆるゆる繋がりをつくっていくという楽しみ方をしてました。</p>
+<p>軸となる趣味や嗜好は近しいけれど、別の人間なので時に違った情報が入ってくることで自分の視野や興味が広がっていくという楽しみ方をかつてはしていた気がします。</p>
+<p>　◇　◆　◇</p>
+<p>そういう意味ではActivityPub（MastodonやMisskeyなど）の現状のような「横断的に人と繋がるのは難しい」という仕様は私にとってのツイッター代替ではないと改めて認識しました。</p>
+<p>繋がりをとても広めにくいと感じます。どこかのサーバーにいるかもしれない誰かを見つけられない、というか。そのIDを別のルートで知っていれば繋がれるのですが。極端な例だけど個人でサーバー立てて、さて繋がるか・・・と考えた時に繋がるルートがわからなかった。なので自分のコミュニティで「使ってみよう～」と言ってみたり。</p>
+<p>私の中での今のActivityPubの認識はあくまでクローズドコミュニティだけどなんかゆっくり他とも繋がれる可能性がある、というサービスです。</p>
+<p>どちらかというとSNSとメールの中間ってイメージが今のところあります。メアドしらないと繋がれない、みたいな。</p>
+<p>ただこれは現状利用者自体が少ないからかも？人数が増えていけばどうなるかはまだわからないですね。</p>
+<p>ここに書いた感触は良し悪しではなくてそういう性格のサービスであると認識した上で使うのには良いと思う。ツイッター代替だ！とか言い出すと多分全然違う。</p>
+<p>例えば今のFF14用アカウントになっているツイッターアカウントはMastodonへ移行してもあまり問題がない気もします。</p>
+<p>　◇　◆　◇</p>
+<p>一方で広くいろんな世界と繋がる使い方はやはり今のところはツイッター以外ないんだよなぁとも思ってしまう。</p>
+<p>ATProtocolにはその意味で「世界と繋がってる世界」になるといいなと期待している。</p>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

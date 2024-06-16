@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>チラシの裏 &#8211; にゃおんノート</title>
+	<atom:link href="./../../%E3%83%81%E3%83%A9%E3%82%B7%E3%81%AE%E8%A3%8F/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Fri, 28 Oct 2022 05:14:00 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>チラシの裏 &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>エフェクト全部表示で戦えている理由を考えてみる</title>
+		<link>./../../../2022-10-28/%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e5%85%a8%e9%83%a8%e8%a1%a8%e7%a4%ba%e3%81%a7%e6%88%a6%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1%e3%82%92%e8%80%83%e3%81%88%e3%81%a6%e3%81%bf/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 05:14:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[チラシの裏]]></category>
+		<guid isPermaLink="false">./../../../2022-10-28/%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e5%85%a8%e9%83%a8%e8%a1%a8%e7%a4%ba%e3%81%a7%e6%88%a6%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1%e3%82%92%e8%80%83%e3%81%88%e3%81%a6%e3%81%bf/index.html</guid>
+
+					<description><![CDATA[FF14でエフェクト全部表示＋画質も最高全部盛りな設定にしてるけれど特にストレス&#8230;]]></description>
+										<content:encoded><![CDATA[<p>FF14でエフェクト全部表示＋画質も最高全部盛りな設定にしてるけれど特にストレスなくギミック避けられているので、その理由（私がどういう思考でプレイしているか）を言語化してみる。誰かの何かの参考になるかもならないかも。</p>
+<p>あ、ちなみに私がエフェクト全部盛りにしている理由はたんに「派手にエフェクト光ってる方が盛り上がるじゃん」って理由だけです。</p>
+<p>　◇　◇　◇</p>
+<p>エフェクト表示を「自分以外簡易にしている／消してる」な人に理由を聞くと「画面が明るすぎて予兆がよく見えず避けにくいから」と言う。</p>
+<p>それが真だとしたら私は「予兆を見ずに避けている」という事だろうか？</p>
+<p>案外そうかもしれない。</p>
+<p>流石に何もみずにプレイしているわけではないけれど、でも言うほどそんなに予兆を気にしていないかもしれない。もう少し細かく言うなら「必要な瞬間に必要な所が見えれば良い。」と書けばいいだろうか。</p>
+<h3 style="text-align: left;">「タイムラインを覚えている」</h3>
+<p>FF14の戦闘コンテンツはタイムラインを覚えるゲームと思っていて、多少ランダム要素はあるけれど全体として何が起こるのかは事前にわかってる。</p>
+<p>わりとタイムラインやギミックを覚えるのは得意な方なので、予習すればもちろん、そうでなく未予習自力解明だとしても全滅までに起こったタイムラインはまぁまぁ覚えてしまう。（というか未予習自力解明の場合タイムライン構築からやるのが基本路線と私は思ってる）</p>
+<p>いつ何が起こるのかがわかれば、その時何を見ればいいのかを意識して、見えたら動く。<br />心の準備も動く準備も出来ているので素早く反応できるし、なんなら事前に安全圏にいたりもする。なのであまり「その瞬間に慌てて動く」という事がないかもしれない。</p>
+<p>いくらエフェクトが派手だと言っても戦闘中100%真っ白に光って何も見えないわけじゃない。<br />見るべき瞬間に見るべきものが見えればいいだけなので、エフェクトが派手に光っていてもそれほど影響がないのではないかな、たぶん。</p>
+<p>これが慣れたコンテンツになってくると更にほぼ何も見えなかったとしても避けられる……気がする。明確に検証したことないけれど。</p>
+<p>私の覚えている「タイムライン」には時系列に加えて攻撃範囲だとか位置情報も含まれているので「ここに立っていれば当たらないでしょう」が事前にわかる。</p>
+<p>だから多少画面がまぶしてくても特に影響ないのかもしれない。</p>
+<h3 style="text-align: left;">「戦場のあちこちを見ている」</h3>
+<p>必要な瞬間に必要な所を見るかわりに、その他の時間はあちこち見ている気がする。</p>
+<p>視野を広くもっている／フィールドを俯瞰しているといえばかっこいいけれど、落ち着き無くキョロキョロしてるとも言えるかもしれないｗ</p>
+<p>見てるもの：敵の位置、敵のHP、敵の詠唱、敵の様子。仲間の位置、仲間のHP、仲間のバフ欄、仲間が何の行動をしているか。フィールドや周囲の様子。</p>
+<p>頭割りのペアが変なところにいても気付けるし、次に塔踏みくるのにあそこ人がいないわ～とかも気づける。</p>
+<p>そういう「今の様子を把握する情報源」としてメンバーのエフェクトも利用している可能性もあるよね。光ってなにかしてたら「詠唱してて動けないかな？んじゃこっちが寄るか」とかそういう判断にも使える。</p>
+<p>なのでもしかするとエフェクトOFFにすると自分が知れる情報源が一つ失われて判断が遅れるかもしれないね。</p>
+<p>基本的に自キャラは見ていない気がする。<br />自分の立ち位置は自分が操作しているのでおおよそ脳内再生されたマップ上にいるし、ターゲットとの位置関係で向きもわかる。<br />画面は必要以上にぐるぐる回さないのでだいたいコンテンツごとに必要な方向を向いているから、次に押すべき方向キーも認識できる。</p>
+<p>いろんな情報から「パーティの様子」「戦場の様子」を把握して次に何が必要になりそうか考えてギミックこなしているのかもしれない。</p>
+<p>　◇　◇　◇</p>
+<p>とりあえずいま思いつく「エフェクトが全部表示されていても問題ないに繋がりそうな点」はこれくらい。また何か気づいたら更新するかも。</p>
+<p>参考までに、私のFF14プレイ環境：</p>
+<h4 style="text-align: left;">パソコン</h4>
+</p>
+<ul style="text-align: left;">
+<li>GeForce GTX 1070</li>
+<li>第8世代Corei5</li>
+<li>16GBメモリ</li>
+<li>ストレージはSSD</li>
+</ul>
+<h4 style="text-align: left;">モニタ</h4>
+</p>
+<ul style="text-align: left;">
+<li>24インチ x 3枚（うち中央がFF14）</li>
+<li>1920&#215;1080</li>
+<li>フルスクリーンなウインドウモード</li>
+</ul>
+<h4 style="text-align: left;">FF14</h4>
+</p>
+<ul style="text-align: left;">
+<li>キーボード／マウス操作</li>
+<li>移動モードはレガシー</li>
+</ul>
+<p>ここまで書いて思いましたけど「画面解像度がこれより狭い環境だと色々大きく映りすぎてエフェクトで見づらくなるかもしれないな」ということはあるかも。広い分には関係ないのかな？体験したことがないから断言はできない。</p>
+<p>マシンスペック（特にグラフィックボードかな？）によっては、エフェクトや画面効果を増やすと描画にラグが発生するとかはあるのかも？</p>
+<p>その場合はたしかに色々オフにしないと「<a href="https://game.watch.impress.co.jp/docs/interview/627195.html#:~:text=%E3%81%AA%E3%82%93%E3%81%A0%E3%82%88%E7%B5%B6%E5%AF%BE%E9%81%BF%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AF%E3%81%9A%E3%81%AA%E3%81%AE%E3%81%AB%E3%80%81%E3%81%93%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84%E3%81%9E" target="_blank" rel="noopener">私の画面では避けてた</a>」案件になりますよね。</p>
+<p>参考までに書いておくと「グラボは同じ1070＋CPUは第4世代のCorei7」でも同じくエフェクト全部盛りでやれてました。</p>
+<p>なのでこの環境でなら「私はエフェクト全部表示で特に問題を感じない」という前提で読んでください。他の環境は知らない。</p>
+<p>　◇　◇　◇</p>
+<p>※私がタイムラインを覚える際に意識していること（≒自力解明や予習時に意識していること）はまた別で書けたらいいな。</p>
+<p>※いにしえのUltima Onlineでは画面外から迫りくるPK（Player Killer）にいち早く気づく必要があったので、周囲を警戒する／視野を広くする／小さな異変を気にするといったものはそこが起源かもしれない笑</p>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>新生祭2022：その足跡は、別の誰かの明日へと続く</title>
+		<link>./../../../2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sat, 17 Sep 2022 11:04:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[チラシの裏]]></category>
+		<category><![CDATA[新生祭]]></category>
+		<guid isPermaLink="false">./../../../2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/index.html</guid>
+
+					<description><![CDATA[新生祭がおわって夏が終わり秋の訪れを感じます。 今回の新生祭ストーリーを進める中&#8230;]]></description>
+										<content:encoded><![CDATA[<p>新生祭がおわって夏が終わり秋の訪れを感じます。</p>
+<p>今回の新生祭ストーリーを進める中で「その足跡は、別の誰かの明日へと続く」というメッセージに触れて色々な想いが巡りました。</p>
+<p>すぐに頭に浮かんだのはマイディさんの事。</p>
+<p>わたしはブログで展開されていた「<a href="http://sumimarudan.blog7.fc2.com/blog-entry-2019.html" target="_blank" rel="noopener">光のお父さん計画</a>」の更新をリアルタイムで楽しみにしていた読者のひとりでした。</p>
+<p>長くMMOに触れてきた経験から共感できるところも多く、スクリーンショットとテンポ良い文章でいつも楽しく読んでました。</p>
+<p>私が数年前にドラクエ好きからドラクエ10（MMO）の世界に引き込んだ相方さんが、私の知らない間にマイディさんの日記読者になっていて、気づいたらFF14の世界に来ていたこと。これもマイディさんの足跡から続いている道だなぁとすぐにそれが頭に浮かびました。</p>
+<p>（ちなみにFF14はじめる前の相方さんが読んでいて気に入ったのは<a href="http://sumimarudan.blog7.fc2.com/blog-entry-2019.html?q=%E3%82%A8%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89&amp;page=3" target="_blank" rel="noopener">エターナルバンド周りの話</a>だったようで、エタバンをする二人を心からお祝いしている周囲の人達の様子に感動していたようです）</p>
+<p>その相方さんの知り合いもつい最近FF14をはじめて楽しんでいます。そしてその知り合いの知り合いも。<br />これも足跡が続いているよね、と。</p>
+<p>私が運営しているCWLSの中でも「光のお父さん」をテレビや映画で見てFF14はじめたという人が少なくないです。</p>
+<p>もちろんマイディさんだけでなくて、色んな人の色んなつながりが今のFF14の世界や、私の周りの友人関係、私の知らない所での冒険者たちの繋がりを作っているんだな～って。</p>
+<p>私がはるか昔にMMOという「人と繋がれるゲームに触れて」そこで知り合った人といまでも繋がっていたりします。お互いゲームをしなくなっても、家族ぐるみで付き合いが続いていたりします。</p>
+<p>そうやって私の周りの世界を構築してる繋がりができているのがとても素敵な縁であり、続いている道だな～とかとか。</p>
+<p>そんな妄想していたら一緒に新生祭してた相方さんもカットシーンが終わって戻ってきました。</p>
+<p>これからも色んな人の足跡を辿りつつ、私の足跡も残しつつ、素敵な冒険を続けたいと改めて思える新生祭でした。</p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRSEiFOrYFfd4x5pWehrv65yGi8c_f5NX8zOVGx0NhsDjzJXu7P3pWM9dkjjqZNaSWaXAMN9NnokBFy-EghqiPp6jinZvYSBQl25hWo4LWWB205MsipTRFZGgR4jVB__pBkXdN9LPqM8a9UwCp1nTuVwsp_eSiJCUE5Tj66SPjS5C9Zig_tE4BiCU7MQ/s1920/ffxiv_20220827_204618_471.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRSEiFOrYFfd4x5pWehrv65yGi8c_f5NX8zOVGx0NhsDjzJXu7P3pWM9dkjjqZNaSWaXAMN9NnokBFy-EghqiPp6jinZvYSBQl25hWo4LWWB205MsipTRFZGgR4jVB__pBkXdN9LPqM8a9UwCp1nTuVwsp_eSiJCUE5Tj66SPjS5C9Zig_tE4BiCU7MQ/s320/ffxiv_20220827_204618_471.png" width="320" /></a></div>
+<p></p>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>6,000文字の文章を書く</title>
+		<link>./../../../2022-07-31/6000%e6%96%87%e5%ad%97%e3%81%ae%e6%96%87%e7%ab%a0%e3%82%92%e6%9b%b8%e3%81%8f/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sun, 31 Jul 2022 00:37:00 +0000</pubDate>
+				<category><![CDATA[チラシの裏]]></category>
+		<guid isPermaLink="false">./../../../2022-07-31/6000%e6%96%87%e5%ad%97%e3%81%ae%e6%96%87%e7%ab%a0%e3%82%92%e6%9b%b8%e3%81%8f/index.html</guid>
+
+					<description><![CDATA[&#160;6,000文字の文章を書く。この時点で意味がわからない。日常生活で「&#8230;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;6,000文字の文章を書く。この時点で意味がわからない。日常生活で「1、2、3…」と数えて「6,000！」って普通数えない。それくらいの文字数。</p>
+<p>ローマ字打ちなので1文字打つのに2回キーを叩く。漢字変換は一回で終わらないから数度叩く。変換を間違えれば戻ったりする。全角を半角に、半角を全角にすることもある。そう考えると１単語打つだけで3～5回くらい打ってる。適当なので実際は前後する回数かも。</p>
+<p>例えば1文字5回打ってるとする。6,000文字→30,000回キーボード叩いてる。</p>
+<p>日常生活で「1、2、3…」と数えて「30,000！」って普通数えない。それくらいの回数キーボード叩いてる。1回の文章作成で。</p>
+<p>この半年でまぁまぁ文章書いてきた。5つ書いたとしたら6,000文字ｘ5つ＝30,000文字。<br />30,000文字ｘ5回＝150,000回キーボード叩いてる。<br />半年で。</p>
+<p>このペースで書いてないにしてもそれなりに書く方なので1年でこの1.5倍書いたとする。<br />6,000文字ｘ5文書ｘ5回ｘ1.5＝（計算できない子なので電卓叩く）＝225,000回/年だけキーボード叩いてる。</p>
+<p>このキーボードを買って3年…。<br />225,000回/年ｘ3年＝675,000回。</p>
+<p>日常生活で「1、2、3…」と数えて「ろくじゅうななまんごせん！」って普通数えない。それくらいの回数をキーボード叩いてる。3年で。</p>
+<p>ろくじゅうななまんごせん回キーボードを叩くにはろくじゅうななまんごせん回指を上下させる必要がある。</p>
+<p>ろくじゅうななまんごせん回指を上下させるには筋肉を動かして指を上下させないといけないので、最低でもろくじゅうななまんごせん回だけ指の筋肉に対して動かせという電気信号が脳から発せられてそれに応じてATPを消費して指を上下上下上下上下上下させてきた。</p>
+<p>ろくじゅうななまんごせん回叩きつけられて頑張ってるキーボード凄い。この文章を書いている今も叩かれ続けてる。壊れない。凄い。<br />ろくじゅうななまんごせん回指を上下させても指壊れてない。指も凄い。</p>
+<p>そういえばこのキーボードは10,000円くらいでした。キーボードとしては高い方かもしれないけれど自分にはとても合っている。キーストロークはしっかり押せるのが好き。音もうるさくなくて良い。打っていて楽しい。</p>
+<p>ろくじゅうななまんごせん回叩かれても頑張って壊れず、使っている方もご機嫌なら10,000円でも安い方じゃない？という持論。まだまだこれからも打ち続けますし。</p>
+<p>まとめ「キーボードは高くても好みのものを買え。」</p>
+<p>最後に私好みのキーボードが滅びないようにリンクを貼っておくのでみんな買うと良い。<br />FILCO&nbsp;<a href="https://www.diatec.co.jp/" target="_blank" rel="noopener">https://www.diatec.co.jp/</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>スマホからテストです</title>
+		<link>./../../../2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2022 08:23:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[チラシの裏]]></category>
+		<guid isPermaLink="false">./../../../2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/index.html</guid>
+
+					<description><![CDATA[&#160;スマホからかけるかテストだよ。 いけますね！ 細かい操作がわかんない&#8230;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;スマホからかけるかテストだよ。</p>
+<p>いけますね！</p>
+<p>細かい操作がわかんないけどw</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>技術的なあれこれメモ</title>
+		<link>./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 11 Feb 2022 02:30:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[チラシの裏]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</guid>
+
+					<description><![CDATA[個人的なメモ。すぐ忘れるから。 ffmpeg wavの音量を確認して音量を調整す&#8230;]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;">個人的なメモ。すぐ忘れるから。</p>
+<h2 style="text-align: left;">ffmpeg</h2>
+<h3 style="text-align: left;">wavの音量を確認して音量を調整する</h3>
+<h4 style="text-align: left;">ファイルの音量確認</h4>
+<p>ffmpeg -i 005_ずんだもん（ノーマル）_あれあれ？どうして….wav -vn -af volumedetect -f null &#8211;</p>
+<h4 style="text-align: left;">ファイルの音量を変更してコピーを作って保存</h4>
+<p>ffmpeg -i 005_ずんだもん（ノーマル）_あれあれ？どうして….wav -codec:v copy -af volume=6.1dB 005_ずんだもん（ノーマル）_あれあれ？どうして_6.1dBup.wav</p>
+<h3 style="text-align: left;">AV1エンコードの動画 input_av1.mp4 を、グラボを使って、h264に変換、プリセットslowでCQ15。コピーとしてファイル名 output_h264.mp4 として出力。</h3>
+<p style="text-align: left;">ffmpeg -i input_av1.mp4 -c:v h264_nvenc -preset slow -cq 15 -c:a copy output_h264.mp4</p>
+<h2 style="text-align: left;">HTMLでネタばれとかを折りたたむやつ</h2>
+<p>（2023-06-23追記）</p>
+<h3 style="text-align: left;">っていうか &lt;details&gt; &lt;summary&gt;をつかって以下のように書けば実現できると！</h3>
+<p>&lt;details class=&#8221;accordion_cat&#8221;&gt;<br />&lt;summary&gt;参考URL（押すと開く）&lt;/summary&gt;<br />&lt;div class=&#8221;ribbon15-wrapper&#8221;&gt;&lt;span class=&#8221;ribbon15 material-icons&#8221;&gt;pets&lt;/span&gt;<br />&nbsp; &nbsp; &lt;div&gt;<br />&nbsp; &nbsp;&nbsp;&#8212;<br />&nbsp; &nbsp;&nbsp;リンクをだしたりね。&lt;br&gt;<br />&nbsp; &nbsp;&nbsp;&lt;a href=&#8221;https://www.webcreatorbox.com/tech/details-summary&#8221;&gt;https://www.webcreatorbox.com/tech/details-summary&lt;/a&gt;<br />&nbsp; &nbsp;&nbsp;&#8212;<br />&nbsp; &nbsp;&nbsp;&lt;/div&gt;<br />&lt;/div&gt;<br />&lt;/details&gt;</p>
+<p>なんてこった。</p>
+</p>
+<details>
+<summary>参考URL（押すと開く）</summary>
+<div>
+    <span>pets</span><br />
+    リンクをだしたりね。</p>
+<div>
+      <a href="https://www.webcreatorbox.com/tech/details-summary">https://www.webcreatorbox.com/tech/details-summary</a>
+    </div>
+</p></div>
+</details>
+<p>（//2023-06-23追記ここまで）</p>
+<div name="box1">ここを押すと開く（１）</div>
+<div>
+    <span>pets</span></p>
+<div>
+    隠す文字ここ（１）<br />
+      メッセージを書くよ。<br />
+      もにゃもにゃ<br />
+      ほにゃーん。
+    </div>
+</p></div>
+<hr />
+<h3 style="text-align: left;">
+以下、ソース。</h3>
+<h4 style="text-align: left;">HTML</h4>
+<div>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;div</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;openCloseButton&#8221;</span> <span style="color: #e50000;">name</span>=<span style="color: blue;">&#8220;box1&#8221;</span><span style="color: maroon;">&gt;</span>ここを押すと開く（１）<span style="color: maroon;">&lt;/div&gt;</span></div>
+<div><span style="color: maroon;">&lt;div</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;ribbon15-wrapper openCloseBox&#8221;</span><span style="color: maroon;">&gt;</span><span style="color: maroon;">&lt;span</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;ribbon15 material-icons&#8221;</span><span style="color: maroon;">&gt;</span>pets<span style="color: maroon;">&lt;/span&gt;</span></div>
+<div><span style="color: maroon;">&nbsp; &nbsp; &lt;div&gt;</span></div>
+<div><span style="color: maroon;">    &#8212;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; 隠す文字ここ（１）<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; メッセージを書くよ。<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; もにゃもにゃ<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; ほにゃーん。</div>
+<div><span style="color: maroon;">    &#8212;</span></div>
+<div>&nbsp; &nbsp; <span style="color: maroon;">&lt;/div&gt;</span></div>
+<div><span style="color: maroon;">&lt;/div&gt;</span></div>
+</div>
+<p></p>
+<div>
+<h4 style="text-align: left;">スタイルシート</h4>
+<div>スタイルシートのリボンは<a href="https://saruwakakun.com/" target="_blank" rel="noopener">サルワカ</a>さんの。</div>
+<div></div>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;style&gt;</span></div>
+<div><span style="color: maroon;">.ribbon15-wrapper</span> { &nbsp;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">relative</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">margin</span>: <span style="color: #098658;">15px</span> <span style="color: #0451a5;">auto</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">10px</span> <span style="color: #098658;">55px</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">30px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">95%</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#f1f1f1</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">box-sizing</span>: <span style="color: #0451a5;">border-box</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15</span> { &nbsp;</div>
+<div>&nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-block</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">-6px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">right</span>: <span style="color: #098658;">10px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">margin</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">10px</span> <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">z-index</span>: <span style="color: #098658;">2</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">text-align</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">font-size</span>: <span style="color: #098658;">17px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">background</span>: <span style="color: #795e26;">linear-gradient</span>(<span style="color: #0451a5;">#ff785b</span> <span style="color: #098658;">0%</span>, <span style="color: #0451a5;">#e95738</span> <span style="color: #098658;">100%</span>);</div>
+<div>&nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">2px</span> <span style="color: #098658;">0</span> <span style="color: #098658;">0</span> <span style="color: #098658;">0</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15:before</span> {</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8221;</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">right</span>: <span style="color: #098658;">-6px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border</span>: <span style="color: #0451a5;">none</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-bottom</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">6px</span> <span style="color: #0451a5;">#cf4a2d</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-right</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">6px</span> <span style="color: #0451a5;">transparent</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15:after</span> {</div>
+<div>&nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8221;</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">100%</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-left</span>: <span style="color: #098658;">20px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">#e95738</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-right</span>: <span style="color: #098658;">20px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">#e95738</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-bottom</span>: <span style="color: #098658;">10px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">transparent</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton</span>{</div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*開閉ボタン機能用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">cursor</span>: <span style="color: #0451a5;">pointer</span>;</div>
+<div></div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*ボタンデザイン用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-flex</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">cursor</span>: <span style="color: #0451a5;">pointer</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">20px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">relative</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#ffd98a</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">2px</span> <span style="color: #098658;">5px</span> <span style="color: #098658;">2px</span> <span style="color: #098658;">25px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-size</span>: <span style="color: #098658;">20px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">#474747</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">0</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">align-items</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton::before</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*開閉ボタン機能用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transition</span>: <span style="color: #098658;">.4s</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transform</span>: <span style="color: #795e26;">rotate</span>(<span style="color: #098658;">0deg</span>);</div>
+<p></p>
+<div>&nbsp; &nbsp; <span style="color: green;">/*ボタンデザイン用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-family</span>: <span style="color: #a31515;">&#8220;Material Icons&#8221;</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8216;</span><span style="color: #ee0000;">e91d</span><span style="color: #a31515;">&#8216;</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-block</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">line-height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">0em</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#ffa337</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-weight</span>: <span style="color: #098658;">900</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">text-align</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">line-height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">-1.35em</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">3px</span> <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">50%</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton.is-active::before</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transform</span>: <span style="color: #795e26;">rotate</span>(<span style="color: #098658;">30deg</span>);</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.openCloseBox</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>:<span style="color: #0451a5;">#ffffff00</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">opacity</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">visibility</span>: <span style="color: #0451a5;">hidden</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transition</span>: <span style="color: #098658;">.8s</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseBox.is-open</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>:<span style="color: #0451a5;">#363636</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #0451a5;">auto</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">opacity</span>: <span style="color: #098658;">1</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">visibility</span>: <span style="color: #0451a5;">visible</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">&lt;/style&gt;</span></div>
+</div>
+</div>
+<div>
+<h4 style="text-align: left;">JavaScript</h4>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;script&gt;</span></div>
+<div><span style="color: #001080;">document</span>.<span style="color: #795e26;">addEventListener</span>(<span style="color: #a31515;">&#8216;DOMContentLoaded&#8217;</span>,() <span style="color: blue;">=&gt;</span> {</div>
+<div>&nbsp; <span style="color: blue;">const</span> <span style="color: #0070c1;">title</span> = <span style="color: #001080;">document</span>.<span style="color: #795e26;">querySelectorAll</span>(<span style="color: #a31515;">&#8216;.openCloseButton&#8217;</span>);</div>
+<div>&nbsp; </div>
+<div>&nbsp; <span style="color: #af00db;">for</span> (<span style="color: blue;">let</span> <span style="color: #001080;">i</span> = <span style="color: #098658;">0</span>; <span style="color: #001080;">i</span> &lt; <span style="color: #0070c1;">title</span>.<span style="color: #001080;">length</span>; <span style="color: #001080;">i</span>++){</div>
+<div>&nbsp; &nbsp; <span style="color: blue;">let</span> <span style="color: #001080;">titleEach</span> = <span style="color: #0070c1;">title</span>[<span style="color: #001080;">i</span>];</div>
+<div>&nbsp; &nbsp; <span style="color: blue;">let</span> <span style="color: #001080;">content</span> = <span style="color: #001080;">titleEach</span>.<span style="color: #001080;">nextElementSibling</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #001080;">titleEach</span>.<span style="color: #795e26;">addEventListener</span>(<span style="color: #a31515;">&#8216;click&#8217;</span>, () <span style="color: blue;">=&gt;</span> {</div>
+<div>&nbsp; &nbsp; &nbsp; <span style="color: #001080;">titleEach</span>.<span style="color: #001080;">classList</span>.<span style="color: #795e26;">toggle</span>(<span style="color: #a31515;">&#8216;is-active&#8217;</span>);</div>
+<div>&nbsp; &nbsp; &nbsp; <span style="color: #001080;">content</span>.<span style="color: #001080;">classList</span>.<span style="color: #795e26;">toggle</span>(<span style="color: #a31515;">&#8216;is-open&#8217;</span>);</div>
+<div>&nbsp; &nbsp; });</div>
+<div>&nbsp; }</div>
+<div>});</div>
+<div><span style="color: maroon;">&lt;/script&gt;</span></div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iPhoneのおやすみモードやめた！</title>
+		<link>./../../../2022-02-04/iphone%e3%81%ae%e3%81%8a%e3%82%84%e3%81%99%e3%81%bf%e3%83%a2%e3%83%bc%e3%83%89%e3%82%84%e3%82%81%e3%81%9f%ef%bc%81/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Thu, 03 Feb 2022 20:08:00 +0000</pubDate>
+				<category><![CDATA[チラシの裏]]></category>
+		<guid isPermaLink="false">./../../../2022-02-04/iphone%e3%81%ae%e3%81%8a%e3%82%84%e3%81%99%e3%81%bf%e3%83%a2%e3%83%bc%e3%83%89%e3%82%84%e3%82%81%e3%81%9f%ef%bc%81/index.html</guid>
+
+					<description><![CDATA[昨日はどうにも疲れていて夕食後19:30くらいに布団で休憩していたら次に目が覚め&#8230;]]></description>
+										<content:encoded><![CDATA[<p>昨日はどうにも疲れていて夕食後19:30くらいに布団で休憩していたら次に目が覚めたら25:30でした。</p>
+<p>友人と約束していたのに、着信をなんどかもらったのに全部すっぽかして寝てました。<br />iPhoneのおやすみモードで通知が何もならなかったっぽい。</p>
+<p>何度か「鳴らしても気づいてないぽいんだけど？」がここ数日あったのでおやすみモードやめました！</p>
+</p>
+<ol style="text-align: left;">
+<li>iPhoneの設定を開く。</li>
+<li>集中モードを開く。</li>
+<li>「おやすみモード」とか「集中モード」的なものをオフにしたり削除したり！</li>
+</ol>
+<div>たぶんこれで今後は気づく…はず？</div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

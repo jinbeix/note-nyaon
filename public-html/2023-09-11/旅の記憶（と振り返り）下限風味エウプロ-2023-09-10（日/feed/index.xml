@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	旅の記憶（と振り返り）下限風味エウプロ 2023-09-10（日） へのコメント	</title>
+	<atom:link href="./../../%E6%97%85%E3%81%AE%E8%A8%98%E6%86%B6%EF%BC%88%E3%81%A8%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%EF%BC%89%E4%B8%8B%E9%99%90%E9%A2%A8%E5%91%B3%E3%82%A8%E3%82%A6%E3%83%97%E3%83%AD-2023-09-10%EF%BC%88%E6%97%A5/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Mon, 11 Sep 2023 02:13:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+</channel>
+</rss>

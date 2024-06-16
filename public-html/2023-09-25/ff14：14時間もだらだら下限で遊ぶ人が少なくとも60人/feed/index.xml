@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	FF14：14時間もだらだら下限で遊ぶ人が少なくとも60人もいるってよ へのコメント	</title>
+	<atom:link href="./../../ff14%EF%BC%9A14%E6%99%82%E9%96%93%E3%82%82%E3%81%A0%E3%82%89%E3%81%A0%E3%82%89%E4%B8%8B%E9%99%90%E3%81%A7%E9%81%8A%E3%81%B6%E4%BA%BA%E3%81%8C%E5%B0%91%E3%81%AA%E3%81%8F%E3%81%A8%E3%82%8260%E4%BA%BA/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Mon, 25 Sep 2023 02:33:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+</channel>
+</rss>

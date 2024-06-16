@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blogger &#8211; にゃおんノート</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Thu, 07 Apr 2022 08:23:00 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>Blogger &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>スマホからテストです</title>
+		<link>./../../../2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2022 08:23:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[チラシの裏]]></category>
+		<guid isPermaLink="false">./../../../2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/index.html</guid>
+
+					<description><![CDATA[&#160;スマホからかけるかテストだよ。 いけますね！ 細かい操作がわかんない&#8230;]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;スマホからかけるかテストだよ。</p>
+<p>いけますね！</p>
+<p>細かい操作がわかんないけどw</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>色いろいろ</title>
+		<link>./../../../2022-02-12/%e8%89%b2%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sat, 12 Feb 2022 00:46:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-12/%e8%89%b2%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d/index.html</guid>
+
+					<description><![CDATA[瑠璃色るりいろ #1e50a2]]></description>
+										<content:encoded><![CDATA[<div style="text-align: left;">瑠璃色るりいろ #1e50a2</div>
+<div style="text-align: left;"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>技術的なあれこれメモ</title>
+		<link>./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 11 Feb 2022 02:30:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[チラシの裏]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</guid>
+
+					<description><![CDATA[個人的なメモ。すぐ忘れるから。 ffmpeg wavの音量を確認して音量を調整す&#8230;]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;">個人的なメモ。すぐ忘れるから。</p>
+<h2 style="text-align: left;">ffmpeg</h2>
+<h3 style="text-align: left;">wavの音量を確認して音量を調整する</h3>
+<h4 style="text-align: left;">ファイルの音量確認</h4>
+<p>ffmpeg -i 005_ずんだもん（ノーマル）_あれあれ？どうして….wav -vn -af volumedetect -f null &#8211;</p>
+<h4 style="text-align: left;">ファイルの音量を変更してコピーを作って保存</h4>
+<p>ffmpeg -i 005_ずんだもん（ノーマル）_あれあれ？どうして….wav -codec:v copy -af volume=6.1dB 005_ずんだもん（ノーマル）_あれあれ？どうして_6.1dBup.wav</p>
+<h3 style="text-align: left;">AV1エンコードの動画 input_av1.mp4 を、グラボを使って、h264に変換、プリセットslowでCQ15。コピーとしてファイル名 output_h264.mp4 として出力。</h3>
+<p style="text-align: left;">ffmpeg -i input_av1.mp4 -c:v h264_nvenc -preset slow -cq 15 -c:a copy output_h264.mp4</p>
+<h2 style="text-align: left;">HTMLでネタばれとかを折りたたむやつ</h2>
+<p>（2023-06-23追記）</p>
+<h3 style="text-align: left;">っていうか &lt;details&gt; &lt;summary&gt;をつかって以下のように書けば実現できると！</h3>
+<p>&lt;details class=&#8221;accordion_cat&#8221;&gt;<br />&lt;summary&gt;参考URL（押すと開く）&lt;/summary&gt;<br />&lt;div class=&#8221;ribbon15-wrapper&#8221;&gt;&lt;span class=&#8221;ribbon15 material-icons&#8221;&gt;pets&lt;/span&gt;<br />&nbsp; &nbsp; &lt;div&gt;<br />&nbsp; &nbsp;&nbsp;&#8212;<br />&nbsp; &nbsp;&nbsp;リンクをだしたりね。&lt;br&gt;<br />&nbsp; &nbsp;&nbsp;&lt;a href=&#8221;https://www.webcreatorbox.com/tech/details-summary&#8221;&gt;https://www.webcreatorbox.com/tech/details-summary&lt;/a&gt;<br />&nbsp; &nbsp;&nbsp;&#8212;<br />&nbsp; &nbsp;&nbsp;&lt;/div&gt;<br />&lt;/div&gt;<br />&lt;/details&gt;</p>
+<p>なんてこった。</p>
+</p>
+<details>
+<summary>参考URL（押すと開く）</summary>
+<div>
+    <span>pets</span><br />
+    リンクをだしたりね。</p>
+<div>
+      <a href="https://www.webcreatorbox.com/tech/details-summary">https://www.webcreatorbox.com/tech/details-summary</a>
+    </div>
+</p></div>
+</details>
+<p>（//2023-06-23追記ここまで）</p>
+<div name="box1">ここを押すと開く（１）</div>
+<div>
+    <span>pets</span></p>
+<div>
+    隠す文字ここ（１）<br />
+      メッセージを書くよ。<br />
+      もにゃもにゃ<br />
+      ほにゃーん。
+    </div>
+</p></div>
+<hr />
+<h3 style="text-align: left;">
+以下、ソース。</h3>
+<h4 style="text-align: left;">HTML</h4>
+<div>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;div</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;openCloseButton&#8221;</span> <span style="color: #e50000;">name</span>=<span style="color: blue;">&#8220;box1&#8221;</span><span style="color: maroon;">&gt;</span>ここを押すと開く（１）<span style="color: maroon;">&lt;/div&gt;</span></div>
+<div><span style="color: maroon;">&lt;div</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;ribbon15-wrapper openCloseBox&#8221;</span><span style="color: maroon;">&gt;</span><span style="color: maroon;">&lt;span</span> <span style="color: #e50000;">class</span>=<span style="color: blue;">&#8220;ribbon15 material-icons&#8221;</span><span style="color: maroon;">&gt;</span>pets<span style="color: maroon;">&lt;/span&gt;</span></div>
+<div><span style="color: maroon;">&nbsp; &nbsp; &lt;div&gt;</span></div>
+<div><span style="color: maroon;">    &#8212;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; 隠す文字ここ（１）<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; メッセージを書くよ。<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; もにゃもにゃ<span style="color: maroon;">&lt;br&gt;</span></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; ほにゃーん。</div>
+<div><span style="color: maroon;">    &#8212;</span></div>
+<div>&nbsp; &nbsp; <span style="color: maroon;">&lt;/div&gt;</span></div>
+<div><span style="color: maroon;">&lt;/div&gt;</span></div>
+</div>
+<p></p>
+<div>
+<h4 style="text-align: left;">スタイルシート</h4>
+<div>スタイルシートのリボンは<a href="https://saruwakakun.com/" target="_blank" rel="noopener">サルワカ</a>さんの。</div>
+<div></div>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;style&gt;</span></div>
+<div><span style="color: maroon;">.ribbon15-wrapper</span> { &nbsp;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">relative</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">margin</span>: <span style="color: #098658;">15px</span> <span style="color: #0451a5;">auto</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">10px</span> <span style="color: #098658;">55px</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">30px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">95%</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#f1f1f1</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">box-sizing</span>: <span style="color: #0451a5;">border-box</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15</span> { &nbsp;</div>
+<div>&nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-block</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">-6px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">right</span>: <span style="color: #098658;">10px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">margin</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">10px</span> <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">z-index</span>: <span style="color: #098658;">2</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">text-align</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">font-size</span>: <span style="color: #098658;">17px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">background</span>: <span style="color: #795e26;">linear-gradient</span>(<span style="color: #0451a5;">#ff785b</span> <span style="color: #098658;">0%</span>, <span style="color: #0451a5;">#e95738</span> <span style="color: #098658;">100%</span>);</div>
+<div>&nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">2px</span> <span style="color: #098658;">0</span> <span style="color: #098658;">0</span> <span style="color: #098658;">0</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15:before</span> {</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8221;</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">right</span>: <span style="color: #098658;">-6px</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border</span>: <span style="color: #0451a5;">none</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-bottom</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">6px</span> <span style="color: #0451a5;">#cf4a2d</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-right</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">6px</span> <span style="color: #0451a5;">transparent</span>;</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.ribbon15:after</span> {</div>
+<div>&nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8221;</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">top</span>: <span style="color: #098658;">100%</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-left</span>: <span style="color: #098658;">20px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">#e95738</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-right</span>: <span style="color: #098658;">20px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">#e95738</span>;</div>
+<div>&nbsp; <span style="color: #e50000;">border-bottom</span>: <span style="color: #098658;">10px</span> <span style="color: #0451a5;">solid</span> <span style="color: #0451a5;">transparent</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton</span>{</div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*開閉ボタン機能用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">cursor</span>: <span style="color: #0451a5;">pointer</span>;</div>
+<div></div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*ボタンデザイン用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-flex</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">cursor</span>: <span style="color: #0451a5;">pointer</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">20px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">relative</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#ffd98a</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">2px</span> <span style="color: #098658;">5px</span> <span style="color: #098658;">2px</span> <span style="color: #098658;">25px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-size</span>: <span style="color: #098658;">20px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">#474747</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">0</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">10px</span> <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">align-items</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton::before</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: green;">/*開閉ボタン機能用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transition</span>: <span style="color: #098658;">.4s</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transform</span>: <span style="color: #795e26;">rotate</span>(<span style="color: #098658;">0deg</span>);</div>
+<p></p>
+<div>&nbsp; &nbsp; <span style="color: green;">/*ボタンデザイン用*/</span></div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-family</span>: <span style="color: #a31515;">&#8220;Material Icons&#8221;</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">content</span>: <span style="color: #a31515;">&#8216;</span><span style="color: #ee0000;">e91d</span><span style="color: #a31515;">&#8216;</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">display</span>: <span style="color: #0451a5;">inline-block</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">line-height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">position</span>: <span style="color: #0451a5;">absolute</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">padding</span>: <span style="color: #098658;">0em</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>: <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">background</span>: <span style="color: #0451a5;">#ffa337</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">font-weight</span>: <span style="color: #098658;">900</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">width</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">text-align</span>: <span style="color: #0451a5;">center</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">line-height</span>: <span style="color: #098658;">40px</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">left</span>: <span style="color: #098658;">-1.35em</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border</span>: <span style="color: #0451a5;">solid</span> <span style="color: #098658;">3px</span> <span style="color: #0451a5;">white</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">border-radius</span>: <span style="color: #098658;">50%</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseButton.is-active::before</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transform</span>: <span style="color: #795e26;">rotate</span>(<span style="color: #098658;">30deg</span>);</div>
+<div>}</div>
+<p></p>
+<div><span style="color: maroon;">.openCloseBox</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>:<span style="color: #0451a5;">#ffffff00</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">opacity</span>: <span style="color: #098658;">0</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">visibility</span>: <span style="color: #0451a5;">hidden</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">transition</span>: <span style="color: #098658;">.8s</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">.openCloseBox.is-open</span> {</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">color</span>:<span style="color: #0451a5;">#363636</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">height</span>: <span style="color: #0451a5;">auto</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">opacity</span>: <span style="color: #098658;">1</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #e50000;">visibility</span>: <span style="color: #0451a5;">visible</span>;</div>
+<div>}</div>
+<div><span style="color: maroon;">&lt;/style&gt;</span></div>
+</div>
+</div>
+<div>
+<h4 style="text-align: left;">JavaScript</h4>
+<div style="background-color: white; font-family: &quot;Source Han Code JP&quot;, Consolas, &quot;Courier New&quot;, monospace, Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">
+<div><span style="color: maroon;">&lt;script&gt;</span></div>
+<div><span style="color: #001080;">document</span>.<span style="color: #795e26;">addEventListener</span>(<span style="color: #a31515;">&#8216;DOMContentLoaded&#8217;</span>,() <span style="color: blue;">=&gt;</span> {</div>
+<div>&nbsp; <span style="color: blue;">const</span> <span style="color: #0070c1;">title</span> = <span style="color: #001080;">document</span>.<span style="color: #795e26;">querySelectorAll</span>(<span style="color: #a31515;">&#8216;.openCloseButton&#8217;</span>);</div>
+<div>&nbsp; </div>
+<div>&nbsp; <span style="color: #af00db;">for</span> (<span style="color: blue;">let</span> <span style="color: #001080;">i</span> = <span style="color: #098658;">0</span>; <span style="color: #001080;">i</span> &lt; <span style="color: #0070c1;">title</span>.<span style="color: #001080;">length</span>; <span style="color: #001080;">i</span>++){</div>
+<div>&nbsp; &nbsp; <span style="color: blue;">let</span> <span style="color: #001080;">titleEach</span> = <span style="color: #0070c1;">title</span>[<span style="color: #001080;">i</span>];</div>
+<div>&nbsp; &nbsp; <span style="color: blue;">let</span> <span style="color: #001080;">content</span> = <span style="color: #001080;">titleEach</span>.<span style="color: #001080;">nextElementSibling</span>;</div>
+<div>&nbsp; &nbsp; <span style="color: #001080;">titleEach</span>.<span style="color: #795e26;">addEventListener</span>(<span style="color: #a31515;">&#8216;click&#8217;</span>, () <span style="color: blue;">=&gt;</span> {</div>
+<div>&nbsp; &nbsp; &nbsp; <span style="color: #001080;">titleEach</span>.<span style="color: #001080;">classList</span>.<span style="color: #795e26;">toggle</span>(<span style="color: #a31515;">&#8216;is-active&#8217;</span>);</div>
+<div>&nbsp; &nbsp; &nbsp; <span style="color: #001080;">content</span>.<span style="color: #001080;">classList</span>.<span style="color: #795e26;">toggle</span>(<span style="color: #a31515;">&#8216;is-open&#8217;</span>);</div>
+<div>&nbsp; &nbsp; });</div>
+<div>&nbsp; }</div>
+<div>});</div>
+<div><span style="color: maroon;">&lt;/script&gt;</span></div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>はじめてのBloggerのデザイン構築時のメモ</title>
+		<link>./../../../2022-02-04/%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%aeblogger%e3%81%ae%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e6%a7%8b%e7%af%89%e6%99%82%e3%81%ae%e3%83%a1%e3%83%a2/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 13:35:00 +0000</pubDate>
+				<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<guid isPermaLink="false">./../../../2022-02-04/%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%aeblogger%e3%81%ae%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e6%a7%8b%e7%af%89%e6%99%82%e3%81%ae%e3%83%a1%e3%83%a2/index.html</guid>
+
+					<description><![CDATA[素人Bloggerがデザインいじってて気づいたことを書き残すメモ。何か増えたら書&#8230;]]></description>
+										<content:encoded><![CDATA[<div style="text-align: left;">
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmGuLi1-s2rDdxoCwiHFUQAeI7GyKGY6dR5eCil8gW2ZucYVP2p8luM-cdFWSvMR9mWzBYCJmHz58tpIU9ZTbHDN7NCNnmIfrk50wnYQTN8h0F3HdTsLAXSv2JUKcCXmiu-5C0Z1oSyBvXJDvhl6ayMVm3n-YN-9ZtA70a5PQenaiNoa4YlBkijI6sQ/s3648/R0010036.JPG" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="2736" data-original-width="3648" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmGuLi1-s2rDdxoCwiHFUQAeI7GyKGY6dR5eCil8gW2ZucYVP2p8luM-cdFWSvMR9mWzBYCJmHz58tpIU9ZTbHDN7NCNnmIfrk50wnYQTN8h0F3HdTsLAXSv2JUKcCXmiu-5C0Z1oSyBvXJDvhl6ayMVm3n-YN-9ZtA70a5PQenaiNoa4YlBkijI6sQ/s320/R0010036.JPG" width="320" /></a></div>
+<p>素人Bloggerがデザインいじってて気づいたことを書き残すメモ。<br />何か増えたら書き足す…かも？</div>
+<div style="text-align: left;"></div>
+<h3 style="text-align: left;">モバイル端末で見た時のデザインがPC表示になってる。</h3>
+<div>→　テーマのカスタマイズ右側▼押して「モバイルの設定」を開いて、モバイル版を表示させるように選択すればokぽい。</div>
+<div></div>
+<h3 style="text-align: left;">モバイル端末表示とPC版表示でデザインが違ってる。</h3>
+<div>→　テーマのカスタマイズ右側▼押して「モバイルの設定」を開いて、QRコード上のプルダウンで「カスタム」を選んだらPC版と似た感じのデザインになった。</div>
+<div></div>
+<h3 style="text-align: left;">モバイル版の表示のチェックをしたい。</h3>
+<div>→　PCでアクセスしたURLに「<span style="color: #2b00fe;"><b>?m=1</b></span>」を付けたらモバイル版表示がPCブラウザで見れてチェックできた。</div>
+<div></div>
+<div>（例）&nbsp;<a href="https://note.nyaon.st/?m=1">https://note.nyaon.st/?m=1</a></div>
+<div><span style="color: #2b00fe;"><b><br /></b></span></div>
+<div><span style="color: #2b00fe;"><b>?m=0</b></span>にするか<span style="color: #2b00fe;"><b>?m=1</b></span>自体を削ればPC版表示に戻る。</div>
+<div></div>
+<h3 style="text-align: left;">テーマ適用後にカスタマイズしたい。</h3>
+<div>→　テーマのカスタマイズ右側▼押して「バックアップ」でローカルにxmlファイルを保存して、そのファイルをコピーしたものを、PC上でテキストエディタで編集し、適用のためにアップロードした。</div>
+<div></div>
+<div>この手順の方がわたしはブラウザ上で編集するよりやりやすかった。</div>
+<div></div>
+<h3 style="text-align: left;">レイアウト情報もバックアップするxmlに含まれているっぽい？</h3>
+<div>→　テーマメニューからバックアップした少し古いものを戻したら、レイアウトメニューで削除したガジェットが復活してたりしたので、バックアップしたxmlにそのあたりの情報も含まれているっぽい？</div>
+<div></div>
+<div>なのでレイアウトメニューからいじった後もバックアップ再取得しておくと安心かもしれない。</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

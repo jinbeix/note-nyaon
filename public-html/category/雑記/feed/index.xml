@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>雑記 &#8211; にゃおんノート</title>
+	<atom:link href="./../../%E9%9B%91%E8%A8%98/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Mon, 14 Aug 2023 05:24:00 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>雑記 &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FF14 各ロールG600ホットバー配置</title>
+		<link>./../../../2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2023 05:24:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[G600]]></category>
+		<category><![CDATA[雑記]]></category>
+		<guid isPermaLink="false">./../../../2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/index.html</guid>
+
+					<description><![CDATA[私のホットバーこんな感じってだけの日記。画像の左から「素で押す」「Shiftと押&#8230;]]></description>
+										<content:encoded><![CDATA[<p>私のホットバーこんな感じってだけの日記。<br />画像の左から「素で押す」「Shiftと押す」「Ctrlと押す」です。</p>
+<p>基本方針として</p>
+</p>
+<ul style="text-align: left;">
+<li>各ロールは似た役割のアクションはほぼ同じ配置になるようにしている。</li>
+<li>アムレンは全ジョブ同じ所。</li>
+<li>10～12に相当するボタンは頻度に低いアクションを配置している。</li>
+</ul>
+<h3 style="text-align: left;">ナイト（タンク系）</h3>
+<div>
+<div style="clear: both; text-align: center;">
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjnjoD_7dfxbGcLMQU43GxioiXKhBnqWFeoSUJMmsO7PrbWsa07aRnWxOMoxOyB4CmIpXgFqcRYGJsgo5tzLNEcAv2adiZb-JVC2CQUa8YYmVVM0ejMa-3MsceyRdLYlWLp1wGRXufEUwLxkIXRwC68f7Ptd9TBqYchLshJF9aOUBMIzR_2oE7EdSZyYGGd" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" alt="" data-original-height="125" data-original-width="272" height="147" src="https://blogger.googleusercontent.com/img/a/AVvXsEjnjoD_7dfxbGcLMQU43GxioiXKhBnqWFeoSUJMmsO7PrbWsa07aRnWxOMoxOyB4CmIpXgFqcRYGJsgo5tzLNEcAv2adiZb-JVC2CQUa8YYmVVM0ejMa-3MsceyRdLYlWLp1wGRXufEUwLxkIXRwC68f7Ptd9TBqYchLshJF9aOUBMIzR_2oE7EdSZyYGGd" width="320" /></a></div>
+<div style="clear: both; text-align: left;"></div>
+<div style="clear: both; text-align: left;">基本コンボは素の2行目。<br />Shift+はバフ系。<br />全体攻撃や軽減系はCtrl+。</div>
+<div style="clear: both; text-align: left;"></div>
+<h3 style="clear: both; text-align: left;">白魔道士（ヒーラー系）</h3>
+<div style="clear: both; text-align: left;">
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjL05swBW-GntfQkUJXFU6GjwAllCow_SYZ6qJJIWFhhJcIJT2DSvxQbopLXzftXPO6vFxxUPUxc-QxhRXK7JkasXB0AfTd43EupiHISoCAOfCOWWVO1x6VjErlifLdbthUgOeHAAK_LiQHjQSVZ2TKxP-QeL2V5BbNI6RWXhR1Dbh0lW3nuTIjzP1J4M6Q" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" alt="" data-original-height="125" data-original-width="267" height="150" src="https://blogger.googleusercontent.com/img/a/AVvXsEjL05swBW-GntfQkUJXFU6GjwAllCow_SYZ6qJJIWFhhJcIJT2DSvxQbopLXzftXPO6vFxxUPUxc-QxhRXK7JkasXB0AfTd43EupiHISoCAOfCOWWVO1x6VjErlifLdbthUgOeHAAK_LiQHjQSVZ2TKxP-QeL2V5BbNI6RWXhR1Dbh0lW3nuTIjzP1J4M6Q" width="320" /></a></div>
+<p>どのジョブも単体ヒール、全体ヒール、リジェネぽいの、蘇生、迅速、ルーシッドなどはほぼ同じ場所。単体バリア、軽減なども。</div>
+<div style="clear: both; text-align: left;"></div>
+<div style="clear: both; text-align: left;">ちなみに私はヒーラーの単体系アクションは基本マウスオーバーマクロを使っていますが、蘇生やベネディクション、救出など<b>「不発だと困る」ものはターゲットして実行</b>しています。</div>
+<div style="clear: both; text-align: left;"></div>
+<div style="clear: both; text-align: left;">蘇生マクロも同様に不発だと困るので使っていません。</div>
+<div style="clear: both; text-align: left;"></div>
+<h3 style="clear: both; text-align: left;">召喚士</h3>
+<div style="clear: both; text-align: left;">
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEglc6Nv66XNOr4_Trl7ibK5pIOPJrIkybV8ekIvkPFLk2C3g6rbgDtI8kL9I35KOxHVnv_MJUmv5R9Ym1XEkfQfCb9KriQK2RQAaQNWqKX5z8eHoOih_qV4emO4-ZmvhJTz8_s-rkwEXK2gdiCaIQzNkWKChbiPzllIw4667Sl76JTChzaStKe7Ebm1G7kM" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" alt="" data-original-height="126" data-original-width="271" height="149" src="https://blogger.googleusercontent.com/img/a/AVvXsEglc6Nv66XNOr4_Trl7ibK5pIOPJrIkybV8ekIvkPFLk2C3g6rbgDtI8kL9I35KOxHVnv_MJUmv5R9Ym1XEkfQfCb9KriQK2RQAaQNWqKX5z8eHoOih_qV4emO4-ZmvhJTz8_s-rkwEXK2gdiCaIQzNkWKChbiPzllIw4667Sl76JTChzaStKe7Ebm1G7kM" width="320" /></a></div>
+<p>暁月リリースで変更入った時にあまり深く考えずに置いてそのまま……。<br />仕組みがシンプルなのであまり悩まなくて良い気もする？</div>
+<div style="clear: both; text-align: left;"></div>
+<h3 style="clear: both; text-align: left;">赤魔道士</h3>
+<div style="clear: both; text-align: left;">
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjgJw2T6MKzW9kdrcZj3PAKCqHuONsSFCy9XhtWtG8MpIdBk2j266owCh6l1p-tlZHqIXZL8jTX8LsLvSKbkuCApsehvHnb3JiydwS8n5l1eO_2nCdxebJtLOfwttwb_uo8FIwjjqlIrP79LY7zFcKiUp5HpFiuJPNXCcq-VxlHBw2KL_yutfft-zYs_HXs" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" alt="" data-original-height="125" data-original-width="271" height="148" src="https://blogger.googleusercontent.com/img/a/AVvXsEjgJw2T6MKzW9kdrcZj3PAKCqHuONsSFCy9XhtWtG8MpIdBk2j266owCh6l1p-tlZHqIXZL8jTX8LsLvSKbkuCApsehvHnb3JiydwS8n5l1eO_2nCdxebJtLOfwttwb_uo8FIwjjqlIrP79LY7zFcKiUp5HpFiuJPNXCcq-VxlHBw2KL_yutfft-zYs_HXs" width="320" /></a></div>
+<p></div>
+<div style="clear: both; text-align: left;">漆黒時代はわりと使ってたのだけど暁月入ってから殆ど使ってませんでした。<br />もともとメインではないこともあり放置のまま。</div>
+<div style="clear: both; text-align: left;"></div>
+<div style="clear: both; text-align: left;">たしか左右の魔法の配置が、メーターの伸びるバーの左右と合わせてた気がします。</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>新生蛮神の思い出</title>
+		<link>./../../../2023-08-11/%e6%96%b0%e7%94%9f%e8%9b%ae%e7%a5%9e%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 15:09:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[雑記]]></category>
+		<guid isPermaLink="false">./../../../2023-08-11/%e6%96%b0%e7%94%9f%e8%9b%ae%e7%a5%9e%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba/index.html</guid>
+
+					<description><![CDATA[ツイッターでなんか質問ある？というものへの返信を兼ねて。 好きな新生の蛮神はどれ&#8230;]]></description>
+										<content:encoded><![CDATA[<p>ツイッターでなんか質問ある？というものへの返信を兼ねて。</p>
+</p>
+<blockquote data-dnt="true">
+<p dir="ltr" lang="ja">好きな新生の蛮神はどれですか！<br />ギミック、思い出、ストーリー、設定、、、<br />いろんな面を踏まえた上で「1番」はなんですか？！</p>
+<p>— 蒼行燈 (@ao_and_on) <a href="https://twitter.com/ao_and_on/status/1689617060106772483?ref_src=twsrc%5Etfw">August 10, 2023</a></p></blockquote>
+<p>「思い出に残っているもの」で回答しようと思います。長くなったので日記にしました笑</p>
+<h3 style="text-align: left;">何と言っても「真」タイタン！</h3>
+<p>当時レリックウェポンを作るのに倒す必要があったのだけど、何度も何度もチャレンジしてもどうしても倒せない。どうしても落ちる。</p>
+<p>落下したら復帰不能。全然避けられない！</p>
+<p>って思っていたらフレが「移動方式レガシーになってる？」と教えてくれて。</p>
+<p>キーボード移動のデフォルトは「スタンダード」なんですが「レガシー」にした途端全て避けられるようになったという。</p>
+<p>これ知らなかったらいま下限で遊ぶとかしてなかったかもしれない…。<br />忘れられない相手です。</p>
+<p><span style="color: #666666;">（以下適当に思い出を語る。</span><span style="color: #990000;"><b>ギミックネタバレを含む</b></span><span style="color: #666666;">ので下限で新鮮にチャレンジしたい人は開くかどうか自己責任で判断してちょ。）</span></p>
+<details>
+<summary>極ガルーダ（押すと開く）</summary>
+<div><span>pets</span></p>
+<div>
+<p>タンク視点だとスイッチを頻繁にしないといけない。<br />ヒーラー視点だと全員がちょいちょい減る、タンクはとにかく痛い、とヒールも忙しかったので楽しかったです。</p>
+</p></div>
+</div>
+</details>
+<details>
+<summary>ドルムキマイラ（押すと開く）</summary>
+<div><span>pets</span></p>
+<div>
+<p>あいつの氷結、フィールドほぼ全部覆うんだぜ…。<br />なので詠唱止める順番とか打ち合わせして戦ってた覚えがある。<br />広い場所で戦うために洞窟から引っ張り出したりもしてた。</p>
+</p></div>
+</div>
+</details>
+<details>
+<summary>極イフリート（押すと開く）</summary>
+<div><span>pets</span></p>
+<div>
+<p>ヒーラーがわりと頑張らないといけないので楽しかったですね。<br />DPSも状況みながら攻撃の手を緩めたり調整が必要だったのも総合的なコンテンツとしてよいものでした。</p>
+</p></div>
+</div>
+</details>
+<details>
+<summary>極リヴァイアサン（押すと開く）</summary>
+<div><span>pets</span></p>
+<div>
+<p>ヒールするとデバフをうけるのが新鮮でしたな。<br />いかにヒールの手数を減らしつつタンクを落とさないかの妙でウヘヘヘと満足できるコンテンツ。<br />でもたしか当時は妖精のヒールをコントロールできたので、学者がひたすら妖精でST回復してた気もします。</p>
+</p></div>
+</div>
+</details>
+<details>
+<summary>極ラムウ（押すと開く）</summary>
+<div><span>pets</span></p>
+<div>
+<p>タンクが大変。とにかく大変。何が大変って「玉とらないで！」「玉減らして！」マクロをつかって戦闘しながら場の状況みつつみんなをコントロールしないといけない点。</p>
+<p>大変だと思い出に残るので楽しかったｗ</p>
+</p></div>
+</div>
+</details>
+<div></div>
+<p>結局ギミックの思い出ばっかりやわ笑</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FF14：ムービーもテキストも全部味わってほしい</title>
+		<link>./../../../2022-02-16/ff14%ef%bc%9a%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%82%82%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%82%e5%85%a8%e9%83%a8%e5%91%b3%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2022 21:54:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[雑記]]></category>
+		<guid isPermaLink="false">./../../../2022-02-16/ff14%ef%bc%9a%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%82%82%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%82%e5%85%a8%e9%83%a8%e5%91%b3%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84/index.html</guid>
+
+					<description><![CDATA[おはようございます。 昨日はガイウスもラハブレアも強かったね。何度も死んじゃった&#8230;]]></description>
+										<content:encoded><![CDATA[<div style="text-align: left;"></div>
+<div style="text-align: left;">おはようございます。</div>
+<div>昨日はガイウスもラハブレアも強かったね。何度も死んじゃった。</div>
+<div>歯ごたえのある相手でした。</div>
+<div></div>
+<div>君がムービースキップしているのをみてみんなでアレコレ言っちゃったね。</div>
+<div>あの時は時間もないし丁寧に説明できなかったのでここで書きます。</div>
+<div></div>
+<div>君がそもそもゲームのストーリーとか気にしない人の可能性もありますから、もしそうなら気にせずムービースキップしてくれて構いません。</div>
+<div></div>
+<div>私が今から書くのは選択肢のひとつだから。</div>
+<div>もしそれを君が選んでみるかと思うのなら選べばいい、という程度に思っています。何かをしろ！しないと絶交！とかそういう話ではない、ということ。</div>
+<div></div>
+<div>私が「ムービースキップしないで見て！」と言ったのは、ファイナルファンタジー14というゲームがメインもサブもストーリーにおいて世界に誇れるレベルの話だと思っているから、です。</div>
+<div></div>
+<div>それはムービーと言われる動画のところだけでなく、クエストにおけるセリフやテキストなどちゃんと見てきたからこそ味わえたものだと思っています。</div>
+<div></div>
+<div>だからちゃんと見て欲しいのです。</div>
+<div></div>
+<div>そして同じ想いでストーリーを見てきた人達は、初見の誰かがムービーみてたならちゃんと待ちます。だってその感動を味わってほしいから。そして共に語れる友人を増やしたいから。</div>
+<div></div>
+<div>私もそんなに読書家ではないから世界のあらゆる叙事詩を読んだかといわれるとそうではないですが、それでもこのゲーム（と言って良いのかもはやわからない）は本当に同じようなレベルで誇っていいものだと思います。</div>
+<div></div>
+<div>少なくともあそこにいた7人は同じ想いだったのだと思うよ。</div>
+<div></div>
+<h2 style="text-align: left;">では見損ねたムービーを見直せるのか？</h2>
+<div>という点において、ドラクエ10との比較もあるし少し書いておきます。</div>
+<div></div>
+<div>FF14でクエスト関連の何かを再体験する方法はいくつかあります。</div>
+<div></div>
+<h3 style="text-align: left;">(1) 宿屋や家の「旅の紀行録」（名前違うかも）を使う</h3>
+<div>達成済みクエストのムービーを観ることができます。</div>
+<div>ただしこれは「NPCに話したタイミング」などで流れたムービーだけです。</div>
+<div>ダンジョンなどへ「突入したとき」「出たとき」に流れたムービーは観ることできない可能性が高いです。</div>
+<div></div>
+<div>（余談ですが、ムービー中に選択肢があるタイプの場合、紀行録を使うと別の選択肢の展開を観ることができます）</div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjJHs1GKGzEBlBzroDIVYRLlTX7jJkAbe9LDBH89blE3FIS81dmFnu3RPZo78P6oDBug4pMbQxiP9VcMsaY8AcCD20RmJjc5QXPRBp2icZQu2IF_NsuMuILjmlrf2oKEfNoBdbmcPK0o0JyCQ1KuoD5wxmGSqDLkpKy8OnnH2A-wfiX0L2--sZR71W0Qw=s486" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="337" data-original-width="486" height="222" src="https://blogger.googleusercontent.com/img/a/AVvXsEjJHs1GKGzEBlBzroDIVYRLlTX7jJkAbe9LDBH89blE3FIS81dmFnu3RPZo78P6oDBug4pMbQxiP9VcMsaY8AcCD20RmJjc5QXPRBp2icZQu2IF_NsuMuILjmlrf2oKEfNoBdbmcPK0o0JyCQ1KuoD5wxmGSqDLkpKy8OnnH2A-wfiX0L2--sZR71W0Qw=s320" width="320" /></a></div>
+<p></p>
+<div></div>
+<div></div>
+<h3 style="text-align: left;">(2) 「一度見たコンテンツ内のカットシーンをスキップする。」をオフにする。</h3>
+<div>システムメニューの「キャラクターコンフィグ」→「操作設定」→「全般」タブにあります。</div>
+<div>これをオフにするとコンテンツ出入りの一部のムービーはこれでみれます。</div>
+<div></div>
+<div>ただクエストを持っている人と持ってない人で観るものが違う場合もあるので、「クエストにまつわるムービー」はこれで見れない可能性が高いです。</div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh2AM73SFy5XMEOuL9vio0fDS_uJNd-77eQYjlbw4XdbsylbtbOjd4T6ma_a0obR6-D-3CrQa0oLgHJ4oP4k3Ji6mMt0Qsg03aB_rMzSEQQkg9aWQqdkhrRziXpt_9yM2P18N4hDrCvwAVYfJOirCtTkWSBp9st2pGQ77VMwoU0yrTbYzi9P1W6U1XTFw=s388" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="95" data-original-width="388" height="78" src="https://blogger.googleusercontent.com/img/a/AVvXsEh2AM73SFy5XMEOuL9vio0fDS_uJNd-77eQYjlbw4XdbsylbtbOjd4T6ma_a0obR6-D-3CrQa0oLgHJ4oP4k3Ji6mMt0Qsg03aB_rMzSEQQkg9aWQqdkhrRziXpt_9yM2P18N4hDrCvwAVYfJOirCtTkWSBp9st2pGQ77VMwoU0yrTbYzi9P1W6U1XTFw=s320" width="320" /></a></div>
+<div></div>
+<div></div>
+<h3 style="text-align: left;">(3) 強くてニューゲーム</h3>
+<div>メニューの「コンテンツ」→「つよくてニューゲーム」を使うと今のLvのキャラのままクエスト再体験することができます。</div>
+<div></div>
+<div>ただし一連のクエストを「最初から」することになります。クエスト単発でのリプレイではないです。</div>
+<div></div>
+<div>なので例えば昨日のガイウスあたりを目的とすると、ゲームスタートからのメインストーリーをこなさないと辿り着けません。</div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEhu0jDdD1BvQkhcTdkjWzWuC7fH1kwAi5400qelbzFyGAmfhuIC-7RMelvglKlpVvdfhq2A1luLIqiitpHPcVvkrIYqJO7-wg0_eVS0IifXSN2E-Z0fEf1zBiUKc36GGGKci8iYDwmOd4cvPJm6Y4NTYPebJ5LqmBt9M15EU8jJnC0kJ-WCl31sUrai2w=s326" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="326" data-original-width="235" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEhu0jDdD1BvQkhcTdkjWzWuC7fH1kwAi5400qelbzFyGAmfhuIC-7RMelvglKlpVvdfhq2A1luLIqiitpHPcVvkrIYqJO7-wg0_eVS0IifXSN2E-Z0fEf1zBiUKc36GGGKci8iYDwmOd4cvPJm6Y4NTYPebJ5LqmBt9M15EU8jJnC0kJ-WCl31sUrai2w=s320" width="231" /></a></div>
+<p></p>
+<div>以上のことから後から見直せないものもあるので、クエストはその時その時にしっかり味わって欲しいのです。</div>
+<div></div>
+<h2 style="text-align: left;">早く追いついて欲しい、でもちゃんと味わって欲しい、ぐぬぬ</h2>
+<div>後から始めた人には早く追いついて一緒にいろいろ遊びたい！と私も思ってしまいます。</div>
+<div></div>
+<div>でも一方で「この、ストーリーを、全部、味わってくれ！」とも強く思います。</div>
+<div>それはメインストーリーもクロニクルストーリーもサブクエストもジョブクエも蛮族クエストも何もかも！！！！！！</div>
+<div></div>
+<div>両方の気持ちがせめぎ合いますが、後者のがやっぱり強いかな。</div>
+<div>だって「初めての真っ白なこころのその時」でしか体験できないことだから。</div>
+<div></div>
+<div>全部やるのは時間の問題もあるから、最低限メインストーリーはじっくり味わって欲しい。</div>
+<div>もし…お時間が…あるようでしたらジョブクエも味わってきて…。</div>
+<div>もう少し時間があるようでしたらクロニクルクエストと言われているものも…お願い…します…。</div>
+<div></div>
+<div>私からは以上です。</div>
+<div>ご視聴ありがとうございました。</div>
+<div>質問あればご自由にどうぞ。</div>
+<div>人手が必要な時もお気軽にどうぞ。</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

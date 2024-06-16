@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>大迷宮バハムート &#8211; にゃおんノート</title>
+	<atom:link href="./../../%E5%A4%A7%E8%BF%B7%E5%AE%AE%E3%83%90%E3%83%8F%E3%83%A0%E3%83%BC%E3%83%88/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Sat, 15 Jun 2024 02:31:29 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>大迷宮バハムート &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>回顧録：2014年のバハ侵攻4層</title>
+		<link>./../../../2023-08-10/%e5%9b%9e%e9%a1%a7%e9%8c%b2%ef%bc%9a2014%e5%b9%b4%e3%81%ae%e3%83%90%e3%83%8f%e4%be%b5%e6%94%bb4%e5%b1%a4/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 02:29:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[備忘録]]></category>
+		<category><![CDATA[大迷宮バハムート]]></category>
+		<guid isPermaLink="false">./../../../2023-08-10/%e5%9b%9e%e9%a1%a7%e9%8c%b2%ef%bc%9a2014%e5%b9%b4%e3%81%ae%e3%83%90%e3%83%8f%e4%be%b5%e6%94%bb4%e5%b1%a4/index.html</guid>
+
+					<description><![CDATA[私がはじめてFF14で固定を主催したのがバハ侵攻編でした。 先日（2023-08&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>私がはじめてFF14で固定を主催したのがバハ侵攻編でした。</p>
+
+
+
+<p><a href="https://note.nyaon.st/2023/08/4-2023.html" target="_blank" rel="noopener">先日（2023-08-09）バハ侵攻4層を下限でクリアした</a>ので、良い機会だから2014年の動画を眺めつつ当時の記憶を書き出してみる。</p>
+
+
+
+<p>以下、大迷宮バハムート侵攻4層のギミックネタバレがあるので見たくない人は開かないでね。</p>
+
+
+
+<details class="accordion_cat">
+<summary>振り返って書いたもの（押すと開く）</summary>
+<div>pets
+<div>
+<h4 style="text-align: left;">◆ナイトが自分でストンスキンできたので、MTが痛いシーンで自分で軽減をつけられた。</h4>
+<p>レイヴンなんとかの強攻撃に合わせてストンスキン便利すぎる。</p>
+<h4 style="text-align: left;">◆スタートからのフェーズでネール中央配置なのは遠隔近接誰が隕石になっても捨てやすいようにだったはず。（2時や10時は近接用に空けてたんじゃないかな）</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆履行後のネール着地を天地崩壊の待機位置に落としてた。</h4>
+<p>こうしている理由は「天地崩壊待ちの間にふっとばしで死ぬことを気にせずに近接も殴り続けられる。」だったはず。</p>
+<h4 style="text-align: left;">◆召喚はDoT師だった。</h4>
+<p>DoTをばらまくアビリティがあったので雑魚フェーズでは「一度ネールに近づける → DoTばらまきでネールと雑魚にDoT付与 → 遠くで倒す」という動きをしていた。</p>
+<h4 style="text-align: left;">◆学者も設置型DoT（青いドーム）が置けた。</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆TP（スタミナ）の概念があった。</h4>
+<p>TPは攻撃アクションをする時消費する。殴り系のMPみたいなもの。<br>スプリントをするとがっつり減る。<br>TPがないとオートアタックしかできなかったような？</p>
+<p>詩人がTP回復できたような気がする？MP回復もあったような？記憶が混ざってるかも。</p>
+<h4 style="text-align: left;">◆ヒーラーにもスタンスがあった。攻撃／回復切り替え。</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆タンクのスタンスも「タンク用」と「攻撃用」があった。戦士の攻撃スタンスが攻撃つよかった気がする。</h4>
+<h4 style="text-align: left;">&nbsp;</h4>
+<h4 style="text-align: left;">◆龍神フェーズで私の記憶では「緑マーカー（１）捨て位置に寄せて戦う」というやり方だった気がしてたけど動画はそんなことないねｗ</h4>
+<p>※予め寄って戦うことで「最寄りの外周が捨て位置」という認識にして捨てやすくしてた気がするけどうろ覚え。</p>
+<h4 style="text-align: left;">◆フィールドマーカーは3つしか置けなかった。</h4>
+<p>2番＝天地崩壊の目安だけど、「延長線上の外周が2時」という意味があった。</p>
+<p>3番＝7時方面の捨て位置。2時と4時は柱を目安にすればいいのだけど、7時だけ柱位置と違う場所に捨てるのが一番安全だったので、場所がわかるように7時マーカーを置いてた…と記憶してる。</p>
+<p>1番＝カータ2回目の捨て位置目安であると同時に、1番マーカー外周と北の竜をチェックすればパターン判定ができるってやりかただった気がする。（その2匹ならカメラを回す手間なく両方視認しやすい……とかだった気がします）</p>
+<h4 style="text-align: left;">◆その他</h4>
+<p>・wait使ったマクロでタイムラインを流してた。（見てられないから役に立ってたのかは不明）<br>・ボイスチャットは使ってなかった（普及してなかった）。<br>・固定の予定日はロドスト日記で調整／告知してた。</p>
+<div>&nbsp;</div>
+</div>
+</div>
+</details>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>やや自力解明で下限バハ侵攻4層クリア 2023夏</title>
+		<link>./../../../2023-08-10/%e3%82%84%e3%82%84%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%e3%81%a7%e4%b8%8b%e9%99%90%e3%83%90%e3%83%8f%e4%be%b5%e6%94%bb4%e5%b1%a4%e3%82%af%e3%83%aa%e3%82%a2-2023%e5%a4%8f/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2023 01:36:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[下限だいすき]]></category>
+		<category><![CDATA[大迷宮バハムート]]></category>
+		<guid isPermaLink="false">./../../../2023-08-10/%e3%82%84%e3%82%84%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%e3%81%a7%e4%b8%8b%e9%99%90%e3%83%90%e3%83%8f%e4%be%b5%e6%94%bb4%e5%b1%a4%e3%82%af%e3%83%aa%e3%82%a2-2023%e5%a4%8f/index.html</guid>
+
+					<description><![CDATA[2023-07-25（火）～2023-08-09（水）【パッチ6.4】週2～3ペ&#8230;]]></description>
+										<content:encoded><![CDATA[<p>2023-07-25（火）～2023-08-09（水）【パッチ6.4】<br />週2～3ペース。1日2時間。<br />8回目の挑戦でクリア。</p>
+<p>下限IL、超える力なし。<br />アクセサリ2個のみ装備。</p>
+<p>ギミック知っている人は何も言わない。<br />ギミック知らない人＋うろ覚えの人でギミック解明と処理法考案<br /><span style="color: #444444;">※過去に予習したノートなどは見ない。<br />※全滅したところまでの内容について記憶に頼るのはあり。<br />※今回のチームで見たこと、経験したことは活かしていい。</span></p>
+<p>ボイスチャットは有りでした。</p>
+<p>　◇　◆　◇</p>
+<p>メンバーとしては私以外は「未予習未クリア」「ギミック知らない」「うろ覚え」なメンバーだったので折角なので自力解明風味も味わってもらおうと、皆であれこれ自力で考えて頑張ってもらいました。</p>
+<p>装備も難易度をなるべく実装時に近づけたくてアクセサリ数で調整しました。</p>
+<p>最初は「アクセサリ全部なし」だったのだけどちょっと痛すぎてMTがもたないって感じだったので「アクセ2個のみ装備」でいい感じの調整だったと思います。</p>
+<p>実際これ以上減らしたら途中の履行技を超えられなかったくらいギリギリのHPだったので丁度よかったですね。<br /><span style="color: #444444;">※バリア＋軽減＋食事でも履行技でHPがミリまで減ってた。<br />※ご飯切れていると死ｗ</span></p>
+<p>途中まで「最新ご飯がない」「最新薬がない」というメンバーがいて、最新ご飯と薬を渡すとフェーズ移行が5秒～10秒くらい早まったので、最新のご飯、薬はやっぱり強いな～って改めて感じたのも良い経験だったかも。今後の難易度調整の参考になりますね。</p>
+<p>「アクセを増やして、代わりにご飯なし」って調整もありかもしれないね。</p>
+<p>　◇　◆　◇</p>
+<p>全滅する度にあれこれ検討しつつ進めていたのだけど何かの時に「塾みたい」って話がでて確かにそうかもとか思ってました笑</p>
+<p>零式クラスのコンテンツを「この難易度」でするのが初めてな人も半分くらいだったので良い練習になったんじゃないかな。</p>
+<p>今回のこれは当時の零式コンテンツなので。</p>
+<p>特にヒーラー二人は「何を優先するべきなのか」の取捨選択の練習になったんじゃないかな…と思ってます。</p>
+<p>　◇　◆　◇</p>
+<p>たまたま今回のチャレンジ前に考えていたのだけれど、最近はじめてそのまま最新コンテンツまで追いついたヒーラーの中には回復に対する貪欲さが足りないヒーラーをわりと見かける気がして。</p>
+<p>これはストーリー上のバトルコンテンツだとヒールそこまで頑張らなくてもクリアできてしまうとか、周りやネットの情報でヒーラーにも攻撃を求められる話をあれこれ聞かされてそれに慣れてる部分があると思うのよね。</p>
+<p>でもヒーラーの本分は「回復」なんですよ。<br />どんな手段を使ってもいいから死なさないってのが仕事なんだよね。</p>
+<p>で、Lv50の今回くらいの難易度にした高難易度コンテンツって：</p>
+</p>
+<ul style="text-align: left;">
+<li>回復のために詠唱する必要がある。</li>
+<li>攻撃してる場合じゃない（攻撃してたら誰か死ぬ）</li>
+<li>攻撃に回すMPがない。</li>
+</ul>
+<p>みたいな状況になるので「必死にヒールするという行為に慣れる」という意味で良いコンテンツなんじゃないかなって、そんな事を考えてた。</p>
+<p>「詠唱をしなければならない」というのも</p>
+</p>
+<ul style="text-align: left;">
+<li>みんなに回復があたる最適な位置取り</li>
+<li>最短の移動経路（移動してると詠唱できない）</li>
+<li>詠唱開始や滑り打ちのタイミングを知る</li>
+</ul>
+<p>といった練習にもなるんじゃないかな～とかとか。</p>
+<p>　◇　◆　◇</p>
+<p>もう一つは自力解明風味を味わって貰えたのもよかったと思います。</p>
+<p>FF14では「予習」が当たり前のように求められることが多い中、「自力解明でも零式クラスをクリア可能ですよ」って経験をしているのはとても貴重なので。</p>
+<p>そういう楽しみ方が存在することを知っている、そしてそれが可能であるという事も知っているというのは、いつかもしかしたら「やってみよう」に繋がるかもしれないと思うのです。</p>
+<p>どう楽しむかはその時々で決めればいいけれど、選択肢の幅が広がったと思ってもらえたなら良いな。</p>
+<p>何はともあれクリアおめでとう。がんばった。</p>
+<p><span><a name='more'></a></span></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPBvKD8TTz-Lposw4bmHE8YDf55X4XqDeJMz3-q8T_9WVqFEGYaoJ-kdoMUjrEAcPFUJ0Y3nDgjboSXUghCAsEZ9ZoAZHbn-b4jzOnHGYFTuJhfiXPDSjvvet7y7ejoojtrffSZjw2VgefU_Mb4ORx9f21Thzr56ZQHs_AZ7UKdluyAdQHcgHxaoJRhk8/s1920/ffxiv_20230809_211750_593.png" style="margin-left: auto; margin-right: auto;"><img fetchpriority="high" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPBvKD8TTz-Lposw4bmHE8YDf55X4XqDeJMz3-q8T_9WVqFEGYaoJ-kdoMUjrEAcPFUJ0Y3nDgjboSXUghCAsEZ9ZoAZHbn-b4jzOnHGYFTuJhfiXPDSjvvet7y7ejoojtrffSZjw2VgefU_Mb4ORx9f21Thzr56ZQHs_AZ7UKdluyAdQHcgHxaoJRhk8/s320/ffxiv_20230809_211750_593.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">9年前、2014年もここで固定をはじめた</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p style="text-align: center;">2023年、また仲間たちと挑戦したよ。</p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicI8UE-kZrd7SGvI0s3_pbaxeDAwoJPsbplhjg8JOJcWM4u9BKiN_7W4A9-HUs7MVk4QZtQporxLbQsMax4AlTqZYIzPt4D7H1ctKs1J2QPMxLrE8wKOCFFRCIarOk7nSkeGOfohX3JmiCaq0Xigsy2IQsvP-AKo-mkdut2GXNd8AKkYbzXBKOy2jCpqPE/s1920/ffxiv_20230809_220035_023.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicI8UE-kZrd7SGvI0s3_pbaxeDAwoJPsbplhjg8JOJcWM4u9BKiN_7W4A9-HUs7MVk4QZtQporxLbQsMax4AlTqZYIzPt4D7H1ctKs1J2QPMxLrE8wKOCFFRCIarOk7nSkeGOfohX3JmiCaq0Xigsy2IQsvP-AKo-mkdut2GXNd8AKkYbzXBKOy2jCpqPE/s320/ffxiv_20230809_220035_023.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGFKUObIAV-jrwoxnpRk3oOok1NjKtrlrOfmQSUkpFQ6gg1w1SRTZAom5K0pkJVXMd24fd9uSaoqLZxJsldnkNaQAT7lTtDdUdXuOdpYRT44_GvabL-r3JIZKuyZ9GIyodDiG9jSdM77YlRNdOOifxMZRNsf-faBcVl4Mi7yRruAKgqCT3v2gpDvy1Co1E/s1920/ffxiv_20230809_220057_891.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGFKUObIAV-jrwoxnpRk3oOok1NjKtrlrOfmQSUkpFQ6gg1w1SRTZAom5K0pkJVXMd24fd9uSaoqLZxJsldnkNaQAT7lTtDdUdXuOdpYRT44_GvabL-r3JIZKuyZ9GIyodDiG9jSdM77YlRNdOOifxMZRNsf-faBcVl4Mi7yRruAKgqCT3v2gpDvy1Co1E/s320/ffxiv_20230809_220057_891.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO4pT78gXxffD5r5OMqAVDSfiNe0TcQNTsUDTdZ9-pakNaYUOxJkT_rEryJJD1otDy2pbjpFibRoSkhjGY6ZiDjM-jiFDgviM81NjS09qWxKnKPiqAgmRUn4CM_ERMuyBOnwlzd6O8TNFybckt3ezosGSBWyHjCiIWcEJ8FfOt92rXEr8ig3Q9W_22FoN8/s1920/ffxiv_20230809_220112_501.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO4pT78gXxffD5r5OMqAVDSfiNe0TcQNTsUDTdZ9-pakNaYUOxJkT_rEryJJD1otDy2pbjpFibRoSkhjGY6ZiDjM-jiFDgviM81NjS09qWxKnKPiqAgmRUn4CM_ERMuyBOnwlzd6O8TNFybckt3ezosGSBWyHjCiIWcEJ8FfOt92rXEr8ig3Q9W_22FoN8/s320/ffxiv_20230809_220112_501.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhPAZkwBDuYFbH1FEJuCGgP_ne8vzNEVIPlob8yECUV-uw5gN0it-W2FdUu-DdCDWXrTIjtPkUM-mB0iYX_0CnyI0fxObsOBZOGJys-rsiey95OiWh5c8sJkXLapQ_8wAAizMybIkCUdAeGJnDHMqhXYia5MR4PCc8v6wn3PTdIeeIRTbNap4FZFT7JIib/s1920/ffxiv_20230809_220142_754.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhPAZkwBDuYFbH1FEJuCGgP_ne8vzNEVIPlob8yECUV-uw5gN0it-W2FdUu-DdCDWXrTIjtPkUM-mB0iYX_0CnyI0fxObsOBZOGJys-rsiey95OiWh5c8sJkXLapQ_8wAAizMybIkCUdAeGJnDHMqhXYia5MR4PCc8v6wn3PTdIeeIRTbNap4FZFT7JIib/s320/ffxiv_20230809_220142_754.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAV0TyQEIRrkmkzg3LLKCY1bk0qSPweMSivDanAinrchQvxAUCUHY0O-f74c6EXNV9NtlaCI9XbH6G8vVhAknWFtaypOkKsV3j1MK68a2b0KahaGPSjHgy1CEF19PLEFFr-wuC6H8B1msdNQDUu0lzqKIvBynLSmzcefCyyXIvRBlF_xSiwqzCrMD5lGpm/s1920/ffxiv_20230809_220152_365.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAV0TyQEIRrkmkzg3LLKCY1bk0qSPweMSivDanAinrchQvxAUCUHY0O-f74c6EXNV9NtlaCI9XbH6G8vVhAknWFtaypOkKsV3j1MK68a2b0KahaGPSjHgy1CEF19PLEFFr-wuC6H8B1msdNQDUu0lzqKIvBynLSmzcefCyyXIvRBlF_xSiwqzCrMD5lGpm/s320/ffxiv_20230809_220152_365.png" width="320" /></a></div>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1S_rk2dfzuxIDW1bsDRdTzJTASPs1UZshsw32PSEFqB6cZHuspGg57a7t-5xfFY9qmU4Szxf0qqzcWmf1lJi3pjbILhpjlC5Z-4V3bspaNgOm7UxJQwlH4IAGBAycKgWtqGqUOVXXrbysKei-FUwBukQD0qwxMZK4eHmZtJLimYNnhY-6JX2MdJOSIasq/s1920/ffxiv_20230809_220241_003.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1S_rk2dfzuxIDW1bsDRdTzJTASPs1UZshsw32PSEFqB6cZHuspGg57a7t-5xfFY9qmU4Szxf0qqzcWmf1lJi3pjbILhpjlC5Z-4V3bspaNgOm7UxJQwlH4IAGBAycKgWtqGqUOVXXrbysKei-FUwBukQD0qwxMZK4eHmZtJLimYNnhY-6JX2MdJOSIasq/s320/ffxiv_20230809_220241_003.png" width="320" /></a></div>
+<div></div>
+<div style="text-align: center;">一つずつ課題をクリアしていって無事攻略！やったー。</div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsP1SeeEBjTAZlge3Qm5LMhEimmtD--juYag4fQbmM40m52cQF4uNdyBFXroOSpCc8ZwlCpZ98otZCOgQz-AdSwJMzMvimpHdBcE6uZKL0w_kKcLlW2pptNo_mwL1EynqOvCK_ZT29osgQPfxqjWbxna-2FtmhjllUFxcrmPJ8cTe53IK300ifk4L07GR/s1920/ffxiv_20230809_235235_445.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsP1SeeEBjTAZlge3Qm5LMhEimmtD--juYag4fQbmM40m52cQF4uNdyBFXroOSpCc8ZwlCpZ98otZCOgQz-AdSwJMzMvimpHdBcE6uZKL0w_kKcLlW2pptNo_mwL1EynqOvCK_ZT29osgQPfxqjWbxna-2FtmhjllUFxcrmPJ8cTe53IK300ifk4L07GR/s320/ffxiv_20230809_235235_445.png" width="320" /></a></div>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXltFzrIZXerxwQJZSPhfVkGZYJCxoCNqvFvb50XdMcR92kxqDLPKH0zm1VdnSZZ62ctzarsDjLMxFaRdElRlBQkl6ybgd4IAEI7ZRdMDYZpnWAhm9mwwJQ6D1hdXq3AxZa_F1wbpPPzhLfRGHrMzYGFFJWqXHOdvuHAmPhxOUm9jW_qtd9PWYcUHYK6r6/s1920/ffxiv_20230809_235309_924.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXltFzrIZXerxwQJZSPhfVkGZYJCxoCNqvFvb50XdMcR92kxqDLPKH0zm1VdnSZZ62ctzarsDjLMxFaRdElRlBQkl6ybgd4IAEI7ZRdMDYZpnWAhm9mwwJQ6D1hdXq3AxZa_F1wbpPPzhLfRGHrMzYGFFJWqXHOdvuHAmPhxOUm9jW_qtd9PWYcUHYK6r6/s320/ffxiv_20230809_235309_924.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">賢者（Sage）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3-2vkC4pcJ6TMJP4_y5-O6_ROQvnYOxDfspkXivnbIguN1YmTi7qHmkoHEmxmxyJokUNk9kPHb-_I5Ni3MruapQVXtvpntrzL3f-GYbUg6tJVfC_xKcbo10zvNDVbjs2CQ_HgeYuGUjJg2ZC94Ipf0vuacX1h4HxF6hdR32iizjhyJN2T4Cgq6bTFXd1/s1920/ffxiv_20230809_235322_210.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3-2vkC4pcJ6TMJP4_y5-O6_ROQvnYOxDfspkXivnbIguN1YmTi7qHmkoHEmxmxyJokUNk9kPHb-_I5Ni3MruapQVXtvpntrzL3f-GYbUg6tJVfC_xKcbo10zvNDVbjs2CQ_HgeYuGUjJg2ZC94Ipf0vuacX1h4HxF6hdR32iizjhyJN2T4Cgq6bTFXd1/s320/ffxiv_20230809_235322_210.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">白魔道士（White Mage）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8uBQiDIDbh2p6ntz3WIqdV2BnqoJGcFDUIDlODXJ1l7OcbDsubu2dw-ISU0_O6mmvlT3xNhmmsx5vnmRGJNEtxtrgEbIX8GGSoTOw8vqEXU007G_jbJ171qxHZMWBNQ2Y6-vGPIIazWqUPV9xqyFiPOGfihmJK2gQG78RH_UrFgMpBJGFZZ6tzD15zKDE/s1920/ffxiv_20230809_235357_505.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8uBQiDIDbh2p6ntz3WIqdV2BnqoJGcFDUIDlODXJ1l7OcbDsubu2dw-ISU0_O6mmvlT3xNhmmsx5vnmRGJNEtxtrgEbIX8GGSoTOw8vqEXU007G_jbJ171qxHZMWBNQ2Y6-vGPIIazWqUPV9xqyFiPOGfihmJK2gQG78RH_UrFgMpBJGFZZ6tzD15zKDE/s320/ffxiv_20230809_235357_505.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">召喚士（フィジク士）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMlO6RBJuISRUWaXzr8jDfai3E09A3AD78a8qAjvQqPE8WgxEiakWssDVl-ugG2un1FEgWfH_EoPoomv8f04wjqFCMw-FOZmq3l5rQXdt36IauXwyV1rqC9e7_QqiyrwI0yuv1mAM_hfogO1aYe5_kr3DHGtJlG-XDO0B55riQ9wJiRabDmz40Bw-KbbGg/s1920/ffxiv_20230809_235349_054.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMlO6RBJuISRUWaXzr8jDfai3E09A3AD78a8qAjvQqPE8WgxEiakWssDVl-ugG2un1FEgWfH_EoPoomv8f04wjqFCMw-FOZmq3l5rQXdt36IauXwyV1rqC9e7_QqiyrwI0yuv1mAM_hfogO1aYe5_kr3DHGtJlG-XDO0B55riQ9wJiRabDmz40Bw-KbbGg/s320/ffxiv_20230809_235349_054.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">赤魔道士（おかん）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr89X7QCWydWb9f5J7xe_xkDnP1Qb7E6S7MDN3QD6PPFgKa1PXiyh31oxV2qoXasWb4e2I_3OkR1XVUS3vVUdxgNKQaT4pn7hGNyWjAOGOAvj2D-BSBlnZ_g9Smy25WYkHgkRRTX4C43XHJhg7oipnWRyzyIC0sFGtKYxiJnFKFTxDlYjGBSHeFUDfQOAV/s1920/ffxiv_20230809_235337_820.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr89X7QCWydWb9f5J7xe_xkDnP1Qb7E6S7MDN3QD6PPFgKa1PXiyh31oxV2qoXasWb4e2I_3OkR1XVUS3vVUdxgNKQaT4pn7hGNyWjAOGOAvj2D-BSBlnZ_g9Smy25WYkHgkRRTX4C43XHJhg7oipnWRyzyIC0sFGtKYxiJnFKFTxDlYjGBSHeFUDfQOAV/s320/ffxiv_20230809_235337_820.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">モンク（Monk）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiCZgxVXNaaAwqtoD4M1AX9_PXRrUleNnktNM5yjk_CUHXf_0B2hDWCrJbFUdqVfJJb1ENbIdbjYXyZy2fHldQbBVZuOB8U2rusCDJklclUnVss9hFtDz19TQlohjM_MaRn-yw1LR8AHAXSUJvoOJzSY4R7jCEE3H2vxdcoleBEGKtANdO0CiJKxBXg0vz/s1920/ffxiv_20230809_235329_318.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiCZgxVXNaaAwqtoD4M1AX9_PXRrUleNnktNM5yjk_CUHXf_0B2hDWCrJbFUdqVfJJb1ENbIdbjYXyZy2fHldQbBVZuOB8U2rusCDJklclUnVss9hFtDz19TQlohjM_MaRn-yw1LR8AHAXSUJvoOJzSY4R7jCEE3H2vxdcoleBEGKtANdO0CiJKxBXg0vz/s320/ffxiv_20230809_235329_318.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">ガンブレイカー（Gunbreaker）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy9Vtt0exPFE4S5QJF9MqGiI7RKmJdP4Leq80RU_xaD_vNepPm-ybgyllFNeY0CayKo4-Kri45Xb0WNxHlnFy78rqC8SYxqe8vbBPyvtPG4gr-dh83_M62UkgFXkuP2BAwssO7yvhRqVjbXGnkK-R0wz_o5GauA3lAPJRUKhqHUCrwQTkjiEVI0RPyVO1V/s1920/ffxiv_20230809_235405_348.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy9Vtt0exPFE4S5QJF9MqGiI7RKmJdP4Leq80RU_xaD_vNepPm-ybgyllFNeY0CayKo4-Kri45Xb0WNxHlnFy78rqC8SYxqe8vbBPyvtPG4gr-dh83_M62UkgFXkuP2BAwssO7yvhRqVjbXGnkK-R0wz_o5GauA3lAPJRUKhqHUCrwQTkjiEVI0RPyVO1V/s320/ffxiv_20230809_235405_348.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">リーパー（Reaper）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2-hYGm7Jiwiy-CMzwEB2CkMQfOh9A4JP25vDBLgve5hHBwnVmJcpJbQOOHDckHM2v_xjqpOO6RMM_czfBaMcrzE6NAmRAS5-GOopPJfqj5EsAF_PEWO63QdfmXByCVM12_qCTT-I8vuwdCv8fEdhdNQvZR2yroQtGvydcWSILJtpVQZ63WZ0hZg817H7X/s1920/ffxiv_20230809_235304_965.png" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2-hYGm7Jiwiy-CMzwEB2CkMQfOh9A4JP25vDBLgve5hHBwnVmJcpJbQOOHDckHM2v_xjqpOO6RMM_czfBaMcrzE6NAmRAS5-GOopPJfqj5EsAF_PEWO63QdfmXByCVM12_qCTT-I8vuwdCv8fEdhdNQvZR2yroQtGvydcWSILJtpVQZ63WZ0hZg817H7X/s320/ffxiv_20230809_235304_965.png" width="320" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">ナイト（Paladin）</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
