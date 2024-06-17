@@ -313,6 +313,68 @@ flexibility(document.documentElement);
 
 
 <p>とかを編集した。</p>
+
+
+
+<h2 class="wp-block-heading">Blueskyシェアボタンを置いてみた。</h2>
+
+
+
+<p>いくつかシェアボタン作ってみたいけど、とりあえずこれ。<br>とりあえず動作したので、他のシェアボタンも同じノリで作れるかな？</p>
+
+
+
+<p>functions.php に以下のコードを記述。</p>
+
+
+
+<pre class="wp-block-code"><code>/*********************
+シェアボタン：Bluesky
+*********************/
+function add_bluesky_share_button($content) {
+    if (is_single()) {
+        $post_title = get_the_title();
+        $post_permalink = get_permalink();
+        $home_url = home_url();
+        $post_path = str_replace($home_url, '', $post_permalink);
+        $share_text = rawurlencode($post_title . "\nhttps://nyaon.jp" . $post_path);
+        $bluesky_url = "https://bsky.app/intent/compose?text=" . $share_text;
+
+        $button_html = '&lt;div class="bluesky-share-button" style="margin-top: 20px; text-align: center;">';
+        $button_html .= '&lt;a href="' . $bluesky_url . '" target="_blank" style="padding: 10px 20px; background-color: #1da1f2; color: white; text-decoration: none; border-radius: 5px;">';
+        $button_html .= 'Blueskyでシェア';
+        $button_html .= '&lt;/a>';
+        $button_html .= '&lt;/div>';
+
+        $content .= $button_html;
+    }
+    return $content;
+}
+add_filter('the_content', 'add_bluesky_share_button');
+// Blueskyシェアボタン、ここまで</code></pre>
+
+
+
+<p>カスタムCSSに以下を。</p>
+
+
+
+<pre class="wp-block-code"><code>/*シェアボタン：Bluesky*/
+.bluesky-share-button {
+    margin-top: 20px;
+    text-align: center;
+}
+.bluesky-share-button a {
+    padding: 10px 20px;
+    background-color: #1da1f2;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.bluesky-share-button a:hover {
+    background-color: #0d95e8;
+}
+/*シェアボタン：Bluesky ここまで*/</code></pre>
 <div class="bluesky-share-button" style="margin-top: 20px; text-align: center;"><a href="https://bsky.app/intent/compose?text=WordPress%E3%81%84%E3%81%98%E3%81%A3%E3%81%9F%E3%83%A1%E3%83%A2%0Ahttps%3A%2F%2Fnyaon.jp%2F2024-06-17%2Fwordpress%25e3%2581%2584%25e3%2581%2598%25e3%2581%25a3%25e3%2581%259f%25e3%2583%25a1%25e3%2583%25a2%2F" target="_blank" style="padding: 10px 20px; background-color: #1da1f2; color: white; text-decoration: none; border-radius: 5px;">Blueskyでシェア</a></div>
 </div>
 
