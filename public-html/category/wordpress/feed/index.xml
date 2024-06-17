@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../</link>
 	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
-	<lastBuildDate>Mon, 17 Jun 2024 01:50:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jun 2024 05:31:09 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,139 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>WordPressいじったメモ</title>
+		<link>./../../../2024-06-17/wordpress%e3%81%84%e3%81%98%e3%81%a3%e3%81%9f%e3%83%a1%e3%83%a2/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 17 Jun 2024 05:28:53 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=500</guid>
+
+					<description><![CDATA[Simply Static以外で使っているプラグインやテンプレートいじったところ&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Simply Static以外で使っているプラグインやテンプレートいじったところ。</p>
+
+
+
+<h2 class="wp-block-heading">ヘッダーとフッターにコードを入れ込みたい</h2>
+
+
+
+<h3 class="wp-block-heading">WPCode Lite（プラグイン）</h3>
+
+
+
+<p>これを入れてsimple modeで使ってる。</p>
+
+
+
+<ul>
+<li>headタグ内</li>
+
+
+
+<li>本文（bodyタグ直後）</li>
+
+
+
+<li>フッター（bodyタグ直前）<br>の3箇所に入れられる。便利。</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">画像をWebPしたい</h2>
+
+
+
+<h3 class="wp-block-heading">Converter for Media（プラグイン）</h3>
+
+
+
+<p>約立ってるかちゃんと確認してないや笑</p>
+
+
+
+<h2 class="wp-block-heading">OGPタグ入れたい</h2>
+
+
+
+<p>サルワカさんのページを参考に functions.php を編集しました。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>【WordPress】OGPとTwitterカードをプラグイン無しで設定する方法<br><a href="https://saruwakakun.com/html-css/wordpress/ogp" target="_blank" rel="noreferrer noopener">https://saruwakakun.com/html-css/wordpress/ogp</a></p>
+</blockquote>
+
+
+
+<p>Twitterはやめたのでコメントアウト。<br>Facebookもやめたのでコメントアウト。</p>
+
+
+
+<h2 class="wp-block-heading">投稿日と更新日を表示したい</h2>
+
+
+
+<p><code>/wp-content/themes/bloghash/inc/template-tags.php</code> のコードをいじって以下のようにしたらいけた。</p>
+
+
+
+<pre class="wp-block-code"><code>        $defaults = array(
+            'show_published' =&gt; true,
+            'show_modified'  =&gt; true,
+            'modified_label' =&gt; esc_html__( '（ 更新 ', 'bloghash' ),
+            'modified_label_after' =&gt; esc_html__( ' ）', 'bloghash' ),
+            'date_format'    =&gt; '',
+            'before'         =&gt; '&lt;span class="posted-on"&gt;投稿 ',
+            'after'          =&gt; '&lt;/span&gt;',
+        );</code></pre>
+
+
+
+<p>と</p>
+
+
+
+<pre class="wp-block-code"><code>        $time_string = sprintf(
+            $time_string,
+            esc_attr( get_the_date( DATE_W3C ) ),
+            bloghash_get_schema_markup( 'datePublished' ),
+            $icon . esc_html( get_the_date( $args&#91;'date_format'] ) ),
+            esc_attr( get_the_modified_date( DATE_W3C ) ),
+            bloghash_get_schema_markup( 'dateModified' ),
+            esc_html( $args&#91;'modified_label'] ) . esc_html( get_the_modified_date( $args&#91;'date_format'] ) ) . esc_html( $args&#91;'modified_label_after'] )
+        );</code></pre>
+
+
+
+<h2 class="wp-block-heading">Previous Post、Next Postを日本語化したい</h2>
+
+
+
+<p><code>/wp-content/themes/bloghash/template-parts/entry/entry-prev-next-post.php</code> の</p>
+
+
+
+<pre class="wp-block-code"><code>    // Previous post link.
+    previous_post_link(
+        '&lt;div class="nav-previous"&gt;&lt;h6 class="nav-title"&gt;' . wp_kses( __( '&lt;&lt;前の', 'bloghash' ), bloghash_get_allowed_html_tags( 'button' ) ) . '&lt;/h6&gt;%link&lt;/div&gt;',
+        sprintf(
+            '&lt;div class="nav-content"&gt;%1$s &lt;span&gt;%2$s&lt;/span&gt;&lt;/div&gt;',
+            bloghash_get_post_thumbnail( $bloghash_prev_post, array( 75, 75 ) ),
+            '%title'
+        )
+    );</code></pre>
+
+
+
+<p>とかを編集した。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>WSLにWordPress載せてCloudflare Pagesで公開してみた</title>
 		<link>./../../../2024-06-17/wsl-wordpress-cloudflarepages/index.html</link>
 		
