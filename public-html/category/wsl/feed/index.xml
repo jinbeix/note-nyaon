@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WSL &#8211; にゃおんノート</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../</link>
+	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<lastBuildDate>Mon, 17 Jun 2024 01:50:49 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>WSL &#8211; にゃおんノート</title>
+	<link>./../../../</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WSLにWordPress載せてCloudflare Pagesで公開してみた</title>
+		<link>./../../../2024-06-17/wsl-wordpress-cloudflarepages/index.html</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 17 Jun 2024 01:44:22 +0000</pubDate>
+				<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[Cloudflare Pages]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WSL]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=426</guid>
+
+					<description><![CDATA[Cloudflareについて調べている流れでCloudflare Pagesやヘ&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使えるだろうし、そこから静的ページ出力可能ならCloudflare Pagesで公開ってのもできるのかな？と思いついて。</p>
+
+
+
+<p>調べたら<a href="https://developers.cloudflare.com/pages/how-to/deploy-a-wordpress-site/" data-type="link" data-id="https://developers.cloudflare.com/pages/how-to/deploy-a-wordpress-site/" target="_blank" rel="noreferrer noopener">Cloudflareで解説ページ</a>があったりしたので試してみました。その備忘録。<br>WordPress触るの○○年ぶりだわ。</p>
+
+
+
+<p>LinuxやWebサーバーの仕組みについてある程度知っている事前提のメモ。</p>
+
+
+
+<h2 class="wp-block-heading">WSL</h2>
+
+
+
+<p>WLSにWordPressをインストール。<br>もともとWSL環境はあった。Ubuntuでしました。</p>
+
+
+
+<p>WordPressの公式ドキュメントを参考にしたりしました。<br><a href="https://ja.wordpress.org/support/article/before-you-install/" target="_blank" rel="noreferrer noopener">https://ja.wordpress.org/support/article/before-you-install/</a></p>
+
+
+
+<p>あとはこちらのページを参考に8ステップ目くらいまでしました。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>WordPressをWindowsにインストールしてテスト環境を作る (WSL2.0使用)<br><a href="https://note.com/hope_yes_joy/n/n5663deb8d871" target="_blank" rel="noreferrer noopener">https://note.com/hope_yes_joy/n/n5663deb8d871</a></p>
+</blockquote>
+
+
+
+<p>適当に必要なパッケージは適宜 apt や snap でいれる。<br>必要に応じて sudo で実行。</p>
+
+
+
+<p>MySQLのDBやユーザー、パスワードは適当に名称変更して作成、生成。<br>無事インストールできました。</p>
+
+
+
+<h2 class="wp-block-heading">WordPress</h2>
+
+
+
+<h3 class="wp-block-heading">REST APIのエラーが解消されない</h3>
+
+
+
+<p>Apacheインストール時に rewrite mod が有効になってなかった。<br>→有効にした。</p>
+
+
+
+<p>エラーが直らない。</p>
+
+
+
+<p>apache2.conf で該当フォルダの AllowOverride が有効になっておらずWordPres制御下の .htaccess が利用されていなかった。<br>こちらを有効にして解消しました。</p>
+
+
+
+<p>これでエラー解消されました。<br>あとは順調。</p>
+
+
+
+<h2 class="wp-block-heading">Simply Static（WordPressのプラグイン）</h2>
+
+
+
+<p>最初はお試しって意味もありこんな流れでウェブ公開してました。</p>
+
+
+
+<ol>
+<li>Simply Staticで静的ファイル化したブログをZIP保存。</li>
+
+
+
+<li>Cloudflare PagesのプロジェクトにZIPファイルをぽいっとドロップ。</li>
+
+
+
+<li>アップロードと回答を待つ。まぁまぁ待つ。</li>
+
+
+
+<li>処理が終わったら「保存してデプロイ」を押す。押さないといけない。</li>
+</ol>
+
+
+
+<p>(3)の待ちと(4)でボタンを押すのが面倒くさいのでGitHubと繋げてpushしたらデプロイまでは自動化したくなった。<br>あとこの方法だとads.txtとか上手く公開できなかったので。</p>
+
+
+
+<p>このあたりが素人なのでこの形が正しいのかはわからないけれど以下のような感じでやりました。</p>
+
+
+
+<p>Simply Staticのテンポラリフォルダと公開フォルダを分けました。<br>よくわからず最初同じパスを指定していたら毎回フォルダ内を全削除→再生成していて、こちらがWordPress介さず準備したものが消されてしまってたので。</p>
+
+
+
+<h3 class="wp-block-heading">Simply Staticの設定内容</h3>
+
+
+
+<h4 class="wp-block-heading">General</h4>
+
+
+
+<p>Replacing URLs：Offiline Usage</p>
+
+
+
+<h4 class="wp-block-heading">Deploy</h4>
+
+
+
+<p>Deployment Settings：Local Directory<br>Local Directory：<code>/aaa/bbb/public-html/</code></p>
+
+
+
+<p>※この時gitは <code>/aaa/bbb/.git/</code> って状態でした。</p>
+
+
+
+<h4 class="wp-block-heading">Misc</h4>
+
+
+
+<p>Temporary Files：TEMPORARY FILES DIRECTORY： <code>/aaa/tmp/</code></p>
+
+
+
+<p>※どうもこのパスに指定している中身が毎回消されてるぽい。</p>
+
+
+
+<h2 class="wp-block-heading">GitHub</h2>
+
+
+
+<p><code>/aaa/bbb/</code><br>で git add . やら push やら操作してました。</p>
+
+
+
+<h2 class="wp-block-heading">Cloudflare Pages</h2>
+
+
+
+<p>プロジェクト作成してGitHubと接続。<br>該当アカウントの該当リポジトリを指定して</p>
+
+
+
+<p>ビルド コマンド:　（空欄）<br>ビルド出力ディレクトリ: <code>/</code><br>ルート ディレクトリ: <code>/public-html/</code></p>
+
+
+
+<p>としました。</p>
+
+
+
+<h3 class="wp-block-heading">Cloudflare Pagesでカスタムドメインの割当</h3>
+
+
+
+<p>使うにはネームサーバーをCloudflareのにしないといけないってんでちょっとビクビクしながらやりましたが無事動作してます。</p>
+
+
+
+<p>ドメインを指定すると現状のDNS設定値が「ある程度コピー」されました。<br>全部じゃなかったので抜けたものを確認して必要に応じて設定追加。</p>
+
+
+
+<p>もろもろ終わるとネームサーバー名が表示されるので、それをドメインレジストラ側でNSとして設定。<br>これでいけましたん。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
