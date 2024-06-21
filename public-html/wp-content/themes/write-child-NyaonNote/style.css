@@ -883,7 +883,7 @@ body {
 		right: 0;
 	}
 	.main-navigation .search-field {
-		background: url( "./images/search-icon.png" ) 5px center no-repeat;
+		background: url( "/wp-content/themes/write-child-NyaonNote/images/search-icon.png" ) 5px center no-repeat;
 		background-size: 24px 24px;
 		border: none;
 		cursor: pointer;
@@ -904,7 +904,7 @@ body {
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	.main-navigation .search-field {
-		background-image: url( "./images/search-icon@2x.png" );
+		background-image: url( "/wp-content/themes/write-child-NyaonNote/images/search-icon@2x.png" );
 	}
 }
 

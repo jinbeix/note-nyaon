@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cloudflare &#8211; にゃおんノート</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/cloudflare/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Jun 2024 01:50:49 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>Cloudflare &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>WSLにWordPress載せてCloudflare Pagesで公開してみた</title>
-		<link>./../../../2024-06-17/wsl-wordpress-cloudflarepages/index.html</link>
+		<link>/2024-06-17/wsl-wordpress-cloudflarepages/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 17 Jun 2024 01:44:22 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[Cloudflare Pages]]></category>
 		<category><![CDATA[WordPress]]></category>
 		<category><![CDATA[WSL]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=426</guid>
+		<guid isPermaLink="false">/?p=426</guid>
 
 					<description><![CDATA[Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使え...]]></description>
 										<content:encoded><![CDATA[

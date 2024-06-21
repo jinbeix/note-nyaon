@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	お便りフォーム へのコメント	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../</link>
+	<atom:link href="/contact/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 05:28:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>FF14 &#8211; にゃおんノート</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/ff14/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Jun 2024 09:03:12 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>FF14 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>妄想MMORPG</title>
-		<link>./../../../2024-06-10/%e5%a6%84%e6%83%b3mmorpg/index.html</link>
+		<link>/2024-06-10/%e5%a6%84%e6%83%b3mmorpg/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 10 Jun 2024 05:35:00 +0000</pubDate>
@@ -57,7 +57,7 @@
 			</item>
 		<item>
 		<title>FF14：自力解明のすゝめ</title>
-		<link>./../../../2024-05-14/ff14%ef%bc%9a%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%e3%81%ae%e3%81%99%e3%82%9d%e3%82%81/index.html</link>
+		<link>/2024-05-14/ff14%ef%bc%9a%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%e3%81%ae%e3%81%99%e3%82%9d%e3%82%81/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 14 May 2024 02:27:00 +0000</pubDate>
@@ -97,37 +97,37 @@
 <div><span style="color: #f3f3f3;">あ、私は予習しての攻略じゃ物足りないので自力解明で遊んでるんですけどね。（えらそう</span></div>
 <div><span><a name='more'></a></span></p>
 <h4 style="clear: both; text-align: center;">共鳴1層</h4>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240302_234121_482.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240302_234121_482-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482-300x169.png" width="320" /></a></div>
 <p></p>
 <h4 style="clear: both; text-align: center;">共鳴2層</h4>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231446_887.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231446_887-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231609_858.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231609_858-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231631_602.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231631_602-169x300.png" width="180" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231631_602.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="/wp-content/uploads/2024/05/ffxiv_20240401_231631_602-169x300.png" width="180" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231708_762.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231708_762-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231708_762.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231708_762-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231717_678.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231717_678-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231717_678.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231717_678-300x169.png" width="320" /></a></div>
 <p></p>
 <h4 style="clear: both; text-align: center;">共鳴3層</h4>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235651_588.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235651_588-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235651_588.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235651_588-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235805_048.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235805_048-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235805_048.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235805_048-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235815_908.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235815_908-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235815_908.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235815_908-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235825_594.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235825_594-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235825_594.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235825_594-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235847_012.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235847_012-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235847_012.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235847_012-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235856_572.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235856_572-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235856_572.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235856_572-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235902_438.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235902_438-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235902_438.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235902_438-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235907_297.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235907_297-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235907_297.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235907_297-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235801_396.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235801_396-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235801_396.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235801_396-300x169.png" width="320" /></a></div>
 <p><span style="color: #f3f3f3;"><br /></span></div>
 </div>
 ]]></content:encoded>
@@ -137,13 +137,13 @@
 			</item>
 		<item>
 		<title>わたあめ10年（2013年～2023年）写真バージョン</title>
-		<link>./../../../2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/index.html</link>
+		<link>/2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 14 Nov 2023 09:17:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false">./../../../2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/index.html</guid>
+		<guid isPermaLink="false">/2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/</guid>
 
 					<description><![CDATA[わたあめってそういえば2013年11月にはじめたよね～と思いましてね。 手元にあるスクリーンショットで一番古いのが2013年11月16日でした。 物語の紡ぎ手：ランク1 2013/11/14 とあるので11月14日生まれ...]]></description>
 										<content:encoded><![CDATA[<div style="text-align: left;">わたあめってそういえば2013年11月にはじめたよね～と思いましてね。</div>
@@ -513,13 +513,13 @@
 			</item>
 		<item>
 		<title>蛮神わたあめ</title>
-		<link>./../../../2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/index.html</link>
+		<link>/2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 07 Nov 2023 01:36:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false">./../../../2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/index.html</guid>
+		<guid isPermaLink="false">/2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/</guid>
 
 					<description><![CDATA[&#160; 問おう……。 うぬは、何のために闘う？ ならば、聞こう……。このCWLSに、真実はあるのか？ 虚偽で塗り固められた共存。欺騙によって造られたパーティ。瞞着するために語られるリーダー。欺瞞に満ちたCWLSに、...]]></description>
 										<content:encoded><![CDATA[<p><span face="Arial, Tahoma, Helvetica, FreeSans, sans-serif" style="color: #222222; font-size: 15px;"></span></p>
@@ -551,13 +551,13 @@
 			</item>
 		<item>
 		<title>おいオメーさっきからうるせえぞ 「メンタールレ頑張る」「メンタールレ頑張る」ってよォ～～～</title>
-		<link>./../../../2023-10-24/%e3%81%8a%e3%81%84%e3%82%aa%e3%83%a1%e3%83%bc%e3%81%95%e3%81%a3%e3%81%8d%e3%81%8b%e3%82%89%e3%81%86%e3%82%8b%e3%81%9b%e3%81%88%e3%81%9e-%e3%80%8c%e3%83%a1%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ab%e3%83%ac/index.html</link>
+		<link>/2023-10-24/%e3%81%8a%e3%81%84%e3%82%aa%e3%83%a1%e3%83%bc%e3%81%95%e3%81%a3%e3%81%8d%e3%81%8b%e3%82%89%e3%81%86%e3%82%8b%e3%81%9b%e3%81%88%e3%81%9e-%e3%80%8c%e3%83%a1%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ab%e3%83%ac/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 24 Oct 2023 01:29:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[ジョジョの奇妙な冒険]]></category>
-		<guid isPermaLink="false">./../../../2023-10-24/%e3%81%8a%e3%81%84%e3%82%aa%e3%83%a1%e3%83%bc%e3%81%95%e3%81%a3%e3%81%8d%e3%81%8b%e3%82%89%e3%81%86%e3%82%8b%e3%81%9b%e3%81%88%e3%81%9e-%e3%80%8c%e3%83%a1%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ab%e3%83%ac/index.html</guid>
+		<guid isPermaLink="false">/2023-10-24/%e3%81%8a%e3%81%84%e3%82%aa%e3%83%a1%e3%83%bc%e3%81%95%e3%81%a3%e3%81%8d%e3%81%8b%e3%82%89%e3%81%86%e3%82%8b%e3%81%9b%e3%81%88%e3%81%9e-%e3%80%8c%e3%83%a1%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ab%e3%83%ac/</guid>
 
 					<description><![CDATA[&#160;おいオメー　さっきからうるせえぞ「メンタールレ頑張る」「メンタールレ頑張る」ってよォ～～～ 「メンタールレ頑張る」…　そんな言葉は使う必要がねーんだ なぜならオレや　オレたちの仲間は　その言葉を頭に思い浮かべ...]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;おいオメー　さっきからうるせえぞ<br />「メンタールレ頑張る」「メンタールレ頑張る」ってよォ～～～</p>
@@ -598,13 +598,13 @@
 			</item>
 		<item>
 		<title>わたあめ1年史（2023年9月～2024年8月）</title>
-		<link>./../../../2023-09-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882023%e5%b9%b49%e6%9c%88%ef%bd%9e2024%e5%b9%b48%e6%9c%88%ef%bc%89/index.html</link>
+		<link>/2023-09-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882023%e5%b9%b49%e6%9c%88%ef%bd%9e2024%e5%b9%b48%e6%9c%88%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 26 Sep 2023 02:53:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[わたあめ1年史]]></category>
-		<guid isPermaLink="false">./../../../2023-09-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882023%e5%b9%b49%e6%9c%88%ef%bd%9e2024%e5%b9%b48%e6%9c%88%ef%bc%89/index.html</guid>
+		<guid isPermaLink="false">/2023-09-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882023%e5%b9%b49%e6%9c%88%ef%bd%9e2024%e5%b9%b48%e6%9c%88%ef%bc%89/</guid>
 
 					<description><![CDATA[2023-09-10（日） 完全に忘れてたけど下限で遊ぶCWLSを作ってから3年経過してた。 この日は6.5の新アライアンスを前に下限風味でエウプロシュネに行きました。残り時間4分？くらいでギリギリクリアした熱い戦いでし...]]></description>
 										<content:encoded><![CDATA[<p>2023-09-10（日）</p>
@@ -622,7 +622,7 @@
 			</item>
 		<item>
 		<title>旅の記憶（と振り返り）下限風味エウプロ 2023-09-10（日）</title>
-		<link>./../../../2023-09-11/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%88%e3%81%a8%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%89%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-09-10%ef%bc%88%e6%97%a5/index.html</link>
+		<link>/2023-09-11/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%88%e3%81%a8%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%89%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-09-10%ef%bc%88%e6%97%a5/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 11 Sep 2023 02:13:00 +0000</pubDate>
@@ -630,7 +630,7 @@
 		<category><![CDATA[FF14]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限風味]]></category>
-		<guid isPermaLink="false">./../../../2023-09-11/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%88%e3%81%a8%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%89%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-09-10%ef%bc%88%e6%97%a5/index.html</guid>
+		<guid isPermaLink="false">/2023-09-11/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%88%e3%81%a8%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%89%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-09-10%ef%bc%88%e6%97%a5/</guid>
 
 					<description><![CDATA[&#160;2023-09-10（日）に企画した「下限風味」暁月24人レイド(2) エウプロシュネの記録を残しておく。https://jp.finalfantasyxiv.com/lodestone/character/...]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;2023-09-10（日）に企画した「下限風味」暁月24人レイド(2) エウプロシュネの記録を残しておく。<br /><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/72208/" target="_blank" rel="noopener">https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/72208/</a></p>
@@ -785,13 +785,13 @@
 			</item>
 		<item>
 		<title>10年目のFF14「We create worlds」の連鎖。</title>
-		<link>./../../../2023-08-27/10%e5%b9%b4%e7%9b%ae%e3%81%aeff14%e3%80%8cwe-create-worlds%e3%80%8d%e3%81%ae%e9%80%a3%e9%8e%96%e3%80%82/index.html</link>
+		<link>/2023-08-27/10%e5%b9%b4%e7%9b%ae%e3%81%aeff14%e3%80%8cwe-create-worlds%e3%80%8d%e3%81%ae%e9%80%a3%e9%8e%96%e3%80%82/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sun, 27 Aug 2023 00:52:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false">./../../../2023-08-27/10%e5%b9%b4%e7%9b%ae%e3%81%aeff14%e3%80%8cwe-create-worlds%e3%80%8d%e3%81%ae%e9%80%a3%e9%8e%96%e3%80%82/index.html</guid>
+		<guid isPermaLink="false">/2023-08-27/10%e5%b9%b4%e7%9b%ae%e3%81%aeff14%e3%80%8cwe-create-worlds%e3%80%8d%e3%81%ae%e9%80%a3%e9%8e%96%e3%80%82/</guid>
 
 					<description><![CDATA[世界中の冒険者と知り合えるオンラインゲームが好きだ。 芸風が同じ人も、違う人も、何かの偶然で知り合い、ひょっとしたら友達に、もしかするとお互いにとても大事な存在になれる、そういう可能性があるこの世界のことが好きなのだ。 ...]]></description>
 										<content:encoded><![CDATA[<p><span style="color: #999999;"></span></p>
@@ -825,13 +825,13 @@
 			</item>
 		<item>
 		<title>わたあめ1年史（2022年9月～2023年8月）</title>
-		<link>./../../../2023-08-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882022%e5%b9%b49%e6%9c%88%ef%bd%9e2023%e5%b9%b48%e6%9c%88%ef%bc%89/index.html</link>
+		<link>/2023-08-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882022%e5%b9%b49%e6%9c%88%ef%bd%9e2023%e5%b9%b48%e6%9c%88%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sat, 26 Aug 2023 02:51:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[わたあめ1年史]]></category>
-		<guid isPermaLink="false">./../../../2023-08-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882022%e5%b9%b49%e6%9c%88%ef%bd%9e2023%e5%b9%b48%e6%9c%88%ef%bc%89/index.html</guid>
+		<guid isPermaLink="false">/2023-08-26/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%811%e5%b9%b4%e5%8f%b2%ef%bc%882022%e5%b9%b49%e6%9c%88%ef%bd%9e2023%e5%b9%b48%e6%9c%88%ef%bc%89/</guid>
 
 					<description><![CDATA[&#160;あとで書く。]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;あとで書く。</p>
@@ -842,14 +842,14 @@
 			</item>
 		<item>
 		<title>君はどう下限るか</title>
-		<link>./../../../2023-08-21/%e5%90%9b%e3%81%af%e3%81%a9%e3%81%86%e4%b8%8b%e9%99%90%e3%82%8b%e3%81%8b/index.html</link>
+		<link>/2023-08-21/%e5%90%9b%e3%81%af%e3%81%a9%e3%81%86%e4%b8%8b%e9%99%90%e3%82%8b%e3%81%8b/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 21 Aug 2023 06:30:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[とりとめのない話]]></category>
 		<category><![CDATA[下限だいすき]]></category>
-		<guid isPermaLink="false">./../../../2023-08-21/%e5%90%9b%e3%81%af%e3%81%a9%e3%81%86%e4%b8%8b%e9%99%90%e3%82%8b%e3%81%8b/index.html</guid>
+		<guid isPermaLink="false">/2023-08-21/%e5%90%9b%e3%81%af%e3%81%a9%e3%81%86%e4%b8%8b%e9%99%90%e3%82%8b%e3%81%8b/</guid>
 
 					<description><![CDATA[私がどうしてFF14で下限ILでコンテンツ挑戦しているか考えてみたよ。 たぶん討滅戦のボスとかって「もうすぐ冒険者くるから準備ヨロ」とかそんな天の声をうけて、冒険者が楽しんでくれるかな？って色んなギミックを一生懸命考えて...]]></description>
 										<content:encoded><![CDATA[<p>私がどうしてFF14で下限ILでコンテンツ挑戦しているか考えてみたよ。</p>

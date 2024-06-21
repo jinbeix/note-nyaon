@@ -9,8 +9,8 @@
 
 <channel>
 	<title>友好部族 &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E5%8F%8B%E5%A5%BD%E9%83%A8%E6%97%8F/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E5%8F%8B%E5%A5%BD%E9%83%A8%E6%97%8F/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 21 Nov 2022 04:31:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>友好部族 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>暁月２つめの友好部族クエを終えての感想</title>
-		<link>./../../../2022-11-21/%e6%9a%81%e6%9c%88%ef%bc%92%e3%81%a4%e3%82%81%e3%81%ae%e5%8f%8b%e5%a5%bd%e9%83%a8%e6%97%8f%e3%82%af%e3%82%a8%e3%82%92%e7%b5%82%e3%81%88%e3%81%a6%e3%81%ae%e6%84%9f%e6%83%b3/index.html</link>
+		<link>/2022-11-21/%e6%9a%81%e6%9c%88%ef%bc%92%e3%81%a4%e3%82%81%e3%81%ae%e5%8f%8b%e5%a5%bd%e9%83%a8%e6%97%8f%e3%82%af%e3%82%a8%e3%82%92%e7%b5%82%e3%81%88%e3%81%a6%e3%81%ae%e6%84%9f%e6%83%b3/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 21 Nov 2022 04:31:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[友好部族]]></category>
 		<category><![CDATA[暁月のフィナーレ]]></category>
-		<guid isPermaLink="false">./../../../2022-11-21/%e6%9a%81%e6%9c%88%ef%bc%92%e3%81%a4%e3%82%81%e3%81%ae%e5%8f%8b%e5%a5%bd%e9%83%a8%e6%97%8f%e3%82%af%e3%82%a8%e3%82%92%e7%b5%82%e3%81%88%e3%81%a6%e3%81%ae%e6%84%9f%e6%83%b3/index.html</guid>
+		<guid isPermaLink="false">/2022-11-21/%e6%9a%81%e6%9c%88%ef%bc%92%e3%81%a4%e3%82%81%e3%81%ae%e5%8f%8b%e5%a5%bd%e9%83%a8%e6%97%8f%e3%82%af%e3%82%a8%e3%82%92%e7%b5%82%e3%81%88%e3%81%a6%e3%81%ae%e6%84%9f%e6%83%b3/</guid>
 
 					<description><![CDATA[大いにネタバレを含むのでご注意ください。 個人的には自身でストーリーを終え、自身の中に何か想いを抱いてから読んでくれたらいいなと思います。 注意したからね！笑 　◆ 　◇ 　◆ 　◇ 　◆ 　◇ （ネタバレ注意！）感想こ...]]></description>
 										<content:encoded><![CDATA[<p>大いにネタバレを含むのでご注意ください。</p>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MMORPG &#8211; にゃおんノート</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/mmorpg/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Jun 2024 09:02:45 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>MMORPG &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>妄想MMORPG</title>
-		<link>./../../../2024-06-10/%e5%a6%84%e6%83%b3mmorpg/index.html</link>
+		<link>/2024-06-10/%e5%a6%84%e6%83%b3mmorpg/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 10 Jun 2024 05:35:00 +0000</pubDate>

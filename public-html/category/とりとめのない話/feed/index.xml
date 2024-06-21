@@ -9,8 +9,8 @@
 
 <channel>
 	<title>とりとめのない話 &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E3%81%A8%E3%82%8A%E3%81%A8%E3%82%81%E3%81%AE%E3%81%AA%E3%81%84%E8%A9%B1/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E3%81%A8%E3%82%8A%E3%81%A8%E3%82%81%E3%81%AE%E3%81%AA%E3%81%84%E8%A9%B1/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Jun 2024 09:07:17 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>とりとめのない話 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>妄想MMORPG</title>
-		<link>./../../../2024-06-10/%e5%a6%84%e6%83%b3mmorpg/index.html</link>
+		<link>/2024-06-10/%e5%a6%84%e6%83%b3mmorpg/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 10 Jun 2024 05:35:00 +0000</pubDate>
@@ -57,7 +57,7 @@
 			</item>
 		<item>
 		<title>Youは誰がために人助け？（ていうか自分をアウトプットする理由？）</title>
-		<link>./../../../2024-05-16/you%e3%81%af%e8%aa%b0%e3%81%8c%e3%81%9f%e3%82%81%e3%81%ab%e4%ba%ba%e5%8a%a9%e3%81%91%ef%bc%9f%ef%bc%88%e3%81%a6%e3%81%84%e3%81%86%e3%81%8b%e8%87%aa%e5%88%86%e3%82%92%e3%82%a2%e3%82%a6%e3%83%88/index.html</link>
+		<link>/2024-05-16/you%e3%81%af%e8%aa%b0%e3%81%8c%e3%81%9f%e3%82%81%e3%81%ab%e4%ba%ba%e5%8a%a9%e3%81%91%ef%bc%9f%ef%bc%88%e3%81%a6%e3%81%84%e3%81%86%e3%81%8b%e8%87%aa%e5%88%86%e3%82%92%e3%82%a2%e3%82%a6%e3%83%88/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Thu, 16 May 2024 05:09:00 +0000</pubDate>
@@ -65,7 +65,7 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[わりと気軽に人のためにとか人が喜ぶ何かをしようって思考になりがちなんだけど。 無理しているわけではなくて、そうすることが自分の楽しさ、喜びみたいな部分があってやってる。出来るかどうかはちゃんと判断して、難しければ出来る範...]]></description>
-										<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/IMG_2730.jpg" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="4032" data-original-width="3024" height="320" src="./../../../wp-content/uploads/2024/05/IMG_2730-225x300.jpg" width="240" /></a></div>
+										<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/IMG_2730.jpg" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="4032" data-original-width="3024" height="320" src="/wp-content/uploads/2024/05/IMG_2730-225x300.jpg" width="240" /></a></div>
 <p></p>
 <p>わりと気軽に人のためにとか人が喜ぶ何かをしようって思考になりがちなんだけど。</p>
 <p>無理しているわけではなくて、そうすることが自分の楽しさ、喜びみたいな部分があってやってる。<br />出来るかどうかはちゃんと判断して、難しければ出来る範囲の条件提示かお断りはしてますよ。</p>
@@ -87,7 +87,7 @@
 			</item>
 		<item>
 		<title>「人を見るとき3つのレイヤーに分けて見てる気がするという話」を読んだ友人との会話で得たものメモ</title>
-		<link>./../../../2024-05-07/%e3%80%8c%e4%ba%ba%e3%82%92%e8%a6%8b%e3%82%8b%e3%81%a8%e3%81%8d3%e3%81%a4%e3%81%ae%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ab%e5%88%86%e3%81%91%e3%81%a6%e8%a6%8b%e3%81%a6%e3%82%8b%e6%b0%97%e3%81%8c/index.html</link>
+		<link>/2024-05-07/%e3%80%8c%e4%ba%ba%e3%82%92%e8%a6%8b%e3%82%8b%e3%81%a8%e3%81%8d3%e3%81%a4%e3%81%ae%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ab%e5%88%86%e3%81%91%e3%81%a6%e8%a6%8b%e3%81%a6%e3%82%8b%e6%b0%97%e3%81%8c/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 07 May 2024 02:15:00 +0000</pubDate>
@@ -101,7 +101,7 @@
 <p>を読んだ友人から幾つかレスを貰って「なるほどねぇ」とか「あー、そうか」と思ったので書き残しておく。</p>
 </p>
 <blockquote><p>レスその１：<br />土台やフーレム強度が弱くて積み重ならない場合がある</p></blockquote>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/How-I-view-you_01.jpg" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="510" data-original-width="589" height="277" src="./../../../wp-content/uploads/2024/05/How-I-view-you_01-300x260.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/How-I-view-you_01.jpg" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="510" data-original-width="589" height="277" src="/wp-content/uploads/2024/05/How-I-view-you_01-300x260.jpg" width="320" /></a></div>
 <p>このコメントをしていた友人は各ブロック（箱？）のフレーム強度が弱く積み上げられない場合があるかもしれない、という話をしていた。（と理解している）</p>
 <div></p>
 <div>最初聞いた時そもそもこれが乗っている一番下の土地の部分のことかと思ったけど良く聞いてみるとフーレムの話だった。</p>
@@ -119,7 +119,7 @@
 <p>好きの理由がわかれば好きなものを選びやすくなるし、誰かに伝えやすくもなる。<br />イヤの理由もわかればそういった物事や人を避けやすくなる。</p>
 </p>
 <blockquote><p>レスその２：<br />ここにある3段目のレイヤーに類するものが2段目のレイヤーにある場合もある</p></blockquote>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/How-I-view-you_01.jpg" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="510" data-original-width="589" height="277" src="./../../../wp-content/uploads/2024/05/How-I-view-you_01-300x260.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/How-I-view-you_01.jpg" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="510" data-original-width="589" height="277" src="/wp-content/uploads/2024/05/How-I-view-you_01-300x260.jpg" width="320" /></a></div>
 <p>この画像のモデルはあくまでわたしの価値観なので「2段目は人柄や性格、言動の癖」であり「3段目は各種技能」というものが含まれると考えている。</p>
 <p>だけど世の中には2段目のレイヤーに「何かある分野の技能だとかが含まれる場合もある」という事に気づいた。</p>
 <p>例えば<br />「ピアノが弾けないやつはうちの子じゃない」<br />「医学部に入れないと家にいづらい」<br />「ゲームが下手なやつに人権はない」<br />とかそういうの？かな。たぶん。</p>
@@ -134,7 +134,7 @@
 			</item>
 		<item>
 		<title>人を見るとき3つのレイヤーに分けて見てる気がするという話</title>
-		<link>./../../../2024-04-25/%e4%ba%ba%e3%82%92%e8%a6%8b%e3%82%8b%e3%81%a8%e3%81%8d3%e3%81%a4%e3%81%ae%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ab%e5%88%86%e3%81%91%e3%81%a6%e8%a6%8b%e3%81%a6%e3%82%8b%e6%b0%97%e3%81%8c%e3%81%99/index.html</link>
+		<link>/2024-04-25/%e4%ba%ba%e3%82%92%e8%a6%8b%e3%82%8b%e3%81%a8%e3%81%8d3%e3%81%a4%e3%81%ae%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ab%e5%88%86%e3%81%91%e3%81%a6%e8%a6%8b%e3%81%a6%e3%82%8b%e6%b0%97%e3%81%8c%e3%81%99/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 06:56:00 +0000</pubDate>
@@ -149,7 +149,7 @@
 <p>わたしに興味がある人にはわたしはこういう思考回路を今の時点では持ってるぽいと知っておいてほしい。<br />知ってもらうことでお互いスムーズなコミュニケーションができると思うので。</p>
 <p><span style="color: #666666;">※いま（2024-04-25）の時点でわたしってこうかなぁと考えてるモデルです。</span></p>
 <h2 style="text-align: left;">概要</h2>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/How-I-view-you_01.jpg" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="510" data-original-width="589" height="277" src="./../../../wp-content/uploads/2024/05/How-I-view-you_01-300x260.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/How-I-view-you_01.jpg" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="510" data-original-width="589" height="277" src="/wp-content/uploads/2024/05/How-I-view-you_01-300x260.jpg" width="320" /></a></div>
 <div style="clear: both; text-align: center;"></div>
 <div style="clear: both; text-align: left;">
 <div style="clear: both;">わたしは人を見る時に3つのレイヤーで認識している気がします。</div>
@@ -167,7 +167,7 @@
 <div style="clear: both;">全体的に高ければ好ましく思ったり信じる方に賭けられたりしやすいです。</div>
 <div style="clear: both;"></div>
 <h2 style="clear: both; text-align: left;">(1) 根本的な善悪</h2>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/How-I-view-you_02.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="110" data-original-width="732" height="48" src="./../../../wp-content/uploads/2024/04/How-I-view-you_02-300x45.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_02.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="110" data-original-width="732" height="48" src="/wp-content/uploads/2024/04/How-I-view-you_02-300x45.jpg" width="320" /></a></div>
 <div style="clear: both; text-align: left;"></div>
 <div style="clear: both;">ネコを蹴る、ヒトと魔物はわかりあえない、といったレベルの「根本的な善悪価値観やモラルの合う／合わない」のレイヤー。</div>
 <div style="clear: both;">ここは高さが一定。許容できるか、できないか。0か1かというイメージ。</div>
@@ -178,7 +178,7 @@
 <div style="clear: both;">でも本来2段目のレイヤーに含まれる要素な気がしますが「カジュアルに約束を破る」「私あるいは私の大事な人を傷つける言動をする」といった人はここが0みたいな認識をするので、このレイヤーに含まれる範囲はもっと広いのかも知れない。</div>
 <div></div>
 <h2 style="text-align: left;">(2) 人柄、性格、癖、ものの見かた、価値観、礼儀作法、言葉遣い、などなど</h2>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/How-I-view-you_03.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="208" data-original-width="594" height="112" src="./../../../wp-content/uploads/2024/04/How-I-view-you_03-300x105.jpg" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_03.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="208" data-original-width="594" height="112" src="/wp-content/uploads/2024/04/How-I-view-you_03-300x105.jpg" width="320" /></a></div>
 <p></p>
 <div>ひとつの要素ではなく様々な要素が総合的に合わさって高さが決まっているイメージ。</div>
 <div>
@@ -204,7 +204,7 @@
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td style="text-align: center;"><a href="./../../../wp-content/uploads/2024/04/How-I-view-you_04.jpg" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="541" data-original-width="504" height="320" src="./../../../wp-content/uploads/2024/04/How-I-view-you_04-279x300.jpg" title="才能の比較として見るとこう" width="298" /></a></td>
+<td style="text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_04.jpg" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="541" data-original-width="504" height="320" src="/wp-content/uploads/2024/04/How-I-view-you_04-279x300.jpg" title="才能の比較として見るとこう" width="298" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">才能にフォーカスした見かた</td>
@@ -230,7 +230,7 @@
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td style="text-align: center;"><a href="./../../../wp-content/uploads/2024/04/How-I-view-you_05.jpg" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="524" data-original-width="499" height="320" src="./../../../wp-content/uploads/2024/04/How-I-view-you_05-286x300.jpg" title="総合的にその人を見る場合こう" width="305" /></a></td>
+<td style="text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_05.jpg" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="524" data-original-width="499" height="320" src="/wp-content/uploads/2024/04/How-I-view-you_05-286x300.jpg" title="総合的にその人を見る場合こう" width="305" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">その人を総合的に見る場合</td>
@@ -274,7 +274,7 @@
 			</item>
 		<item>
 		<title>わたしの「わたあめ」はどちらだろう。</title>
-		<link>./../../../2024-04-16/%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e3%80%8c%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81%e3%80%8d%e3%81%af%e3%81%a9%e3%81%a1%e3%82%89%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82/index.html</link>
+		<link>/2024-04-16/%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e3%80%8c%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81%e3%80%8d%e3%81%af%e3%81%a9%e3%81%a1%e3%82%89%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 16 Apr 2024 05:51:00 +0000</pubDate>
@@ -298,7 +298,7 @@
 			</item>
 		<item>
 		<title>フォロー・フォロワー</title>
-		<link>./../../../2024-02-23/%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e3%83%bb%e3%83%95%e3%82%a9%e3%83%ad%e3%83%af%e3%83%bc/index.html</link>
+		<link>/2024-02-23/%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e3%83%bb%e3%83%95%e3%82%a9%e3%83%ad%e3%83%af%e3%83%bc/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Thu, 22 Feb 2024 21:47:00 +0000</pubDate>
@@ -319,7 +319,7 @@
 			</item>
 		<item>
 		<title>この人のような文章が書けるようになりたいと思える人のひとり</title>
-		<link>./../../../2024-02-16/%e3%81%93%e3%81%ae%e4%ba%ba%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%96%87%e7%ab%a0%e3%81%8c%e6%9b%b8%e3%81%91%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9f%e3%81%84%e3%81%a8%e6%80%9d/index.html</link>
+		<link>/2024-02-16/%e3%81%93%e3%81%ae%e4%ba%ba%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%96%87%e7%ab%a0%e3%81%8c%e6%9b%b8%e3%81%91%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9f%e3%81%84%e3%81%a8%e6%80%9d/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 16 Feb 2024 07:49:00 +0000</pubDate>
@@ -343,13 +343,13 @@
 			</item>
 		<item>
 		<title>わたあめ10年（2013年～2023年）写真バージョン</title>
-		<link>./../../../2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/index.html</link>
+		<link>/2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 14 Nov 2023 09:17:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false">./../../../2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/index.html</guid>
+		<guid isPermaLink="false">/2023-11-14/%e3%82%8f%e3%81%9f%e3%81%82%e3%82%8110%e5%b9%b4%ef%bc%882013%e5%b9%b4%ef%bd%9e2023%e5%b9%b4%ef%bc%89%e5%86%99%e7%9c%9f%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/</guid>
 
 					<description><![CDATA[わたあめってそういえば2013年11月にはじめたよね～と思いましてね。 手元にあるスクリーンショットで一番古いのが2013年11月16日でした。 物語の紡ぎ手：ランク1 2013/11/14 とあるので11月14日生まれ...]]></description>
 										<content:encoded><![CDATA[<div style="text-align: left;">わたあめってそういえば2013年11月にはじめたよね～と思いましてね。</div>
@@ -719,13 +719,13 @@
 			</item>
 		<item>
 		<title>蛮神わたあめ</title>
-		<link>./../../../2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/index.html</link>
+		<link>/2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 07 Nov 2023 01:36:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false">./../../../2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/index.html</guid>
+		<guid isPermaLink="false">/2023-11-07/%e8%9b%ae%e7%a5%9e%e3%82%8f%e3%81%9f%e3%81%82%e3%82%81/</guid>
 
 					<description><![CDATA[&#160; 問おう……。 うぬは、何のために闘う？ ならば、聞こう……。このCWLSに、真実はあるのか？ 虚偽で塗り固められた共存。欺騙によって造られたパーティ。瞞着するために語られるリーダー。欺瞞に満ちたCWLSに、...]]></description>
 										<content:encoded><![CDATA[<p><span face="Arial, Tahoma, Helvetica, FreeSans, sans-serif" style="color: #222222; font-size: 15px;"></span></p>
@@ -757,12 +757,12 @@
 			</item>
 		<item>
 		<title>今日も元気</title>
-		<link>./../../../2023-08-28/%e4%bb%8a%e6%97%a5%e3%82%82%e5%85%83%e6%b0%97/index.html</link>
+		<link>/2023-08-28/%e4%bb%8a%e6%97%a5%e3%82%82%e5%85%83%e6%b0%97/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 28 Aug 2023 06:17:00 +0000</pubDate>
 				<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false">./../../../2023-08-28/%e4%bb%8a%e6%97%a5%e3%82%82%e5%85%83%e6%b0%97/index.html</guid>
+		<guid isPermaLink="false">/2023-08-28/%e4%bb%8a%e6%97%a5%e3%82%82%e5%85%83%e6%b0%97/</guid>
 
 					<description><![CDATA[&#160;一ヶ月ほど前、数年ぶりにとある人からメッセージを受けた。 それからたまにメッセージのやり取りをしているのだけれど、先日こんな内容が送られてきた。 「なんか、エネルギーを感じます。前からあったけれど、前は灯火？...]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;一ヶ月ほど前、数年ぶりにとある人からメッセージを受けた。</p>

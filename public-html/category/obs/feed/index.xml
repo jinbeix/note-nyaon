@@ -9,8 +9,8 @@
 
 <channel>
 	<title>OBS &#8211; にゃおんノート</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/obs/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 14:53:31 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>OBS &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>メモ：OBSの設定値（音量関係）</title>
-		<link>./../../../2024-06-05/%e3%83%a1%e3%83%a2%ef%bc%9aobs%e3%81%ae%e8%a8%ad%e5%ae%9a%e5%80%a4%ef%bc%88%e9%9f%b3%e9%87%8f%e9%96%a2%e4%bf%82%ef%bc%89/index.html</link>
+		<link>/2024-06-05/%e3%83%a1%e3%83%a2%ef%bc%9aobs%e3%81%ae%e8%a8%ad%e5%ae%9a%e5%80%a4%ef%bc%88%e9%9f%b3%e9%87%8f%e9%96%a2%e4%bf%82%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2024 01:37:00 +0000</pubDate>
@@ -47,7 +47,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter"><a href="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904.png"><img decoding="async" src="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904-300x273.png" alt=""/></a></figure></div>
+<figure class="aligncenter"><a href="/wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904.png"><img decoding="async" src="/wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904-300x273.png" alt=""/></a></figure></div>
 
 
 <h1 class="wp-block-heading">絶竜詩している頃の設定値 2024-06-05</h1>

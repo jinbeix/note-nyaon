@@ -9,8 +9,8 @@
 
 <channel>
 	<title>未分類 &#8211; にゃおんノート</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2023 05:12:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>未分類 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>旅の記憶：下限風味アグライア 2023-09-03（日）</title>
-		<link>./../../../2023-09-04/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/index.html</link>
+		<link>/2023-09-04/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 04 Sep 2023 05:12:00 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">./../../../2023-09-04/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/index.html</guid>
+		<guid isPermaLink="false">/2023-09-04/%e6%97%85%e3%81%ae%e8%a8%98%e6%86%b6%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/</guid>
 
 					<description><![CDATA[&#160;2023-09-03（日）の下限風味アグライア。 企画者としてはちょっと１戦闘が長すぎたかなぁと思いつつも、それなりに楽しんでいただけたようなので良かったです。お付き合いありがとうございました！ ※ひとり反省...]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;2023-09-03（日）の下限風味アグライア。</p>

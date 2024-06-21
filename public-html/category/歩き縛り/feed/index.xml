@@ -9,8 +9,8 @@
 
 <channel>
 	<title>歩き縛り &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E6%AD%A9%E3%81%8D%E7%B8%9B%E3%82%8A/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E6%AD%A9%E3%81%8D%E7%B8%9B%E3%82%8A/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Apr 2023 22:57:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>歩き縛り &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>歩くエウプロ 2023-04-14 クレファさん企画</title>
-		<link>./../../../2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/index.html</link>
+		<link>/2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 14 Apr 2023 22:57:00 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[ネタばれ注意]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[歩き縛り]]></category>
-		<guid isPermaLink="false">./../../../2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/index.html</guid>
+		<guid isPermaLink="false">/2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/</guid>
 
 					<description><![CDATA[クレファさんの長いエオルゼア生活で2回イベント企画したものがあります。 歩く24人アグライアと歩くエウプロ。 歩くとか主観とか面白い企画思いつくよね。いろいろ面白いセリフが飛び交ってた気がするけれど多すぎて分からないや。...]]></description>
 										<content:encoded><![CDATA[<p>クレファさんの長いエオルゼア生活で2回イベント企画したものがあります。</p>

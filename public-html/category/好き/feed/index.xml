@@ -9,8 +9,8 @@
 
 <channel>
 	<title>好き &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E5%A5%BD%E3%81%8D/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E5%A5%BD%E3%81%8D/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Jun 2024 09:07:17 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>好き &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>この人のような文章が書けるようになりたいと思える人のひとり</title>
-		<link>./../../../2024-02-16/%e3%81%93%e3%81%ae%e4%ba%ba%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%96%87%e7%ab%a0%e3%81%8c%e6%9b%b8%e3%81%91%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9f%e3%81%84%e3%81%a8%e6%80%9d/index.html</link>
+		<link>/2024-02-16/%e3%81%93%e3%81%ae%e4%ba%ba%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%96%87%e7%ab%a0%e3%81%8c%e6%9b%b8%e3%81%91%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9f%e3%81%84%e3%81%a8%e6%80%9d/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 16 Feb 2024 07:49:00 +0000</pubDate>

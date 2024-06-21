@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ネタばれ注意 &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E3%83%8D%E3%82%BF%E3%81%B0%E3%82%8C%E6%B3%A8%E6%84%8F/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E3%83%8D%E3%82%BF%E3%81%B0%E3%82%8C%E6%B3%A8%E6%84%8F/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Jul 2023 05:18:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>ネタばれ注意 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>暁月ネタバレ的な話（Lv86あたりのサブクエ）</title>
-		<link>./../../../2023-07-12/%e6%9a%81%e6%9c%88%e3%83%8d%e3%82%bf%e3%83%90%e3%83%ac%e7%9a%84%e3%81%aa%e8%a9%b1%ef%bc%88lv86%e3%81%82%e3%81%9f%e3%82%8a%e3%81%ae%e3%82%b5%e3%83%96%e3%82%af%e3%82%a8%ef%bc%89/index.html</link>
+		<link>/2023-07-12/%e6%9a%81%e6%9c%88%e3%83%8d%e3%82%bf%e3%83%90%e3%83%ac%e7%9a%84%e3%81%aa%e8%a9%b1%ef%bc%88lv86%e3%81%82%e3%81%9f%e3%82%8a%e3%81%ae%e3%82%b5%e3%83%96%e3%82%af%e3%82%a8%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Wed, 12 Jul 2023 05:18:00 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[とりとめのない話]]></category>
 		<category><![CDATA[ネタばれ注意]]></category>
 		<category><![CDATA[暁月のフィナーレ]]></category>
-		<guid isPermaLink="false">./../../../2023-07-12/%e6%9a%81%e6%9c%88%e3%83%8d%e3%82%bf%e3%83%90%e3%83%ac%e7%9a%84%e3%81%aa%e8%a9%b1%ef%bc%88lv86%e3%81%82%e3%81%9f%e3%82%8a%e3%81%ae%e3%82%b5%e3%83%96%e3%82%af%e3%82%a8%ef%bc%89/index.html</guid>
+		<guid isPermaLink="false">/2023-07-12/%e6%9a%81%e6%9c%88%e3%83%8d%e3%82%bf%e3%83%90%e3%83%ac%e7%9a%84%e3%81%aa%e8%a9%b1%ef%bc%88lv86%e3%81%82%e3%81%9f%e3%82%8a%e3%81%ae%e3%82%b5%e3%83%96%e3%82%af%e3%82%a8%ef%bc%89/</guid>
 
 					<description><![CDATA[ネタバレが怖いなら伏せて書けばいいじゃない。って某王妃も言ったとかなんとか。 自分の日記で一応隠せるのつけてるからそれでいっかーと書いてみた。 暁月のフィナーレのサブクエと24人レイドを終えていないなら開いてはいけない ...]]></description>
 										<content:encoded><![CDATA[<p>ネタバレが怖いなら伏せて書けばいいじゃない。って某王妃も言ったとかなんとか。</p>
@@ -79,14 +79,14 @@
 			</item>
 		<item>
 		<title>FF14：好きなカットシーンを集め残していく</title>
-		<link>./../../../2023-05-03/ff14%ef%bc%9a%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%ab%e3%83%83%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%92%e9%9b%86%e3%82%81%e6%ae%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f/index.html</link>
+		<link>/2023-05-03/ff14%ef%bc%9a%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%ab%e3%83%83%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%92%e9%9b%86%e3%82%81%e6%ae%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Wed, 03 May 2023 11:18:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[ネタばれ注意]]></category>
 		<category><![CDATA[備忘録]]></category>
-		<guid isPermaLink="false">./../../../2023-05-03/ff14%ef%bc%9a%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%ab%e3%83%83%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%92%e9%9b%86%e3%82%81%e6%ae%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f/index.html</guid>
+		<guid isPermaLink="false">/2023-05-03/ff14%ef%bc%9a%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%ab%e3%83%83%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%92%e9%9b%86%e3%82%81%e6%ae%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f/</guid>
 
 					<description><![CDATA[具体的な内容は省く。見ればわかる。 ここを押すと開く pets －－－－－ Lv80：その者の結末Lv80：漆黒のヴィランズ（カットシーン2）Lv80：漆黒のヴィランズ（カットシーン5） Lv80：黄道航行Lv80：クリ...]]></description>
 										<content:encoded><![CDATA[<p>具体的な内容は省く。見ればわかる。</p>
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>歩くエウプロ 2023-04-14 クレファさん企画</title>
-		<link>./../../../2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/index.html</link>
+		<link>/2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 14 Apr 2023 22:57:00 +0000</pubDate>
@@ -119,7 +119,7 @@
 		<category><![CDATA[ネタばれ注意]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[歩き縛り]]></category>
-		<guid isPermaLink="false">./../../../2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/index.html</guid>
+		<guid isPermaLink="false">/2023-04-15/%e6%ad%a9%e3%81%8f%e3%82%a8%e3%82%a6%e3%83%97%e3%83%ad-2023-04-14-%e3%82%af%e3%83%ac%e3%83%95%e3%82%a1%e3%81%95%e3%82%93%e4%bc%81%e7%94%bb/</guid>
 
 					<description><![CDATA[クレファさんの長いエオルゼア生活で2回イベント企画したものがあります。 歩く24人アグライアと歩くエウプロ。 歩くとか主観とか面白い企画思いつくよね。いろいろ面白いセリフが飛び交ってた気がするけれど多すぎて分からないや。...]]></description>
 										<content:encoded><![CDATA[<p>クレファさんの長いエオルゼア生活で2回イベント企画したものがあります。</p>
@@ -188,14 +188,14 @@
 			</item>
 		<item>
 		<title>歩く（走ってはいけない）アグライア</title>
-		<link>./../../../2022-08-22/%e6%ad%a9%e3%81%8f%ef%bc%88%e8%b5%b0%e3%81%a3%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%ef%bc%89%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2/index.html</link>
+		<link>/2022-08-22/%e6%ad%a9%e3%81%8f%ef%bc%88%e8%b5%b0%e3%81%a3%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%ef%bc%89%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sun, 21 Aug 2022 16:16:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[ネタばれ注意]]></category>
 		<category><![CDATA[下限だいすき]]></category>
-		<guid isPermaLink="false">./../../../2022-08-22/%e6%ad%a9%e3%81%8f%ef%bc%88%e8%b5%b0%e3%81%a3%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%ef%bc%89%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2/index.html</guid>
+		<guid isPermaLink="false">/2022-08-22/%e6%ad%a9%e3%81%8f%ef%bc%88%e8%b5%b0%e3%81%a3%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%ef%bc%89%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2/</guid>
 
 					<description><![CDATA[歩いて行く暁月24人レイドの企画をCWLSメンバーが立ててくれたので行ってきました！ すごい。ちゃんと歩き縛りでもクリアできるように調整されてる？！ 3ボスで30分、4ボスも20分近く戦って、ぎりぎり全滅回避しつつ蘇生で...]]></description>
 										<content:encoded><![CDATA[<p>歩いて行く暁月24人レイドの企画を<a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5052764/" target="_blank" rel="noopener">CWLSメンバー</a>が立ててくれたので行ってきました！<br />
@@ -298,13 +298,13 @@
 			</item>
 		<item>
 		<title>FF14：暁月メインストーリーのあのセリフたち</title>
-		<link>./../../../2022-02-12/ff14%ef%bc%9a%e6%9a%81%e6%9c%88%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e3%81%ae%e3%81%82%e3%81%ae%e3%82%bb%e3%83%aa%e3%83%95%e3%81%9f%e3%81%a1/index.html</link>
+		<link>/2022-02-12/ff14%ef%bc%9a%e6%9a%81%e6%9c%88%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e3%81%ae%e3%81%82%e3%81%ae%e3%82%bb%e3%83%aa%e3%83%95%e3%81%9f%e3%81%a1/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 11 Feb 2022 23:59:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[ネタばれ注意]]></category>
-		<guid isPermaLink="false">./../../../2022-02-12/ff14%ef%bc%9a%e6%9a%81%e6%9c%88%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e3%81%ae%e3%81%82%e3%81%ae%e3%82%bb%e3%83%aa%e3%83%95%e3%81%9f%e3%81%a1/index.html</guid>
+		<guid isPermaLink="false">/2022-02-12/ff14%ef%bc%9a%e6%9a%81%e6%9c%88%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc%e3%81%ae%e3%81%82%e3%81%ae%e3%82%bb%e3%83%aa%e3%83%95%e3%81%9f%e3%81%a1/</guid>
 
 					<description><![CDATA[FF14暁月のフィナーレのネタばれあります。 暁月のフィナーレで6.0ストーリー（エンディング）終えるまで見てはいけない。みるなよ！しらないぞ！言ったからね！ 　◆　◇ 　◆　◇ 　◆　◇ 　◆　◇ ■一連のセリフ達（押...]]></description>
 										<content:encoded><![CDATA[<p><b><span style="color: red; font-size: large;">FF14暁月のフィナーレのネタばれあります。</span></b></p>

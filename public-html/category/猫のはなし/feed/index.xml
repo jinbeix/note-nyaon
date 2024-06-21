@@ -9,8 +9,8 @@
 
 <channel>
 	<title>猫のはなし &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E7%8C%AB%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%97/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E7%8C%AB%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%97/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Tue, 31 Oct 2023 00:47:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>猫のはなし &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>ねこがご飯食べなくなってきた。</title>
-		<link>./../../../2023-10-31/%e3%81%ad%e3%81%93%e3%81%8c%e3%81%94%e9%a3%af%e9%a3%9f%e3%81%b9%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82/index.html</link>
+		<link>/2023-10-31/%e3%81%ad%e3%81%93%e3%81%8c%e3%81%94%e9%a3%af%e9%a3%9f%e3%81%b9%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 00:47:00 +0000</pubDate>
 				<category><![CDATA[猫のはなし]]></category>
-		<guid isPermaLink="false">./../../../2023-10-31/%e3%81%ad%e3%81%93%e3%81%8c%e3%81%94%e9%a3%af%e9%a3%9f%e3%81%b9%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82/index.html</guid>
+		<guid isPermaLink="false">/2023-10-31/%e3%81%ad%e3%81%93%e3%81%8c%e3%81%94%e9%a3%af%e9%a3%9f%e3%81%b9%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82/</guid>
 
 					<description><![CDATA[ねこがご飯食べなくなってきた。 追加の薬のせいなのか、別の原因なのか。もう老猫だから何があるかわからないね。 食物繊維多めなカリカリでこれ食べないと極度の便秘になるので困ったちゃん。&#160;]]></description>
 										<content:encoded><![CDATA[<p>ねこがご飯食べなくなってきた。</p>

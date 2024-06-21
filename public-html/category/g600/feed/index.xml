@@ -9,8 +9,8 @@
 
 <channel>
 	<title>G600 &#8211; にゃおんノート</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/g600/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 14 Aug 2023 05:24:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>G600 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>FF14 各ロールG600ホットバー配置</title>
-		<link>./../../../2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/index.html</link>
+		<link>/2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 14 Aug 2023 05:24:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[G600]]></category>
 		<category><![CDATA[雑記]]></category>
-		<guid isPermaLink="false">./../../../2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/index.html</guid>
+		<guid isPermaLink="false">/2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/</guid>
 
 					<description><![CDATA[私のホットバーこんな感じってだけの日記。画像の左から「素で押す」「Shiftと押す」「Ctrlと押す」です。 基本方針として 各ロールは似た役割のアクションはほぼ同じ配置になるようにしている。 アムレンは全ジョブ同じ所。...]]></description>
 										<content:encoded><![CDATA[<p>私のホットバーこんな感じってだけの日記。<br />画像の左から「素で押す」「Shiftと押す」「Ctrlと押す」です。</p>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>雑記 &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E9%9B%91%E8%A8%98/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E9%9B%91%E8%A8%98/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 14 Aug 2023 05:24:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>雑記 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>FF14 各ロールG600ホットバー配置</title>
-		<link>./../../../2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/index.html</link>
+		<link>/2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 14 Aug 2023 05:24:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[G600]]></category>
 		<category><![CDATA[雑記]]></category>
-		<guid isPermaLink="false">./../../../2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/index.html</guid>
+		<guid isPermaLink="false">/2023-08-14/ff14-%e5%90%84%e3%83%ad%e3%83%bc%e3%83%abg600%e3%83%9b%e3%83%83%e3%83%88%e3%83%90%e3%83%bc%e9%85%8d%e7%bd%ae/</guid>
 
 					<description><![CDATA[私のホットバーこんな感じってだけの日記。画像の左から「素で押す」「Shiftと押す」「Ctrlと押す」です。 基本方針として 各ロールは似た役割のアクションはほぼ同じ配置になるようにしている。 アムレンは全ジョブ同じ所。...]]></description>
 										<content:encoded><![CDATA[<p>私のホットバーこんな感じってだけの日記。<br />画像の左から「素で押す」「Shiftと押す」「Ctrlと押す」です。</p>
@@ -84,13 +84,13 @@
 			</item>
 		<item>
 		<title>新生蛮神の思い出</title>
-		<link>./../../../2023-08-11/%e6%96%b0%e7%94%9f%e8%9b%ae%e7%a5%9e%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba/index.html</link>
+		<link>/2023-08-11/%e6%96%b0%e7%94%9f%e8%9b%ae%e7%a5%9e%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Thu, 10 Aug 2023 15:09:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[雑記]]></category>
-		<guid isPermaLink="false">./../../../2023-08-11/%e6%96%b0%e7%94%9f%e8%9b%ae%e7%a5%9e%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba/index.html</guid>
+		<guid isPermaLink="false">/2023-08-11/%e6%96%b0%e7%94%9f%e8%9b%ae%e7%a5%9e%e3%81%ae%e6%80%9d%e3%81%84%e5%87%ba/</guid>
 
 					<description><![CDATA[ツイッターでなんか質問ある？というものへの返信を兼ねて。 好きな新生の蛮神はどれですか！ギミック、思い出、ストーリー、設定、、、いろんな面を踏まえた上で「1番」はなんですか？！ — 蒼行燈 (@ao_and_on) Au...]]></description>
 										<content:encoded><![CDATA[<p>ツイッターでなんか質問ある？というものへの返信を兼ねて。</p>
@@ -156,13 +156,13 @@
 			</item>
 		<item>
 		<title>FF14：ムービーもテキストも全部味わってほしい</title>
-		<link>./../../../2022-02-16/ff14%ef%bc%9a%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%82%82%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%82%e5%85%a8%e9%83%a8%e5%91%b3%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84/index.html</link>
+		<link>/2022-02-16/ff14%ef%bc%9a%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%82%82%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%82%e5%85%a8%e9%83%a8%e5%91%b3%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 15 Feb 2022 21:54:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[雑記]]></category>
-		<guid isPermaLink="false">./../../../2022-02-16/ff14%ef%bc%9a%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%82%82%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%82%e5%85%a8%e9%83%a8%e5%91%b3%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84/index.html</guid>
+		<guid isPermaLink="false">/2022-02-16/ff14%ef%bc%9a%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%82%82%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%82%82%e5%85%a8%e9%83%a8%e5%91%b3%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84/</guid>
 
 					<description><![CDATA[おはようございます。 昨日はガイウスもラハブレアも強かったね。何度も死んじゃった。 歯ごたえのある相手でした。 君がムービースキップしているのをみてみんなでアレコレ言っちゃったね。 あの時は時間もないし丁寧に説明できなか...]]></description>
 										<content:encoded><![CDATA[<div style="text-align: left;"></div>

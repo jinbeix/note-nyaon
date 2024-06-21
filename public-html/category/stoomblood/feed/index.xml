@@ -9,8 +9,8 @@
 
 <channel>
 	<title>STOOMBLOOD &#8211; にゃおんノート</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/stoomblood/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Sun, 22 Jan 2023 22:04:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>STOOMBLOOD &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>🍬下限🍭紅蓮24人（その3）「楽欲の僧院」2023-01-22</title>
-		<link>./../../../2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/index.html</link>
+		<link>/2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sun, 22 Jan 2023 22:04:00 +0000</pubDate>
@@ -38,7 +38,7 @@
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
 		<category><![CDATA[紅蓮のリベレーター]]></category>
-		<guid isPermaLink="false">./../../../2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/index.html</guid>
+		<guid isPermaLink="false">/2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/</guid>
 
 					<description><![CDATA[前回から約一ヶ月空いてたので開催日忘れそうで危なかった。 私ともう一人黒魔参加だったのだけどふたりでドッカンドッカンやってたら頭割り参加忘れてパーティ4人消し飛んでました。全滅後また私入るの忘れてたらギリギリだったのでみ...]]></description>
 										<content:encoded><![CDATA[<p>前回から約一ヶ月空いてたので開催日忘れそうで危なかった。</p>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>FF14旅の記録 &#8211; にゃおんノート</title>
-	<atom:link href="./../../ff14%E6%97%85%E3%81%AE%E8%A8%98%E9%8C%B2/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/ff14%E6%97%85%E3%81%AE%E8%A8%98%E9%8C%B2/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 14:45:46 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>FF14旅の記録 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>飴組探検手帳：蒼天編</title>
-		<link>./../../../2024-06-16/ame-sightseeinglog-heavensward/index.html</link>
+		<link>/2024-06-16/ame-sightseeinglog-heavensward/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sun, 16 Jun 2024 04:30:54 +0000</pubDate>
 				<category><![CDATA[FF14旅の記録]]></category>
 		<category><![CDATA[探検手帳]]></category>
 		<category><![CDATA[飴組]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=465</guid>
+		<guid isPermaLink="false">/?p=465</guid>
 
 					<description><![CDATA[2024-06-13（木）21:30～23:30CWLS下限だいすきエレメンタル所属のRinさん企画。 無事に絶竜詩をクリアしてイレギュラーで週5になってたのを週4に戻したおかげで丁度空いた日。ぴよもちと参加してきました...]]></description>
 										<content:encoded><![CDATA[
@@ -96,7 +96,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215228_920.png"><img fetchpriority="high" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215228_920-1024x576.png" alt="" class="wp-image-473" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215228_920-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215228_920-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215228_920-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215228_920-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215228_920.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240613_215228_920.png"><img fetchpriority="high" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240613_215228_920-1024x576.png" alt="" class="wp-image-473" srcset="/wp-content/uploads/2024/06/ffxiv_20240613_215228_920-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240613_215228_920-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240613_215228_920-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240613_215228_920-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240613_215228_920.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215247_108.png"><img decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215247_108-1024x576.png" alt="" class="wp-image-474" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215247_108-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215247_108-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215247_108-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215247_108-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215247_108.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240613_215247_108.png"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240613_215247_108-1024x576.png" alt="" class="wp-image-474" srcset="/wp-content/uploads/2024/06/ffxiv_20240613_215247_108-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240613_215247_108-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240613_215247_108-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240613_215247_108-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240613_215247_108.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -124,7 +124,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215258_976.png"><img decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215258_976-1024x576.png" alt="" class="wp-image-475" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240613_215258_976-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215258_976-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215258_976-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215258_976-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_215258_976.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240613_215258_976.png"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240613_215258_976-1024x576.png" alt="" class="wp-image-475" srcset="/wp-content/uploads/2024/06/ffxiv_20240613_215258_976-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240613_215258_976-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240613_215258_976-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240613_215258_976-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240613_215258_976.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -180,7 +180,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240613_225445_575.png"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240613_225445_575-1024x576.png" alt="" class="wp-image-483" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240613_225445_575-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225445_575-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225445_575-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225445_575-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225445_575.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240613_225445_575.png"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240613_225445_575-1024x576.png" alt="" class="wp-image-483" srcset="/wp-content/uploads/2024/06/ffxiv_20240613_225445_575-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240613_225445_575-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240613_225445_575-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240613_225445_575-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240613_225445_575.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -228,7 +228,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240613_225456_707.png"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240613_225456_707-1024x576.png" alt="" class="wp-image-484" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240613_225456_707-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225456_707-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225456_707-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225456_707-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240613_225456_707.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240613_225456_707.png"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240613_225456_707-1024x576.png" alt="" class="wp-image-484" srcset="/wp-content/uploads/2024/06/ffxiv_20240613_225456_707-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240613_225456_707-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240613_225456_707-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240613_225456_707-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240613_225456_707.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 ]]></content:encoded>
 					
 		
@@ -236,13 +236,13 @@
 			</item>
 		<item>
 		<title>初踏破！バルデシオンアーセナル</title>
-		<link>./../../../2024-06-14/clear-the-baldesion-arsenal/index.html</link>
+		<link>/2024-06-14/clear-the-baldesion-arsenal/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 14 Jun 2024 08:56:11 +0000</pubDate>
 				<category><![CDATA[FF14旅の記録]]></category>
 		<category><![CDATA[禁断の地エウレカ]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=6</guid>
+		<guid isPermaLink="false">/?p=6</guid>
 
 					<description><![CDATA[たぶん初めてエウレカのBA行ったのは2020年だったはずなので4年越しでようやく初クリアです。やったー！ありがとうー！ BA自体は2020年の時にも2、3回行ったことがあってラスボス途中で外に追い出されちゃったんだよね。...]]></description>
 										<content:encoded><![CDATA[
@@ -258,7 +258,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223121_002.png"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223121_002-1024x576.png" alt="" class="wp-image-456" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223121_002-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223121_002-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223121_002-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223121_002-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223121_002.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240615_223121_002.png"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240615_223121_002-1024x576.png" alt="" class="wp-image-456" srcset="/wp-content/uploads/2024/06/ffxiv_20240615_223121_002-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240615_223121_002-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240615_223121_002-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240615_223121_002-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240615_223121_002.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -278,7 +278,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223109_703.png"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223109_703-1024x576.png" alt="" class="wp-image-453" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223109_703-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223109_703-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223109_703-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223109_703-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223109_703.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240615_223109_703.png"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240615_223109_703-1024x576.png" alt="" class="wp-image-453" srcset="/wp-content/uploads/2024/06/ffxiv_20240615_223109_703-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240615_223109_703-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240615_223109_703-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240615_223109_703-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240615_223109_703.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -302,7 +302,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223048_770.png"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223048_770-1024x576.png" alt="" class="wp-image-454" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223048_770-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223048_770-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223048_770-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223048_770-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223048_770.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240615_223048_770.png"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240615_223048_770-1024x576.png" alt="" class="wp-image-454" srcset="/wp-content/uploads/2024/06/ffxiv_20240615_223048_770-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240615_223048_770-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240615_223048_770-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240615_223048_770-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240615_223048_770.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 
 
 
@@ -338,7 +338,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223137_068.png"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223137_068-1024x576.png" alt="" class="wp-image-455" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240615_223137_068-1024x576.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223137_068-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223137_068-768x432.png 768w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223137_068-1536x864.png 1536w, ./../../../wp-content/uploads/2024/06/ffxiv_20240615_223137_068.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/06/ffxiv_20240615_223137_068.png"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240615_223137_068-1024x576.png" alt="" class="wp-image-455" srcset="/wp-content/uploads/2024/06/ffxiv_20240615_223137_068-1024x576.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240615_223137_068-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240615_223137_068-768x432.png 768w, /wp-content/uploads/2024/06/ffxiv_20240615_223137_068-1536x864.png 1536w, /wp-content/uploads/2024/06/ffxiv_20240615_223137_068.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
 ]]></content:encoded>
 					
 		
@@ -346,7 +346,7 @@
 			</item>
 		<item>
 		<title>旅の記録：絶竜詩戦争をおえて</title>
-		<link>./../../../2024-06-12/%e6%97%85%e3%81%ae%e8%a8%98%e9%8c%b2%ef%bc%9a%e7%b5%b6%e7%ab%9c%e8%a9%a9%e6%88%a6%e4%ba%89%e3%82%92%e3%81%8a%e3%81%88%e3%81%a6/index.html</link>
+		<link>/2024-06-12/%e6%97%85%e3%81%ae%e8%a8%98%e9%8c%b2%ef%bc%9a%e7%b5%b6%e7%ab%9c%e8%a9%a9%e6%88%a6%e4%ba%89%e3%82%92%e3%81%8a%e3%81%88%e3%81%a6/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Wed, 12 Jun 2024 05:14:00 +0000</pubDate>
@@ -380,7 +380,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_225839_512.png" alt="" class="wp-image-103" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_225839_512.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_225839_512-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_225839_512-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_225839_512.png" alt="" class="wp-image-103" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_225839_512.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_225839_512-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_225839_512-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -490,7 +490,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232220_577.png" alt="" class="wp-image-104" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232220_577.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232220_577-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232220_577-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232220_577.png" alt="" class="wp-image-104" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232220_577.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232220_577-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232220_577-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -576,7 +576,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232230_646.png" alt="" class="wp-image-105" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232230_646.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232230_646-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232230_646-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232230_646.png" alt="" class="wp-image-105" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232230_646.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232230_646-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232230_646-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -600,7 +600,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232312_999.png" alt="" class="wp-image-106" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232312_999.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232312_999-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232312_999-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232312_999.png" alt="" class="wp-image-106" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232312_999.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232312_999-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232312_999-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -652,7 +652,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232433_410.png" alt="" class="wp-image-107" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232433_410.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232433_410-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232433_410-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232433_410.png" alt="" class="wp-image-107" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232433_410.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232433_410-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232433_410-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -722,7 +722,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232333_599.png" alt="" class="wp-image-108" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232333_599.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232333_599-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232333_599-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232333_599.png" alt="" class="wp-image-108" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232333_599.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232333_599-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232333_599-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -824,7 +824,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232252_856.png" alt="" class="wp-image-109" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232252_856.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232252_856-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232252_856-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232252_856.png" alt="" class="wp-image-109" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232252_856.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232252_856-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232252_856-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1122,7 +1122,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232352_447.png" alt="" class="wp-image-110" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232352_447.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232352_447-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232352_447-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232352_447.png" alt="" class="wp-image-110" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232352_447.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232352_447-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232352_447-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1332,7 +1332,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="840" src="./../../../wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1.jpg" alt="" class="wp-image-111" srcset="./../../../wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1.jpg 1024w, ./../../../wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1-300x246.jpg 300w, ./../../../wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1-768x630.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="840" src="/wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1.jpg" alt="" class="wp-image-111" srcset="/wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1.jpg 1024w, /wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1-300x246.jpg 300w, /wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1-768x630.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1378,7 +1378,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232520_632.png" alt="" class="wp-image-112" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232520_632.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232520_632-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232520_632-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232520_632.png" alt="" class="wp-image-112" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232520_632.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232520_632-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232520_632-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1406,7 +1406,7 @@
 
 
 <div class="wp-block-image is-style-default">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="782" height="638" src="./../../../wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84.jpg" alt="" class="wp-image-113" srcset="./../../../wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84.jpg 782w, ./../../../wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84-300x245.jpg 300w, ./../../../wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84-768x627.jpg 768w" sizes="(max-width: 782px) 100vw, 782px" /><figcaption class="wp-element-caption">みえない…</figcaption></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="782" height="638" src="/wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84.jpg" alt="" class="wp-image-113" srcset="/wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84.jpg 782w, /wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84-300x245.jpg 300w, /wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84-768x627.jpg 768w" sizes="(max-width: 782px) 100vw, 782px" /><figcaption class="wp-element-caption">みえない…</figcaption></figure></div>
 
 
 <p class="has-text-align-left">「口が見えにくいんでそのタイミングだけニーズの方攻撃してもらえないかなぁ……？」<br>ってお願いしたら全員から</p>
@@ -1543,7 +1543,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240509_200732_088.png" alt="" class="wp-image-114" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240509_200732_088.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240509_200732_088-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240509_200732_088-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">シルクスツイニングのラスボスフィールドが使い勝手良かったです。</figcaption></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240509_200732_088.png" alt="" class="wp-image-114" srcset="/wp-content/uploads/2024/06/ffxiv_20240509_200732_088.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240509_200732_088-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240509_200732_088-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">シルクスツイニングのラスボスフィールドが使い勝手良かったです。</figcaption></figure></div>
 
 
 <p>スピード感があるしミスしたくない状況という緊張感はあるけれど、ランダム性は無いようなもので、淡々と自分がミスせず行動すればよいだけのフェーズとみてました。</p>
@@ -1688,7 +1688,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232137_468.png" alt="" class="wp-image-115" srcset="./../../../wp-content/uploads/2024/06/ffxiv_20240607_232137_468.png 1024w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232137_468-300x169.png 300w, ./../../../wp-content/uploads/2024/06/ffxiv_20240607_232137_468-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232137_468.png" alt="" class="wp-image-115" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232137_468.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232137_468-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232137_468-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1780,7 +1780,7 @@
 
 
 <div class="wp-block-image">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;.\/\/wp-content\/uploads\/2024\/06\/ffxiv_20240608_084242_818-300x169.png&quot;,&quot;figureClassNames&quot;:&quot;aligncenter&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:null,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:&quot;none&quot;,&quot;targetHeight&quot;:&quot;none&quot;,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;\u753b\u50cf\u3092\u62e1\u5927&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="aligncenter wp-lightbox-container"><img decoding="async" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="./../../../wp-content/uploads/2024/06/ffxiv_20240608_084242_818-300x169.png" alt=""/><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;\/wp-content\/uploads\/2024\/06\/ffxiv_20240608_084242_818-300x169.png&quot;,&quot;figureClassNames&quot;:&quot;aligncenter&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:null,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:&quot;none&quot;,&quot;targetHeight&quot;:&quot;none&quot;,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;\u753b\u50cf\u3092\u62e1\u5927&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="aligncenter wp-lightbox-container"><img decoding="async" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="/wp-content/uploads/2024/06/ffxiv_20240608_084242_818-300x169.png" alt=""/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -1804,7 +1804,7 @@
 			</item>
 		<item>
 		<title>FF14：自力解明のすゝめ</title>
-		<link>./../../../2024-05-14/ff14%ef%bc%9a%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%e3%81%ae%e3%81%99%e3%82%9d%e3%82%81/index.html</link>
+		<link>/2024-05-14/ff14%ef%bc%9a%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%e3%81%ae%e3%81%99%e3%82%9d%e3%82%81/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Tue, 14 May 2024 02:27:00 +0000</pubDate>
@@ -1844,37 +1844,37 @@
 <div><span style="color: #f3f3f3;">あ、私は予習しての攻略じゃ物足りないので自力解明で遊んでるんですけどね。（えらそう</span></div>
 <div><span><a name='more'></a></span></p>
 <h4 style="clear: both; text-align: center;">共鳴1層</h4>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240302_234121_482.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240302_234121_482-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482-300x169.png" width="320" /></a></div>
 <p></p>
 <h4 style="clear: both; text-align: center;">共鳴2層</h4>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231446_887.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231446_887-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231609_858.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231609_858-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231631_602.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231631_602-169x300.png" width="180" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231631_602.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="/wp-content/uploads/2024/05/ffxiv_20240401_231631_602-169x300.png" width="180" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231708_762.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231708_762-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231708_762.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231708_762-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231717_678.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240401_231717_678-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231717_678.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231717_678-300x169.png" width="320" /></a></div>
 <p></p>
 <h4 style="clear: both; text-align: center;">共鳴3層</h4>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235651_588.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235651_588-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235651_588.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235651_588-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235805_048.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235805_048-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235805_048.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235805_048-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235815_908.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235815_908-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235815_908.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235815_908-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235825_594.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235825_594-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235825_594.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235825_594-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235847_012.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235847_012-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235847_012.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235847_012-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235856_572.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235856_572-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235856_572.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235856_572-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235902_438.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235902_438-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235902_438.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235902_438-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235907_297.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235907_297-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235907_297.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235907_297-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235801_396.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240513_235801_396-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240513_235801_396.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240513_235801_396-300x169.png" width="320" /></a></div>
 <p><span style="color: #f3f3f3;"><br /></span></div>
 </div>
 ]]></content:encoded>
@@ -1884,7 +1884,7 @@
 			</item>
 		<item>
 		<title>FF14：下限闇の世界 2024-05-10（金）</title>
-		<link>./../../../2024-05-11/ff14%ef%bc%9a%e4%b8%8b%e9%99%90%e9%97%87%e3%81%ae%e4%b8%96%e7%95%8c-2024-05-10%ef%bc%88%e9%87%91%ef%bc%89/index.html</link>
+		<link>/2024-05-11/ff14%ef%bc%9a%e4%b8%8b%e9%99%90%e9%97%87%e3%81%ae%e4%b8%96%e7%95%8c-2024-05-10%ef%bc%88%e9%87%91%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 10 May 2024 23:59:00 +0000</pubDate>
@@ -1921,191 +1921,191 @@
 <div></div>
 <div>またヴォイドアークも企画すると思うのでタイミング合えば遊びましょう～。</div>
 <p><span><a name='more'></a></span></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222237_940.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222237_940-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_222237_940.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_222237_940-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222250_483.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222250_483-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_222250_483.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_222250_483-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222302_434.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222302_434-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_222302_434.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_222302_434-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222937_919.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222937_919-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_222937_919.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_222937_919-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222940_023.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222940_023-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_222940_023.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_222940_023-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222952_738.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_222952_738-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_222952_738.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_222952_738-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223001_665.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223001_665-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223001_665.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223001_665-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223014_025.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223014_025-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223014_025.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223014_025-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223041_104.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223041_104-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223041_104.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223041_104-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223045_084.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223045_084-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223045_084.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223045_084-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223053_645.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223053_645-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223053_645.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223053_645-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223059_097.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223059_097-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223059_097.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223059_097-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223228_348.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223228_348-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223228_348.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223228_348-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223238_906.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223238_906-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223238_906.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223238_906-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223246_976.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223246_976-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223246_976.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223246_976-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223255_847.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223255_847-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223255_847.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223255_847-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223302_160.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223302_160-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223302_160.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223302_160-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223619_664.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223619_664-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223619_664.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223619_664-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223625_389.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223625_389-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223625_389.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223625_389-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223630_193.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_223630_193-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_223630_193.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_223630_193-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224241_479.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224241_479-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_224241_479.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_224241_479-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224417_699.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224417_699-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_224417_699.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_224417_699-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224436_208.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224436_208-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_224436_208.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_224436_208-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224445_504.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224445_504-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_224445_504.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_224445_504-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224451_995.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_224451_995-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_224451_995.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_224451_995-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230610_743.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230610_743-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_230610_743.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_230610_743-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230633_650.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230633_650-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_230633_650.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_230633_650-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230642_763.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230642_763-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_230642_763.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_230642_763-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230646_872.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230646_872-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_230646_872.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_230646_872-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230920_606.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_230920_606-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_230920_606.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_230920_606-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231159_800.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231159_800-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231159_800.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231159_800-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231218_136.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231218_136-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231218_136.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231218_136-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231329_402.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231329_402-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231329_402.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231329_402-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231332_923.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231332_923-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231332_923.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231332_923-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231336_194.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231336_194-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231336_194.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231336_194-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231354_176.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231354_176-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231354_176.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231354_176-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231356_561.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231356_561-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231356_561.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231356_561-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231424_403.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231424_403-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231424_403.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231424_403-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231425_946.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231425_946-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231425_946.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231425_946-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231431_184.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231431_184-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231431_184.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231431_184-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231434_934.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231434_934-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231434_934.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231434_934-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231439_230.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231439_230-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231439_230.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231439_230-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231440_384.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231440_384-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231440_384.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231440_384-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231442_543.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231442_543-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231442_543.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231442_543-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231446_005.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231446_005-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231446_005.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231446_005-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231448_650.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231448_650-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231448_650.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231448_650-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231452_505.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_231452_505-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_231452_505.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_231452_505-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233133_573.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233133_573-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233133_573.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233133_573-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233138_012.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233138_012-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233138_012.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233138_012-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233142_057.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233142_057-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233142_057.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233142_057-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233153_916.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233153_916-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233153_916.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233153_916-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233201_535.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233201_535-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233201_535.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233201_535-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233257_813.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233257_813-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233257_813.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233257_813-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233301_141.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233301_141-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233301_141.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233301_141-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233307_844.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233307_844-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233307_844.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233307_844-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233312_222.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233312_222-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233312_222.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233312_222-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233337_059.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233337_059-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233337_059.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233337_059-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233340_436.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233340_436-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233340_436.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233340_436-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233343_891.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233343_891-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233343_891.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233343_891-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233347_402.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233347_402-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233347_402.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233347_402-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233351_088.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233351_088-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233351_088.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233351_088-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233354_448.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233354_448-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233354_448.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233354_448-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233357_781.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233357_781-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233357_781.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233357_781-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233401_430.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233401_430-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233401_430.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233401_430-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233404_769.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233404_769-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233404_769.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233404_769-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233408_853.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233408_853-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233408_853.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233408_853-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233416_725.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233416_725-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233416_725.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233416_725-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233418_409.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233418_409-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233418_409.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233418_409-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233540_247.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233540_247-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233540_247.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233540_247-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233641_684.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233641_684-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233641_684.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233641_684-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233643_904.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233643_904-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233643_904.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233643_904-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233653_744.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233653_744-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233653_744.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233653_744-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233655_560.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233655_560-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233655_560.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233655_560-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233656_787.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233656_787-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233656_787.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233656_787-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233700_147.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233700_147-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233700_147.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233700_147-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233710_462.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233710_462-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233710_462.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233710_462-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233716_766.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233716_766-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233716_766.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233716_766-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233720_211.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233720_211-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233720_211.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233720_211-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233722_022.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233722_022-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233722_022.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233722_022-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233727_006.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233727_006-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233727_006.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233727_006-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233731_790.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233731_790-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233731_790.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233731_790-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233734_927.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233734_927-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233734_927.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233734_927-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233737_379.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_233737_379-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_233737_379.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_233737_379-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234246_040.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234246_040-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_234246_040.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_234246_040-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234257_158.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234257_158-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_234257_158.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_234257_158-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234308_790.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234308_790-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_234308_790.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_234308_790-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234315_833.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234315_833-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_234315_833.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_234315_833-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234321_822.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234321_822-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_234321_822.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_234321_822-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234329_327.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234329_327-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_234329_327.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_234329_327-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234345_110.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240510_234345_110-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240510_234345_110.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240510_234345_110-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240511_000832_837.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240511_000832_837-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240511_000832_837.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240511_000832_837-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240511_000920_430.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240511_000920_430-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240511_000920_430.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240511_000920_430-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/05/ffxiv_20240511_083850_238.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/05/ffxiv_20240511_083850_238-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240511_083850_238.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240511_083850_238-300x169.png" width="320" /></a></div>
 <p></p>
 <div></div></p>
 ]]></content:encoded>
@@ -2115,7 +2115,7 @@
 			</item>
 		<item>
 		<title>FF14：下限シルクスの塔 2024-04-28（日）</title>
-		<link>./../../../2024-04-29/ff14%ef%bc%9a%e4%b8%8b%e9%99%90%e3%82%b7%e3%83%ab%e3%82%af%e3%82%b9%e3%81%ae%e5%a1%94-2024-04-28%ef%bc%88%e6%97%a5%ef%bc%89/index.html</link>
+		<link>/2024-04-29/ff14%ef%bc%9a%e4%b8%8b%e9%99%90%e3%82%b7%e3%83%ab%e3%82%af%e3%82%b9%e3%81%ae%e5%a1%94-2024-04-28%ef%bc%88%e6%97%a5%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 29 Apr 2024 02:30:00 +0000</pubDate>
@@ -2155,31 +2155,31 @@
 <div></div>
 <div>削りが早いのはやっぱり武器準備で対応しないとなかなか制御難しいのかねぇ。</div>
 <p><span><a name='more'></a></span></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214823_152.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214823_152-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_214823_152.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_214823_152-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214840_257.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214840_257-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_214840_257.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_214840_257-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214906_353.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214906_353-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_214906_353.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_214906_353-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214915_426.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214915_426-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_214915_426.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_214915_426-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214927_487.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214927_487-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_214927_487.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_214927_487-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214949_376.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_214949_376-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_214949_376.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_214949_376-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_215405_018.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_215405_018-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_215405_018.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_215405_018-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_215417_845.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_215417_845-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_215417_845.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_215417_845-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240428_222529_772.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240428_222529_772-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240428_222529_772.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240428_222529_772-300x169.png" width="320" /></a></div>
 <div style="clear: both; text-align: center;"></div>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001346_982.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001346_982-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240429_001346_982.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240429_001346_982-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001402_148.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001402_148-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240429_001402_148.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240429_001402_148-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001410_280.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001410_280-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240429_001410_280.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240429_001410_280-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001418_338.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="./../../../wp-content/uploads/2024/04/ffxiv_20240429_001418_338-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/ffxiv_20240429_001418_338.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/04/ffxiv_20240429_001418_338-300x169.png" width="320" /></a></div>
 <p></p>
 <div></div></p>
 ]]></content:encoded>

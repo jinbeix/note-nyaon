@@ -9,8 +9,8 @@
 
 <channel>
 	<title>セルフ幻 &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E3%82%BB%E3%83%AB%E3%83%95%E5%B9%BB/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E3%82%BB%E3%83%AB%E3%83%95%E5%B9%BB/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 02 Jan 2023 07:47:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>セルフ幻 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>FF14：セルフで幻コンテンツなんてものをしてみる。24人で！</title>
-		<link>./../../../2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/index.html</link>
+		<link>/2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2023 07:47:00 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<category><![CDATA[セルフ幻]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
-		<guid isPermaLink="false">./../../../2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/index.html</guid>
+		<guid isPermaLink="false">/2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/</guid>
 
 					<description><![CDATA[年末の2022-12-26に「セルフ幻古代の民の迷宮（24人レイド）」なるものをしてきました。 CWLS下限だいすき所属のぶりさんが考案してくれたセルフ幻。その仕組みは 制限解除で突入する（＝習得している全てのアクション...]]></description>
 										<content:encoded><![CDATA[<p>年末の2022-12-26に「セルフ幻古代の民の迷宮（24人レイド）」なるものをしてきました。</p>

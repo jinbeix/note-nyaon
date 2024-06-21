@@ -9,8 +9,8 @@
 
 <channel>
 	<title>チラシの裏 &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E3%83%81%E3%83%A9%E3%82%B7%E3%81%AE%E8%A3%8F/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E3%83%81%E3%83%A9%E3%82%B7%E3%81%AE%E8%A3%8F/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 28 Oct 2022 05:14:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>チラシの裏 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>エフェクト全部表示で戦えている理由を考えてみる</title>
-		<link>./../../../2022-10-28/%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e5%85%a8%e9%83%a8%e8%a1%a8%e7%a4%ba%e3%81%a7%e6%88%a6%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1%e3%82%92%e8%80%83%e3%81%88%e3%81%a6%e3%81%bf/index.html</link>
+		<link>/2022-10-28/%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e5%85%a8%e9%83%a8%e8%a1%a8%e7%a4%ba%e3%81%a7%e6%88%a6%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1%e3%82%92%e8%80%83%e3%81%88%e3%81%a6%e3%81%bf/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 28 Oct 2022 05:14:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[チラシの裏]]></category>
-		<guid isPermaLink="false">./../../../2022-10-28/%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e5%85%a8%e9%83%a8%e8%a1%a8%e7%a4%ba%e3%81%a7%e6%88%a6%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1%e3%82%92%e8%80%83%e3%81%88%e3%81%a6%e3%81%bf/index.html</guid>
+		<guid isPermaLink="false">/2022-10-28/%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e5%85%a8%e9%83%a8%e8%a1%a8%e7%a4%ba%e3%81%a7%e6%88%a6%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e7%90%86%e7%94%b1%e3%82%92%e8%80%83%e3%81%88%e3%81%a6%e3%81%bf/</guid>
 
 					<description><![CDATA[FF14でエフェクト全部表示＋画質も最高全部盛りな設定にしてるけれど特にストレスなくギミック避けられているので、その理由（私がどういう思考でプレイしているか）を言語化してみる。誰かの何かの参考になるかもならないかも。 あ...]]></description>
 										<content:encoded><![CDATA[<p>FF14でエフェクト全部表示＋画質も最高全部盛りな設定にしてるけれど特にストレスなくギミック避けられているので、その理由（私がどういう思考でプレイしているか）を言語化してみる。誰かの何かの参考になるかもならないかも。</p>
@@ -102,14 +102,14 @@
 			</item>
 		<item>
 		<title>新生祭2022：その足跡は、別の誰かの明日へと続く</title>
-		<link>./../../../2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/index.html</link>
+		<link>/2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sat, 17 Sep 2022 11:04:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[チラシの裏]]></category>
 		<category><![CDATA[新生祭]]></category>
-		<guid isPermaLink="false">./../../../2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/index.html</guid>
+		<guid isPermaLink="false">/2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/</guid>
 
 					<description><![CDATA[新生祭がおわって夏が終わり秋の訪れを感じます。 今回の新生祭ストーリーを進める中で「その足跡は、別の誰かの明日へと続く」というメッセージに触れて色々な想いが巡りました。 すぐに頭に浮かんだのはマイディさんの事。 わたしは...]]></description>
 										<content:encoded><![CDATA[<p>新生祭がおわって夏が終わり秋の訪れを感じます。</p>
@@ -136,12 +136,12 @@
 			</item>
 		<item>
 		<title>6,000文字の文章を書く</title>
-		<link>./../../../2022-07-31/6000%e6%96%87%e5%ad%97%e3%81%ae%e6%96%87%e7%ab%a0%e3%82%92%e6%9b%b8%e3%81%8f/index.html</link>
+		<link>/2022-07-31/6000%e6%96%87%e5%ad%97%e3%81%ae%e6%96%87%e7%ab%a0%e3%82%92%e6%9b%b8%e3%81%8f/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2022 00:37:00 +0000</pubDate>
 				<category><![CDATA[チラシの裏]]></category>
-		<guid isPermaLink="false">./../../../2022-07-31/6000%e6%96%87%e5%ad%97%e3%81%ae%e6%96%87%e7%ab%a0%e3%82%92%e6%9b%b8%e3%81%8f/index.html</guid>
+		<guid isPermaLink="false">/2022-07-31/6000%e6%96%87%e5%ad%97%e3%81%ae%e6%96%87%e7%ab%a0%e3%82%92%e6%9b%b8%e3%81%8f/</guid>
 
 					<description><![CDATA[&#160;6,000文字の文章を書く。この時点で意味がわからない。日常生活で「1、2、3…」と数えて「6,000！」って普通数えない。それくらいの文字数。 ローマ字打ちなので1文字打つのに2回キーを叩く。漢字変換は一回...]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;6,000文字の文章を書く。この時点で意味がわからない。日常生活で「1、2、3…」と数えて「6,000！」って普通数えない。それくらいの文字数。</p>
@@ -166,13 +166,13 @@
 			</item>
 		<item>
 		<title>スマホからテストです</title>
-		<link>./../../../2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/index.html</link>
+		<link>/2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Thu, 07 Apr 2022 08:23:00 +0000</pubDate>
 				<category><![CDATA[Blogger]]></category>
 		<category><![CDATA[チラシの裏]]></category>
-		<guid isPermaLink="false">./../../../2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/index.html</guid>
+		<guid isPermaLink="false">/2022-04-07/%e3%82%b9%e3%83%9e%e3%83%9b%e3%81%8b%e3%82%89%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%99/</guid>
 
 					<description><![CDATA[&#160;スマホからかけるかテストだよ。 いけますね！ 細かい操作がわかんないけどw]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;スマホからかけるかテストだよ。</p>
@@ -185,14 +185,14 @@
 			</item>
 		<item>
 		<title>技術的なあれこれメモ</title>
-		<link>./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</link>
+		<link>/2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Fri, 11 Feb 2022 02:30:00 +0000</pubDate>
 				<category><![CDATA[Blogger]]></category>
 		<category><![CDATA[チラシの裏]]></category>
 		<category><![CDATA[備忘録]]></category>
-		<guid isPermaLink="false">./../../../2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/index.html</guid>
+		<guid isPermaLink="false">/2022-02-11/%e6%8a%80%e8%a1%93%e7%9a%84%e3%81%aa%e3%81%82%e3%82%8c%e3%81%93%e3%82%8c%e3%83%a1%e3%83%a2/</guid>
 
 					<description><![CDATA[個人的なメモ。すぐ忘れるから。 ffmpeg wavの音量を確認して音量を調整する ファイルの音量確認 ffmpeg -i 005_ずんだもん（ノーマル）_あれあれ？どうして….wav -vn -af volumedet...]]></description>
 										<content:encoded><![CDATA[<p style="text-align: left;">個人的なメモ。すぐ忘れるから。</p>
@@ -388,12 +388,12 @@
 			</item>
 		<item>
 		<title>iPhoneのおやすみモードやめた！</title>
-		<link>./../../../2022-02-04/iphone%e3%81%ae%e3%81%8a%e3%82%84%e3%81%99%e3%81%bf%e3%83%a2%e3%83%bc%e3%83%89%e3%82%84%e3%82%81%e3%81%9f%ef%bc%81/index.html</link>
+		<link>/2022-02-04/iphone%e3%81%ae%e3%81%8a%e3%82%84%e3%81%99%e3%81%bf%e3%83%a2%e3%83%bc%e3%83%89%e3%82%84%e3%82%81%e3%81%9f%ef%bc%81/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Thu, 03 Feb 2022 20:08:00 +0000</pubDate>
 				<category><![CDATA[チラシの裏]]></category>
-		<guid isPermaLink="false">./../../../2022-02-04/iphone%e3%81%ae%e3%81%8a%e3%82%84%e3%81%99%e3%81%bf%e3%83%a2%e3%83%bc%e3%83%89%e3%82%84%e3%82%81%e3%81%9f%ef%bc%81/index.html</guid>
+		<guid isPermaLink="false">/2022-02-04/iphone%e3%81%ae%e3%81%8a%e3%82%84%e3%81%99%e3%81%bf%e3%83%a2%e3%83%bc%e3%83%89%e3%82%84%e3%82%81%e3%81%9f%ef%bc%81/</guid>
 
 					<description><![CDATA[昨日はどうにも疲れていて夕食後19:30くらいに布団で休憩していたら次に目が覚めたら25:30でした。 友人と約束していたのに、着信をなんどかもらったのに全部すっぽかして寝てました。iPhoneのおやすみモードで通知が何...]]></description>
 										<content:encoded><![CDATA[<p>昨日はどうにも疲れていて夕食後19:30くらいに布団で休憩していたら次に目が覚めたら25:30でした。</p>

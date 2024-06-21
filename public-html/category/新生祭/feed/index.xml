@@ -9,8 +9,8 @@
 
 <channel>
 	<title>新生祭 &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E6%96%B0%E7%94%9F%E7%A5%AD/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E6%96%B0%E7%94%9F%E7%A5%AD/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Sat, 17 Sep 2022 11:57:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>新生祭 &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>１年目の新生祭が力入ってるな～と気づいた</title>
-		<link>./../../../2022-09-17/%ef%bc%91%e5%b9%b4%e7%9b%ae%e3%81%ae%e6%96%b0%e7%94%9f%e7%a5%ad%e3%81%8c%e5%8a%9b%e5%85%a5%e3%81%a3%e3%81%a6%e3%82%8b%e3%81%aa%ef%bd%9e%e3%81%a8%e6%b0%97%e3%81%a5%e3%81%84%e3%81%9f/index.html</link>
+		<link>/2022-09-17/%ef%bc%91%e5%b9%b4%e7%9b%ae%e3%81%ae%e6%96%b0%e7%94%9f%e7%a5%ad%e3%81%8c%e5%8a%9b%e5%85%a5%e3%81%a3%e3%81%a6%e3%82%8b%e3%81%aa%ef%bd%9e%e3%81%a8%e6%b0%97%e3%81%a5%e3%81%84%e3%81%9f/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sat, 17 Sep 2022 11:57:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[新生祭]]></category>
-		<guid isPermaLink="false">./../../../2022-09-17/%ef%bc%91%e5%b9%b4%e7%9b%ae%e3%81%ae%e6%96%b0%e7%94%9f%e7%a5%ad%e3%81%8c%e5%8a%9b%e5%85%a5%e3%81%a3%e3%81%a6%e3%82%8b%e3%81%aa%ef%bd%9e%e3%81%a8%e6%b0%97%e3%81%a5%e3%81%84%e3%81%9f/index.html</guid>
+		<guid isPermaLink="false">/2022-09-17/%ef%bc%91%e5%b9%b4%e7%9b%ae%e3%81%ae%e6%96%b0%e7%94%9f%e7%a5%ad%e3%81%8c%e5%8a%9b%e5%85%a5%e3%81%a3%e3%81%a6%e3%82%8b%e3%81%aa%ef%bd%9e%e3%81%a8%e6%b0%97%e3%81%a5%e3%81%84%e3%81%9f/</guid>
 
 					<description><![CDATA[&#160;わたくし当時プレイしていたはずなのに新生祭１年目の記憶が全く無くて休止してたのかしら？ 公式サイトの暁月秘話を読みましてね。 わたしこの手のやつこれまであまり読んでなかったのですが、とても良かったです。メイン...]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;わたくし当時プレイしていたはずなのに新生祭１年目の記憶が全く無くて休止してたのかしら？</p>
@@ -76,14 +76,14 @@
 			</item>
 		<item>
 		<title>新生祭2022：その足跡は、別の誰かの明日へと続く</title>
-		<link>./../../../2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/index.html</link>
+		<link>/2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sat, 17 Sep 2022 11:04:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[チラシの裏]]></category>
 		<category><![CDATA[新生祭]]></category>
-		<guid isPermaLink="false">./../../../2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/index.html</guid>
+		<guid isPermaLink="false">/2022-09-17/%e6%96%b0%e7%94%9f%e7%a5%ad2022%ef%bc%9a%e3%81%9d%e3%81%ae%e8%b6%b3%e8%b7%a1%e3%81%af%e3%80%81%e5%88%a5%e3%81%ae%e8%aa%b0%e3%81%8b%e3%81%ae%e6%98%8e%e6%97%a5%e3%81%b8%e3%81%a8%e7%b6%9a%e3%81%8f/</guid>
 
 					<description><![CDATA[新生祭がおわって夏が終わり秋の訪れを感じます。 今回の新生祭ストーリーを進める中で「その足跡は、別の誰かの明日へと続く」というメッセージに触れて色々な想いが巡りました。 すぐに頭に浮かんだのはマイディさんの事。 わたしは...]]></description>
 										<content:encoded><![CDATA[<p>新生祭がおわって夏が終わり秋の訪れを感じます。</p>

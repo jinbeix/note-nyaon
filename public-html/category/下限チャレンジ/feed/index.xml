@@ -9,8 +9,8 @@
 
 <channel>
 	<title>下限チャレンジ &#8211; にゃおんノート</title>
-	<atom:link href="./../../%E4%B8%8B%E9%99%90%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../</link>
+	<atom:link href="/category/%E4%B8%8B%E9%99%90%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2023 00:36:00 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
 	<title>下限チャレンジ &#8211; にゃおんノート</title>
-	<link>./../../../</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>企画振り返り：下限風味アグライア 2023-09-03（日）</title>
-		<link>./../../../2023-09-04/%e4%bc%81%e7%94%bb%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/index.html</link>
+		<link>/2023-09-04/%e4%bc%81%e7%94%bb%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 04 Sep 2023 00:36:00 +0000</pubDate>
 				<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
-		<guid isPermaLink="false">./../../../2023-09-04/%e4%bc%81%e7%94%bb%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/index.html</guid>
+		<guid isPermaLink="false">/2023-09-04/%e4%bc%81%e7%94%bb%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%ef%bc%9a%e4%b8%8b%e9%99%90%e9%a2%a8%e5%91%b3%e3%82%a2%e3%82%b0%e3%83%a9%e3%82%a4%e3%82%a2-2023-09-03%ef%bc%88%e6%97%a5%ef%bc%89/</guid>
 
 					<description><![CDATA[2023-09-03（日）22時～の「下限風味アグライア」ステータス調整の振り返りを記録しておく。https://jp.finalfantasyxiv.com/lodestone/character/25258283/e...]]></description>
 										<content:encoded><![CDATA[<p>2023-09-03（日）22時～の「下限風味アグライア」ステータス調整の振り返りを記録しておく。<br /><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/72169/">https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/72169/</a></p>
@@ -129,7 +129,7 @@
 			</item>
 		<item>
 		<title>下限クリタワ古代の民</title>
-		<link>./../../../2023-07-23/%e4%b8%8b%e9%99%90%e3%82%af%e3%83%aa%e3%82%bf%e3%83%af%e5%8f%a4%e4%bb%a3%e3%81%ae%e6%b0%91/index.html</link>
+		<link>/2023-07-23/%e4%b8%8b%e9%99%90%e3%82%af%e3%83%aa%e3%82%bf%e3%83%af%e5%8f%a4%e4%bb%a3%e3%81%ae%e6%b0%91/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sat, 22 Jul 2023 23:12:00 +0000</pubDate>
@@ -137,7 +137,7 @@
 		<category><![CDATA[FF14]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
-		<guid isPermaLink="false">./../../../2023-07-23/%e4%b8%8b%e9%99%90%e3%82%af%e3%83%aa%e3%82%bf%e3%83%af%e5%8f%a4%e4%bb%a3%e3%81%ae%e6%b0%91/index.html</guid>
+		<guid isPermaLink="false">/2023-07-23/%e4%b8%8b%e9%99%90%e3%82%af%e3%83%aa%e3%82%bf%e3%83%af%e5%8f%a4%e4%bb%a3%e3%81%ae%e6%b0%91/</guid>
 
 					<description><![CDATA[2023-07-22（土）チャレンジのやつ。 何度目の下限クリタワ古代の民だろう？ 2020年9月に私が下限テーマのCWLSを作ってからはじめてこのレイドの下限企画した頃は、ギミックを知っているのが私とラブさんくらいで3...]]></description>
 										<content:encoded><![CDATA[<p><span face="&quot;Segoe UI&quot;, Meiryo, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" style="background-color: white; color: #0f1419; white-space-collapse: preserve;"><span style="font-size: x-small;"><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/71357/" target="_blank" rel="noopener">2023-07-22（土）チャレンジ</a>のやつ。</span></p>
@@ -197,14 +197,14 @@
 			</item>
 		<item>
 		<title>召喚たくさん24人レイド 2023-05-17</title>
-		<link>./../../../2023-05-21/%e5%8f%ac%e5%96%9a%e3%81%9f%e3%81%8f%e3%81%95%e3%82%9324%e4%ba%ba%e3%83%ac%e3%82%a4%e3%83%89-2023-05-17/index.html</link>
+		<link>/2023-05-21/%e5%8f%ac%e5%96%9a%e3%81%9f%e3%81%8f%e3%81%95%e3%82%9324%e4%ba%ba%e3%83%ac%e3%82%a4%e3%83%89-2023-05-17/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sun, 21 May 2023 04:20:00 +0000</pubDate>
 				<category><![CDATA[24人レイド]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
-		<guid isPermaLink="false">./../../../2023-05-21/%e5%8f%ac%e5%96%9a%e3%81%9f%e3%81%8f%e3%81%95%e3%82%9324%e4%ba%ba%e3%83%ac%e3%82%a4%e3%83%89-2023-05-17/index.html</guid>
+		<guid isPermaLink="false">/2023-05-21/%e5%8f%ac%e5%96%9a%e3%81%9f%e3%81%8f%e3%81%95%e3%82%9324%e4%ba%ba%e3%83%ac%e3%82%a4%e3%83%89-2023-05-17/</guid>
 
 					<description><![CDATA[CWLSメンバーのシリカさんが募集してた「召喚たくさん24人レイド、エフェクトMAXバハムートも最大だよ！」に行ってきました。 最初UI消して写真撮ったり遊んでたのですが時間おしてきたので後半は余裕もなく。 とりあえずク...]]></description>
 										<content:encoded><![CDATA[<p>CWLSメンバーのシリカさんが募集してた「<a href="https://jp.finalfantasyxiv.com/lodestone/character/36803751/event/70071/" target="_blank" rel="noopener">召喚たくさん24人レイド、エフェクトMAXバハムートも最大だよ！</a>」に行ってきました。</p>
@@ -297,7 +297,7 @@
 			</item>
 		<item>
 		<title>下限自力解明：オメガシグマ零式4層</title>
-		<link>./../../../2023-05-01/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f4%e5%b1%a4/index.html</link>
+		<link>/2023-05-01/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f4%e5%b1%a4/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 01 May 2023 06:19:00 +0000</pubDate>
@@ -305,7 +305,7 @@
 		<category><![CDATA[下限チャレンジ]]></category>
 		<category><![CDATA[未予習自力解明]]></category>
 		<category><![CDATA[次元の狭間オメガ零式：シグマ編]]></category>
-		<guid isPermaLink="false">./../../../2023-05-01/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f4%e5%b1%a4/index.html</guid>
+		<guid isPermaLink="false">/2023-05-01/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f4%e5%b1%a4/</guid>
 
 					<description><![CDATA[メモしていくよ。 04/25（火）：3層クリア後に40分くらい。05/02（火）：4層2回目。前半時間切れまでは見た。 ここまで解明した内容（ギミックネタバレ） pets ここから下に書くと隠れる ＿＿＿＿＿＿＿＿＿＿＿...]]></description>
 										<content:encoded><![CDATA[<p>メモしていくよ。</p>
@@ -349,7 +349,7 @@
 			</item>
 		<item>
 		<title>下限自力解明：オメガシグマ零式3層</title>
-		<link>./../../../2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/index.html</link>
+		<link>/2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Wed, 19 Apr 2023 06:03:00 +0000</pubDate>
@@ -357,7 +357,7 @@
 		<category><![CDATA[下限チャレンジ]]></category>
 		<category><![CDATA[未予習自力解明]]></category>
 		<category><![CDATA[次元の狭間オメガ零式：シグマ編]]></category>
-		<guid isPermaLink="false">./../../../2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/index.html</guid>
+		<guid isPermaLink="false">/2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/</guid>
 
 					<description><![CDATA[メモしていくよ。（2023-04-19更新） 3/30（木）：3層1回目。70％くらいまで。序盤はとりあえずわかった。4/06（木）：3層2回目。60％くらいまで安定。新ギミック未解明。4/12（水）：3層3回目。新ギミ...]]></description>
 										<content:encoded><![CDATA[<p>メモしていくよ。<span style="color: #2b00fe;">（2023-04-19更新）</span></p>
@@ -420,7 +420,7 @@
 			</item>
 		<item>
 		<title>🍬下限🍭紅蓮24人（その3）「楽欲の僧院」2023-01-22</title>
-		<link>./../../../2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/index.html</link>
+		<link>/2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sun, 22 Jan 2023 22:04:00 +0000</pubDate>
@@ -429,7 +429,7 @@
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
 		<category><![CDATA[紅蓮のリベレーター]]></category>
-		<guid isPermaLink="false">./../../../2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/index.html</guid>
+		<guid isPermaLink="false">/2023-01-23/%f0%9f%8d%ac%e4%b8%8b%e9%99%90%f0%9f%8d%ad%e7%b4%85%e8%93%ae24%e4%ba%ba%ef%bc%88%e3%81%9d%e3%81%ae3%ef%bc%89%e3%80%8c%e6%a5%bd%e6%ac%b2%e3%81%ae%e5%83%a7%e9%99%a2%e3%80%8d2023-01-22/</guid>
 
 					<description><![CDATA[前回から約一ヶ月空いてたので開催日忘れそうで危なかった。 私ともう一人黒魔参加だったのだけどふたりでドッカンドッカンやってたら頭割り参加忘れてパーティ4人消し飛んでました。全滅後また私入るの忘れてたらギリギリだったのでみ...]]></description>
 										<content:encoded><![CDATA[<p>前回から約一ヶ月空いてたので開催日忘れそうで危なかった。</p>
@@ -513,7 +513,7 @@
 			</item>
 		<item>
 		<title>FF14：セルフで幻コンテンツなんてものをしてみる。24人で！</title>
-		<link>./../../../2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/index.html</link>
+		<link>/2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2023 07:47:00 +0000</pubDate>
@@ -521,7 +521,7 @@
 		<category><![CDATA[セルフ幻]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
-		<guid isPermaLink="false">./../../../2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/index.html</guid>
+		<guid isPermaLink="false">/2023-01-02/ff14%ef%bc%9a%e3%82%bb%e3%83%ab%e3%83%95%e3%81%a7%e5%b9%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%ae%e3%82%92%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b/</guid>
 
 					<description><![CDATA[年末の2022-12-26に「セルフ幻古代の民の迷宮（24人レイド）」なるものをしてきました。 CWLS下限だいすき所属のぶりさんが考案してくれたセルフ幻。その仕組みは 制限解除で突入する（＝習得している全てのアクション...]]></description>
 										<content:encoded><![CDATA[<p>年末の2022-12-26に「セルフ幻古代の民の迷宮（24人レイド）」なるものをしてきました。</p>
@@ -675,14 +675,14 @@
 			</item>
 		<item>
 		<title>FF14：クリスマスイブ集いし24人の戦士</title>
-		<link>./../../../2022-12-27/ff14%ef%bc%9a%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%a4%e3%83%96%e9%9b%86%e3%81%84%e3%81%9724%e4%ba%ba%e3%81%ae%e6%88%a6%e5%a3%ab/index.html</link>
+		<link>/2022-12-27/ff14%ef%bc%9a%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%a4%e3%83%96%e9%9b%86%e3%81%84%e3%81%9724%e4%ba%ba%e3%81%ae%e6%88%a6%e5%a3%ab/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Mon, 26 Dec 2022 22:04:00 +0000</pubDate>
 				<category><![CDATA[FF14]]></category>
 		<category><![CDATA[下限だいすき]]></category>
 		<category><![CDATA[下限チャレンジ]]></category>
-		<guid isPermaLink="false">./../../../2022-12-27/ff14%ef%bc%9a%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%a4%e3%83%96%e9%9b%86%e3%81%84%e3%81%9724%e4%ba%ba%e3%81%ae%e6%88%a6%e5%a3%ab/index.html</guid>
+		<guid isPermaLink="false">/2022-12-27/ff14%ef%bc%9a%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%a4%e3%83%96%e9%9b%86%e3%81%84%e3%81%9724%e4%ba%ba%e3%81%ae%e6%88%a6%e5%a3%ab/</guid>
 
 					<description><![CDATA[2022-12-24（土）22時～ &#160;イブの夜にヒカセンが24人。こういう時、普通どうするんですか……？ ＼下限リドルアナ／ 聖なる夜（？）に登るのは封じられた聖塔。 ずぶ濡れにされ燃やされぐるぐるふっとばされ...]]></description>
 										<content:encoded><![CDATA[<p>2022-12-24（<span style="color: #2b00fe;"><b>土</b></span>）22時～</p>
