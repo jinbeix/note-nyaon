@@ -11,7 +11,7 @@
 	<title>OBS &#8211; にゃおんノート</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../</link>
-	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<description></description>
 	<lastBuildDate>Fri, 14 Jun 2024 09:02:47 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
@@ -37,7 +37,7 @@
 		<category><![CDATA[備忘録]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[OBSの設定値をメモしておく。配信をしていると各音源の相対値で聞こえ方かわってる&#8230;]]></description>
+					<description><![CDATA[OBSの設定値をメモしておく。配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。 ※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた...]]></description>
 										<content:encoded><![CDATA[<p>OBSの設定値をメモしておく。<br />配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。</p>
 <p><span style="color: #3d85c6;">※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた。</span></p>
 </p>

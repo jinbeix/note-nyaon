@@ -11,7 +11,7 @@
 	<title>Cloudflare &#8211; にゃおんノート</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../</link>
-	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<description></description>
 	<lastBuildDate>Mon, 17 Jun 2024 01:50:49 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
@@ -39,7 +39,7 @@
 		<category><![CDATA[WSL]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=426</guid>
 
-					<description><![CDATA[Cloudflareについて調べている流れでCloudflare Pagesやヘ&#8230;]]></description>
+					<description><![CDATA[Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使え...]]></description>
 										<content:encoded><![CDATA[
 <p>Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使えるだろうし、そこから静的ページ出力可能ならCloudflare Pagesで公開ってのもできるのかな？と思いついて。</p>
 

@@ -11,7 +11,7 @@
 	<title>WordPress &#8211; にゃおんノート</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../</link>
-	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<description></description>
 	<lastBuildDate>Mon, 17 Jun 2024 06:52:38 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
@@ -36,7 +36,7 @@
 				<category><![CDATA[WordPress]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=500</guid>
 
-					<description><![CDATA[Simply Static以外で使っているプラグインやテンプレートいじったところ&#8230;]]></description>
+					<description><![CDATA[Simply Static以外で使っているプラグインやテンプレートいじったところ。 ヘッダーとフッターにコードを入れ込みたい WPCode Lite（プラグイン） これを入れてsimple modeで使ってる。 画像をW...]]></description>
 										<content:encoded><![CDATA[
 <p>Simply Static以外で使っているプラグインやテンプレートいじったところ。</p>
 
@@ -234,7 +234,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[WSL]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=426</guid>
 
-					<description><![CDATA[Cloudflareについて調べている流れでCloudflare Pagesやヘ&#8230;]]></description>
+					<description><![CDATA[Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使え...]]></description>
 										<content:encoded><![CDATA[
 <p>Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使えるだろうし、そこから静的ページ出力可能ならCloudflare Pagesで公開ってのもできるのかな？と思いついて。</p>
 

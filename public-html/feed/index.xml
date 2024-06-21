@@ -11,7 +11,7 @@
 	<title>にゃおんノート</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../</link>
-	<description>おいしくゴハンを食べて、よく眠って、たくさん笑って。</description>
+	<description></description>
 	<lastBuildDate>Mon, 17 Jun 2024 06:52:38 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
@@ -36,7 +36,7 @@
 				<category><![CDATA[WordPress]]></category>
 		<guid isPermaLink="false">./../index.html?p=500</guid>
 
-					<description><![CDATA[Simply Static以外で使っているプラグインやテンプレートいじったところ&#8230;]]></description>
+					<description><![CDATA[Simply Static以外で使っているプラグインやテンプレートいじったところ。 ヘッダーとフッターにコードを入れ込みたい WPCode Lite（プラグイン） これを入れてsimple modeで使ってる。 画像をW...]]></description>
 										<content:encoded><![CDATA[
 <p>Simply Static以外で使っているプラグインやテンプレートいじったところ。</p>
 
@@ -234,7 +234,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[WSL]]></category>
 		<guid isPermaLink="false">./../index.html?p=426</guid>
 
-					<description><![CDATA[Cloudflareについて調べている流れでCloudflare Pagesやヘ&#8230;]]></description>
+					<description><![CDATA[Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使え...]]></description>
 										<content:encoded><![CDATA[
 <p>Cloudflareについて調べている流れでCloudflare PagesやヘッドレスCMSについて知り、GatsbyやHugoのスターターを試してみていて、ふとWSLでDBとか動かせばローカルでWordPress使えるだろうし、そこから静的ページ出力可能ならCloudflare Pagesで公開ってのもできるのかな？と思いついて。</p>
 
@@ -429,7 +429,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[飴組]]></category>
 		<guid isPermaLink="false">./../index.html?p=465</guid>
 
-					<description><![CDATA[2024-06-13（木）21:30～23:30CWLS下限だいすきエレメンタル&#8230;]]></description>
+					<description><![CDATA[2024-06-13（木）21:30～23:30CWLS下限だいすきエレメンタル所属のRinさん企画。 無事に絶竜詩をクリアしてイレギュラーで週5になってたのを週4に戻したおかげで丁度空いた日。ぴよもちと参加してきました...]]></description>
 										<content:encoded><![CDATA[
 <p>2024-06-13（木）21:30～23:30<br>CWLS下限だいすきエレメンタル所属の<a href="https://jp.finalfantasyxiv.com/lodestone/character/33040965/event/78253/" data-type="link" data-id="https://jp.finalfantasyxiv.com/lodestone/character/33040965/event/78253/" target="_blank" rel="noreferrer noopener">Rinさん企画</a>。</p>
 
@@ -635,7 +635,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[禁断の地エウレカ]]></category>
 		<guid isPermaLink="false">./../index.html?p=6</guid>
 
-					<description><![CDATA[たぶん初めてエウレカのBA行ったのは2020年だったはずなので4年越しでようやく&#8230;]]></description>
+					<description><![CDATA[たぶん初めてエウレカのBA行ったのは2020年だったはずなので4年越しでようやく初クリアです。やったー！ありがとうー！ BA自体は2020年の時にも2、3回行ったことがあってラスボス途中で外に追い出されちゃったんだよね。...]]></description>
 										<content:encoded><![CDATA[
 <p>たぶん初めてエウレカのBA行ったのは2020年だったはずなので4年越しでようやく初クリアです。<br>やったー！ありがとうー！</p>
 
@@ -745,7 +745,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[絶竜詩戦争]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[はじめての絶として絶アレキをクリアしてから丁度1年経ってた。 » 旅の記録：はじ&#8230;]]></description>
+					<description><![CDATA[はじめての絶として絶アレキをクリアしてから丁度1年経ってた。 » 旅の記録：はじめての絶たおしたよ（絶アレキ） 「デノミの影響を受けていない暁月以降の絶を試してみたい。」と「アドベンチャラープレートやポートレートの素材ほ...]]></description>
 										<content:encoded><![CDATA[
 <p>はじめての絶として絶アレキをクリアしてから丁度1年経ってた。</p>
 
@@ -2225,7 +2225,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[とりとめのない話]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[絶竜詩戦争をクリアしたので忘れないうちに感想文でもとちまちま書いている時に、ふと&#8230;]]></description>
+					<description><![CDATA[絶竜詩戦争をクリアしたので忘れないうちに感想文でもとちまちま書いている時に、ふと思った。 　◇　◇　◇ 冬に旅立った冒険者が数ヶ月を経てなんだかすごいモンスターを倒して帰ってきた。季節はもう夏。山頂の雪もすっかり溶けてし...]]></description>
 										<content:encoded><![CDATA[<p>絶竜詩戦争をクリアしたので忘れないうちに感想文でもとちまちま書いている時に、ふと思った。</p>
 <p>　◇　◇　◇</p>
 <p>冬に旅立った冒険者が数ヶ月を経てなんだかすごいモンスターを倒して帰ってきた。季節はもう夏。山頂の雪もすっかり溶けてしまっていた。</p>
@@ -2252,7 +2252,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[備忘録]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[OBSの設定値をメモしておく。配信をしていると各音源の相対値で聞こえ方かわってる&#8230;]]></description>
+					<description><![CDATA[OBSの設定値をメモしておく。配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。 ※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた...]]></description>
 										<content:encoded><![CDATA[<p>OBSの設定値をメモしておく。<br />配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。</p>
 <p><span style="color: #3d85c6;">※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた。</span></p>
 </p>
@@ -2308,7 +2308,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 				<category><![CDATA[とりとめのない話]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[わりと気軽に人のためにとか人が喜ぶ何かをしようって思考になりがちなんだけど。 無&#8230;]]></description>
+					<description><![CDATA[わりと気軽に人のためにとか人が喜ぶ何かをしようって思考になりがちなんだけど。 無理しているわけではなくて、そうすることが自分の楽しさ、喜びみたいな部分があってやってる。出来るかどうかはちゃんと判断して、難しければ出来る範...]]></description>
 										<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="./../wp-content/uploads/2024/05/IMG_2730.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="4032" data-original-width="3024" height="320" src="./../wp-content/uploads/2024/05/IMG_2730-225x300.jpg" width="240" /></a></div>
 <p></p>
 <p>わりと気軽に人のためにとか人が喜ぶ何かをしようって思考になりがちなんだけど。</p>
@@ -2340,7 +2340,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[未予習自力解明]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[最近はもう極や零式は「未予習・自力解明」でないと楽しめない身体になっているわたあ&#8230;]]></description>
+					<description><![CDATA[最近はもう極や零式は「未予習・自力解明」でないと楽しめない身体になっているわたあめです。 「未予習・自力解明」ができるのは人生で最初だけ。 白紙の状態でコンテンツにいって未知のものに遭遇する驚きや、パズルを解くように攻略...]]></description>
 										<content:encoded><![CDATA[<p>最近はもう極や零式は「未予習・自力解明」でないと楽しめない身体になっているわたあめです。</p>
 <div></div>
 <div>「未予習・自力解明」ができるのは人生で最初だけ。</div>
@@ -2420,7 +2420,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 		<category><![CDATA[下限だいすき]]></category>
 		<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[&#160;今回のチャレンジはこんな感じでいきました。 下限、超える力なし アク&#8230;]]></description>
+					<description><![CDATA[&#160;今回のチャレンジはこんな感じでいきました。 下限、超える力なし アクセサリ全部外し 可能な人は武器をIL80～100で準備 武器に関しては20人くらいが武器調整してくれていました。 進行具合としてはあんな感じ...]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;今回のチャレンジはこんな感じでいきました。</p>
 </p>
 <ul style="text-align: left;">
