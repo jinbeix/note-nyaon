@@ -1,11 +1,3 @@
-/*!
- * jquery-drawer v3.2.2
- * Flexible drawer menu using jQuery, iScroll and CSS.
- * http://git.blivesta.com/drawer
- * License : MIT
- * Author : blivesta <design@blivesta.com> (http://blivesta.com/)
- */
-
 ;(function umd(factory) {
   'use strict';
   if (typeof define === 'function' && define.amd) {
@@ -24,7 +16,7 @@
       options = $.extend({
         iscroll: {
           mouseWheel: true,
-          preventDefault: true
+          preventDefault: false
         },
         showOverlay: true
       }, options);
@@ -112,9 +104,9 @@
       var $this = $(this);
 
       if (touches) {
-        document.addEventListener('touchmove.' + namespace, function disableTouch(event) {
+        $this.on('touchmove.' + namespace, function disableTouch(event) {
           event.preventDefault();
-        }, {passive: false});
+        });
       }
 
       return $this
