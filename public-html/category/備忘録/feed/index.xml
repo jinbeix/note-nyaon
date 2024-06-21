@@ -12,7 +12,7 @@
 	<atom:link href="./../../%E5%82%99%E5%BF%98%E9%8C%B2/feed/index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../</link>
 	<description></description>
-	<lastBuildDate>Sat, 15 Jun 2024 02:31:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jun 2024 14:53:31 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -38,47 +38,143 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[OBSの設定値をメモしておく。配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。 ※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた...]]></description>
-										<content:encoded><![CDATA[<p>OBSの設定値をメモしておく。<br />配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。</p>
+										<content:encoded><![CDATA[
+<p>OBSの設定値をメモしておく。<br>配信をしていると各音源の相対値で聞こえ方かわってる？音量バランス難しい。</p>
+
+
+
 <p><span style="color: #3d85c6;">※コンプレッサーは大きな声と小さな声がある程度似た音量で扱えるというので、月燃ゆるさんに教えてもらいつつ調整してみた。</span></p>
-</p>
-<div style="clear: both; text-align: center;"><a href="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="349" data-original-width="383" height="292" src="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904-300x273.png" width="320" /></a></div>
-<p><span style="color: #3d85c6;"><br /></span></p>
-<h2 style="text-align: left;"># 絶竜詩している頃の設定値 2024-06-05</h2>
-<h3 style="text-align: left;">## 音源：FF14ゲーム音</h3>
-<h4 style="text-align: left;">### 音声ミキサー</h4>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904.png"><img decoding="async" src="./../../../wp-content/uploads/2024/06/E3-82-B9-E3-82-AF-E3-83-AA-E3-83-BC-E3-83-B3-E3-82-B7-E3-83-A7-E3-83-83-E3-83-88-202024-06-05-20103904-300x273.png" alt=""/></a></figure></div>
+
+
+<h1 class="wp-block-heading">絶竜詩している頃の設定値 2024-06-05</h1>
+
+
+
+<h3 class="wp-block-heading">音源：FF14ゲーム音</h3>
+
+
+
+<h4 class="wp-block-heading">音声ミキサー</h4>
+
+
+
 <p>-5.0dB</p>
-<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+
+
+
+<h4 class="wp-block-heading">フィルター：ゲイン</h4>
+
+
+
 <p>5.4dB</p>
-<p></p>
-<h3 style="text-align: left;">## 音源：USBイヤホン（Discord音声（みんなの声））</h3>
-<h4 style="text-align: left;">### 音声ミキサー：</h4>
+
+
+
+<h3 class="wp-block-heading">音源：USBイヤホン（Discord音声（みんなの声））</h3>
+
+
+
+<h4 class="wp-block-heading">音声ミキサー：</h4>
+
+
+
 <p>-1.8dB</p>
-<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+
+
+
+<h4 class="wp-block-heading">フィルター：ゲイン</h4>
+
+
+
 <p>ゲイン：11.0dB</p>
-<h4 style="text-align: left;">### フィルター：コンプレッサー</h4>
+
+
+
+<h4 class="wp-block-heading">フィルター：コンプレッサー</h4>
+
+
+
 <p>比率： 4.00:1</p>
+
+
+
 <p>しきい値： -16.20dB</p>
+
+
+
 <p>アタックタイム： 6ms</p>
+
+
+
 <p>リリースタイム： 60ms</p>
+
+
+
 <p>出力ゲイン：0.00dB</p>
+
+
+
 <p>サイドチェイン/タッキングソース： 未設定</p>
-<p></p>
-<h3 style="text-align: left;">## 音源：USBイヤホンマイク（Discord音声（自分の声））</h3>
-<h4 style="text-align: left;">### 音声ミキサー：</h4>
+
+
+
+<h3 class="wp-block-heading">音源：USBイヤホンマイク（Discord音声（自分の声））</h3>
+
+
+
+<h4 class="wp-block-heading">音声ミキサー：</h4>
+
+
+
 <p>-1.9dB</p>
-<h4 style="text-align: left;">### フィルター：ゲイン</h4>
+
+
+
+<h4 class="wp-block-heading">フィルター：ゲイン</h4>
+
+
+
 <p>ゲイン：17.20dB</p>
-<h4 style="text-align: left;">### フィルター：ノイズ抑制</h4>
+
+
+
+<h4 class="wp-block-heading">フィルター：ノイズ抑制</h4>
+
+
+
 <p>RNNoise（高品質、CPU使用率高め）</p>
-<h4 style="text-align: left;">### フィルター：コンプレッサー</h4>
+
+
+
+<h4 class="wp-block-heading">フィルター：コンプレッサー</h4>
+
+
+
 <p>比率： 4.00:1</p>
+
+
+
 <p>しきい値： -13.00dB</p>
+
+
+
 <p>アタックタイム： 6ms</p>
+
+
+
 <p>リリースタイム： 60ms</p>
+
+
+
 <p>出力ゲイン：0.00dB</p>
+
+
+
 <p>サイドチェイン/タッキングソース： 未設定</p>
-<p></p>
-<p></p>
 ]]></content:encoded>
 					
 		
@@ -178,11 +274,11 @@
 <p><span><a name='more'></a></span></p>
 <div>毎回めっちゃ笑ってめっちゃ楽しかったけど全然内容覚えていない。<br />集まって一緒してくれてありがとー！<br />また10年後に！（？）</div>
 <div></div>
-<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgud_5536GBdVgUwiQPMeNJVmhGIU-tKlUd9L-Cwc54e27Qt3ZvhOU5qra3IsBNClybZk1T_qatDQggblGoQg-OkVfsR2nUAwfPFQ3we8dBZneAGg1mGPArRwTjvFwtckY57wfv7toXPNSA2YQB7RC7ZMExTmdVEPayEiaJR4AqiDHJmdF3XMMQIvYBqz1X/s1920/ffxiv_20230709_231804_513.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgud_5536GBdVgUwiQPMeNJVmhGIU-tKlUd9L-Cwc54e27Qt3ZvhOU5qra3IsBNClybZk1T_qatDQggblGoQg-OkVfsR2nUAwfPFQ3we8dBZneAGg1mGPArRwTjvFwtckY57wfv7toXPNSA2YQB7RC7ZMExTmdVEPayEiaJR4AqiDHJmdF3XMMQIvYBqz1X/s320/ffxiv_20230709_231804_513.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgud_5536GBdVgUwiQPMeNJVmhGIU-tKlUd9L-Cwc54e27Qt3ZvhOU5qra3IsBNClybZk1T_qatDQggblGoQg-OkVfsR2nUAwfPFQ3we8dBZneAGg1mGPArRwTjvFwtckY57wfv7toXPNSA2YQB7RC7ZMExTmdVEPayEiaJR4AqiDHJmdF3XMMQIvYBqz1X/s1920/ffxiv_20230709_231804_513.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgud_5536GBdVgUwiQPMeNJVmhGIU-tKlUd9L-Cwc54e27Qt3ZvhOU5qra3IsBNClybZk1T_qatDQggblGoQg-OkVfsR2nUAwfPFQ3we8dBZneAGg1mGPArRwTjvFwtckY57wfv7toXPNSA2YQB7RC7ZMExTmdVEPayEiaJR4AqiDHJmdF3XMMQIvYBqz1X/s320/ffxiv_20230709_231804_513.png" width="320" /></a></div>
 <p></p>
 <div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid2R2gG5GKBJij4IhPTfRM3HjLCLjhpsSu-8k_YYudhRf6QerlYyaLkUK6GCxqvYK_DeU9UPJYUtuxqcy3SEGTP9Ni1XgM3y_mxUmHK-sr70DeNm3YZ7-tPfa_Oht-F8FZ5l6PFyUtbXrfEtSwB5F5GvFruzeqMqnizudx38wxf9w7dTYHLlwZ-GEuqNIp/s1920/ffxiv_20230709_231825_336.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid2R2gG5GKBJij4IhPTfRM3HjLCLjhpsSu-8k_YYudhRf6QerlYyaLkUK6GCxqvYK_DeU9UPJYUtuxqcy3SEGTP9Ni1XgM3y_mxUmHK-sr70DeNm3YZ7-tPfa_Oht-F8FZ5l6PFyUtbXrfEtSwB5F5GvFruzeqMqnizudx38wxf9w7dTYHLlwZ-GEuqNIp/s320/ffxiv_20230709_231825_336.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZBHl784Z8w89QjVJe-JxCg3yS57fOm_KlzF96XeD231KT1v6eS76qILegoY4TIr63Bo_Kv_9XImBp5YQUJZFTxtZ3uME6fEEB9LpdoOapdY-eukpw2G_CyxRwe5MR6Ia9WWn3BDuQDM8MfuYtoNwvuGRePRY199DjWEwjc9J9W-3ibho-bKep4ArVEfF/s1920/ffxiv_20230709_231850_392.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZBHl784Z8w89QjVJe-JxCg3yS57fOm_KlzF96XeD231KT1v6eS76qILegoY4TIr63Bo_Kv_9XImBp5YQUJZFTxtZ3uME6fEEB9LpdoOapdY-eukpw2G_CyxRwe5MR6Ia9WWn3BDuQDM8MfuYtoNwvuGRePRY199DjWEwjc9J9W-3ibho-bKep4ArVEfF/s320/ffxiv_20230709_231850_392.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZBHl784Z8w89QjVJe-JxCg3yS57fOm_KlzF96XeD231KT1v6eS76qILegoY4TIr63Bo_Kv_9XImBp5YQUJZFTxtZ3uME6fEEB9LpdoOapdY-eukpw2G_CyxRwe5MR6Ia9WWn3BDuQDM8MfuYtoNwvuGRePRY199DjWEwjc9J9W-3ibho-bKep4ArVEfF/s1920/ffxiv_20230709_231850_392.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZBHl784Z8w89QjVJe-JxCg3yS57fOm_KlzF96XeD231KT1v6eS76qILegoY4TIr63Bo_Kv_9XImBp5YQUJZFTxtZ3uME6fEEB9LpdoOapdY-eukpw2G_CyxRwe5MR6Ia9WWn3BDuQDM8MfuYtoNwvuGRePRY199DjWEwjc9J9W-3ibho-bKep4ArVEfF/s320/ffxiv_20230709_231850_392.png" width="320" /></a></div>
 <p></p>
 <div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVJuDBPEy0_DfdxBA5GuknErrjAybluTGlrzSr-kQmwv3PvQxb7ln-sX_c8XXJCNCbAeh1Ib1Pm8K2JAq9pIqrhFKr9Rit1OGdSA17SigWEhpAfe0OTaobLjLH9fCylGfR_GmzbNOZQIBoyR4SEPHWJBwlCxrdB_sMXe15mHG0yDeCpBBdJ_Ig7wx4pemg/s1920/ffxiv_20230709_231858_104.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVJuDBPEy0_DfdxBA5GuknErrjAybluTGlrzSr-kQmwv3PvQxb7ln-sX_c8XXJCNCbAeh1Ib1Pm8K2JAq9pIqrhFKr9Rit1OGdSA17SigWEhpAfe0OTaobLjLH9fCylGfR_GmzbNOZQIBoyR4SEPHWJBwlCxrdB_sMXe15mHG0yDeCpBBdJ_Ig7wx4pemg/s320/ffxiv_20230709_231858_104.png" width="320" /></a></div>
 <p></p>
