@@ -115,18 +115,17 @@ h1, h2, h3, h4, h5, h6, .site-title {
 }
 .entry-content h3 {
 	margin-top:2em;
-	font-size:1.2em;
+	font-size:1.3rem;
   padding: 0.25em 0.5em;/*上下 左右の余白*/
   color: #494949;/*文字色*/
   background: transparent;/*背景透明に*/
-  border-left: solid 5px #7db4e6;/*左線*/
+  border-left: solid 4px #7db4e6;/*左線*/
 }
 .entry-content h4 {
   position: relative;
-	font-size:1em;
   padding-left: 1.2em;/*アイコン分のスペース*/
   line-height: 1.4;
-    border-bottom: 1px solid #dfdfdf;
+    border-bottom: 0px solid #dfdfdf;
     margin-top: 1.5em;
 }
 .entry-content h4:before {
@@ -139,6 +138,13 @@ h1, h2, h3, h4, h5, h6, .site-title {
   top: -1px;/*アイコンの位置*/
   color: #5ab9ff; /*アイコン色*/
   font-weight: 900;
+}
+.entry-content h4:after {
+	content: "";
+	display: block;
+	width:30vw;
+	position: absolute;
+	border-bottom: 1px solid #dfdfdf;
 }
 /* 個別ページのヘッダー系スタイル変更 ここまで */
 
@@ -398,6 +404,35 @@ blockquote{
 				
 			
 <div class="post-summary post-full-summary">
+	<article id="post-619" class="post-619 post type-post status-publish format-standard has-post-thumbnail hentry category-ff14 category-stoomblood category-5 category-64">
+		<div class="row">
+			<div class="col-sm-12 col-md-9">
+				<header class="entry-header">
+					<div class="">
+													<div class="entry-meta">
+		<span class="posted-on">
+		<a href="/2024-06-22/ame-sightseeinglog-stormblood/" rel="bookmark"><time class="entry-date published updated" datetime="2024-06-22T08:46:52+09:00">2024-06-22</time></a>		</span>
+
+	</div>
+<!-- .entry-meta -->
+						</div>
+<!-- .entry-float -->
+					<h2 class="entry-title"><a href="/2024-06-22/ame-sightseeinglog-stormblood/" rel="bookmark">飴組探検手帳：紅蓮編</a></h2>
+				</header><!-- .entry-header -->
+				<div class="entry-summary row">
+					<p>2024-06-16（日）13:30～16:00CWLS下限だいすきエレメンタル所属のRinさん企画。 この企画は何かというと エオルゼアの好きな風景、場所、物、人(NPCのいる風景)を紹介しながらお散歩する会🌼今回は紅&#8230;</p>
+				</div>
+<!-- .entry-summary -->
+			</div>
+
+					</div>
+	</article><!-- #post-## -->
+</div>
+<!-- .post-summary -->
+
+		
+			
+<div class="post-summary post-full-summary">
 	<article id="post-78" class="post-78 post type-post status-publish format-standard hentry category-ff14 category-stoomblood category-4 category-22 category-39">
 		<div class="row">
 			<div class="col-sm-12 col-md-9">
@@ -461,16 +496,31 @@ Theme: <a href="http://themegraphy.com/wordpress-themes/write/" target="_blank" 
 </div>
 <!-- #page -->
 
-<style>.pagetop {
+<style>#js-pagetop{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 10px;
+    bottom: 0;
+    height: 100px;
+    justify-content: flex-start;
+    align-items: center;
+}
+#bottom-btn-toHome{
+    display: block;
+    font-size: 0.8em;
+    position: relative;
+    bottom: 10px;
+}	
+.pagetop {
+    display: flex;
     height: 50px;
     width: 50px;
-    position: fixed;
-    right: 30px;
-    bottom: 30px;
+    position: absolute;
+    bottom: 25px;
     background-color: #bbd8e942!important;
     border: none;
     border-radius: 42%;
-    display: none;
     justify-content: center;
     align-items: center;
     z-index: 2;
@@ -485,7 +535,7 @@ Theme: <a href="http://themegraphy.com/wordpress-themes/write/" target="_blank" 
 .original-box-shadow::after {
     content: "";
     position: absolute;
-    bottom: 20px;
+	bottom:20px;
     left: 50%;
     transform: translateX(-50%);
     width: 90%;
@@ -508,7 +558,10 @@ Theme: <a href="http://themegraphy.com/wordpress-themes/write/" target="_blank" 
         }
     });
 });</script>
-<button id="js-pagetop" class="pagetop original-box-shadow"><span class="material-icons-round pagetop__arrow">keyboard_double_arrow_up</span></button>
+<div id="js-pagetop">
+<a href="http://localhost/" id="bottom-btn-toHome">[Home]</a>
+<button class="pagetop original-box-shadow"><span class="material-icons-round pagetop__arrow">keyboard_double_arrow_up</span></button>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script><script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/skip-link-focus-fix.js?ver=20160525" id="write-skip-link-focus-fix-js"></script>
