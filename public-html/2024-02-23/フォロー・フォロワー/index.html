@@ -502,13 +502,15 @@ Theme: <a href="http://themegraphy.com/wordpress-themes/write/" target="_blank" 
 </div>
 <!-- #page -->
 
-<style>#js-pagetop{
-    display: flex;
-    flex-direction: column;
+<style>#nav-right-bottom{
+	display:none;
     position: fixed;
     right: 10px;
     bottom: 0;
     height: 100px;
+}
+.nav-right-bottom-box{	
+    flex-direction: column;
     justify-content: flex-start;
     align-items: center;
 }
@@ -558,15 +560,17 @@ Theme: <a href="http://themegraphy.com/wordpress-themes/write/" target="_blank" 
     });
     $(window).scroll(function () {
         if ($(window).scrollTop() > 1) {
-        $('#js-pagetop').fadeIn(1200).css('display', 'flex')
+        $('#nav-right-bottom').fadeIn(1200).css('display', 'flex')
         } else {
-        $('#js-pagetop').fadeOut(600)
+        $('#nav-right-bottom').fadeOut(600)
         }
     });
 });</script>
-<div id="js-pagetop">
-<a href="http://localhost/" id="bottom-btn-toHome">[Home]</a>
-<button class="pagetop original-box-shadow"><span class="material-icons-round pagetop__arrow">keyboard_double_arrow_up</span></button>
+<div id="nav-right-bottom">
+	<div class="nav-right-bottom-box">
+		<a href="http://localhost/" id="bottom-btn-toHome">[Home]</a>
+		<button id="js-pagetop" class="pagetop original-box-shadow"><span class="material-icons-round pagetop__arrow">keyboard_double_arrow_up</span></button>
+	</div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
