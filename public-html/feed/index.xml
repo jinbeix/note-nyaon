@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Jun 2024 01:54:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jul 2024 04:02:55 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>「違国日記」読んだ</title>
+		<link>/2024-07-05/manga-ikokunikki/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 05 Jul 2024 02:59:58 +0000</pubDate>
+				<category><![CDATA[とりとめのない話]]></category>
+		<guid isPermaLink="false">/?p=670</guid>
+
+					<description><![CDATA[ヤマシタトモコさんの漫画。全11巻Amazon Primeだと3巻まで無料で読めて、そこから結局全巻読んでしまいました。https://amzn.to/4eRlZDP 読み始めて「あ、なんかTwitterでちらっと見たこ...]]></description>
+										<content:encoded><![CDATA[
+<p>ヤマシタトモコさんの漫画。全11巻<br>Amazon Primeだと3巻まで無料で読めて、そこから結局全巻読んでしまいました。<br><a href="https://amzn.to/4eRlZDP">https://amzn.to/4eRlZDP</a></p>
+
+
+
+<p>読み始めて「あ、なんかTwitterでちらっと見たことある」ってやつでした。<br>読み始めたきっかけはQiitaのこの記事の最後の方に書いてたから。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>【雑記】少し仕事を休んだ話<br><a href="https://qiita.com/sakuc47/items/4b9cea70f0fea0464ac8">https://qiita.com/sakuc47/items/4b9cea70f0fea0464ac8</a></p>
+</blockquote>
+
+
+
+<p>この時期に読めて良かった。</p>
+
+
+
+<p>　◇</p>
+
+
+
+<p>以下はわたし自身のこと。</p>
+
+
+
+<p>突然人がいなくなるとね、どう処理したらいいのか、自分なりの落とし所をみつけるのに時間はかかるよね。</p>
+
+
+
+<p>見つかるのは落とし所というか、その気持ちとの向き合い方だったり、その気持ちと共に歩む方法だったり。<br>正解が何かはわからないから、無限に考えてもしかたないし、一緒に生きていくしかないしそれで良いと言うか、（諦めって意味ではなく）そうするしかないと言うか。</p>
+
+
+
+<p>その出来事はその人に関すること、それ以外のこと、いろんな事を考えるきっかけとなったし、考え続ける癖みたいなのがついた。<br>相手のことをいま知りたい、いま知っておきたいという癖もついた。</p>
+
+
+
+<p>　◇</p>
+
+
+
+<p>漫画の中で一番印象に残っているのは「生きてるから」。<br>ほんと、そうなんだよ。って思った。</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>ヒカセンのなつやすみ</title>
 		<link>/2024-06-22/summer-vacation/</link>
 		
@@ -2709,36 +2772,6 @@ add_filter('the_content', 'add_bluesky_share_button');
 
 
 <p>サイドチェイン/タッキングソース： 未設定</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Youは誰がために人助け？（ていうか自分をアウトプットする理由？）</title>
-		<link>/2024-05-16/you%e3%81%af%e8%aa%b0%e3%81%8c%e3%81%9f%e3%82%81%e3%81%ab%e4%ba%ba%e5%8a%a9%e3%81%91%ef%bc%9f%ef%bc%88%e3%81%a6%e3%81%84%e3%81%86%e3%81%8b%e8%87%aa%e5%88%86%e3%82%92%e3%82%a2%e3%82%a6%e3%83%88/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Thu, 16 May 2024 05:09:00 +0000</pubDate>
-				<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false"></guid>
-
-					<description><![CDATA[わりと気軽に人のためにとか人が喜ぶ何かをしようって思考になりがちなんだけど。 無理しているわけではなくて、そうすることが自分の楽しさ、喜びみたいな部分があってやってる。出来るかどうかはちゃんと判断して、難しければ出来る範...]]></description>
-										<content:encoded><![CDATA[<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/IMG_2730.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="4032" data-original-width="3024" height="320" src="/wp-content/uploads/2024/05/IMG_2730-225x300.jpg" width="240" /></a></div>
-<p></p>
-<p>わりと気軽に人のためにとか人が喜ぶ何かをしようって思考になりがちなんだけど。</p>
-<p>無理しているわけではなくて、そうすることが自分の楽しさ、喜びみたいな部分があってやってる。<br />出来るかどうかはちゃんと判断して、難しければ出来る範囲の条件提示かお断りはしてますよ。</p>
-<p>じゃぁなんで「わりと気軽に人のために、人が喜ぶことを何かしようって思考になりがち」という傾向にあるのかなぁと考えてた。</p>
-<p style="text-align: center;">◇</p>
-<p>何番煎じって感じの表現だけど、人と人が関わるってそこに化学反応が生まれると思ってる。<br />他者と関わることで得られた経験って自分を何かしらの形で広げてくれると思ってるから。</p>
-<p>私自身、沢山のひとのあれやこれやを見たり聞いたり読んだり、そこから喜怒哀楽を感じたり、そういうものから色んなものを摂取して自分が広がっているのを感じるから。</p>
-<p>だから自分も人に頼られた時には、自分の持ってるいろんなことで手助けして、そこを通じてほんの少しでも何かしらを相手が得られたらいいよね、その人の世界や視点が少しでも広がる手助けができたらいいね、とか。</p>
-<p>そんな風に考えている気がします。</p>
-<p>そうなってくれたら良いなと思える相手に時間をさくことは、私にとっても嬉しいことなのです。</p>
-<p style="text-align: center;">◇</p>
-<p>でも残念ながら世の中には（本人が意図しているか、意図せずそういう接し方しているかは知らないが）「この人に搾取されてる」と感じさせる人もいて、そういう人にまで貴重な時間をさいて何かしたいとは思わないですからご安心を。</p>
-<p style="text-align: center;">◇</p>
-<p>んでまぁ、私がこうして駄文を書き散らかしているのも、それを読んだ誰かが、それがその人に合うか反面教師にするかはともかく、何かしらの足しになったならそれはそれで良いかなって思いながら書いてる。</p>
 ]]></content:encoded>
 					
 		
