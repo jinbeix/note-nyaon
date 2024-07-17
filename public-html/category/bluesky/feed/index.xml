@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
@@ -180,7 +180,7 @@ https://bsky.app/profile/did:plc:64aqvld6on6kzrejzqha4w6j/feed/n-feed
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><span style="font-size: small; font-weight: normal;">自分の投稿からなにか１ワード選ばれる。</span></li>
 
 

@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+<title>FF14黄金のレガシー考えていたこと、考えていること（7.0までの感想とか） &#8211; にゃおんノート</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="alternate" type="application/rss+xml" title="にゃおんノート &raquo; フィード" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="にゃおんノート &raquo; コメントフィード" href="/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"🏳️‍⚧️","🏳️​⚧️")?!1:!n(e,"🇺🇳","🇺​🇳")&&!n(e,"🏴󠁧󠁢󠁥󠁮󠁧󠁿","🏴​󠁧​󠁢​󠁥​󠁮​󠁧​󠁿");case"emoji":return!n(e,"🐦‍⬛","🐦​⬛")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}</style>
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.6" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
+<style id="global-styles-inline-css" type="text/css">:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}</style>
+<link rel="stylesheet" id="genericons-css" href="/wp-content/themes/write-child-NyaonNote/genericons/genericons.css?ver=3.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="normalize-css" href="/wp-content/themes/write-child-NyaonNote/css/normalize.css?ver=8.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="write-style-css" href="/wp-content/themes/write-child-NyaonNote/style.css?ver=2.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="write-style-ja-css" href="/wp-content/themes/write-child-NyaonNote/css/ja.css" type="text/css" media="all">
+<link rel="stylesheet" id="drawer-style-css" href="/wp-content/themes/write-child-NyaonNote/css/drawer.css?ver=3.2.2" type="text/css" media="screen and (max-width: 782px)">
+<link rel="stylesheet" id="fancybox-css" href="/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=6.6" type="text/css" media="screen">
+<style id="fancybox-inline-css" type="text/css">#fancybox-content{border-color:#ffffff;}#fancybox-title,#fancybox-title-float-main{color:#fff}</style>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/iscroll.js?ver=5.2.0" id="iscroll-js"></script>
+<script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/drawer.js?ver=3.2.2" id="drawer-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/posts/677">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6">
+<link rel="canonical" href="/2024-07-16/essay-ff14-dawntrail/">
+<link rel="shortlink" href="/?p=677">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=%2F2024-07-16%2Fessay-ff14-dawntrail%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=%2F2024-07-16%2Fessay-ff14-dawntrail%2F#038;format=xml">
+<meta name="description" content="日々あたまに浮かぶ思考を言葉に落とし込んでみたり。あとはMMO楽しいって話。最近はもっぱらFF14で遊んでます。">
+<base href="https://note.nyaon.jp/">
+
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kurenaido&text=にゃおんノート" rel="stylesheet">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Round" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6162278065244164" crossorigin="anonymous"></script>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2Q1F5N287R"></script>
+
+<script>window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-2Q1F5N287R');</script>
+
+<!-- jquery & iScroll -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
+<!-- drawer.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>	<style type="text/css">/* Colors */</style>
+	
+<!-- OGP -->
+<meta property="og:title" content="FF14黄金のレガシー考えていたこと、考えていること（7.0までの感想とか）">
+<meta property="og:description" content="※このページには「FF14黄金のレガシー7.0まで」の内容が含まれます。※重大なネタバレもあると思うので、避けたい人は読まないでください。 FF14黄金のレガシーをアーリーアクセスからスタートして昨日">
+<meta property="og:type" content="article">
+<meta property="og:url" content="/2024-07-16/essay-ff14-dawntrail/">
+<meta property="og:image" content="https://nyaon.jp/wp-content/uploads/2024/06/20071113_玄米最初の1枚.jpg">
+<meta property="og:site_name" content="にゃおんノート">
+<meta property="og:locale" content="ja_JP">
+<!-- // OGP end -->
+<link rel="icon" href="/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-180x180.png">
+<meta name="msapplication-TileImage" content="http://localhost/note.nyaon.jp/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-270x270.png">
+		<style type="text/css" id="wp-custom-css">/* サイトタイトルのフォント変更 */
+.site-title-nyaonnote{
+	font-family: 'Zen Kurenaido'!important;
+}
+
+/* 見出し系のフォントリセット */
+h1, h2, h3, h4, h5, h6, .site-title {
+	font-family: serif;
+}
+
+/* シングルページのアイキャッチ画像にのってる部分を半透明に */
+.large-thumbnail .content-area{
+	background-color:#ffffffbf;
+}
+/* トップページのアイキャッチ画像 */
+.top-thumnail{
+	max-height:130px;
+	height:auto;
+	width:auto;
+	box-shadow: #a1a0c7 3px 2px 6px 1px;
+}
+
+/* 個別ページのヘッダー系スタイル変更 */
+/*.entry-content h2{
+	font-size:1.4em;
+	margin-top:4rem;
+	padding-bottom:0.7rem;
+}*/
+.entry-content h2:after {
+    content: "";
+    display: block;
+    position: relative;
+    bottom: -5px;
+    height: 4px;
+    background: -webkit-repeating-linear-gradient(-45deg, #6ad1c8, #6ad1c8 2px, #fff 2px, #fff 4px);
+    background: repeating-linear-gradient(-45deg, #6ad1c8, #6ad1c8 2px, #fff 2px, #fff 4px);
+}
+.entry-content h3 {
+	margin-top:2em;
+	font-size:1.3rem;
+  padding: 0.25em 0.5em;/*上下 左右の余白*/
+  color: #494949;/*文字色*/
+  background: transparent;/*背景透明に*/
+  border-left: solid 4px #7db4e6;/*左線*/
+}
+.entry-content h4 {
+  position: relative;
+  padding-left: 1.2em;/*アイコン分のスペース*/
+  line-height: 1.4;
+    border-bottom: 0px solid #dfdfdf;
+    margin-top: 1.5em;
+}
+.entry-content h4:before {
+    font-family: "Material Icons";
+    content: '\e91d';
+  font-weight: 900;
+  position: absolute;/*絶対位置*/
+  font-size: 1em;/*サイズ*/
+  left: 0;/*アイコンの位置*/
+  top: -1px;/*アイコンの位置*/
+  color: #5ab9ff; /*アイコン色*/
+  font-weight: 900;
+}
+.entry-content h4:after {
+	content: "";
+	display: block;
+	width:30vw;
+	position: absolute;
+	border-bottom: 1px solid #dfdfdf;
+}
+/* 個別ページのヘッダー系スタイル変更 ここまで */
+
+
+/*アコーディオン*/
+.ribbon15-wrapper {  
+    display: block;
+    position: relative;
+    margin: 15px auto;
+    padding: 10px 55px 10px 30px;
+    width: 95%;
+    background: #f1f1f1;
+    box-sizing: border-box;
+}
+.ribbon15 {  
+  display: inline-block;
+  position: absolute;
+  top: -6px;
+  right: 10px;
+  margin: 0;
+  padding: 10px 0;
+  z-index: 2;
+  width: 40px;
+  text-align: center;
+  color: white;
+  font-size: 17px;
+  background: linear-gradient(#ff785b 0%, #e95738 100%);
+  border-radius: 2px 0 0 0;
+}
+.ribbon15:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  right: -6px;
+  border: none;
+  border-bottom: solid 6px #cf4a2d;
+  border-right: solid 6px transparent;
+}
+.ribbon15:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 100%;
+  height: 0;
+  width: 0;
+  border-left: 20px solid #e95738;
+  border-right: 20px solid #e95738;
+  border-bottom: 10px solid transparent;
+}
+
+
+details{
+	transition: .8s;
+}
+details.accordion_cat {  
+    display: inline-flex;
+    width: 95%;
+}
+details.accordion_cat div.ribbon15-wrapper {  
+    display: block;
+    position: relative;
+    margin: 15px auto;
+    padding: 10px 55px 10px 30px;
+    width: 95%;
+    background: #f1f1f1;
+    box-sizing: border-box;
+}
+
+details[open].accordion_cat div.ribbon15-wrapper {
+	opacity: 1;
+	animation: accordionFadeIn 0.5s linear;
+}
+details.accordion_cat div.ribbon15-wrapper {
+	opacity: 0;
+	animation: accordionFadeOut 0.5s linear;
+}
+@keyframes accordionFadeIn {
+  0% {
+    opacity: 0; 
+    transform: translateY(-10px); 
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes accordionFadeOut {
+  0% {
+    opacity: 1; 
+    transform: none;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+}
+details.accordion_cat summary{
+    display: inline-flex;
+    cursor: pointer;
+    left: 20px;
+    position: relative;
+    background: #ffd98a;
+    padding: 2px 5px 2px 25px;
+	margin-bottom:15px;
+    box-shadow: 1px 1px 8px #d3b7b7;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 2px 2px 3px #b1ac6e;
+    color: #474747;
+    border-radius: 0 10px 10px 0;
+    align-items: center;
+	/* transition: .8s; */
+}
+/*
+details[open].accordion_cat summary{
+	opacity: 0.8;
+}
+*/
+
+details.accordion_cat summary::before {
+    transition: .8s;
+    transform: rotate(0deg);
+    font-family: "Material Icons";
+    content: '\e91d';
+    display: inline-flex;
+    line-height: 40px;
+    position: absolute;
+    padding: 0em;
+    color: #ffc4c4;
+    background: #ffffff;
+    font-weight: 900;
+    width: 33px;
+    text-align: center;
+    height: 33px;
+    line-height: 40px;
+    left: -1.25em;
+    border: solid 3px white;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 4px 1px #a0e198ab;
+}
+details[open].accordion_cat summary::before {
+    transform: rotate(30deg);
+	background: #ed5737;
+    color: #ffffff;
+}
+/*アコーディオン ここまで*/
+
+/*シェアボタン：Bluesky*/
+.bluesky-share-button {
+    margin-top: 20px;
+}
+.bluesky-share-button a {
+		font-size:0.8em;
+    padding: 2px 20px;
+    background-color: #1da1f2;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.bluesky-share-button a:hover {
+    background-color: #0d95e8;
+}
+
+/*シェアボタン：Bluesky ここまで*/
+
+/* いろいろ修正 */
+pre{
+	margin-left:1em;
+	background-color:#f1f1f1;
+}
+pre code {
+	border:none;
+}
+p code {
+	padding:5px;
+	background-color:#f1f1f1;
+}
+code {
+	color:#747da3!important;
+}
+blockquote{
+		color: #777;
+    font-style: italic;
+    margin: 0 0 2.4em;
+    padding: 12px 0 1px 44px;
+    position: relative;
+    background-color: #eff0ff;
+}
+/* いろいろ修正 ここまで */</style>
+		</head>
+
+<body class="post-template-default single single-post postid-677 single-format-standard drawer header-side footer-side no-sidebar footer-0">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">コンテンツへスキップ</a>
+
+	<header id="masthead" class="site-header">
+
+		<div class="site-top">
+			<div class="site-top-table">
+				<div class="site-branding">
+									<div class="site-title site-title-nyaonnote"><a href="/" rel="home">にゃおんノート</a></div>
+					<div class="site-description"></div>
+				</div>
+<!-- .site-branding -->
+
+								<nav id="site-navigation" class="main-navigation">
+					<button class="drawer-toggle drawer-hamburger">
+						<span class="screen-reader-text">メニュー</span>
+						<span class="drawer-hamburger-icon"></span>
+					</button>
+					<div class="drawer-nav">
+						<div class="drawer-content">
+							<div class="drawer-content-inner">
+							<div class="menu-header-menu-container"><ul id="menu-header-menu" class="menu">
+<li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-412">
+<a href="/">ホーム</a>
+<ul class="sub-menu">
+	<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="/web-policy/">サイト運用ポリシー</a></li>
+	<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="/contact/">お便りフォーム</a></li>
+</ul>
+</li>
+<li id="menu-item-413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-413"><a href="https://bsky.app/profile/wata.nyaon.jp">Bluesky</a></li>
+</ul></div>														<form role="search" method="get" class="search-form" action="http://localhost/note.nyaon.jp/">
+				<label>
+					<span class="screen-reader-text">検索:</span>
+					<input type="search" class="search-field" placeholder="検索&hellip;" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="検索">
+			</form>														</div>
+<!-- .drawer-content-inner -->
+						</div>
+<!-- .drawer-content -->
+					</div>
+<!-- .drawer-nav -->
+				</nav><!-- #site-navigation -->
+							</div>
+<!-- .site-top-table -->
+		</div>
+<!-- .site-top -->
+
+		
+		
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+
+<div id="primary" class="content-area w-sm-100" style="width:85%;">
+	<main id="main" class="site-main">
+
+	
+		
+<div class="post-full post-full-summary">
+	<article id="post-677" class="post-677 post type-post status-publish format-standard hentry category-dawntrail category-ff14 category-9">
+		<header class="entry-header">
+			<div class="entry-float">
+									<div class="entry-meta">
+		<span class="posted-on">
+		<a href="/2024-07-16/essay-ff14-dawntrail/" rel="bookmark"><time class="entry-date published updated" datetime="2024-07-16T13:42:00+09:00">2024-07-16</time></a>		</span>
+
+	</div>
+<!-- .entry-meta -->
+				</div>
+<!-- .entry-float -->
+			<h1 class="entry-title">FF14黄金のレガシー考えていたこと、考えていること（7.0までの感想とか）</h1>
+
+				<div class="cat-links text-md-end pe-4">
+					<a href="/category/ff14/dawntrail/" rel="category tag">DAWNTRAIL</a>, <a href="/category/ff14/" rel="category tag">FF14</a>, <a href="/category/ff14%e6%97%85%e3%81%ae%e8%a8%98%e9%8c%b2/" rel="category tag">FF14旅の記録</a>, <a href="/category/%e3%81%a8%e3%82%8a%e3%81%a8%e3%82%81%e3%81%ae%e3%81%aa%e3%81%84%e8%a9%b1/" rel="category tag">とりとめのない話</a>				</div>
+		</header><!-- .entry-header -->
+		<div class="entry-content">
+			
+<p class="has-white-color has-text-color has-background has-link-color wp-elements-7efec0da7c93e450d7837de9da871704" style="background:linear-gradient(135deg,rgb(200,140,140) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%)"><strong>※このページには「FF14黄金のレガシー7.0まで」の内容が含まれます。<br>※重大なネタバレもあると思うので、避けたい人は読まないでください。</strong></p>
+
+
+
+<p>FF14黄金のレガシーをアーリーアクセスからスタートして昨日ようやくメインクエスト7.0を終えたので、忘れないうちに今のタイミングでの感想を残したいと思う。</p>
+
+
+
+<p>あ、でもどちらかというと、ゲームそのものへの感想もそうだけど、この体験を通じて頭に浮かんだこと、思考を巡らせたものって文章かも。</p>
+
+
+
+<ul class="wp-block-list">
+<li>2024-06-28（金）18時スタート。</li>
+
+
+
+<li>2024-07-15（月）24時頃エンドロールおわり。</li>
+</ul>
+
+
+
+<p>冒険をしている最中もあれこれ考えたりしていたけれど、まだきれいなまとまった文章にできる気がしない。</p>
+
+
+
+<p>わたしは今回の拡張パッケージも好きです。とても楽しめたし、沢山のものを貰ったと思います。</p>
+
+
+
+<p>正直に言えば漆黒～暁月に比べると演出面で気になる点がややあったけれど、致命的ってのはなかったかな。そこよりも良いところを見ていきたい。実際楽しんだし。</p>
+
+
+
+<p>作品を世に出してくれた開発スタッフにも、同時期に遊んでくれた仲間にも、このタイミングで同時に冒険しているのを見かけた沢山の名前も知らない冒険者にも感謝したい。</p>
+
+
+
+<p>舞台があり、そこに来ている沢山の人がいてこそのMMORPGなので多くの人が同時に世界を楽しんでいたということ自体がとても貴重な体験だと思ってる。</p>
+
+
+
+<p>今回もこうしてこの2年に一度のお祭りにリアルタイムで参加できて良かったです。</p>
+
+
+
+<p>以下思いつくまま書いていこうと思う。<br>ちなみにまだ他の人の感想や考察は読んでいない。読んだらまた見え方は変わるかも知れない。<br>何かあれば追記していくかも。</p>
+
+
+
+<details class="accordion_cat">
+<summary>7.0メインクリア翌日 2024-07-16の記憶（押すと開く）</summary>
+<div class="ribbon15-wrapper" style="background-color:#fff;">
+<span class="ribbon15 material-icons">pets</span>
+    <div style="background-color:#fff;">
+
+
+
+<h3 class="wp-block-heading">「なんだかんだ今回は悲壮感なくていいね」そう思っていた時もありました</h3>
+
+
+
+<p>継承の儀をやっているころにぴよもちと話してた。なんか失敗しても世界滅びないしね、平和だよね～って。</p>
+
+
+
+<p>滅びかけたわ。</p>
+
+
+
+<p>ま、でも「英雄よ！」とか「英雄どの！」とか言われないってのは気楽でいい。<br>そもそも誰かに「英雄様！」とか言わないでしょ。言われ慣れてないから言われるたびにむず痒かった。そういうものから解放された冒険は気楽でよい。</p>
+
+
+
+<h3 class="wp-block-heading">今回の物語のテーマはなんだろう？と考えた時に、最初は「平和」と思ってた</h3>
+
+
+
+<p>もちろん全体を覆う広いテーマとしてはそうかもしれないけれどちょっとふわっとしすぎてた。</p>
+
+
+
+<p>「知る」「知ってもらう」「知っている」「知られている」「知らない」「知り得ない」みたいな事、そこから記憶にまつわる事に繋がっていくテーマの話だったのかな？</p>
+
+
+
+<p>私は常々「知る」ということは「見えるようになる」ことだと思っていて。</p>
+
+
+
+<p>それは例えば自分が着物や茶道をはじめると街なかを歩く着物姿の人が目についたり、その着物の模様、着方、小物、そういったより細かいことまで「見えるようになる」って体験からの話なのだけど、今回ラマチが何度も語っていた</p>
+
+
+
+<p>「知ることで見えてくる、見えてくるから理解できる、そこから好きになるかもしれない」</p>
+
+
+
+<p>も対象が身近な物なのか、人なのか、文化なのかって違いだけで同じか～、と改めて思った。</p>
+
+
+
+<p>　◇</p>
+
+
+
+<p>「知ること」という話がでてくると、どうしてもフレンドのヨタさんのとあるロドスト日記に出てきた言葉が思いだされる。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>”知りたい”って私の辞書だとアイラブユーということだから。</p>
+</blockquote>
+
+
+
+<p>黄金のレガシーはこの言葉に尽きるのかも知れない。</p>
+
+
+
+<p>　◇</p>
+
+
+
+<h3 class="wp-block-heading">細かい演出面、背景説明不足？とかでちょっと気になることが多かったかな</h3>
+
+
+
+<p>特に継承の儀おわるまででいろいろ気になってしまった。</p>
+
+
+
+<p>ラマチの「好きだから」「好きになりたい」「好き好き」ってワードの連続は、なんかこうもっと別の言い回しできなかったのだろうか？というくらいちょっとくどくて食傷気味だった。<br>後半は頻度が落ちたのでそこまで気にならなくなったけども。前半はちょっとくどく感じた。</p>
+
+
+
+<p>アルパカの土地のめっちゃくちゃ高い90度に切り立った山に登るって話も<br>「いやこれ無理やろ。何日かかるの」<br>「いまいるところで既に高山っぽいのにあの上酸素ないやろ、高山病なるで」<br>「ロッククライミングでもするのだろうか？」<br>「空からアプローチか？」<br>と思っていたら１つのIDであっさり登頂してて、めちゃくちゃ高い山感が薄れてしまった。</p>
+
+
+
+<p>1つ目の討滅であれだけやばい災厄感だしてた相手がコンサポであっさり倒されるのも拍子抜けしたけど、でもまぁ我々宇宙規模の災厄倒しちゃってるわけだから１大陸の災厄程度はこんなものといえばこんなものかもしれない。</p>
+
+
+
+<p>ラマチが急に強くなりすぎて修行フェーズなくていいの？とかちょっと思った。<br>元から基礎値は高かったのか？<br>ヒカセンと暁メンバーが宇宙規模すぎてこのあたり比較してしまうとあとからの登場人物の演出難しそうね・・・。</p>
+
+
+
+<p>度々カットシーンでの間のとりかたが短すぎたり微妙に長かったりして見ていて躓く感覚を覚えたりしていた。「ラグ？」って感じでテンポが狂った感を受けることが多くて、メイン以外でもロールクエストでも感じたりする。私のクライアントのせいなのだろうか？</p>
+
+
+
+<p>正直このあたりを遊んでいる頃は「シナリオ担当変わっただけでこんなになんか違和感を覚えるのだろうか？」とか「この先安心して見ていられるのかな…」という不安を覚えていた。</p>
+
+
+
+<h3 class="wp-block-heading">視線、表情、仕草を使った演出は格段に良くなってて感動した</h3>
+
+
+
+<p>目が一瞬泳いだり、眉が一瞬動いたり、そういう細かい表情での表現が沢山あって見ていて感動しました。</p>
+
+
+
+<p>漆黒、暁月でも顔芸（芸？）というかこういう細かい表情、仕草での表現が増したなって思っていたのだけど、黄金で更にパワーアップした気がします。素直に良い！凄い！と思える点だった。</p>
+
+
+
+<p>あ、でも。<br>カットシーンと表情と言えば一部のシーンで光源と瞳の反射の都合なのか、瞳が塗りつぶされたみたいだったり、めっちゃ三白眼に見えたり、白目むいてるようになってたりしたシーンがいくつかあったね。ちょっとあれは怖かった。<br>（まぁこのあたりはきっと誰かからフォーラムに報告されてて修正されるであろう、たぶん）</p>
+
+
+
+<p>　◇</p>
+
+
+
+<h3 class="wp-block-heading">そういえばグラフィックアップデート（自分の顔）</h3>
+
+
+
+<p>これについては結局「クエスト報酬の幻想薬」＋「幻想薬2つ購入」の合計3つ使って安定しました。</p>
+
+
+
+<p>1つ目の幻想薬は実は美容院だけで済む調整だったのに幻想薬を使ってしまったので無駄に笑<br>ベンチマークだと良い感じだと思っていたけれど街なか歩くと違和感が取れなかった。</p>
+
+
+
+<p>2つ目の幻想薬でララフェルのプレーンフォークからデューンフォークに変更。<br>目の違和感は減ったのだけど、瞳の雰囲気がもともとの種族差でひどいのでやっぱり戻ることにした。</p>
+
+
+
+<p>3つ目の幻想薬でプレーンフォークに戻り「瞳のおおきさを大→小に変更」「顔の輪郭を変更して以前より細くなった感じに」とすることでやっと落ち着いた。</p>
+
+
+
+<p>「この短時間で幻想薬2つ売れましたな。スクエニさん良い商売ですなぁガハハ。」<br>と正直思ったけれど、いまは新しい姿に違和感もなく満足しているし、瞳がきれいになったのは本当に素敵で良いです。</p>
+
+
+
+<h3 class="wp-block-heading">グラフィックアップデート（景色とか）</h3>
+
+
+
+<p>すぐに慣れてもとからこういうものだったという感覚になってしまいそうで勿体ないとか謎の心配をしつつも、金属面の光沢、濡れた地面、雨水に反射する光、いろいろな所で「あれ、こんな綺麗だったっけ？」という体験ができていて冒険していてとても楽しい。</p>
+
+
+
+<p>細かい所では歩いている足元に砂煙あがったりしたのも「これ前からあった？」とか思うし、前からあったものにもなんか改めて感動してそう。</p>
+
+
+
+<p>もはや何が前からあったのかなかったのかわからないけど、今のところ新しい発見が随所にあって良いなって思ってます。</p>
+
+
+
+<p>アーリー始まってすぐにクロ手帳の為に邂逅5層（ツインタニアのとこ）のフィールドに入った時にフィールドの爪感がめっちゃあって、これまでは同じ色味の地面としか思ってなかったので衝撃だった。</p>
+
+
+
+<p>本当に文字通り衝撃だった。雷に撃たれたような感覚ってこれ？雷あたったことないけど。</p>
+
+
+
+<p>これ爪だったのか！そうか！手だもんな！って。みんな見に行ってほしい。</p>
+
+
+
+<p>　◇</p>
+
+
+
+<h2 class="wp-block-heading">記憶、永久人の話</h2>
+
+
+
+<p>まぁ私が今回の話が良かったなと思うのはこのあたりの展開があったからなんだけど。</p>
+
+
+
+<p>一番身近で一番守りたかった命が失われた経験があるのでね。それに対する後悔、罪悪感、自己否定感、いろんな負の感情と共に生きてる現在進行系。</p>
+
+
+
+<p>余命が短い系、亡くなった人を想う系の話はずるいと思う。<br>そういう体験をした人にほぼ確定クリティカルで刺さるから。そこに悔いがあればあるほどダイレクトヒットするよね。そう私の事ですけど。</p>
+
+
+
+<p>だからこういう話を展開するのは安易にヒットさせられてずるいなと思うのだけど、でも嫌いじゃないよ。むしろ好んで摂取しに映画みに行ったりするもの。</p>
+
+
+
+<p>なんでだろうね？</p>
+
+
+
+<p>あくまで私の場合だけどいろんなそういう作品に触れることで、もしかしたらこういう事もあったかもしれないとかそういう物を拾い集めているのかも知れない。</p>
+
+
+
+<p>残念ながら永久人システムは無いのでもう取り返しはつかないし答えを確認もできないけれど。</p>
+
+
+
+<p>同時にいなくなってしまった人のことを思い出し、振り返り、体験している物語に照らし合わせてあの人ならどうだろうとかそういう事を考える、そういうきっかけになるというのが良いのかも知れない。</p>
+
+
+
+<p>なので今回のこれも自分にリンクして考えちゃったり、いろいろな気持ちがまぜこぜになって考えてしまったり、そういう意味で良かった。いろいろなことのきっかけをくれるものは好きだ。</p>
+
+
+
+<p>　◇</p>
+
+
+
+<h3 class="wp-block-heading">ラハのセリフ</h3>
+
+
+
+<p>初見でいく予定の8人全員がコンテンツ開放されるのを待つまでの間にぴよもちと話す中で、リビングメモリーでラハが語った</p>
+
+
+
+<p>「その人が1日でも長く健やかに生きていてくれると良い、そう願う」</p>
+
+
+
+<p>みたいなセリフが良いという話になった。私もそう思う。</p>
+
+
+
+<p>このセリフのシーンで頭に浮かんだのは、やっぱり舞城王太郎の「好き好き大好き超愛してる。」の冒頭だった。</p>
+
+
+
+<p>黄金のレガシー悪くなかったなと思える人はこの小説の冒頭のそこだけでも読んでみて欲しい。</p>
+
+
+
+<p>今いる人にも、いなくなってしまった人にも、幸せに穏やかに過ごして欲しいと願う、祈る。愛は祈りだ。</p>
+
+
+
+<p>そういった冒頭の文章が私は好き。なんかそれに通じる話だなってラハのセリフを見て思った。</p>
+
+
+
+<p><a href="https://bookclub.kodansha.co.jp/product?item=0000204795" data-type="link" data-id="https://bookclub.kodansha.co.jp/product?item=0000204795" target="_blank" rel="noreferrer noopener">講談社文庫「好き好き大好き超愛してる。」</a><br>リンク先のページ中央あたりの「試し読み」から冒頭部分読めます。</p>
+
+
+
+<p>　◇</p>
+
+
+
+<h3 class="wp-block-heading">記憶を残す話</h3>
+
+
+
+<p>ヨフカイ族や永久人のエピソードで「記憶を残す」が語られてた。</p>
+
+
+
+<p>私もその人が亡くなった時、毎日その人の記憶が失われていくのが感じられて本当に恐ろしかった。</p>
+
+
+
+<p>声はどんなんだった？顔は？表情は？口調は？思考のくせは？</p>
+
+
+
+<p>びっくりするほどどんどん忘れていってた。人間の記憶なんて微塵も役にたたないと思った。</p>
+
+
+
+<p>さらに「忘れていく」というより自分が思い出すその人のそれが本当にその人なのか確信がもてない感覚が気持ち悪かった。<br>自分の都合の良い「その人」を記憶から捏造しているんじゃないかと自分が信じられない感覚だった。</p>
+
+
+
+<p>忘れていくことでその人も、その人と過ごしたという自分自身も、この世界から存在そのものが消えていく感覚が怖かった。</p>
+
+
+
+<p>例えば私とその人二人しか知り得ない記憶は、私がいなくなってしまったらこの世界から「最初からなかった」のと同じことになってしまうのでは？<br>世界の誰も二人の事を知らない。世界にそんな二人いなかった。存在しなかった。そうなるのでは？そんな恐怖心。</p>
+
+
+
+<p>なのでヨフカイ族や永久人で「記憶を残す」アプローチについて語られているのはとても興味深くみていた。</p>
+
+
+
+<p>私もその人と経験したことだとかをひたすら書き残したりしている時期があった。<br>でもいまはもうしていない。思い出す記憶が正しいものかどうかももう自信がない。</p>
+
+
+
+<p>ただ少なくともいま私がこの私なのは、その人の影響があったからこそだと思ってる。<br>その人を亡くした事、そこから沢山の事を考えた事、それがきっかけになって体験した様々な事。そういった体験を通じて知り合った人たちから更に影響を受けたこと。<br>それら全部が繋がって積み重なって「いまの私」なんだと思ってる。</p>
+
+
+
+<p>私が私である事こそが、その人がいたことの証明なんだと思ってる。</p>
+
+
+
+<p>もちろんここで語っているその人だけでなく、いま身近にいる人たちも、通り過ぎた人たちも、そのみんなも含めてもらったものが積み重なって「いまのわたし」だと思っているよ。</p>
+
+
+
+<p>こういうのは5.3ラストあたりのカットシーンにも通じるね。</p>
+
+
+
+<h3 class="wp-block-heading">魂の色は？</h3>
+
+
+
+<p>そういえばヒュトロダエウスやハーデスは「魂の色」を視ていた。<br>あれは記憶とは関係ない魂そのもの色だよね？<br>アゼムとヒカセンを同一視したのも、転生組をみつけられたのも、記憶と関係ない魂をみつけたってことかな。</p>
+
+
+
+<p>だとするとやっぱり魂そのものにも傾向だとか性格ってのがあるのかな。<br>そうだとしたら混ぜたらやっぱり危険というか変質はしますよね。<br>死んだ時に魂注入でリレイズかかるけど、記憶でどれだけ上塗りしたとしても、その度に根底の部分は変質していくってことなのかな？</p>
+
+
+
+<h3 class="wp-block-heading">その他いろいろ</h3>
+
+
+
+<ul class="wp-block-list">
+<li>プリザベーションはきっと今後も絡んでいきそうね。</li>
+
+
+
+<li>5つ目エリアの障壁内はなんで雷びりびりなんだろう。障壁があってまだ雷属性の影響をうけてるってこと？原初世界に来たいま障壁とったら解消されそう？</li>
+
+
+
+<li>最後のエリアで日が昇るのはどういうこと？って思ったけど、あれ塔の最上階＝屋内ってこと・・・なのかな。<br>てことはあの外に雷の氾濫がおきた世界が広がってるってこと・・・ですかね？</li>
+</ul>
+
+
+
+<p>まぁ、まだいろいろ追々思いつくことありそうだけど一旦ここまで。</p>
+
+
+
+<!--折りたたみfooter-->
+    </div>
+</div>
+</details>
+<div class="bluesky-share-button"><a href="https://bsky.app/intent/compose?text=FF14%E9%BB%84%E9%87%91%E3%81%AE%E3%83%AC%E3%82%AC%E3%82%B7%E3%83%BC%E8%80%83%E3%81%88%E3%81%A6%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%80%81%E8%80%83%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%EF%BC%887.0%E3%81%BE%E3%81%A7%E3%81%AE%E6%84%9F%E6%83%B3%E3%81%A8%E3%81%8B%EF%BC%89%EF%BD%9C%E3%81%AB%E3%82%83%E3%81%8A%E3%82%93%E3%83%8E%E3%83%BC%E3%83%88%0Ahttps%3A%2F%2Fnyaon.jp%2F2024-07-16%2Fessay-ff14-dawntrail%2F%0A" target="_blank">Blueskyでシェア</a></div>					</div>
+<!-- .entry-content -->
+
+				<footer class="entry-footer">
+			<div class="entry-footer-meta">
+							</div>
+		</footer><!-- .entry-footer -->
+		
+	</article><!-- #post-## -->
+</div>
+<!-- .post-full -->
+
+	<nav class="navigation post-navigation">
+		<h2 class="screen-reader-text">投稿ナビゲーション</h2>
+		<div class="nav-links">
+			<div class="nav-previous">
+<div class="post-nav-title">古い投稿</div>
+<a href="/2024-07-05/manga-ikokunikki/" rel="prev">「違国日記」読んだ</a>
+</div>		</div>
+<!-- .nav-links -->
+	</nav><!-- .post-navigation -->
+	
+
+		
+	
+	</main><!-- #main -->
+</div>
+<!-- #primary -->
+
+
+	</div>
+<!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+
+		
+		<div class="site-bottom">
+
+			<div class="site-bottom-table">
+				<!-- #footer-social-link --
+				<nav id="footer-social-link" class="footer-social-link social-link">
+								</nav><!-- #footer-social-link -->
+
+				<div class="site-info text-center">
+					<div class="site-credit">
+						<span class="site-title-nyaonnote">にゃおんノート</span> ©SQUARE ENIX | 
+Theme: <a href="http://themegraphy.com/wordpress-themes/write/" target="_blank" rel="noopener noreferrer">Write</a> by Themegraphy (custom for NyaonNote)
+					</div>
+<!-- .site-credit -->
+				</div>
+<!-- .site-info -->
+			</div>
+<!-- .site-bottom-table -->
+		</div>
+<!-- .site-bottom -->
+
+	</footer><!-- #colophon -->
+</div>
+<!-- #page -->
+
+<!-- Google AdSense -->
+<div class="text-center">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6162278065244164" crossorigin="anonymous"></script>
+<!-- nyaonnote-footer -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6162278065244164" data-ad-slot="6739449261" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<!--// Google AdSense -->
+
+<style>#nav-right-bottom{
+	display:none;
+    position: fixed;
+    right: 10px;
+    bottom: 0;
+    height: 100px;
+}
+.nav-right-bottom-box{	
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+#bottom-btn-toHome{
+    display: block;
+    font-size: 0.8em;
+    position: relative;
+    bottom: 10px;
+}	
+.pagetop {
+    display: flex;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 25px;
+    background-color: #bbd8e942!important;
+    border: none;
+    border-radius: 42%;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    cursor: pointer;
+}
+.pagetop__arrow {
+    color: #3d5fc39c;
+}
+.original-box-shadow {
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+}
+.original-box-shadow::after {
+    content: "";
+    position: absolute;
+	bottom:20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    height: 8px;
+    box-shadow: 0 34px 9px rgb(25 29 42 / 20%);
+    background-color: transparent;
+    border-radius: 80px / 4px;
+}</style>
+<script>$(function () {
+    $("#js-pagetop").click(function () {
+        $('html, body').animate({
+        scrollTop: 0
+        }, 300);
+    });
+    $(window).scroll(function () {
+        if ($(window).scrollTop() > 1) {
+        $('#nav-right-bottom').fadeIn(1200).css('display', 'flex')
+        } else {
+        $('#nav-right-bottom').fadeOut(600)
+        }
+    });
+});</script>
+<div id="nav-right-bottom">
+	<div class="nav-right-bottom-box">
+		<a href="https://note.nyaon.jp/" id="bottom-btn-toHome">[Home]</a>
+		<button id="js-pagetop" class="pagetop original-box-shadow"><span class="material-icons-round pagetop__arrow">keyboard_double_arrow_up</span></button>
+	</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script><style id="core-block-supports-inline-css" type="text/css">.wp-elements-7efec0da7c93e450d7837de9da871704 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}</style>
+<script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/skip-link-focus-fix.js?ver=20160525" id="write-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/doubletaptogo.js?ver=1.0.0" id="double-tap-to-go-js"></script>
+<script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/functions.js?ver=20190226" id="write-functions-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.js?ver=6.6" id="jquery-fancybox-js"></script>
+<script type="text/javascript" id="jquery-fancybox-js-after">
+/* <![CDATA[ */
+var fb_timeout, fb_opts={'autoScale':true,'showCloseButton':true,'width':600,'height':400,'margin':20,'pixelRatio':'false','padding':10,'centerOnScroll':false,'enableEscapeButton':true,'speedIn':300,'speedOut':300,'overlayShow':true,'hideOnOverlayClick':true,'overlayColor':'#000','overlayOpacity':0.6,'minViewportWidth':320,'minVpHeight':320,'disableCoreLightbox':'true' };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery([".nolightbox","a.wp-block-file__button","a.pin-it-button","a[href*='pinterest.com\/pin\/create']","a[href*='facebook.com\/share']","a[href*='twitter.com\/share']"].join(',')).addClass('nofancybox');
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+/* IMG */
+						var unlinkedImageBlocks=jQuery(".wp-block-image > img:not(.nofancybox)");
+						unlinkedImageBlocks.wrap(function() {
+							var href = jQuery( this ).attr( "src" );
+							return "<a href='" + href + "'><\/a>";
+						});
+var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a),area[href*=".png" i]:not(.nofancybox),a[href*=".webp" i]:not(.nofancybox,li.nofancybox>a),area[href*=".webp" i]:not(.nofancybox),a[href*=".jpeg" i]:not(.nofancybox,li.nofancybox>a),area[href*=".jpeg" i]:not(.nofancybox)');
+fb_IMG_select.addClass('fancybox image').attr('rel','gallery');
+jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'transition':'elastic','transitionIn':'elastic','transitionOut':'elastic','opacity':false,'hideOnContentClick':false,'titleShow':false,'titlePosition':'over','titleFromAlt':false,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false,'mouseWheel':'true','changeSpeed':250,'changeFade':300}))});
+};};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('a#fancybox-auto,#fancybox-auto>a').first().trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/easy-fancybox/vendor/jquery.easing.min.js?ver=1.4.1" id="jquery-easing-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/easy-fancybox/vendor/jquery.mousewheel.min.js?ver=3.1.13" id="jquery-mousewheel-js"></script>
+
+</body>
+</html>

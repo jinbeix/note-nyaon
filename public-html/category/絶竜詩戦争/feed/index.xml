@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
@@ -91,7 +91,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>コールを分担してくれたり</li>
 
 
@@ -155,7 +155,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>竜詩のアドベンチャラープレートやポートレート素材（本とか目玉背景とか）が欲しかった。</li>
 
 
@@ -233,7 +233,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>秒単位のタイムライン表を手作りしてもらう。</li>
 
 
@@ -317,7 +317,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>教皇庁(1) → 立ち位置をマーカーで示した。</li>
 
 
@@ -347,7 +347,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>&nbsp;0.8時間：教皇庁1</li>
 
 
@@ -421,7 +421,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>ロール関係なくランダムに割り振られるギミックが多い。</li>
 
 
@@ -519,7 +519,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>エフェクト敵味方全部表示。</li>
 
 
@@ -529,7 +529,7 @@
 
 
 <li>キーボード／マウス
-<ul>
+<ul class="wp-block-list">
 <li><span style="white-space: normal;"><a href="https://gaming.logicool.co.jp/ja-jp/products/gaming-mice/g600-mmo-gaming-mouse.910-004667.html" target="_blank" rel="noopener">G600</a>（多ボタンマウス）</span></li>
 
 
@@ -699,7 +699,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>コール内容が同じなら普通に走る。（左、左とか）</li>
 
 
@@ -737,7 +737,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>最初にサイコロ毎に分かれて立つ</li>
 
 
@@ -857,7 +857,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>何が来るかわからない8人ランダム。</li>
 
 
@@ -907,7 +907,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>どの位置になっても目の前に視界に入りやすい</li>
 
 
@@ -933,7 +933,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>ツイスター捨て位置についたらまずは見るべきものは2体のおじさん（片方だけみれば判断可能）。</li>
 
 
@@ -993,7 +993,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>北おじさんを正面にみる画角で待機。</li>
 
 
@@ -1023,7 +1023,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>自分は無職</li>
 
 
@@ -1162,7 +1162,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>竜騎士は固定（殴り続けてもらうという状況を変化させない）</li>
 
 
@@ -1204,13 +1204,13 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>あらためてタイムラインでいつ、何をするのかを表にまとめて共有、確認。</li>
 
 
 
 <li>自由探索モードのID内で、他の人のクリア動画最終フェーズを流しながら
-<ul>
+<ul class="wp-block-list">
 <li><span style="white-space: normal;">実際に移動してみる練習。</span></li>
 
 
@@ -1253,7 +1253,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>エクサの内外判断して詠唱完了待ちになったくらいで、スプリントON。</li>
 
 
@@ -1279,7 +1279,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>アク・モーン(1)：みんな普通に。（233）</li>
 
 
@@ -1321,7 +1321,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>ここのアク・モーンよりも二天竜のホーリーウィング(2)がバフ少なくて痛かったとのこと。（そここは途中で打ち合わせしてヒーラーが厚めにケアすることになったので安定しました）</li>
 
 
@@ -1407,7 +1407,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>思考スタートから結論（動作）に至るまでが遅い。</li>
 
 
@@ -1463,13 +1463,13 @@
 
 
 <div class="wp-block-image">
-<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;\/wp-content\/uploads\/2024\/06\/ffxiv_20240608_084242_818-300x169.png&quot;,&quot;figureClassNames&quot;:&quot;aligncenter&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:null,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:&quot;none&quot;,&quot;targetHeight&quot;:&quot;none&quot;,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;\u753b\u50cf\u3092\u62e1\u5927&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="aligncenter wp-lightbox-container"><img decoding="async" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on-window--resize="callbacks.setButtonStyles" src="/wp-content/uploads/2024/06/ffxiv_20240608_084242_818-300x169.png" alt=""/><button
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;\/wp-content\/uploads\/2024\/06\/ffxiv_20240608_084242_818-300x169.png&quot;,&quot;figureClassNames&quot;:&quot;aligncenter&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:null,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:&quot;none&quot;,&quot;targetHeight&quot;:&quot;none&quot;,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;\u753b\u50cf\u3092\u62e1\u5927&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="aligncenter wp-lightbox-container"><img decoding="async" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="/wp-content/uploads/2024/06/ffxiv_20240608_084242_818-300x169.png" alt=""/><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
 			aria-label="画像を拡大"
 			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
+			data-wp-on-async--click="actions.showLightbox"
 			data-wp-style--right="context.imageButtonRight"
 			data-wp-style--top="context.imageButtonTop"
 		>

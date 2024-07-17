@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
@@ -54,7 +54,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>headタグ内</li>
 
 
@@ -310,7 +310,7 @@ add_filter('the_content', 'add_bluesky_share_button');
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Simply Staticで静的ファイル化したブログをZIP保存。</li>
 
 
