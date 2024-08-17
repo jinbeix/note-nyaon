@@ -12,7 +12,7 @@
 	<atom:link href="/category/%E6%9C%AA%E4%BA%88%E7%BF%92%E8%87%AA%E5%8A%9B%E8%A7%A3%E6%98%8E/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 07 Aug 2024 05:41:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 Aug 2024 15:40:20 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,551 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FF14零式自力解明：アルカディア：LH級1</title>
+		<link>/2024-08-17/ff14-arcadia-lightheavy1-blind/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sat, 17 Aug 2024 08:24:20 +0000</pubDate>
+				<category><![CDATA[DAWNTRAIL]]></category>
+		<category><![CDATA[FF14]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[至天の座アルカディア]]></category>
+		<guid isPermaLink="false">/?p=822</guid>
+
+					<description><![CDATA[攻略日記というより、こんな風に自力解明したよって内容です。 パーティ構成とかチャレンジの仕方（押すと開く） 前書き 自力解明のしかた のループ。 使うもの 使わないもの パーティ構成 クリアまでの時間 タイムラインめも ...]]></description>
+										<content:encoded><![CDATA[
+<p>攻略日記というより、こんな風に自力解明したよって内容です。</p>
+
+
+
+<details class="accordion_cat">
+<summary>パーティ構成とかチャレンジの仕方（押すと開く）</summary>
+<div class="ribbon15-wrapper" style="background-color: #fff5e1;padding: 5px 15px;">
+<div>
+
+
+
+<h2 class="wp-block-heading">前書き</h2>
+
+
+
+<ul class="wp-block-list">
+<li>パーティ募集文はこんな感じ。（<a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/" data-type="link" data-id="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/">ロドスト日記</a>）</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">自力解明のしかた</h3>
+
+
+
+<ul class="wp-block-list">
+<li>戦ってみて</li>
+
+
+
+<li>確認できた事実から解法の仮説をたてて</li>
+
+
+
+<li>戦ってみて検証</li>
+</ul>
+
+
+
+<p>のループ。</p>
+
+
+
+<h4 class="wp-block-heading">使うもの</h4>
+
+
+
+<ul class="wp-block-list">
+<li>プレイの録画（振り返り検証用）</li>
+
+
+
+<li>Discord（ボイスチャット、資料の共有や戦術打ち合わせ用）</li>
+
+
+
+<li>Googleスライド（戦術打ち合わせ用）</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">使わないもの</h4>
+
+
+
+<ul class="wp-block-list">
+<li>人前で言えないようなツール類</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">パーティ構成</h2>
+
+
+
+<ul class="wp-block-list">
+<li>ナイト（MT）</li>
+
+
+
+<li>戦士（ST）</li>
+
+
+
+<li>白魔道士</li>
+
+
+
+<li>学者</li>
+
+
+
+<li>竜騎士</li>
+
+
+
+<li>ピクトマンサー</li>
+
+
+
+<li>踊り子</li>
+
+
+
+<li>召喚士</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">クリアまでの時間</h2>
+
+
+
+<ul class="wp-block-list">
+<li>週4、各2時間</li>
+
+
+
+<li>1層は累計3時間くらいでクリア。</li>
+</ul>
+
+
+
+</div></div></details>
+
+
+
+<h2 class="wp-block-heading">タイムラインめも</h2>
+
+
+
+<ul class="wp-block-list">
+<li>クアドラプルなんとか（近い、遠いのやつ）</li>
+
+
+
+<li>タンク強（スイッチ）</li>
+
+
+
+<li>半面焼き＋コピー（ピザ安地）＋（４：４ or ペア）</li>
+
+
+
+<li>リーピング（移動）＋クアドラプルなんとか（近い、遠いのやつ）</li>
+
+
+
+<li>全体</li>
+
+
+
+<li>床抜けるやつ
+<ul class="wp-block-list">
+<li>床ドン or アッパー</li>
+
+
+
+<li>タンク強</li>
+
+
+
+<li>ノックバック＋8人ちびAoE</li>
+</ul>
+</li>
+
+
+
+<li>リーピング＋半面焼き</li>
+
+
+
+<li>リーピング＋クアドラプルなんとか</li>
+
+
+
+<li>コピーの（半面 or クアドラ）</li>
+
+
+
+<li>コピーの（半面 or クアドラ）</li>
+
+
+
+<li>全体</li>
+
+
+
+<li>床抜けるやつ
+<ul class="wp-block-list">
+<li>床ドン or アッパー ＋ 直線頭割り or スプレッド</li>
+
+
+
+<li>タンク強</li>
+
+
+
+<li>ノックバック＋8人ちびAoE</li>
+</ul>
+</li>
+
+
+
+<li>レイニングキャッツ</li>
+
+
+
+<li>おさんぽ猫ちゃん</li>
+</ul>
+
+
+
+<p>おわり</p>
+
+
+
+<h2 class="wp-block-heading">戦術とか</h2>
+
+
+
+<h3 class="wp-block-heading">まとめ</h3>
+
+
+
+<p>後半の「床が抜けて、床ドンorアッパー」で来ていたスプレッドが誰に着弾しているのか確認するのに少し手間取った。</p>
+
+
+
+<p><br>「近い人？」「遠い人？」「肉球マーカーと違うロールの人？」「肉球マーカーのロールの余った3人？」など仮定が若干あやふやなまままトライしてたので時間がかかってしまった。</p>
+
+
+
+<p>メンバーのひとりが「ロール別（THD）じゃない？」との発言を拾いそこねていたので、これを最初から検証すればもう少し早くクリアできたかも？</p>
+
+
+
+<p>それ以外のギミックは1回で概ね方針は決められてた。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">フィールドマーカー</h3>
+
+
+
+<p>最初はABCDだけ適当に置いてスタート。<br>途中でリーピング半面／クアドラプルからのコピーキャット生成が出てきたところで１２３４を置きました。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-1.png"><img fetchpriority="high" decoding="async" width="640" height="686" src="/wp-content/uploads/2024/08/image-1.png" alt="" class="wp-image-849" srcset="/wp-content/uploads/2024/08/image-1.png 640w, /wp-content/uploads/2024/08/image-1-280x300.png 280w" sizes="(max-width: 640px) 100vw, 640px" /></a></figure></div>
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">クアドラプルネイル（近い遠いのやつ）</h3>
+
+
+
+<p>最初はいわゆる8方向散開で「そのまま真っ直ぐTHが近づく→DPSが近づく」で処理してました。</p>
+
+
+
+<pre class="wp-block-code"><code>【基本散開】
+D3　MT　D4
+H1　猫　H2
+D1　ST　D2</code></pre>
+
+
+
+<p>ただ、後半で「クアドラプルネイル＋ネイルチッパー」が出てきた時くらいに、攻撃は十字に誘導するようにしようという話になり採用しました。</p>
+
+
+
+<p>理由はなんだっけ。2回目まで誘導したらあとはポカポカ殴れるからだっけ？</p>
+
+
+
+<p>その際の４：４頭割りは「MT組は北西」「ST組は南東」ってことにしました。</p>
+
+
+
+<h4 class="wp-block-heading">クアドラ＋ペア</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp" alt="" class="wp-image-838" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">クアドラ＋４：４頭割り</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp" alt="" class="wp-image-839" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">リーピング＋半面焼き／クアドラプル、からのコピーキャット</h3>
+
+
+
+<p>ギミックはわかるんだけど、行き先とか安地を覚える記憶力がなかったのでマクロを使って外部記憶させることに。</p>
+
+
+
+<h4 class="wp-block-heading">本体攻撃時の安地とコピーの安地は必ず同じになるってさの図</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン.png"><img loading="lazy" decoding="async" width="644" height="326" src="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-644x326.png" alt="" class="wp-image-844" srcset="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-644x326.png 644w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-300x152.png 300w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-768x389.png 768w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-700x354.png 700w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン.png 842w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">リーピング猫の移動先と種類、半面焼きの安地コールマクロを準備した</h4>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/リーピング猫_お知らせマクロ.png"><img loading="lazy" decoding="async" width="237" height="105" src="/wp-content/uploads/2024/08/リーピング猫_お知らせマクロ.png" alt="" class="wp-image-846"/></a></figure>
+
+
+
+<p>数字はそれぞれフィールドマーカーで：</p>
+
+
+
+<ul class="wp-block-list">
+<li>黒数字：爪半面焼きのコピー猫の出現予定場所</li>
+
+
+
+<li>上下矢印：外安地、内安地のコール</li>
+
+
+
+<li>黄数字：クアドラプルのコピー猫の出現予定場所</li>
+</ul>
+
+
+
+<p>（私がMTだったので北から南を向いている視点でのマクロ配置になってます）</p>
+
+
+
+<p>チャットを流すとこんな感じ。</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image.png"><img loading="lazy" decoding="async" width="323" height="100" src="/wp-content/uploads/2024/08/image.png" alt="" class="wp-image-848" srcset="/wp-content/uploads/2024/08/image.png 323w, /wp-content/uploads/2024/08/image-300x93.png 300w" sizes="(max-width: 323px) 100vw, 323px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">処理時の散開は「北基準」としました。</h4>
+
+
+
+<p>「野良ではコピーキャットの向きに合わせて基準方向を南北いれかわって処理する」という話をクリア後に聞きましたが、コピーの向きはボスの向きと関係ないし（方向指定的に特に意味がない）と判断して、私達はクリア後も変わらず北基準で散開と処理してます。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">床が抜けて、床ドンかアッパーくるやつ</h3>
+
+
+
+<p>クリアまでは以下の方針でしてました：</p>
+
+
+
+<ul class="wp-block-list">
+<li>肉球マーカーの4人は必ず「中央ボス寄りの綺麗な床2マス（だったところ）」に立つ。</li>
+
+
+
+<li>アッパーならそこから外側まずを狙って飛ぶ。</li>
+
+
+
+<li>床ドンなら立ってるマスを壊す。</li>
+
+
+
+<li>対象者以外は当たらない方の綺麗なマスに立つ。</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="305" src="/wp-content/uploads/2024/08/image-2-644x305.png" alt="" class="wp-image-854" srcset="/wp-content/uploads/2024/08/image-2-644x305.png 644w, /wp-content/uploads/2024/08/image-2-300x142.png 300w, /wp-content/uploads/2024/08/image-2-768x363.png 768w, /wp-content/uploads/2024/08/image-2-700x331.png 700w, /wp-content/uploads/2024/08/image-2.png 1253w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">後半の床ドン／アッパー時のスプレッド</h3>
+
+
+
+<p>仮説と検証が若干雑だったので飛んでくる対象の見極めに時間かかっちゃった感じでした。<br>急がば回れ大事。</p>
+
+
+
+<p>上でも書きましたが仮説時に「近い人？」「遠い人？」「肉球マーカーと違うロールの人？」「肉球マーカーのロールの余った3人？」「TDH？」とか色々あったのでとりあえず並んで食らってみよう、と。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-644x362.webp" alt="" class="wp-image-865" srcset="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-644x362.webp 644w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-300x169.webp 300w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-768x432.webp 768w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-700x394.webp 700w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>とりあえずこんな風に並んで誰に飛んでくるか見れればわかるだろうってことで。<br>結果「TDH」に飛んできてるっぽいということになったので</p>
+
+
+
+<ul class="wp-block-list">
+<li>回避は綺麗なマスで行う。</li>
+
+
+
+<li>そのマスの中でボスに向かって左からTDHと散開。</li>
+</ul>
+
+
+
+<p>で処理で無事に処理できました。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">レイニングキャッツ</h3>
+
+
+
+<p>前日の最後の方で一度だけ1発目の着弾が見れた。<br>はっきりわからないけれど全滅時にヒーラー二人に緑もやもやが着弾してたので</p>
+
+
+
+<ul class="wp-block-list">
+<li>線は1発ずつ順番に担当するのだろう。</li>
+
+
+
+<li>ヒーラーターゲットで3人で頭割りx2。</li>
+</ul>
+
+
+
+<p>と想定したので以下の形で分かれてトライしてみた。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-3.png"><img loading="lazy" decoding="async" width="644" height="606" src="/wp-content/uploads/2024/08/image-3-644x606.png" alt="" class="wp-image-866" srcset="/wp-content/uploads/2024/08/image-3-644x606.png 644w, /wp-content/uploads/2024/08/image-3-300x282.png 300w, /wp-content/uploads/2024/08/image-3-700x658.png 700w, /wp-content/uploads/2024/08/image-3.png 741w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>で試してみたところ、D1が扇と緑もやもや同時に食らって死んでいたので、ヒーラー対象じゃないな、と。</p>
+
+
+
+<p>今回はメンツが自力解明慣れしすぎてたのでこの時点で距離ですかねーってことになり、以下の配置にしてみた。（※近接はD1のみ）<br>線とりは順番に全員やる。</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="520" src="/wp-content/uploads/2024/08/image-4-644x520.png" alt="" class="wp-image-867" srcset="/wp-content/uploads/2024/08/image-4-644x520.png 644w, /wp-content/uploads/2024/08/image-4-300x242.png 300w, /wp-content/uploads/2024/08/image-4-768x620.png 768w, /wp-content/uploads/2024/08/image-4-700x565.png 700w, /wp-content/uploads/2024/08/image-4.png 894w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+
+
+
+<p>とりあえずこれで処理できてそのままクリアしました。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990-644x270.png" alt="" class="wp-image-871" srcset="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522-644x270.png" alt="" class="wp-image-875" srcset="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">クリア後に情報収集を解禁</h2>
+
+
+
+<p>うちの固定はクリア層に関しては情報収集を解禁、野良で遊んでもよいとしています。<br>野良のやり方を聞いて取り入れた点、取り入れなかった点は以下の感じです。</p>
+
+
+
+<h4 class="wp-block-heading">取り入れた点</h4>
+
+
+
+<ul class="wp-block-list">
+<li>床が壊れた時の床ドン/アッパーの受け方を野良のやり方（受ける担当マスを決めて、1マス内で床ドンもアッパーも処理するやつ）に変更しました。<br>（これはたまに攻撃して向きが変わってアッパーをくらい床を抜くことがあるので、そこまで大きなメリットとは言えないかも知れない）<br></li>
+
+
+
+<li>レイニングキャッツの線処理を、最初の3回をタンクで無敵も使って受けるやり方に変えました。（動かなくていいのは正義）</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">取り入れなかった点</h4>
+
+
+
+<ul class="wp-block-list">
+<li>リーピング＋半面／クアドラ　からの　コピーキャットの際に散開向きをコピーキャットの向きにはしませんでした。<br>上述しましたが向きを変更するメリットがよくわからなかったので。</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>零式自力解明であそんでます</title>
 		<link>/2024-08-07/arcadia-savage-blind-start/</link>
 		
@@ -112,12 +657,12 @@
 <div><span style="color: #f3f3f3;">あ、私は予習しての攻略じゃ物足りないので自力解明で遊んでるんですけどね。（えらそう</span></div>
 <div><span><a name='more'></a></span></p>
 <h4 style="clear: both; text-align: center;">共鳴1層</h4>
-<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482.png" style="margin-left: 1em; margin-right: 1em;"><img fetchpriority="high" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240302_234121_482-300x169.png" width="320" /></a></div>
 <p></p>
 <h4 style="clear: both; text-align: center;">共鳴2層</h4>
-<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231446_887-300x169.png" width="320" /></a></div>
 <p></p>
-<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858.png" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858-300x169.png" width="320" /></a></div>
+<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1080" data-original-width="1920" height="180" src="/wp-content/uploads/2024/05/ffxiv_20240401_231609_858-300x169.png" width="320" /></a></div>
 <p></p>
 <div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/ffxiv_20240401_231631_602.png" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="1920" data-original-width="1080" height="320" src="/wp-content/uploads/2024/05/ffxiv_20240401_231631_602-169x300.png" width="180" /></a></div>
 <p></p>

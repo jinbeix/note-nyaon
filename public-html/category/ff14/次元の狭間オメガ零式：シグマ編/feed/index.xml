@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>次元の狭間オメガ零式：シグマ編 &#8211; にゃおんノート</title>
+	<atom:link href="/category/ff14/%E6%AC%A1%E5%85%83%E3%81%AE%E7%8B%AD%E9%96%93%E3%82%AA%E3%83%A1%E3%82%AC%E9%9B%B6%E5%BC%8F%EF%BC%9A%E3%82%B7%E3%82%B0%E3%83%9E%E7%B7%A8/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 01 May 2023 06:19:00 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>次元の狭間オメガ零式：シグマ編 &#8211; にゃおんノート</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>下限自力解明：オメガシグマ零式4層</title>
+		<link>/2023-05-01/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f4%e5%b1%a4/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 01 May 2023 06:19:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[下限チャレンジ]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[次元の狭間オメガ零式：シグマ編]]></category>
+		<guid isPermaLink="false">/2023-05-01/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f4%e5%b1%a4/</guid>
+
+					<description><![CDATA[メモしていくよ。 04/25（火）：3層クリア後に40分くらい。05/02（火）：4層2回目。前半時間切れまでは見た。 ここまで解明した内容（ギミックネタバレ） pets ここから下に書くと隠れる ＿＿＿＿＿＿＿＿＿＿＿...]]></description>
+										<content:encoded><![CDATA[<p>メモしていくよ。</p>
+<p>04/25（火）：3層クリア後に40分くらい。<br />05/02（火）：4層2回目。前半時間切れまでは見た。</p>
+<div name="box1">ここまで解明した内容（ギミックネタバレ）</div>
+<div>
+        <span>pets</span></p>
+<div>
+<p>ここから下に書くと隠れる</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />マクロ<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>←　着弾したら　→<br />&nbsp; MT（１）D1<br />&nbsp; ST（２）D2<br />&nbsp; H1（３）D3<br />&nbsp; H2（４）D4<br />ーーー<br />手：混乱 &lt;ー&gt; 睡眠<br />MTD1　　　STD2<br />　　（睡眠）<br />H1D3　　　H2D4</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />フェーズ１<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>・虚偽 or 本当<br />・ファイア　→　頭割り or 散開<br />・サンダー　→　十字部分がセーフ or アウト</p>
+<p>・ハイパードライブ　→　タンク強攻撃<br />・どきどきアルテマ　→　全体攻撃</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />フェーズ２<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>石像から直線ビームｘ２（誰にきてるん？）<br />線x4 ＋ 頭割りx4<br />（線はAoE捨てつつ前へ）<br />（線なしはうしろで左右に散開）</p>
+<p>ぶっとびテレポ　→　外周背面にいないと焼かれる。</p>
+<p>裁きの光　→　全体攻撃</p>
+<p>・虚偽 or 本当<br />・サンダー<br />・ブリザガ</p>
+<p>神々の像　→　手からノックバック<br />同時にマジックアウト（直前のがまたくる）</p>
+<p>・どきどきアルテマ　→　全体攻撃</p>
+<p>・ハイパードライブ　→　タンク強攻撃</p>
+<p>◆神々の像<br />→　8本線<br />→　DPSx4 に沼（着弾したら右へ）<br />→　THに岩（着弾したら左）（他人の岩に当たると落ちる）</p>
+<p>　↓<br />→　8本線<br />→もやってる方が半面焼き<br />→　DPSx4 に沼<br />→　THに岩</p>
+<p>・ずんずんエアロガ　→　ボスからノックバック（アムレン）</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />フェーズ３<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>視線はみない。？の視線は見る。</p>
+<p>右の線→睡眠→中央に固まる。<br />左の線→混乱＋ヘヴィ→四隅に分かれる</p>
+<p>なんやかんやあって時間切れ。</p>
+<div>（２回目の記録ここまで）</div>
+<div></div>
+<div></div>
+<p>ここから上に書くと隠れる</p>
+</p></div>
+</div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>下限自力解明：オメガシグマ零式3層</title>
+		<link>/2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 19 Apr 2023 06:03:00 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[下限チャレンジ]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[次元の狭間オメガ零式：シグマ編]]></category>
+		<guid isPermaLink="false">/2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/</guid>
+
+					<description><![CDATA[メモしていくよ。（2023-04-19更新） 3/30（木）：3層1回目。70％くらいまで。序盤はとりあえずわかった。4/06（木）：3層2回目。60％くらいまで安定。新ギミック未解明。4/12（水）：3層3回目。新ギミ...]]></description>
+										<content:encoded><![CDATA[<p>メモしていくよ。<span style="color: #2b00fe;">（2023-04-19更新）</span></p>
+<p>3/30（木）：3層1回目。70％くらいまで。序盤はとりあえずわかった。<br />4/06（木）：3層2回目。60％くらいまで安定。新ギミック未解明。<br />4/12（水）：3層3回目。新ギミックの解明にチャレンジ。<br />4/18（火）：3層4回目。25％くらいまで進んだ。<br />4/25（火）：3層5回目。クリア。</p>
+<div name="box1">ここまで解明した内容（ギミックネタバレ）</div>
+<div>
+        <span>pets</span></p>
+<div>
+<p>ここから下に書くと隠れる</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆配置図<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>基本散開＆オレンジマーカーからの緑ドーム捨て場所</p>
+<p>D3　　　　　D4<br />　　　MT<br />H1　　★　　H2</p>
+<p>D1　　ST　　D2</p>
+<p>－－－</p>
+<p>塔踏み　　D3<br />　　　　ST　MT<br />　　 H1　★　　D4<br />　　　　D1　D2<br />　　　　　H2</p>
+<p>※D4とH2の塔ふみ位置を変えてます。</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆前提知識<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>各「ローディング」時にモニタに映っていた絵柄のギミックが発動する。<br />それを処理しつつなんやかんやするコンテンツ。</p>
+<p>絵柄は左と右がある。消えてから発動する場合もあるので注意。</p>
+</p>
+<ul style="text-align: left;">
+<li>ローディング：左の絵が発動。</li>
+<li>スキップ・ローディング：右の絵が発動。</li>
+<li>リバース・ローディング：スキップされた時の左の絵が発動（モニタは既に消えてる）</li>
+</ul>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆絵柄の説明<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>－－だだるま－－<br />ローディング時：ノックバック（アムレン）<br />実体化時：頭に青マークついたら波動砲くるので外周に向ける。</p>
+<p></p>
+<p>－－飛行機－－<br />ローディング時：ガーディアンからAoE（離れる）<br />実体化時：雑魚線を外に向けつつ目の前の雑魚たおす。</p>
+<p></p>
+<p>－－たこ－－<br />ローディング時：8人ちびAoE（基本散開）<br />たこ足の詠唱：ガーディアン前後に立ってAoE捨て→東西に逃げる。<br />実体化：基本散開</p>
+<p></p>
+<p>－－ロボ－－<br />ローディング時：魔法陣踏み<br />MT,H1,D1,D3：西→北<br />ST,H2,D2,D4：東→南</p>
+<p></p>
+<p>－－みどりエヘン虫－－<br />ローディング時：軽く散開しておく。<br />なんやかんやデバフが付くけれど「灼熱」か「孤独」だけを見れば良い。<br />ローディング中に軽く散開、からの位置に駆け込み待機。</p>
+<p>　　　（北）<br />灼熱T　→　　←　灼熱H<br />　　&nbsp; &nbsp; &nbsp; 孤独<br />　　　　←TD→<br />　　　　←HD→</p>
+<p>灼熱D　→　　←　灼熱D</p>
+<p></p>
+<p>磁力で引っ張られても灼熱Dは速やかに角に戻る。<br />孤独Dのどちらかに「エーテルロット」が付くので、磁力で弾かれたら隣のDに移す。<br />以降はエーテルロット持ちはCマーカーでロット受け渡し待ちする。<br />ロット受け取り順は適当に決めます。</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆その他のギミック<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>フィールド全体が緑円でふおんふおん：<br />　→　動かない。着弾時に動くと麻痺。</p>
+<p>DPS4人に頭に赤い尖ったマーカー：<br />　→　着弾時に緑爆発ドーム設置。<br />　→　基本散開方向のフィールド角に捨てる。</p>
+<p>頭に赤い◯ぽいマーカー＋照準デバフ：<br />　→　気にせずパーティのところにいてok。</p>
+<p>ローディング・ミサイル：<br />　→　外周からミサイルくるので避ける。<br />　→　塔が出てたら塔の中でよければok。</p>
+<p>ガーディアンが空を飛ぶ：<br />　→　向いた方の地面にめちゃ痛いAoE（向いた方から逃げろ）<br />　→　からの距離減衰。</p>
+<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆タイムライン<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
+<p>テキストだと長くなったのでスプシにした。「TL0418」のシートの方。<br />色分けはなんとなくの一連のフェーズぽい区切り。<br />（※見分けられるように色変えているだけなので、色同士に関連性はないです。）</p>
+<p>https://docs.google.com/spreadsheets/d/1zL4hAKu-Z4uZFSMKekN7slrz-2F8L-Ckg5v8KsmkcNs/edit?usp=sharing&nbsp;</p>
+<p>「プログラム・ペースト」はモニタ表示なし、バフが付いて何かは判別できるが、判別した時には最初の着弾がきているのでとりあえず散開かな～。</p>
+<div></div>
+<div></div>
+<p>ここから上に書くと隠れる</p>
+</p></div>
+</div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

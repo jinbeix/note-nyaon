@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>絶竜詩戦争 &#8211; にゃおんノート</title>
+	<atom:link href="/category/ff14/%E7%B5%B6%E7%AB%9C%E8%A9%A9%E6%88%A6%E4%BA%89/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Jun 2024 14:40:22 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>絶竜詩戦争 &#8211; にゃおんノート</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>旅の記録：絶竜詩戦争をおえて</title>
+		<link>/2024-06-12/%e6%97%85%e3%81%ae%e8%a8%98%e9%8c%b2%ef%bc%9a%e7%b5%b6%e7%ab%9c%e8%a9%a9%e6%88%a6%e4%ba%89%e3%82%92%e3%81%8a%e3%81%88%e3%81%a6/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 05:14:00 +0000</pubDate>
+				<category><![CDATA[FF14旅の記録]]></category>
+		<category><![CDATA[絶竜詩戦争]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[はじめての絶として絶アレキをクリアしてから丁度1年経ってた。 » 旅の記録：はじめての絶たおしたよ（絶アレキ） 「デノミの影響を受けていない暁月以降の絶を試してみたい。」と「アドベンチャラープレートやポートレートの素材ほ...]]></description>
+										<content:encoded><![CDATA[
+<p>はじめての絶として絶アレキをクリアしてから丁度1年経ってた。</p>
+
+
+
+<p>» <a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5226224/" target="_blank" rel="noopener">旅の記録：はじめての絶たおしたよ（絶アレキ）</a></p>
+
+
+
+<p>「デノミの影響を受けていない暁月以降の絶を試してみたい。」と「アドベンチャラープレートやポートレートの素材ほしい」ってことで絶竜詩に行ってきました。</p>
+
+
+
+<p>先日クリアしたので記録として感想文でも残しておこうかと。（2024-06-07（金）22:50頃。パッチ6.58）</p>
+
+
+
+<p>以下は2023年に絶アレキ、2024年に絶竜詩とふたつの絶しか知らないララフェルの個人的な感想文です。<br>みなさんの感想はみなさんの日記で読めると楽しそうなのでよろしくね。</p>
+
+
+
+<p>また以下で私の言う難易度に関連する表現は、主に「チーム全体がクリアレベルになるには」という視点で書いてます。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_225839_512.png" alt="" class="wp-image-103" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_225839_512.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_225839_512-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_225839_512-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">まとめ</h2>
+
+
+
+<p>固定開始してから発表された拡張リリース日が思いの外早かったのでチームの進捗と照らし合わせてちょっと焦ってました。</p>
+
+
+
+<p>なにはともあれ拡張までにクリア間に合って良かったです。ホッとしました。ほんとに。内心もしかしたら間に合わないかもなぁとか思っていた。</p>
+
+
+
+<p>無事クリアできて、折角一緒に来てくれて数ヶ月を費やしたみんながクリアできたことも、ポートレート素材使えるようになった事も、本当に良かった～と安堵してた。</p>
+
+
+
+<p>安心しすぎて翌日はぐったりしてたわ。おつかれさま。</p>
+
+
+
+<p>いろいろ大変なシーンは多かったけれど、</p>
+
+
+
+<ul class="wp-block-list">
+<li>コールを分担してくれたり</li>
+
+
+
+<li>より良さそうな戦術を拾ってきて提案してくれたり</li>
+
+
+
+<li>ポジション調整に応じてくれたり</li>
+
+
+
+<li>見るべきポイントやコツみたいなのを共有してくれたり</li>
+</ul>
+
+
+
+<p>それぞれがそれぞれのロール（役割）を果たした結果がクリアだと思うので、みんなでクリアできてよかったねーと素直に思います。</p>
+
+
+
+<p>　◇　◇　◇</p>
+
+
+
+<p>固定開始2ヶ月前にこんなコメントを残していました。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>— 2023/11/15 08:40<br>最後の方までざっと予習してるんですけど、予習段階の感触として絶アレキの3倍くらい覚える/判断することありそう。（個人の感想です）</p>
+</blockquote>
+
+
+
+<p>絶アレキは予習段階でリキッドや2体フェーズが終わればあとは消化試合って感想だったし、クリアまでのイメージは概ねついてたんですよね。</p>
+
+
+
+<p>一方絶竜詩は固定開始前の予習段階ではクリアイメージまで持ててなかった。</p>
+
+
+
+<p>全体を通して「8人全員にランダムにくるギミックが多い」「3秒おきに何かくるじゃんｗ 忙しいなぁ」という感想で、8人全員が慣れるまでには時間かかりそうだなって予想してました。</p>
+
+
+
+<p>もう少し早く終わるかなと思っていたけれど、想定してないところで手こずったり、逆に案外早く先に進んだりといろいろで、全体としてはやや手こずったという感想なのだけど、でもよく目安として言われてる120時間くらいでクリアはできたのでこれくらいが一般的なのかもしれない。</p>
+
+
+
+<p>実際のところ各メンバーがどれくらい予習、イメトレに時間かけてたり、苦労してたのかはわからないけれど、結構あれこれガーガー言いまくった気がします。ｺﾞﾒﾝﾈ ☆ﾐ</p>
+
+
+
+<p>みんなの振り返り感想とか機会があればあらためて聞いてみたいところではある。</p>
+
+
+
+<h2 class="wp-block-heading">オメガじゃなくて竜詩を選んだ理由</h2>
+
+
+
+<ul class="wp-block-list">
+<li>竜詩のアドベンチャラープレートやポートレート素材（本とか目玉背景とか）が欲しかった。</li>
+
+
+
+<li>ドラゴンとかかっこいいじゃん。ファンタジー。</li>
+
+
+
+<li>蒼天好きな竜騎士がいたので。</li>
+</ul>
+
+
+
+<p>（まだオメガアルファ零式を下限クリアしてなかったから・・・てのもあるかも）</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232220_577.png" alt="" class="wp-image-104" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232220_577.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232220_577-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232220_577-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">メンバー募集の内容</h2>
+
+
+
+<p>募集時のロドスト日記<br><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5283001/" target="_blank" rel="noopener">https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5283001/</a></p>
+
+
+
+<p>「ギスギスしないけど、なぁなぁにもしない。」<br>いつもと同じ感じの募集文。</p>
+
+
+
+<h2 class="wp-block-heading">メンバー構成</h2>
+
+
+
+<p>キャスター2名でした。</p>
+
+
+
+<p><span style="color: #0b5394;">ナイト（ララフェル）←わたし<br>暗黒騎士（アウラ）</span><br><span style="color: #38761d;">白魔道士（ララフェル）<br>学者（ララフェル）</span><br><span style="color: #cc0000;">竜騎士（ララフェル）<br>機工士（ララフェル）<br>黒魔道士（ミコッテ）<br>召喚士（ヴィエラ）</span></p>
+
+
+
+<p>初絶1名。<br>他6名は絶バハ～アレキあたりを1～3つクリアしてる人。<br>私自身は絶アレキだけクリアで、絶竜詩が2つ目の絶でした。</p>
+
+
+
+<p>実装数ヶ月以内でもキャス2構成でクリアしている日記とかを見かけていたので、メンバー募集するにあたってキャス2もありとして考えていました。<br>結果最後の1枠は黒魔道士でキャス2構成で行きました。</p>
+
+
+
+<p>黒魔を擁したチームでクリアとかなんかかっこいいじゃん？とかとか。（イメージ）</p>
+
+
+
+<p>タンクは私の方が高難易度慣れしてたのでMTでしたが、コンテンツ内容的にはMTSTとかあんまり関係なかったですね。</p>
+
+
+
+<h3 class="wp-block-heading">初絶の人</h3>
+
+
+
+<p>固定開始4ヶ月前くらいから1週1フェーズくらいのペースで一緒に予習会をしていました。</p>
+
+
+
+<p>一言で予習と言ってもどの精度、粒度で見るのかは人によって違うので、当日になって曖昧でした、だとチームも本人も不幸なので。</p>
+
+
+
+<p>初めてだとその辺りの感覚がわからないかなと思って</p>
+
+
+
+<ul class="wp-block-list">
+<li>秒単位のタイムライン表を手作りしてもらう。</li>
+
+
+
+<li>予習した内容を説明してもらう。</li>
+
+
+
+<li>その内容に対しての質疑応答。</li>
+</ul>
+
+
+
+<p>といった事をしていました。</p>
+
+
+
+<p>予習のスタイルは人それぞれだから、この方法がどこまで有効だったかはわからないけれど、やらないよりはやってよかったんじゃないかな…タブン。<br>本人にも聞いてみたいところではある。</p>
+
+
+
+<p>とりあえず初絶が竜詩でもクリアできなくはないって事は示されたね。いえーい。</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232230_646.png" alt="" class="wp-image-105" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232230_646.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232230_646-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232230_646-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">活動スケジュール、初クリアまでの時間</h2>
+
+
+
+<p>週4。<br>1日2時間。<br>全員の都合がついたので曜日固定にした。（火水金日）</p>
+
+
+
+<p>週8時間、1ヶ月32時間、4ヶ月で128時間。<br>1月後半スタートで5月～6月に終われば拡張間に合うじゃろう～くらいに計算していた。</p>
+
+
+
+<p>途中でメンバーの長期出張やゴールデンウィークで休みをはさんだこと、黄金のレガシーアーリーアクセスが6/28と発表されたことがあり、5月中旬から週5にさせてもらった。（火水木金日）</p>
+
+
+
+<p>最終的にはトータルで63日目、121.8時間で初クリアでした。<br>（ゲーム内だけどコンテンツ外の予習会時間含む）</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232312_999.png" alt="" class="wp-image-106" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232312_999.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232312_999-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232312_999-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">選択した戦術</h2>
+
+
+
+<p>最初はぬけまる動画をみていたのですが、早々にみんとっと動画のやり方に切り替えました。ずんだもんが可愛いから。<br>あとリスクが少なく安定感がある戦術だと判断したので。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>みんとっと動画リスト：絶竜詩<br><a href="https://www.youtube.com/playlist?list=PL2Hitw4uipFTuHnE8I-c1TgMDoH3DoZCi" target="_blank" rel="noopener">https://www.youtube.com/playlist?list=PL2Hitw4uipFTuHnE8I-c1TgMDoH3DoZCi</a></p>
+
+
+
+<p>※みんとっと動画はアレキの時も事故ポイントみたいな部分を丁寧に説明していたので印象は良かった。</p>
+</blockquote>
+
+
+
+<p>ニーズにゃんフェーズの4塔のタンク線取りは、ランダム要素がなくなるのでとても良い方法が紹介されてました。</p>
+
+
+
+<p>あと最終フェーズのアク・モーン2、3のタンク無敵受け（116）もヒーラー負担少なくてよかったんじゃないかな？</p>
+
+
+
+<p>追加で取り入れたこととしては</p>
+
+
+
+<ul class="wp-block-list">
+<li>教皇庁(1) → 立ち位置をマーカーで示した。</li>
+
+
+
+<li>死刻 → ペットマーカーとマクロで処理。</li>
+
+
+
+<li>二天竜の邪念 → 優先自動割り振りすごいマクロ使った。</li>
+</ul>
+
+
+
+<p>その他ポジションは各自の特性に合わせて調整しまくりました。<br>好きな戦術を好きなように使える固定パーティの強みはふんだんに使わないとね。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232433_410.png" alt="" class="wp-image-107" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232433_410.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232433_410-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232433_410-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">フェーズ毎に要した時間</h2>
+
+
+
+<p>「LB使って無理やり次のフェーズへ」をしなくなったタイミングをフェーズクリアとしてカウントしてみました。</p>
+
+
+
+<ul class="wp-block-list">
+<li>&nbsp;0.8時間：教皇庁1</li>
+
+
+
+<li>12.5時間：トールダン</li>
+
+
+
+<li>18.8時間：ニーズヘッグ</li>
+
+
+
+<li>&nbsp;2.0時間：邪眼～教皇庁2</li>
+
+
+
+<li>46.1時間：偽典トールダン</li>
+
+
+
+<li>29.2時間：二天竜</li>
+
+
+
+<li>12.5時間：騎竜神トールダン</li>
+</ul>
+
+
+
+<p>初クリアはトータルで63日、121.8時間でした。</p>
+
+
+
+<p>拡張発売日から逆算してギリギリだとしても間に合うだろうとは思ってたのだけど、6月入ってからはちょっとドキドキしてました。</p>
+
+
+
+<h4 class="wp-block-heading">※注記1※</h4>
+
+
+
+<p>毎回簡易的に記録はつけてたのですが、上記の条件での記載をしてなかったので、たしかこの日くらいって感じで若干曖昧です。</p>
+
+
+
+<h4 class="wp-block-heading">※注記2※</h4>
+
+
+
+<p>二天竜は実際はもっと早くフェーズ到達はしてましたが、偽典～二天竜あたりが日によって安定度がまちまちだったので、そういう意味でも明確な区切りはつけにくいですね。</p>
+
+
+
+<p>「次のフェーズを見た」と「安定してきた」は別物なので、どれくらい目安として気にするかも悩ましいところです。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232333_599.png" alt="" class="wp-image-108" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232333_599.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232333_599-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232333_599-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">コンテンツ全体の感想</h2>
+
+
+
+<p>（うちのパーティのやり方の場合）死刻が安定したらあとは消化試合って印象でした。</p>
+
+
+
+<p>以下は絶アレキと比較するとって話になっちゃいますが</p>
+
+
+
+<ul class="wp-block-list">
+<li>ロール関係なくランダムに割り振られるギミックが多い。</li>
+
+
+
+<li>忙しい。</li>
+
+
+
+<li>位置取りやタイミングがシビア。</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">「ピンポイントでの位置どり」と「タイミング」</h4>
+
+
+
+<p>これ普通に零式でもやってたことなので個人的には特別むずかしいという要素ではないと思ってました。</p>
+
+
+
+<p>零式だとこのあたり多少幅があるので、その余地に慣れた感覚のままだと難しいかも知れないですね。</p>
+
+
+
+<p>チームとしては明確にピンポイントで「ここ」というものについては図解をつくったり参考になるフィールドでゲーム内で確認を8人でしたりしてました。</p>
+
+
+
+<h4 class="wp-block-heading">ランダム性</h4>
+
+
+
+<p>絶アレキだとロールごとにやることが決まってる感でしたが、8人全員にランダムってのが多かった印象です。</p>
+
+
+
+<p>「8人全員が間違えなくなる」までに時間がかかるかもなぁと予想してて、まぁそんな感じでしたね。</p>
+
+
+
+<p>ただ、逆に「ロール関係なくランダム」なのでいくつかのギミックに関しては、このパーティに合わせて立ち位置や優先順位を変えてました。</p>
+
+
+
+<h3 class="wp-block-heading">DPSチェックはだいぶ楽だったんじゃないかな</h3>
+
+
+
+<p>デノミの影響はなくLv90として調整されているコンテンツでしたが慣れればDPSチェックはきつくなかったです。</p>
+
+
+
+<p>薬が2段階くらい強くなってますし、MWとかもあったのでそれでなのかな？<br>実装時を知らないので比較はできないですが。</p>
+
+
+
+<p>「死なない」と「慣れ」があれば、削り足りない！無理！みたいなのはなかったです。<br>私はこれくらいの難易度でクリアできれば無理もないし楽しめました。</p>
+
+
+
+<h3 class="wp-block-heading">フェーズ到達ごとに8人で予習会（認識合わせ会）をしてました</h3>
+
+
+
+<p>予習会での認識合わせ大事。<br>フェーズが進む毎に60分前後くらいかけてやってました。</p>
+
+
+
+<p>実際予習会の時点でギミック理解が少し違ったりといった点を発見／修正できてたのでやってよかったと思います。</p>
+
+
+
+<h3 class="wp-block-heading">毎日スタート前に今日はこれ気をつけてやろうポイントを確認してました</h3>
+
+
+
+<p>「これができるようになろう」とか「このミスしないようにしよう」とかそういうのをスタート前に確認してからコンテンツ入ってました。</p>
+
+
+
+<p>みんなにとって有効だったのかはわかりません！ｗ<br>わたし自身がチームの進捗がひとつずつでも進んでる感を感じたかったのかも知れない。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232252_856.png" alt="" class="wp-image-109" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232252_856.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232252_856-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232252_856-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>以下、各フェーズの振り返りなど。</p>
+
+
+
+<p>（プレイ環境）</p>
+
+
+
+<ul class="wp-block-list">
+<li>エフェクト敵味方全部表示。</li>
+
+
+
+<li>/petsize all large</li>
+
+
+
+<li>キーボード／マウス
+<ul class="wp-block-list">
+<li><span style="white-space: normal;"><a href="https://gaming.logicool.co.jp/ja-jp/products/gaming-mice/g600-mmo-gaming-mouse.910-004667.html" target="_blank" rel="noopener">G600</a>（多ボタンマウス）</span></li>
+
+
+
+<li><span style="white-space: normal;"><a href="https://www.razer.com/jp-jp/gaming-keypads/razer-tartarus-v2" target="_blank" rel="noopener">Razer Tartarus V2</a>（左手デバイス）でWASD移動（手が小さいので普通のキーボードだと指がつる）</span></li>
+</ul>
+</li>
+
+
+
+<li>Discordボイスチャットあり。</li>
+
+
+
+<li>FF14クライアントに直接関与するツール（データ抽出/解析など含めて）なし。</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">教皇庁(1)</h2>
+
+
+
+<p>予習時点で「極太ビームx4本の立ち位置はフィールドマーカー置けばいいじゃん」と考え初日に置くか～とか考えてたら、メンバーの一人がそう配置しているフィールドマーカーを貰ってきてたのでラブって思ってたｗ</p>
+
+
+
+<p>自力解明でよく一緒するフレだったのでそりゃまぁそういうこと考えるよね～とも。</p>
+
+
+
+<p>フェーズクリア自体は初日にしてたけど、その後もプレステふっとばしで方角悪くてAoE重なり死みたいなのが度々あった。油断大敵である。</p>
+
+
+
+<h2 class="wp-block-heading">トールダン</h2>
+
+
+
+<p>フィールドマーカーは外周に8方向に配置したものを最後まで使いました。<br>一部内周に寄せたマーカーに途中で変更必要かしら？とか最初は考えていたけど特に必要なかったです。</p>
+
+
+
+<h3 class="wp-block-heading">百雷（最初の安地探し）</h3>
+
+
+
+<p>いろいろ案を持ち寄ったり試したりしたけど、結局見れる人が安地のフィールドマーカーをコールするってのに落ち着いた。「１、３」「A、C」とかそんなん。</p>
+
+
+
+<p>私はAと4の間に立ってみてたら見やすかったです。</p>
+
+
+
+<h3 class="wp-block-heading">百雷（青玉と塔踏み）</h3>
+
+
+
+<p>「ポニーテールのおじさんを探す」</p>
+
+
+
+<h4 class="wp-block-heading">青玉</h4>
+
+
+
+<p>空気読み&nbsp;</p>
+
+
+
+<h4 class="wp-block-heading">頭割りからの塔踏み</h4>
+
+
+
+<p>口頭で早いもの勝ち。ひとり聞き専がいたけど二人が先にとれば余るのでそこへ。</p>
+
+
+
+<p>やってる人の中ではなんとなく優先順があったかも（ヒーラーは右寄りとか？）だけどよくわからない。なんか処理できてた。</p>
+
+
+
+<h4 class="wp-block-heading">メルシーや土で死んだ人がいても</h4>
+
+
+
+<p>塔出現予定位置で蘇生すれば継続できるってのをわりと最初の頃から学者ちゃんがしてて、それをみた白ちゃん召ちゃんもしてくれてたので、不慣れな時期でも先のフェーズを練習できたのは大いに助かりましたねん。</p>
+
+
+
+<h4 class="wp-block-heading">タンクの線とりとくねくねブレードダンス</h4>
+
+
+
+<p>線はクロスさせなかった。フルバフで受けてました。<br>ブレードダンスのモーションがめっちゃくねくね腰動かしててすごいなぁって見てた。</p>
+
+
+
+<h4 class="wp-block-heading">そういえば最初の頃に、線突進がタンクに着弾したタイミングで頭割りの人がたまに死んでてなんでじゃ？とか思ってたんですけど</h4>
+
+
+
+<p>「外周に寄りすぎて頭割りを待っていると線の何かで死んでるぽい？」という結論に。</p>
+
+
+
+<p>（線をクロスさせてないので）外周から少しフィールド内寄りに立って頭割りうけることで死ななくなってました。</p>
+
+
+
+<h4 class="wp-block-heading">細かすぎるノックダウン解除からクエイガへのパッセの流れ</h4>
+
+
+
+<p>そういえばここのパッセ。<br>パーティメンバーは必ずそのタイミングで背面で固まってもらっていた。</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<p class="has-text-align-center">ボス<br>私<br>みんな</p>
+</div></div>
+
+
+
+<p>という位置取りになってもらい、私はターゲットサークルに食い込んで1発殴ったあとにパッセ展開してました。<br>「攻撃すると必ずボスの中心点を向く」ので、パッセの向き調整はそれでやってた、って感じ。<br>忙しいタイミングだし、マント邪魔だし、方向キーいれるのもめんどうだったので。</p>
+
+
+
+<h3 class="wp-block-heading">ヘブンリーヒールと扇は無敵してました</h3>
+
+
+
+<p>インビン受け。無敵余ってたんで。<br>詠唱「ンリ」でポチるを目安としてた。多少前後しても大丈夫ンリ。</p>
+
+
+
+<p>みんなが不慣れな頃はなるべくダメージ稼ぐ為にコンボを止めずに無敵いれてたんだけど、十分慣れた頃からは1GCD手を止めて確実に無敵いれるよういしてました。</p>
+
+
+
+<p>削りは足りてるので変な事故でワイプするほうがもったいないからね～。</p>
+
+
+
+<h3 class="wp-block-heading">聖杖（しらたま）</h3>
+
+
+
+<p>剣はタンク調整でしてました。<br>8人が慣れるより2人が慣れる方が早かろうという判断。</p>
+
+
+
+<p>時計回り、反時計回りはコールしてもらってたのだけど、コールしてもらったうえで（どっちがどっちだっけ？）とピクミンしてたのは私です。助け合い大事。</p>
+
+
+
+<h3 class="wp-block-heading">聖杖（コメット）</h3>
+
+
+
+<p>途中からコールで塔の調整ができるようになったのでGGがほぼなくなって楽になりました。これなかったらワイプ回数が2倍とかになってたかも？</p>
+
+
+
+<p>ちなみにコールは外周に向かって「左」「真ん中」「右」のどれかでコールしてました。</p>
+
+
+
+<ul class="wp-block-list">
+<li>コール内容が同じなら普通に走る。（左、左とか）</li>
+
+
+
+<li>右と左なら右の人がGG。</li>
+
+
+
+<li>それ以外はどちらかが狭い（お山を描く）</li>
+</ul>
+
+
+
+<p>最初は時計の針（11時とか）で言ってたんですが、私がとっさに理解できないのでこうしてもらった！ありがとうありがとう。</p>
+
+
+
+<h3 class="wp-block-heading">大振り</h3>
+
+
+
+<p>1発目ぼーっとして移動忘れても、2発目の跡地に駆け込めば案外当たらない。諦めるな！（ぼーっとするな）</p>
+
+
+
+<h2 class="wp-block-heading">ニーズにゃん</h2>
+
+
+
+<h3 class="wp-block-heading">サイコロ</h3>
+
+
+
+<p>みんとっと動画のまま。</p>
+
+
+
+<ul class="wp-block-list">
+<li>最初にサイコロ毎に分かれて立つ</li>
+
+
+
+<li>ハイジャンプデバフの人はその場でジャンプ</li>
+</ul>
+
+
+
+<p>はとてもわかり易かった。</p>
+
+
+
+<p>ガビビガで内外移動のタイミングをコールマクロで鳴らしてた。最初は人のために作ってたのだけど、結果自分の為にもなってた。</p>
+
+
+
+<p>ガビビガマクロ</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>&lt;se.1&gt;&lt;wait.1&gt;<br>　  &lt;se.1&gt;&lt;se.1&gt;&lt;wait.1&gt;<br>　&nbsp; &lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;wait.1&gt;<br>　　 &lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;se.1&gt;&lt;se.6&gt;&lt;se.6&gt;&lt;se.6&gt;&lt;se.6&gt;&lt;wait.1&gt;<br>着弾 &lt;se.11&gt;&lt;se.11&gt;&lt;se.11&gt;&lt;se.11&gt;</p>
+</blockquote>
+
+
+
+<p>ガビビガ詠唱完了時にマクロを押せば丁度鳴る。</p>
+
+
+
+<h3 class="wp-block-heading">4塔、タンク線取り</h3>
+
+
+
+<p>予習段階で「タンクが走り回って線とるとか<span style="text-decoration: line-through;"><span style="color: #999999;">走るの面倒くさい</span></span>ランダム要素多すぎて事故るよなぁ」と思っていたので、みんとっと動画で紹介されてた方法が簡単かつ安定しすぎてハッピーでした。</p>
+
+
+
+<p>南東の塔は学者、黒魔ペアだったのだけど、黒魔に殴ってもらう為にここは学者が調整役でした。<br>他の塔はDPSが調整役。<br>塔で3、4がある時はコールするようにしたら安定したね。</p>
+
+
+
+<p>タンクの線取りもお互い目の前に何本線があるかを0、1、2で伝えるようにしたら安定しました。</p>
+
+
+
+<h3 class="wp-block-heading">第一次わたあめ危機：/petsize all large をやめる？やめない？</h3>
+
+
+
+<h4 class="wp-block-heading">バハムートでかい</h4>
+
+
+
+<p>一度だけ自分の待機位置左から伸びてる線がバハムートの巨躯に隠れて取りそこねたことがありまして。</p>
+
+
+
+<p>流石にこれを繰り返して絶クリアできないとかなると不味いなと思い<br>「次おなじミスしたら /petsize all small します・・・。」<br>と宣言したわけですが、回避しました！いえーい。セーフセーフ。</p>
+
+
+
+<p>無事にいまもペットサイズは large です☆</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232352_447.png" alt="" class="wp-image-110" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232352_447.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232352_447-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232352_447-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">邪眼</h2>
+
+
+
+<p><span style="color: #2b00fe;">(青)</span>&lt;-&gt;<span style="color: #cc0000;">(赤)</span></p>
+
+
+
+<p>暗　　　　ナ<br>学　　　　白<br>黒　　　　機<br>召　　　　竜</p>
+
+
+
+<p>キャスを走らせないようにこうした気がする。</p>
+
+
+
+<p>青眼を早く倒して4発目くる前に赤眼に移動して事故ってのがあったので注意するようになってた。<br>次は赤眼も早くなりすぎたのでちゃんと最後の全体受けてから倒すってことに。慣れってすごいねぇ。</p>
+
+
+
+<h2 class="wp-block-heading">教皇庁2</h2>
+
+
+
+<p>そういえばもはや何式とかわからないのだけど、食らったAoEデバフ捨ては、受けた人が同じ方に逃げる式でした。</p>
+
+
+
+<p>1発目：ヒーラー二人 → 左に捨て。<br>2発目：D1D2 → 右に捨て。<br>みたいな。</p>
+
+
+
+<p>盾に注目。</p>
+
+
+
+<h2 class="wp-block-heading">偽典トールダン</h2>
+
+
+
+<p>死刻をペットにマーカーつけてマクロでそっち見るやり方にしたので特別むずかしいことも無かろうと思っていたけど、意外と練度あがるのに時間がかかったフェーズ。</p>
+
+
+
+<h3 class="wp-block-heading">風槍</h3>
+
+
+
+<ul class="wp-block-list">
+<li>何が来るかわからない8人ランダム。</li>
+
+
+
+<li>ツイスター捨てに動きだすタイミング。</li>
+
+
+
+<li>ツイスター捨てて避ける距離。</li>
+
+
+
+<li>2体のおじさんの位置取りと緑マーカー捨て。</li>
+
+
+
+<li>緑マーカーのフレア捨て方向。</li>
+
+
+
+<li>フレア／リキッドで安地潰さない捨てルート。</li>
+
+
+
+<li>雷うっかり。</li>
+
+
+
+<li>雷立ち位置。</li>
+</ul>
+
+
+
+<p>とあるので死刻よりこっちの方が事故るじゃろうって思ってた。</p>
+
+
+
+<p>最初の動き出しタイミングは</p>
+
+
+
+<p>「敵視リストの詠唱バー見る」<br>「竜がふわっとしたタイミング」<br>「目の前の炎の線が消えたタイミング」</p>
+
+
+
+<p>と色々あるので得意なので見ればいいと思う。わたし自身は</p>
+
+
+
+<ul class="wp-block-list">
+<li>どの位置になっても目の前に視界に入りやすい</li>
+
+
+
+<li>フィールド内側を必ず見ていられる</li>
+</ul>
+
+
+
+<p>ので「炎の線が消えたタイミング」を移動タイミングとしていました。</p>
+
+
+
+<p>ツイスター避けの移動距離が少なくて事故ってることがあったので、一旦確実にツイスター避ける為に回避移動の距離は多めにとしたら安定した。</p>
+
+
+
+<h4 class="wp-block-heading">個人的な脳内の処理ステップ</h4>
+
+
+
+<p>たぶんこんな順番：</p>
+
+
+
+<ol class="wp-block-list">
+<li>ツイスター捨て位置についたらまずは見るべきものは2体のおじさん（片方だけみれば判断可能）。</li>
+
+
+
+<li>緑マーカーがついたのが見えたらスプリントONしてた。</li>
+
+
+
+<li>炎の線が消えたら、メルシー位置へ。</li>
+
+
+
+<li>雷マーカーを自分につけるのは、メルシー受け位置についてからしてた。</li>
+
+
+
+<li>メルシー受け位置に立ったタイミングで再度おじさん確認。自分に着弾したときの走るイメージを描く。</li>
+
+
+
+<li>フレア／リキッドはどちらも「3つ」でたら安地に向かう。それまでは離れておく。</li>
+
+
+
+<li>何かに失敗した場合は、最悪一人で死ぬ。</li>
+</ol>
+
+
+
+<p>この直後のヘブンリーヒールと扇はインビン受け。無敵余ってるので。</p>
+
+
+
+<h3 class="wp-block-heading">死刻</h3>
+
+
+
+<h4 class="wp-block-heading">ペットマクロ法を採用した</h4>
+
+
+
+<p>決まったところに移動して、決まったタイミングで動いて、配置についてペットマクロぽち。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>参考：<br>「死刻の視線がめちゃ安定！！【死刻視線ペットマクロ法】【絶竜詩】」 by Totan Yane（Asura）<br><a href="https://jp.finalfantasyxiv.com/lodestone/character/18314163/blog/5055802" target="_blank" rel="noopener">https://jp.finalfantasyxiv.com/lodestone/character/18314163/blog/5055802</a></p>
+</blockquote>
+
+
+
+<p>並び順は、ペット操作をする学者を優先度1番におきました。<br>あとはメンバーの得手不得手で順番を決めました。ロールごとにする理由はないので。</p>
+
+
+
+<h4 class="wp-block-heading">自分の担当位置判断の仕方</h4>
+
+
+
+<ol class="wp-block-list">
+<li>北おじさんを正面にみる画角で待機。</li>
+
+
+
+<li>自分が1234にいれば前4人、5678なら後ろ4人だけ見る。</li>
+
+
+
+<li>死刻付与時に天に昇る赤黒い線を数える（視認し易い）</li>
+
+
+
+<li>自分自身が何かと赤い線の本数から、自分の担当を判断。</li>
+</ol>
+
+
+
+<p>例えば</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="840" src="/wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1.jpg" alt="" class="wp-image-111" srcset="/wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1.jpg 1024w, /wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1-300x246.jpg 300w, /wp-content/uploads/2024/06/E6-AD-BB-E5-88-BB-E3-81-AE-E6-9F-B1-768x630.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>この場合なら</p>
+
+
+
+<ol class="wp-block-list">
+<li>自分は無職</li>
+
+
+
+<li>前に赤い柱が2本</li>
+
+
+
+<li>てことは自分は無職の2番</li>
+</ol>
+
+
+
+<p>て感じに判断してました。</p>
+
+
+
+<h4 class="wp-block-heading">ペットマクロにヴェール入れてた。</h4>
+
+
+
+<p>プレステ時にバリアとしてヴェールを張るって話になっていたので、ペットの方を見るマクロの先頭にヴェール実行も組み込んでいた。ワンポチで楽ちん。</p>
+
+
+
+<h4 class="wp-block-heading">事故ってたポイント</h4>
+
+
+
+<p>死刻の1、4の人が「フィールド中央に向かって土避け」して被弾することが何度かあった。<br>フィールド中央ではなく土の発生おじさんに向かって走るを意識してもらって安定したかな？</p>
+
+
+
+<p>※ずんだもん動画だと確かにフィールド中央に向かう図解だけど、土発生中心点に向かうほうが安全かと思います。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232520_632.png" alt="" class="wp-image-112" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232520_632.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232520_632-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232520_632-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">二天竜</h2>
+
+
+
+<h3 class="wp-block-heading">第二次わたあめ危機：エフェクト全部表示をやめる？やめない？</h3>
+
+
+
+<h4 class="wp-block-heading">バトルエフェクトでニーズの口が光ってるかどうか見えにくい</h4>
+
+
+
+<p class="has-text-align-left">息吹のタイミングでタンクって竜の口みるじゃないですか。</p>
+
+
+
+<p class="has-text-align-left">ご存知の通り（？）わたし日常的にバトルエフェクト全部ONなんですよね。<br>MMORPGなので人のエフェクトを感じていたいじゃない？<br>別に零式でも絶アレキでも困ったことなかったのでね。</p>
+
+
+
+<p class="has-text-align-left">話を戻しますと、丁度ね、息吹のタイミングでね、召喚のバハムートのアク・モーンがニーズに着弾するんですよ。<br>白い光の柱エフェクトでばっちりニーズの顔が覆われて口が非常に見にくいんですよね。</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="782" height="638" src="/wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84.jpg" alt="" class="wp-image-113" srcset="/wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84.jpg 782w, /wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84-300x245.jpg 300w, /wp-content/uploads/2024/06/E3-83-8B-E3-83-BC-E3-82-BA-E5-8F-A3-E8-A6-8B-E3-81-88-E3-81-AA-E3-81-84-768x627.jpg 768w" sizes="(max-width: 782px) 100vw, 782px" /><figcaption class="wp-element-caption">みえない…</figcaption></figure></div>
+
+
+<p class="has-text-align-left">「口が見えにくいんでそのタイミングだけニーズの方攻撃してもらえないかなぁ……？」<br>ってお願いしたら全員から</p>
+
+
+
+<p class="has-text-align-left">「そこはエフェクト消そうよ！」<br>って言われちゃいました。＼(^o^)／</p>
+
+
+
+<p class="has-text-align-left">しかたがないので口の光を見落とさないようにがんばりました！<br>おかげで今では無事にエフェクトでてても口の見分けがつくようになりましたよっと。慣れって素晴らしいですね！</p>
+
+
+
+<p class="has-text-align-left has-small-font-size">（でもたまに「ひかって・・・る・・・？」みたいに自信なくなりますけどｗ）<br>（まだミスったことないから許されているはず・・・。）</p>
+
+
+
+<h4 class="wp-block-heading">世の中にエフェクトONのクリア動画が見当たらない…</h4>
+
+
+
+<p class="has-text-align-left">この時「先達の動画で光り方見分ける参考にしよう！」といくつか動画漁ったんですけど、みんなバトルエフェクトオフなの。<br>すごく口が見えやすいんだけど、求めているのはそれじゃない！ｗ<br>って一人で悶絶してました。</p>
+
+
+
+<p class="has-text-align-left">まぁなのでエフェクト全部ONの動画もいつか誰かの役に経つだろうから残したいなと思ったわけです。</p>
+
+
+
+<h3 class="wp-block-heading">アク・モーン＋邪念デバフ処理</h3>
+
+
+
+<p>メンバーが見つけてきた先達の天才マクロのおかげで難易度ほぼ0になりました。<br>アク・モーン避け自体は案外みんなすぐ慣れてたしね。（もうちょっとかかるかと思っていた）</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>参考：<br>「【マクロ】絶竜詩戦争　偽典/二天フェーズ以降用　半手動マーカー付与マウスオーバーマクロ」by Thorne Powder（Ridill）<br><a href="https://jp.finalfantasyxiv.com/lodestone/character/43080818/blog/5188647" target="_blank" rel="noopener">https://jp.finalfantasyxiv.com/lodestone/character/43080818/blog/5188647</a></p>
+</blockquote>
+
+
+
+<p>これを少し改変して使いました。<br>例によって優先順は得手不得手やギミック処理の都合を考えて調整した。</p>
+
+
+
+<p>実際このマクロがない場合、あの短時間で優先順位判断は苦労しそうだよね～とか思っていたので迷わず採用しました。こういうのは固定の強みだよね。</p>
+
+
+
+<p>邪念着弾の立ち位置だけ図解とニーズフィールドを使って認識合わせしたらすぐできるようになったね。</p>
+
+
+
+<h3 class="wp-block-heading">息吹(1)の調整役を調整</h3>
+
+
+
+<p>ようやく二天竜時間切れがみえたり超えられたりするようになった頃に、だれも死んでいないのに超えられる／超えられないのブレがありました。</p>
+
+
+
+<p>アク・モーンでの移動経路に左右されるって点もあったのですが、息吹(1)で場合によっては唯一の近接DPSである竜騎士が殴れない外周位置に行く事がありました。</p>
+
+
+
+<p>なので</p>
+
+
+
+<ul class="wp-block-list">
+<li>竜騎士は固定（殴り続けてもらうという状況を変化させない）</li>
+
+
+
+<li>調整役をペアだった白に変更。</li>
+</ul>
+
+
+
+<p>として状況のブレを無くすようにしてみたりもしました。<br>快く変更を受けてくれてありがたかったです。</p>
+
+
+
+<h3 class="wp-block-heading">フレース死んじゃう</h3>
+
+
+
+<p>アク・アファー(2)のあとはフレースを多めに削る方針にしてたのですが、慣れてきた結果フレースが早く倒しきりそうって状況に。</p>
+
+
+
+<p>息吹(2)前に倒し切れるならいいけど、そうじゃないと詰むのでは？という話しになって以降フレース倒さないように注意って話しになってたのちょっとおもしろかった。</p>
+
+
+
+<p>どのフェーズも最初は必死なのに慣れてくると「ア、待って、まだ死なないで。」になるの面白い。</p>
+
+
+
+<h2 class="wp-block-heading">騎竜神（最終フェーズ）</h2>
+
+
+
+<h3 class="wp-block-heading">イメトレって大事ね</h3>
+
+
+
+<p>ぶっつけ本番は無理だよね～と思ってたので、二天竜入った頃から相方タンクと二人で以下のことを何度かしてました。</p>
+
+
+
+<ul class="wp-block-list">
+<li>あらためてタイムラインでいつ、何をするのかを表にまとめて共有、確認。</li>
+
+
+
+<li>自由探索モードのID内で、他の人のクリア動画最終フェーズを流しながら
+<ul class="wp-block-list">
+<li><span style="white-space: normal;">実際に移動してみる練習。</span></li>
+
+
+
+<li><span style="white-space: normal;">木人殴りながらタイミングごとのバフを実際に押す、挑発をする、の練習。</span></li>
+
+
+
+<li><span style="white-space: normal;">どこでどうコールするかの打ち合わせ。</span></li>
+</ul>
+</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240509_200732_088.png" alt="" class="wp-image-114" srcset="/wp-content/uploads/2024/06/ffxiv_20240509_200732_088.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240509_200732_088-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240509_200732_088-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">シルクスツイニングのラスボスフィールドが使い勝手良かったです。</figcaption></figure></div>
+
+
+<p>スピード感があるしミスしたくない状況という緊張感はあるけれど、ランダム性は無いようなもので、淡々と自分がミスせず行動すればよいだけのフェーズとみてました。</p>
+
+
+
+<p>なので「事前のイメトレで、何発殴ったら何のバフ押してどう動いて・・・を指が事前に覚えてさえいれば実践で余裕がでるから」と、相方タンクにも十分練習しておいてもらうように伝えてました。</p>
+
+
+
+<p>スタンスON/OFFでシャーク使わないスイッチは、最近だとあまりそういうコンテンツがないので不慣れな人もいるかもだけど、単にバフと思えば軽減バフ押すのと同じ感覚で順番組み立ててポチポチ決まったように押せば良い、と思えば気楽なんじゃないかな。</p>
+
+
+
+<h3 class="wp-block-heading">エクサ踏まないのがえらいに決まっておる</h3>
+
+
+
+<p>正直なところ最終フェーズはエクサ踏まなければあとはほぼ木人と思っていた／思っている。実際踏まなくなったらすぐクリアしたしね。</p>
+
+
+
+<p>うちの固定の場合は次のことをしたら安定したよ。</p>
+
+
+
+<ul class="wp-block-list">
+<li>エクサの内外判断して詠唱完了待ちになったくらいで、スプリントON。</li>
+
+
+
+<li>画面をちゃんと上から見下ろす視点にしてピンポイントで指定地点に止まる。</li>
+</ul>
+
+
+
+<p>タンク的にはここでスプリントONにするのは、エクサ後にAA受ける位置に素早く移動できるって点でもメリットでした。</p>
+
+
+
+<h4 class="wp-block-heading">「北に出現する2つのエクサが両方十字移動だった場合、南のタゲサに避けたあと移動が不要になる」</h4>
+
+
+
+<p>というのも私個人としては心理的に楽になるポイントだったかも。<br>「両方十字」は　◇◇　って予兆である、というのは気をつけないといけない罠。</p>
+
+
+
+<h3 class="wp-block-heading">アク・モーンは116で簡単でした</h3>
+
+
+
+<ul class="wp-block-list">
+<li>アク・モーン(1)：みんな普通に。（233）</li>
+
+
+
+<li>アク・モーン(2)：ナイトインビン。（116）</li>
+
+
+
+<li>アク・モーン(3)：暗黒リビデ。（116）</li>
+</ul>
+
+
+
+<p class="has-text-align-left">「無敵受けタンク」<br>&nbsp;→ 無敵だから放っておけば良い。</p>
+
+
+
+<p class="has-text-align-left">「6人で入ってるとこ」<br>&nbsp;→ もともと3人頭割り予定だから、単純に考えてダメージ半減。余裕が生まれる。</p>
+
+
+
+<p class="has-text-align-left">「バフ受けタンク」<br>&nbsp;→ 他の2塔が爆発してワイプするシーンでも、回復なしでも1人生き残ったりするくらい結構余裕ある。</p>
+
+
+
+<p>って感じ。</p>
+
+
+
+<p>私（ナイト）はアク・モーン1回目と3回目でバフ受けだったので、どちらもランパ、センチ、ブルワーク全て使えてました。</p>
+
+
+
+<p>相方の暗黒は1回目と2回目をバフ受けしないといけないからバフの管理が大変だったかも？</p>
+
+
+
+<p>その相方暗黒に聞いたら</p>
+
+
+
+<ul class="wp-block-list">
+<li>ここのアク・モーンよりも二天竜のホーリーウィング(2)がバフ少なくて痛かったとのこと。（そここは途中で打ち合わせしてヒーラーが厚めにケアすることになったので安定しました）</li>
+
+
+
+<li>最終フェーズは「自己への軽減バフ」や「パーティへの軽減」を使わないといけないに加えて「バーストであれこれ押しまくらないといけない」のが忙しいって言ってました。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">最後「これ削り足りずに時間切れかしら？」と思ったら倒せた</h3>
+
+
+
+<p>アク・モーン(3)が終わった時点で結構HP残っていたから<br>「誰も死んでないのにまた時間切れかなー。ここから殴りを詰めていく感じですかね～。」<br>とか思ってたらそこから削りきれましたん。</p>
+
+
+
+<p>諦めない大事ね。</p>
+
+
+
+<p>終わる時はあっけないものである。</p>
+
+
+
+<h4 class="wp-block-heading">なーんて言いつつ…</h4>
+
+
+
+<p class="has-text-align-left">1回目、2回目くらいの時間切れみえて、でもワイプしちゃった時。ワイプ後に手が震えてました。緊張してたみたい。</p>
+
+
+
+<p class="has-text-align-left">漆黒前に復帰してからこの絶竜詩まで、手が震えるなんて記憶がなかったんだよね。下限でどんなコンテンツ行ってても、零式でも、なんなら絶アレキでもそんなことなかった。</p>
+
+
+
+<p class="has-text-align-left">だから我ながら驚きました。えー緊張してるのわたし？って。</p>
+
+
+
+<p class="has-text-align-left">やっぱり拡張までもう日がなかったからクリアできなかったらどうしようみたいな不安があったのかな～。<br>クリアして安堵して翌日ぐったりしてたのも、ずっと気を張ってたのかも。</p>
+
+
+
+<p class="has-text-align-left">そういう意味でもなかなか新鮮な体験ができた貴重な高難易度攻略でした。<br>わりとカジュアルに行きたい～と声かけて付き合ってくれてみんなありがとうだよ。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="576" src="/wp-content/uploads/2024/06/ffxiv_20240607_232137_468.png" alt="" class="wp-image-115" srcset="/wp-content/uploads/2024/06/ffxiv_20240607_232137_468.png 1024w, /wp-content/uploads/2024/06/ffxiv_20240607_232137_468-300x169.png 300w, /wp-content/uploads/2024/06/ffxiv_20240607_232137_468-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">以下おまけ</h2>
+
+
+
+<h3 class="wp-block-heading">パッセを横に出すな</h3>
+
+
+
+<blockquote class="twitter-tweet" data-dnt="true"><p dir="ltr" lang="ja">戦闘中じゃないのにパッセを横に出しちゃったナイト vs まさか横にでると思ってないメンバー vs 騎神トールダン<br />(おれを晒してくれ……ということでしたので…<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f60c.png" alt="😌" class="wp-smiley" style="height: 1em; max-height: 1em;" />) <a href="https://t.co/g7gDMqXaAX" target="_blank" rel="noopener">pic.twitter.com/g7gDMqXaAX</a></p>— やそ<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f41f.png" alt="🐟" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@yaso_sy) <a href="https://twitter.com/yaso_sy/status/1799823498631877021?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 9, 2024</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+
+<p>ペインデバフが消えて「はいヴェールとパッセ（ぽちぽち）」とボタンを押したら横に翼が展開されましてね。<br>いつもと形違うから焦ったし、慌てて入って！と叫んだけど遅かったぴょん。</p>
+
+
+
+<h3 class="wp-block-heading">酸素まじ大事</h3>
+
+
+
+<p>わたし睡眠時無呼吸症候群をでして普段は対処して寝ているので問題ないんですが、一度だけ対処を忘れて固定前に1時間居眠りしたことがありました。<br>目が覚めてわりと意識ははっきりしていて普通に固定活動スタートしたんです。</p>
+
+
+
+<p>周りもびっくりするくらいミスしまくってました。なんでもないところで。</p>
+
+
+
+<p>振り返るとこんな状況でした：</p>
+
+
+
+<ul class="wp-block-list">
+<li>思考スタートから結論（動作）に至るまでが遅い。</li>
+
+
+
+<li>思考に集中できない。</li>
+
+
+
+<li>短時間に多くのことを考えられない。</li>
+</ul>
+
+
+
+<p>その結果いつも何の問題もないところで「思考スタートしているのだけど思考のゴールに至らないので行動がとれずにミス」みたいな感じだったかな。</p>
+
+
+
+<p>みんなちゃんと呼吸しようね！酸素大事だよ！</p>
+
+
+
+<h3 class="wp-block-heading">エフェクト全部表示でペット大きくても絶クリア可能だよ、という前例を形に残したい</h3>
+
+
+
+<p>私はこれで普段から遊んでいるので、折角なのでこの環境の通しのクリア動画をそのうち出したいと思っています。</p>
+
+
+
+<p>固定のメンバーはOKくれたので、チェックが終われば出せるかな。感謝感謝。</p>
+
+
+
+<p>これは「そうやってプレイしなよ！」って意味ではなく、これからそう遊びたいと思った人への前例を残したい。<br>選択肢として世の中に残したい。<br>「◯◯しないと遊べない」みたいなものに抗いたい。</p>
+
+
+
+<p>そういった一事例として残しておきたいなーと思った次第。</p>
+
+
+
+<p>あとほら、二天竜で書いたように「エフェクトで口みえないんだけど他の人どうしてるの？」って悩んだ私みたいな誰かの役にいつか立つかもですし？ｗ</p>
+
+
+
+<h4 class="wp-block-heading">固定でOKでたので掲載しました。</h4>
+
+
+
+<div style="text-align:center;">
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/itIo4wID_Mk?si=FRxe_tcsbKum2uZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+<div class="wp-block-image">
+<figure data-wp-context="{&quot;uploadedSrc&quot;:&quot;\/wp-content\/uploads\/2024\/06\/ffxiv_20240608_084242_818-300x169.png&quot;,&quot;figureClassNames&quot;:&quot;aligncenter&quot;,&quot;figureStyles&quot;:null,&quot;imgClassNames&quot;:null,&quot;imgStyles&quot;:null,&quot;targetWidth&quot;:&quot;none&quot;,&quot;targetHeight&quot;:&quot;none&quot;,&quot;scaleAttr&quot;:false,&quot;ariaLabel&quot;:&quot;\u753b\u50cf\u3092\u62e1\u5927&quot;,&quot;alt&quot;:&quot;&quot;}" data-wp-interactive="core/image" class="aligncenter wp-lightbox-container"><img decoding="async" data-wp-init="callbacks.setButtonStyles" data-wp-on-async--click="actions.showLightbox" data-wp-on-async--load="callbacks.setButtonStyles" data-wp-on-async-window--resize="callbacks.setButtonStyles" src="/wp-content/uploads/2024/06/ffxiv_20240608_084242_818-300x169.png" alt=""/><button
+			class="lightbox-trigger"
+			type="button"
+			aria-haspopup="dialog"
+			aria-label="画像を拡大"
+			data-wp-init="callbacks.initTriggerButton"
+			data-wp-on-async--click="actions.showLightbox"
+			data-wp-style--right="context.imageButtonRight"
+			data-wp-style--top="context.imageButtonTop"
+		>
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
+				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
+			</svg>
+		</button></figure></div>
+
+
+<p>（おわり）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
