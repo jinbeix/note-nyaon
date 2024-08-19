@@ -12,7 +12,7 @@
 	<atom:link href="/category/ff14/%E8%87%B3%E5%A4%A9%E3%81%AE%E5%BA%A7%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 17 Aug 2024 15:47:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Aug 2024 08:03:20 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,1068 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FF14零式自力解明：アルカディアLH級3</title>
+		<link>/2024-08-19/ff14-blind-arcadia-lightheavy3/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 19 Aug 2024 06:13:11 +0000</pubDate>
+				<category><![CDATA[DAWNTRAIL]]></category>
+		<category><![CDATA[FF14]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[至天の座アルカディア]]></category>
+		<category><![CDATA[零式]]></category>
+		<guid isPermaLink="false">/?p=960</guid>
+
+					<description><![CDATA[攻略日記というより、こんな風に自力解明したよって内容です。各層へのリンクのある投稿はこちら。 今回の構成 クリアまでの時間 480分（8時間）くらい？（消化とか装備更新とかしてたのでざっくりこれくらい） タイムラインめも...]]></description>
+										<content:encoded><![CDATA[
+<p>攻略日記というより、こんな風に自力解明したよって内容です。<br><a href="/2024-07-30/ff14-blind-arcadia-lightheavy-00/">各層へのリンクのある投稿はこちら</a>。</p>
+
+
+
+<h2 class="wp-block-heading">今回の構成</h2>
+
+
+
+<ul class="wp-block-list">
+<li>ナイト（MT）</li>
+
+
+
+<li>ガンブレ（ST）</li>
+
+
+
+<li>白魔道士</li>
+
+
+
+<li>学者</li>
+
+
+
+<li>竜騎士</li>
+
+
+
+<li>ピクトマンサー</li>
+
+
+
+<li>踊り子</li>
+
+
+
+<li>召喚士</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">クリアまでの時間</h2>
+
+
+
+<p>480分（8時間）くらい？<br>（消化とか装備更新とかしてたのでざっくりこれくらい）</p>
+
+
+
+<h2 class="wp-block-heading">タイムラインめも</h2>
+
+
+
+<ul class="wp-block-list">
+<li>スマッシュインパクトx4</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" />タンク強(1)（4回）</li>
+
+
+
+<li>8/4ウェイダブルラリアット（円＋扇）</li>
+
+
+
+<li>8/4ショックパワーダイブ（距離減衰）</li>
+
+
+
+<li>スマッシュインパクトx4</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a3.png" alt="💣" class="wp-smiley" style="height: 1em; max-height: 1em;" />塔踏みいっぱい（ボンバリアンボム）</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul class="wp-block-list">
+<li>ドーピング（1）</li>
+
+
+
+<li>8/4ウェイダブルラリアット（ドーナツ＋扇）</li>
+
+
+
+<li>8/4ショックパワーダイブ（ノックバック）</li>
+
+
+
+<li>スマッシュインパクトx6</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" />タンク強(2)（6回）</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26d3.png" alt="⛓" class="wp-smiley" style="height: 1em; max-height: 1em;" />タッグマッチ（チェーンデスマッチ鎖１本）</li>
+
+
+
+<li>8/4ウェイダブルラリアット（ランダム＋扇）</li>
+
+
+
+<li>スマッシュインパクトx6</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a3.png" alt="💣" class="wp-smiley" style="height: 1em; max-height: 1em;" />零式フューズボム（頭に導火線）</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a3.png" alt="💣" class="wp-smiley" style="height: 1em; max-height: 1em;" />フューズフィールド（地面に導火線）</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" />タンク強(3)（6回）</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul class="wp-block-list">
+<li>ドーピング（2）</li>
+
+
+
+<li>ボンバリアンスペシャル</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26d3.png" alt="⛓" class="wp-smiley" style="height: 1em; max-height: 1em;" />フューズボム＋タッグマッチ（チェーンデスマッチ鎖２本）</li>
+
+
+
+<li>8/4ショックパワーダイブ（ランダム）</li>
+
+
+
+<li>スマッシュインパクトx8</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" />タンク強(4)（8回）</li>
+
+
+
+<li>アタッチ・フューズボム（ぐるぐるするやつ）</li>
+
+
+
+<li>8/4ダブルラリアット（ランダム＋扇）</li>
+
+
+
+<li>スマッシュインパクトx8</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a3.png" alt="💣" class="wp-smiley" style="height: 1em; max-height: 1em;" />塔踏みいっぱい（ボンバリアンボム）＋ラリアット往復</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" />タンク強(5)（8回）</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul class="wp-block-list">
+<li>ドーピング（3）</li>
+
+
+
+<li>アルティメット・ボンバリアンスペシャル</li>
+</ul>
+
+
+
+<p>おわり</p>
+
+
+
+<h2 class="wp-block-heading">戦術とか</h2>
+
+
+
+<h3 class="wp-block-heading">まとめ？</h3>
+
+
+
+<p>（執筆中）</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">フィールドマーカー</h3>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image-9.png"><img fetchpriority="high" decoding="async" width="641" height="646" src="/wp-content/uploads/2024/08/image-9.png" alt="" class="wp-image-973" srcset="/wp-content/uploads/2024/08/image-9.png 641w, /wp-content/uploads/2024/08/image-9-298x300.png 298w, /wp-content/uploads/2024/08/image-9-150x150.png 150w" sizes="(max-width: 641px) 100vw, 641px" /></a></figure>
+
+
+
+<ul class="wp-block-list">
+<li>安地の目安：
+<ul class="wp-block-list">
+<li>マーカー上に立てば「ダブルラリアットの円AoE」に当たらない。</li>
+
+
+
+<li>マーカー内側に立てば「ダブルラリアットのドーナツ」に当たらない。</li>
+
+
+
+<li>チェーンデスマッチ時の幅の目安（四角の数字マーカーやや内側まで範囲がくる）</li>
+</ul>
+</li>
+
+
+
+<li>立ち位置の目安：
+<ul class="wp-block-list">
+<li>零式フューズボム（頭に導火線）で四角と両サイドの円マーカーが先散開の立ち位置。</li>
+</ul>
+</li>
+
+
+
+<li>判断基準：フューズフィールド（地面に導火線）の長さを見分けやすい。
+<ul class="wp-block-list">
+<li>短いやつはマーカー上までの長さ</li>
+
+
+
+<li>長いやつはマーカーを超えてフィールド端まである</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FF14零式自力解明：アルカディアLH級2</title>
+		<link>/2024-08-18/ff14-blind-arcadia-lightheavy2/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sun, 18 Aug 2024 01:16:39 +0000</pubDate>
+				<category><![CDATA[DAWNTRAIL]]></category>
+		<category><![CDATA[FF14]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[至天の座アルカディア]]></category>
+		<guid isPermaLink="false">/?p=878</guid>
+
+					<description><![CDATA[攻略日記というより、こんな風に自力解明したよって内容です。各層へのリンクのある投稿はこちら。 今回の構成 クリアまでの時間 390分（6.5時間）くらい？（消化とか装備更新とかしてたのでざっくりこれくらい） タイムライン...]]></description>
+										<content:encoded><![CDATA[
+<p>攻略日記というより、こんな風に自力解明したよって内容です。<br><a href="/2024-07-30/ff14-blind-arcadia-lightheavy-00/">各層へのリンクのある投稿はこちら</a>。</p>
+
+
+
+<h2 class="wp-block-heading">今回の構成</h2>
+
+
+
+<ul class="wp-block-list">
+<li>戦士（MT）</li>
+
+
+
+<li>ナイト（ST）</li>
+
+
+
+<li>白魔道士</li>
+
+
+
+<li>学者</li>
+
+
+
+<li>竜騎士</li>
+
+
+
+<li>ピクトマンサー</li>
+
+
+
+<li>踊り子</li>
+
+
+
+<li>召喚士</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">クリアまでの時間</h2>
+
+
+
+<p>390分（6.5時間）くらい？<br>（消化とか装備更新とかしてたのでざっくりこれくらい）</p>
+
+
+
+<h2 class="wp-block-heading">タイムラインめも</h2>
+
+
+
+<ul class="wp-block-list">
+<li>全体（ラブリーコール）</li>
+
+
+
+<li>ハニーブラスト／ツイスター　からの　レイン／ドロップ</li>
+
+
+
+<li>ハニーブラスト／ツイスター　からの　レイン／ドロップ（先来てない方）</li>
+
+
+
+<li>タンク強</li>
+
+
+
+<li>1stライヴ
+<ul class="wp-block-list">
+<li>ラウンド／リング・ラブコンビネーション</li>
+
+
+
+<li>ラブ・ミー・テンダー
+<ul class="wp-block-list">
+<li>塔踏み</li>
+
+
+
+<li>ハート弾幕</li>
+
+
+
+<li>頭割り（ハート割り）</li>
+</ul>
+</li>
+
+
+
+<li>フィナーレ</li>
+</ul>
+</li>
+
+
+
+<li>タンク強</li>
+
+
+
+<li>アラームフェロモン（16連射）</li>
+
+
+
+<li>2ndライヴ
+<ul class="wp-block-list">
+<li>レイン／ドロップ詠唱（あとで来るよ）</li>
+
+
+
+<li>ラブ・ミー・テンダー
+<ul class="wp-block-list">
+<li>ハート割りx2　＋　やや大きな円AoEx2　＋　塔踏みx2</li>
+</ul>
+</li>
+
+
+
+<li>ハニーブラスト／ツイスター　からの　レイン／ドロップ</li>
+
+
+
+<li>フィナーレ</li>
+</ul>
+</li>
+
+
+
+<li>レイン／ドロップ詠唱（あとで来るよ）</li>
+
+
+
+<li>アラームフェロモン（井型）</li>
+
+
+
+<li>頭割りx2</li>
+
+
+
+<li>ハニーブラスト／ツイスター　からの　レイン／ドロップ</li>
+
+
+
+<li>3rdライヴ
+<ul class="wp-block-list">
+<li>レイン／ドロップ詠唱（あとで来るよ）</li>
+
+
+
+<li>ラウンド／リング・ラブコンビネーション</li>
+
+
+
+<li>早いデバフ爆発　からの　塔踏みx4</li>
+
+
+
+<li>ラウンド／リング・ラブコンビネーション</li>
+
+
+
+<li>遅いデバフ爆発　からの　塔踏みx4</li>
+</ul>
+</li>
+
+
+
+<li>タンク強</li>
+
+
+
+<li>ブラックハート
+<ul class="wp-block-list">
+<li>（デバフ合成の全体ダメージ → デバフ消えるの待ち → ボス詠唱の全体）x4</li>
+</ul>
+</li>
+
+
+
+<li>時間切れ（シアー・ハート・アタック）</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">余談：シアー・ハート・アタック</h3>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>アルバムタイトルは、日本語で「突発的な心臓発作」という意味だが、隠語で「暗殺者のナイフ」あるいは「心臓を一突き」という意味があり、</p>
+
+
+
+<p><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%BF%E3%83%83%E3%82%AF#:~:text=%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AF%E3%80%81%E6%97%A5%E6%9C%AC%E8%AA%9E,%E6%84%8F%E5%91%B3%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82">https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%BF%E3%83%83%E3%82%AF#:~:text=%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AF%E3%80%81%E6%97%A5%E6%9C%AC%E8%AA%9E,%E6%84%8F%E5%91%B3%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82</a></p>
+</blockquote>
+
+
+
+<p>ジョジョの奇妙な冒険の方を思い出してたのだけど、そもそもその元ネタがクイーンだった気がする。</p>
+
+
+
+<h2 class="wp-block-heading">戦術とか</h2>
+
+
+
+<h3 class="wp-block-heading">まとめ？</h3>
+
+
+
+<p>ハート割り（ライヴ中の頭割り予兆）の仕組みだとか、ハートをどう溜めるかを考えるのは面白かったです。</p>
+
+
+
+<p>1stライヴ後のアラームフェロモン（16連射直線AoE）をなにか効率よく誘導や避けられないかといくつか試したけれど最終的に「気合で避ける」になった。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">フィールドマーカー</h3>
+
+
+
+<p>基本的にマーカーにはそこに置く意味を持たせたい。<br>特にスピード感のあるギミックの場合、明確な立ち位置や判断基準として配置するのが私は好き。</p>
+
+
+
+<h4 class="wp-block-heading">ABCDは適当な方角示すだけ。あまり深い意味はない。</h4>
+
+
+
+<p>Aがやや内側なのは、見えにくいという話が出たので内側に寄せている。</p>
+
+
+
+<h4 class="wp-block-heading">１２３４マーカーはいくつかの意味がある</h4>
+
+
+
+<ul class="wp-block-list">
+<li>ラウンド／リング・ラブコンビネーションの２発目、ごんぶと十字AoEの安地。<br>マーカーに立てば当たらないよ。</li>
+
+
+
+<li>ハニーブラストの幅の目安。</li>
+
+
+
+<li>ハニーツイスター後にX字散開する際に、数字マーカーより外に逃げれば当たらないよ。</li>
+</ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-5.png"><img decoding="async" width="639" height="688" src="/wp-content/uploads/2024/08/image-5.png" alt="" class="wp-image-906" srcset="/wp-content/uploads/2024/08/image-5.png 639w, /wp-content/uploads/2024/08/image-5-279x300.png 279w" sizes="(max-width: 639px) 100vw, 639px" /></a></figure></div>
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">ハニーブラスト／ツイスター　からの　レイン／ドロップ</h3>
+
+
+
+<h4 class="wp-block-heading">散開はこんな感じ</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/基本散開の図-jpg.webp"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/基本散開の図-644x362.webp" alt="" class="wp-image-910" srcset="/wp-content/uploads/2024/08/基本散開の図-644x362.webp 644w, /wp-content/uploads/2024/08/基本散開の図-300x169.webp 300w, /wp-content/uploads/2024/08/基本散開の図-768x432.webp 768w, /wp-content/uploads/2024/08/基本散開の図-700x394.webp 700w, /wp-content/uploads/2024/08/基本散開の図-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<ul class="wp-block-list">
+<li>ハニーブラスト（縦）の時のペアは隣と近づく、とした。</li>
+
+
+
+<li>召喚はイフリートのタイミングもあるかもしれないので内側とした。</li>
+
+
+
+<li>ナイトとピクトのX字位置だけちょっと違うのはプレイヤー都合。こちらの方が覚えやすいとの話が出たので対応。</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">レイン／ドロップお知らせマクロ</h4>
+
+
+
+<p>時間差でくるものはマクロでチャット欄を外部記憶装置として使った。</p>
+
+
+
+<p>普段この手のものは敵の行動だけ表示するチャット欄を準備していてそこをチラ見すれば済むのだけど、ここはいろんな行動があって流れてしまうのでパーティチャットに流すことにした。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="132" height="218" src="/wp-content/uploads/2024/08/button-drop-or-rain.png" alt="" class="wp-image-913"/></figure>
+
+
+
+<p>上がドロップ ＝頭割り<br>下がレイン ＝散開</p>
+
+
+
+<h5 class="wp-block-heading">実際のマクロ（ドロップ（頭割り））</h5>
+
+
+
+<pre class="wp-block-code"><code>┏━━━━━┓ &lt;se.11>
+┏━━━━━┓ &lt;se.11>
+/y 　　ドロップ：ペア頭割り
+┗━━━━━┛ &lt;se.11>
+┗━━━━━┛ &lt;se.11>
+/micon ドロップチ minion</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="340" height="112" src="/wp-content/uploads/2024/08/image-8.png" alt="" class="wp-image-979" srcset="/wp-content/uploads/2024/08/image-8.png 340w, /wp-content/uploads/2024/08/image-8-300x99.png 300w" sizes="(max-width: 340px) 100vw, 340px" /></figure>
+
+
+
+<h5 class="wp-block-heading">実際のマクロ（レイン（散開））</h5>
+
+
+
+<pre class="wp-block-code"><code>　           　 　　 &lt;se.5>
+     ＼＼   ||      //　　　&lt;se.5>
+/y 　　 ＝ レイン：散開 ＝ 
+       //     ||   ＼＼　　　&lt;se.5>
+　   　          　　&lt;se.5>
+/micon マメット・コヨコヨ minion</code></pre>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="376" height="108" src="/wp-content/uploads/2024/08/image-11.png" alt="" class="wp-image-981" srcset="/wp-content/uploads/2024/08/image-11.png 376w, /wp-content/uploads/2024/08/image-11-300x86.png 300w" sizes="(max-width: 376px) 100vw, 376px" /></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">1stライヴ</h3>
+
+
+
+<h4 class="wp-block-heading">塔踏み、ハート弾幕後のハート割り</h4>
+
+
+
+<p>「ハート割り」の仕組みが面白かった。</p>
+
+
+
+<ul class="wp-block-list">
+<li>着弾時に4つ分のハートが増加する。</li>
+
+
+
+<li>4を割り切れる人数が参加した場合、参加者に同じ数ずつ増える。</li>
+
+
+
+<li>割り切れない場合、余ったハートはランダムで誰に付与されるかわからない。</li>
+
+
+
+<li>5人以上が参加した場合
+<ul class="wp-block-list">
+<li>ハートが4より多く付与されることはない。</li>
+
+
+
+<li>どの4人に付与されるかはわからない。</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>1stライヴではハート割り予兆が「ハートが少ない人」についているぽかったので、以下の作戦でいった。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-6.png"><img loading="lazy" decoding="async" width="644" height="189" src="/wp-content/uploads/2024/08/image-6-644x189.png" alt="" class="wp-image-917" srcset="/wp-content/uploads/2024/08/image-6-644x189.png 644w, /wp-content/uploads/2024/08/image-6-300x88.png 300w, /wp-content/uploads/2024/08/image-6.png 689w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<ul class="wp-block-list">
+<li>塔とハート
+<ul class="wp-block-list">
+<li>タンク二人と竜騎士（うちの唯一の近接）は塔踏みで「ハートを3つ溜める」</li>
+
+
+
+<li>ヒーラーと遠隔DPSは塔踏みで「最大ハート2まで」とする。</li>
+</ul>
+</li>
+
+
+
+<li>ハート割り
+<ul class="wp-block-list">
+<li>ハートが2以下の人が集まって割る。</li>
+
+
+
+<li>ハート2は5人になる可能性があるので全員集まっておく。<br>→誰に頭割りついても処理できるように。5人で参加しても問題ない。</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>という方針ではあったけれど、出現する塔を誰が踏むのかは空気読んでやっていたので、場合によってはナイトSTがハート2で頭割り参加とかも普通にあった。</p>
+
+
+
+<p>結局MTと竜を優先してハート3にして（ボスを動かさず殴り続ける目的）、あとはまぁなんか適当にって感じに落ち着いている。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">ラブコンビネーション</h4>
+
+
+
+<p>ごんぶと十字ビームの安地として数字マーカーを置いたので安心安全でした。（フィールドマーカー参照）</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">アラームフェロモン（16連射）</h3>
+
+
+
+<p>なんかうまい避け方あるんかなぁと色々試したけれど結局気合で避けるに落ち着いたやつ。</p>
+
+
+
+<h4 class="wp-block-heading">試したこと</h4>
+
+
+
+<ul class="wp-block-list">
+<li>フィールド南端で待機　→　予兆をみつつ時計回りにみんなで避ける</li>
+</ul>
+
+
+
+<p>最初に試したけど、そもそもスピード感とかに不慣れだった時期でもあってうまくいかず。<br>外周に逃げるが使えないしね。</p>
+
+
+
+<ul class="wp-block-list">
+<li>ボス背面に全員あつまる　→　黄色いトゲが伸びる度にボスの外周1/16だけ時計回りにずれる。</li>
+
+
+
+<li>ボス背面に全員あつまる　→　黄色いトゲが伸びる度にボスの外周1/8だけ時計回りにずれる。</li>
+</ul>
+
+
+
+<p>これはみんなの移動タイミングを合わせるのが難しすぎたｗ<br>あと狭い範囲で避けるの事故率があがる。</p>
+
+
+
+<ul class="wp-block-list">
+<li>近接3名はフィールド北端へ。</li>
+
+
+
+<li>遠隔5名はフィールド南端へ。</li>
+
+
+
+<li>あとは気合で避ける。</li>
+</ul>
+
+
+
+<p>結局いまはこれでやってます。<br>運が良いと比較的フィールド内がすいてる。運が悪い時は気合で避けろｗ</p>
+
+
+
+<h4 class="wp-block-heading">以下はボツ案の図</h4>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="931" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp" alt="" class="wp-image-931" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+</figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-644x362.webp" alt="" class="wp-image-930" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">2ndライヴ</h3>
+
+
+
+<ul class="wp-block-list">
+<li>ハート割りｘ２</li>
+
+
+
+<li>ハートマーカーｘ２</li>
+
+
+
+<li>塔踏みｘ２</li>
+
+
+
+<li>最後にレイン or ドロップ</li>
+</ul>
+
+
+
+<p>をメロメロにならないように処理するやつ。</p>
+
+
+
+<h4 class="wp-block-heading">検討時にメンバーからでた考察だとかまとめっぽいの</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-00.png"><img loading="lazy" decoding="async" width="644" height="363" src="/wp-content/uploads/2024/08/2ndLive-00-644x363.png" alt="" class="wp-image-920" srcset="/wp-content/uploads/2024/08/2ndLive-00-644x363.png 644w, /wp-content/uploads/2024/08/2ndLive-00-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-00-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-00-700x394.png 700w, /wp-content/uploads/2024/08/2ndLive-00.png 1167w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-01.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-01-644x362.png" alt="" class="wp-image-921" srcset="/wp-content/uploads/2024/08/2ndLive-01-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-01-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-01-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-01-700x393.png 700w, /wp-content/uploads/2024/08/2ndLive-01.png 1171w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-02.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-02-644x362.png" alt="" class="wp-image-922" srcset="/wp-content/uploads/2024/08/2ndLive-02-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-02-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-02-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-02-700x393.png 700w, /wp-content/uploads/2024/08/2ndLive-02.png 1169w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>つまりこういうこと？</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-03.png"><img loading="lazy" decoding="async" width="644" height="306" src="/wp-content/uploads/2024/08/2ndLive-03-644x306.png" alt="" class="wp-image-927" srcset="/wp-content/uploads/2024/08/2ndLive-03-644x306.png 644w, /wp-content/uploads/2024/08/2ndLive-03-300x143.png 300w, /wp-content/uploads/2024/08/2ndLive-03-768x365.png 768w, /wp-content/uploads/2024/08/2ndLive-03-1536x730.png 1536w, /wp-content/uploads/2024/08/2ndLive-03-2048x973.png 2048w, /wp-content/uploads/2024/08/2ndLive-03-700x333.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">これらを踏まえてこんな風にすることにした</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-04.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-04-644x362.png" alt="" class="wp-image-934" srcset="/wp-content/uploads/2024/08/2ndLive-04-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-04-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-04-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-04-700x394.png 700w, /wp-content/uploads/2024/08/2ndLive-04.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>最初は沼捨てを「THは4から1へ」「DPSは2から3へ」ボス殴りつつ捨てるようにしてたのだけど、沼が塔と被って邪魔なので上の図の動きにしました。<br>（沼は塔着弾前に消えるのだけど、まぁ邪魔なので）</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">アラームフェロモン（井型回転のやつ）</h3>
+
+
+
+<p>2ndライヴ後のアラームフェロモン。<br>井型回転に合わせて外周に沼捨て、最後頭割りx2のやつ。</p>
+
+
+
+<p>1時をTH、7時をDPSの最初の沼として、井型回転に合わせて捨てていく方針に。</p>
+
+
+
+<p>最初数回は井型が反時計にしか回っていなかったのだけど途中で時計回りにも回って死んでた。</p>
+
+
+
+<p>最初の沼捨て位置である1時の隣、12時に最初のビーが出現していて、2番目のビーがその左右どちら（時計回り側か反時計回り側か）に出現するかで回転方向がわかったのでそれに合わせて順番に捨てるだけ。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-7.png"><img loading="lazy" decoding="async" width="644" height="363" src="/wp-content/uploads/2024/08/image-7-644x363.png" alt="" class="wp-image-938" srcset="/wp-content/uploads/2024/08/image-7-644x363.png 644w, /wp-content/uploads/2024/08/image-7-300x169.png 300w, /wp-content/uploads/2024/08/image-7-768x433.png 768w, /wp-content/uploads/2024/08/image-7-1536x866.png 1536w, /wp-content/uploads/2024/08/image-7-700x395.png 700w, /wp-content/uploads/2024/08/image-7.png 1648w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">3rdライヴ</h3>
+
+
+
+<p>（デバフ時間が0で爆発する4人＋塔踏む4人）x2回　のやつ</p>
+
+
+
+<p>最初は「塔踏みと爆発を両立させる」を前提に配置考えていたのだけど、案外爆発が大きいので爆発巻き込み死が何度かあった。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/3rdLive-00.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/3rdLive-00-644x362.png" alt="" class="wp-image-942" srcset="/wp-content/uploads/2024/08/3rdLive-00-644x362.png 644w, /wp-content/uploads/2024/08/3rdLive-00-300x169.png 300w, /wp-content/uploads/2024/08/3rdLive-00-768x432.png 768w, /wp-content/uploads/2024/08/3rdLive-00-700x394.png 700w, /wp-content/uploads/2024/08/3rdLive-00.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>塔踏みは爆発より数秒あとだったので</p>
+
+
+
+<ul class="wp-block-list">
+<li>爆発する人はX字に散開</li>
+
+
+
+<li>爆発するまで、塔踏みの人はターゲットサークル内に待機</li>
+
+
+
+<li>爆発したら塔を踏む</li>
+</ul>
+
+
+
+<p>ってことにしたら安定しました。</p>
+
+
+
+<p>爆発散開／塔踏み位置は以下の配置にしました。</p>
+
+
+
+<pre class="wp-block-code"><code>MT/D3　　ST/D4
+　　　ボス
+H1/D1　　H2/D2</code></pre>
+
+
+
+<p>そういえばこれ。</p>
+
+
+
+<p>なんでいつもの散開ではなくSTを前にしたのかは忘れました。<br>パパーっと決めた時に適当だったのだと思う・・・。たぶん意味はない。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">ブラックハート</h3>
+
+
+
+<p>声が変わって面白い怖い。</p>
+
+
+
+<p>ギミックは1回くらったらわかってしもた。</p>
+
+
+
+<p>軽減はがんばりましょう。<br>あとデバフ見ようｗ</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>てことでクリア～。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920.png"><img loading="lazy" decoding="async" width="644" height="325" src="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-644x325.png" alt="" class="wp-image-953" srcset="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-644x325.png 644w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-300x151.png 300w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-768x388.png 768w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-1536x775.png 1536w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-700x353.png 700w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920.png 1920w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431-644x270.png" alt="" class="wp-image-896" srcset="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">クリア後の情報解禁してからの変化</h2>
+
+
+
+<p>いくつか提案があったので、結局どうしたのかのメモ</p>
+
+
+
+<h3 class="wp-block-heading">散開位置が野良と違う。</h3>
+
+
+
+<p>ハニーブラスト（縦）のドロップ（頭割り）の際の散開位置が、野良だとボスに寄ってX字らしい。</p>
+
+
+
+<p>ヒーラー視点だと回復や軽減あたるとの事だったけれど、それがないと死ぬというわけでもないので、クリア後に変更する思考チェンジのデメリットの方を考えて採用を見送った。</p>
+
+
+
+<p>既にクリア出来ているので今後HPや防御力はどんどん増えていくしね。</p>
+
+
+
+<h3 class="wp-block-heading">野良では1stライヴでタンクと近接が♡２（＝その後頭割りがくる）としているらしい</h3>
+
+
+
+<p>一度試したのだけど、ハート割りの予兆でハート弾幕が見えにくいという話がでたので、これまで通り遠隔が頭割り誘導とした。</p>
+
+
+
+<p>タンクや近接がいる中央付近の方が、ボスからのハート密度あるから見えにくくなるのは困っちゃう。</p>
+
+
+
+<h3 class="wp-block-heading">アラームフェロモン16連射で最初の4本を中央に誘導してから南北にわかれるらしい</h3>
+
+
+
+<p>試したけれどなんかやりにくいって話になったので、これまで通り北端、南端で最初誘導してからあとは流れでってことに。</p>
+
+
+
+<h3 class="wp-block-heading">アラームフェロモン井型回転のやつ、野良だと回転方向とかみずになんとなく南北で空いてるとこに沼捨てに行くらしい</h3>
+
+
+
+<p>綺麗に捨てていけるので、時計反時計の判断してやる方法のが安定するかな～といままで通りにしてます。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>FF14零式自力解明：アルカディアLH級1</title>
-		<link>/2024-08-17/ff14-arcadia-lightheavy1-blind/</link>
+		<link>/2024-08-17/ff14-blind-arcadia-lightheavy1/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
 		<pubDate>Sat, 17 Aug 2024 08:24:20 +0000</pubDate>
@@ -37,82 +1097,16 @@
 		<category><![CDATA[FF14]]></category>
 		<category><![CDATA[未予習自力解明]]></category>
 		<category><![CDATA[至天の座アルカディア]]></category>
+		<category><![CDATA[零式]]></category>
 		<guid isPermaLink="false">/?p=822</guid>
 
-					<description><![CDATA[攻略日記というより、こんな風に自力解明したよって内容です。 パーティ構成とかチャレンジの仕方（押すと開く） 前書き 自力解明のしかた のループ。 使うもの 使わないもの パーティ構成 クリアまでの時間 タイムラインめも ...]]></description>
+					<description><![CDATA[攻略日記というより、こんな風に自力解明したよって内容です。各層へのリンクのある投稿はこちら。 今回の構成 クリアまでの時間 180分（3時間）くらい。 タイムラインめも おわり 戦術とか まとめ 後半の「床が抜けて、床ド...]]></description>
 										<content:encoded><![CDATA[
-<p>攻略日記というより、こんな風に自力解明したよって内容です。</p>
+<p>攻略日記というより、こんな風に自力解明したよって内容です。<br><a href="/2024-07-30/ff14-blind-arcadia-lightheavy-00/">各層へのリンクのある投稿はこちら</a>。</p>
 
 
 
-<details class="accordion_cat">
-<summary>パーティ構成とかチャレンジの仕方（押すと開く）</summary>
-<div class="ribbon15-wrapper" style="background-color: #fff5e1;padding: 5px 15px;">
-<div>
-
-
-
-<h2 class="wp-block-heading">前書き</h2>
-
-
-
-<ul class="wp-block-list">
-<li>パーティ募集文はこんな感じ。（<a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/" data-type="link" data-id="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/">ロドスト日記</a>）</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading">自力解明のしかた</h3>
-
-
-
-<ul class="wp-block-list">
-<li>戦ってみて</li>
-
-
-
-<li>確認できた事実から解法の仮説をたてて</li>
-
-
-
-<li>戦ってみて検証</li>
-</ul>
-
-
-
-<p>のループ。</p>
-
-
-
-<h4 class="wp-block-heading">使うもの</h4>
-
-
-
-<ul class="wp-block-list">
-<li>プレイの録画（振り返り検証用）</li>
-
-
-
-<li>Discord（ボイスチャット、資料の共有や戦術打ち合わせ用）</li>
-
-
-
-<li>Googleスライド（戦術打ち合わせ用）</li>
-</ul>
-
-
-
-<h4 class="wp-block-heading">使わないもの</h4>
-
-
-
-<ul class="wp-block-list">
-<li>人前で言えないようなツール類</li>
-</ul>
-
-
-
-<h2 class="wp-block-heading">パーティ構成</h2>
+<h2 class="wp-block-heading">今回の構成</h2>
 
 
 
@@ -154,17 +1148,7 @@
 
 
 
-<ul class="wp-block-list">
-<li>週4、各2時間</li>
-
-
-
-<li>1層は累計3時間くらいでクリア。</li>
-</ul>
-
-
-
-</div></div></details>
+<p>180分（3時間）くらい。</p>
 
 
 
@@ -294,7 +1278,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-1.png"><img fetchpriority="high" decoding="async" width="640" height="686" src="/wp-content/uploads/2024/08/image-1.png" alt="" class="wp-image-849" srcset="/wp-content/uploads/2024/08/image-1.png 640w, /wp-content/uploads/2024/08/image-1-280x300.png 280w" sizes="(max-width: 640px) 100vw, 640px" /></a></figure></div>
+<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-1.png"><img loading="lazy" decoding="async" width="640" height="686" src="/wp-content/uploads/2024/08/image-1.png" alt="" class="wp-image-849" srcset="/wp-content/uploads/2024/08/image-1.png 640w, /wp-content/uploads/2024/08/image-1-280x300.png 280w" sizes="(max-width: 640px) 100vw, 640px" /></a></figure></div>
 
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -332,7 +1316,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp" alt="" class="wp-image-838" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp" alt="" class="wp-image-838" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -340,7 +1324,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp" alt="" class="wp-image-839" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp" alt="" class="wp-image-839" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -567,6 +1551,175 @@ D1　ST　D2</code></pre>
 <ul class="wp-block-list">
 <li>リーピング＋半面／クアドラ　からの　コピーキャットの際に散開向きをコピーキャットの向きにはしませんでした。<br>上述しましたが向きを変更するメリットがよくわからなかったので。</li>
 </ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FF14零式自力解明：アルカディアLH級（はじめに）</title>
+		<link>/2024-07-30/ff14-blind-arcadia-lightheavy-00/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Tue, 30 Jul 2024 00:56:00 +0000</pubDate>
+				<category><![CDATA[DAWNTRAIL]]></category>
+		<category><![CDATA[FF14]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[至天の座アルカディア]]></category>
+		<category><![CDATA[零式]]></category>
+		<guid isPermaLink="false">/?p=884</guid>
+
+					<description><![CDATA[誰かのみつけた解法を予習してトレースするのではなく、せっかくだから自分たちでギミック処理の方法を考えたい、その過程も楽しみたい。 自力解明できるのは人生で一度だけ。貴重なその一回を楽しみたい。 ってことで自力解明の現行零...]]></description>
+										<content:encoded><![CDATA[
+<p>誰かのみつけた解法を予習してトレースするのではなく、せっかくだから自分たちでギミック処理の方法を考えたい、その過程も楽しみたい。</p>
+
+
+
+<p>自力解明できるのは人生で一度だけ。貴重なその一回を楽しみたい。</p>
+
+
+
+<p>ってことで自力解明の現行零式です。</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="/2024-07-30/ff14-blind-arcadia-lightheavy-00/" data-type="post" data-id="884">アルカディア零式LH級（はじめに）</a></li>
+
+
+
+<li><a href="/2024-08-17/ff14-blind-arcadia-lightheavy1/" data-type="post" data-id="822">アルカディア零式LH級1 の記録</a></li>
+
+
+
+<li><a href="/2024-08-18/ff14-blind-arcadia-lightheavy2/">アルカディア零式LH級2 の記録</a></li>
+
+
+
+<li><a href="/2024-08-19/ff14-blind-arcadia-lightheavy3/">アルカディア零式LH級3 の記録</a></li>
+
+
+
+<li>アルカディア零式LH級4 の記録</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">固定パーティでやってます</h2>
+
+
+
+<p>募集要項はこんな感じ：<a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/" data-type="link" data-id="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/">ロドスト日記</a></p>
+
+
+
+<p>絶に行くわけではないので零式はじめての人でもどうぞって感じ。<br>自力解明自体の経験有無は特に関係なく募集してました。</p>
+
+
+
+<h3 class="wp-block-heading">自力解明のしかた</h3>
+
+
+
+<ul class="wp-block-list">
+<li>戦ってみて</li>
+
+
+
+<li>確認できた事実から解法の仮説をたてて</li>
+
+
+
+<li>検証の為にまたトライ</li>
+</ul>
+
+
+
+<p>のループ。</p>
+
+
+
+<p>普段の生活のトラブルシューティングと同じ。</p>
+
+
+
+<h4 class="wp-block-heading">使うもの</h4>
+
+
+
+<ul class="wp-block-list">
+<li>プレイの録画（振り返り検証用）</li>
+
+
+
+<li>Discord（ボイスチャット、資料の共有や戦術打ち合わせ用）</li>
+
+
+
+<li>お絵かきソフト、Googleスライド（戦術打ち合わせの図を作る用）</li>
+</ul>
+
+
+
+<p>使っているのはそれくらいかな。</p>
+
+
+
+<h2 class="wp-block-heading">MTはダイスで決めてます</h2>
+
+
+
+<p>1層開始時に /dice して大きいほうが1層MT、小さいほうが2層MT。<br>3層開始時にまた /dice して大きいほうが3層MT、小さいほうが4層MT。</p>
+
+
+
+<p>その結果今回は</p>
+
+
+
+<p>1層：ナイトMT、戦士ST<br>2層：戦士MT、ナイトST<br>3層：ナイトMT、ガンブレST（戦士が着替えた）<br>4層：ガンブレMT、ナイトST</p>
+
+
+
+<p>でチャレンジしてます。</p>
+
+
+
+<h2 class="wp-block-heading">活動ペースとクリアに要した時間</h2>
+
+
+
+<ul class="wp-block-list">
+<li>週4、各2時間（火水金日の曜日固定）</li>
+
+
+
+<li>クリアに要した時間
+<ul class="wp-block-list">
+<li>以下の時間はゲーム内でトライした時間であって、実際は解法の検討などはこの時間外で行っている。</li>
+
+
+
+<li>消化時間、装備更新、写真撮影、休憩などもあるのでざっくりこれくらいって感じの時間。</li>
+
+
+
+<li>1層：180分（3時間）くらいでクリア。</li>
+
+
+
+<li>2層：390分（6.5時間）くらい？</li>
+
+
+
+<li>3層：480分（8時間）くらい？</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		
