@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Aug 2024 06:49:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Sep 2024 22:45:28 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,1508 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FF14零式自力解明：アルカディアLH級4</title>
+		<link>/2024-09-04/ff14-blind-arcadia-lightheavy4/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2024 06:02:22 +0000</pubDate>
+				<category><![CDATA[DAWNTRAIL]]></category>
+		<category><![CDATA[FF14]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[至天の座アルカディア]]></category>
+		<category><![CDATA[零式]]></category>
+		<guid isPermaLink="false">/?p=1044</guid>
+
+					<description><![CDATA[攻略日記というより、こんな風に自力解明したよって内容です。各層へのリンクのある投稿はこちら。 いまこれクリア前に書いてるんですが 幾つかのギミックはクリア後の情報解禁でみられる外部の処理法がどんなのか楽しみです。 輪円/...]]></description>
+										<content:encoded><![CDATA[
+<p>攻略日記というより、こんな風に自力解明したよって内容です。<br><a href="https://note.nyaon.jp/2024-07-30/ff14-blind-arcadia-lightheavy-00/">各層へのリンクのある投稿はこちら</a>。</p>
+
+
+
+<h2 class="wp-block-heading">いまこれクリア前に書いてるんですが</h2>
+
+
+
+<p>幾つかのギミックはクリア後の情報解禁でみられる外部の処理法がどんなのか楽しみです。</p>
+
+
+
+<h3 class="wp-block-heading">輪円/円輪式ウィッチハントのめちゃ素晴らしい解法が得られることを期待している。</h3>
+
+
+
+<p>うちらは結局8方向散開の順番固定で気合で対応になってたから、なんかもっとスマートな解法ありそうよね～、とクリア後にみられる外部情報にめちゃくちゃ期待している。果たして？</p>
+
+
+
+<h3 class="wp-block-heading">日出処理</h3>
+
+
+
+<p>大砲どっち向けるのかは気になるところ。</p>
+
+
+
+<h2 class="wp-block-heading">今回の構成</h2>
+
+
+
+<ul class="wp-block-list">
+<li>戦士（MT）</li>
+
+
+
+<li>ナイト（ST）</li>
+
+
+
+<li>白魔道士</li>
+
+
+
+<li>学者</li>
+
+
+
+<li>竜騎士</li>
+
+
+
+<li>ピクトマンサー</li>
+
+
+
+<li>踊り子</li>
+
+
+
+<li>召喚士</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">クリアまでの時間</h2>
+
+
+
+<p>16時間くらい<br>（消化とか装備更新とかしてたのでざっくりこれくらい）</p>
+
+
+
+<h2 class="wp-block-heading">タイムラインめも</h2>
+
+
+
+<ul class="wp-block-list">
+<li>全体</li>
+
+
+
+<li>格子突進</li>
+
+
+
+<li>ライトニング・ウィッチハント＋ウィッチハント（遠い近い）</li>
+
+
+
+<li>輪円/円輪ウィッチハント</li>
+
+
+
+<li>全体</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul class="wp-block-list">
+<li>ファンタスティックシンフォニー（1/4安地で散開or頭割りのやつ）</li>
+
+
+
+<li>タンク強ビームx2（要スイッチ）</li>
+
+
+
+<li>ライトニングゲージ（早いデバフ＋半面焼き＋遅いデバフ）</li>
+
+
+
+<li>多段頭割り</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul class="wp-block-list">
+<li>イオンクラスター付与
+<ul class="wp-block-list">
+<li>（大砲くらう→デバフ処理）x3</li>
+
+
+
+<li>タンク強ビームx2（要スイッチ）</li>
+</ul>
+</li>
+
+
+
+<li>変身
+<ul class="wp-block-list">
+<li>扇7回避ける
+<ul class="wp-block-list">
+<li>5回目にドーム着弾</li>
+
+
+
+<li>6回目にビーム着弾</li>
+</ul>
+</li>
+</ul>
+</li>
+
+
+
+<li>ウオオオオオ！ → ぴゅーん</li>
+
+
+
+<li>痛い全体連続（タンクLB3）</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul class="wp-block-list">
+<li>エクサいっぱい＋多段頭割り</li>
+
+
+
+<li>マスタードボム（線とばくはつ）</li>
+
+
+
+<li>テイルスラスト</li>
+
+
+
+<li>【日没】</li>
+
+
+
+<li>【夜半】</li>
+
+
+
+<li>地面われてチェインライトニング</li>
+
+
+
+<li>テイルスラスト＋マスタードボム</li>
+
+
+
+<li>【日出】</li>
+
+
+
+<li>テイルスラスト</li>
+
+
+
+<li>剣の舞</li>
+
+
+
+<li>時間切れ詠唱</li>
+</ul>
+
+
+
+<p>おわり</p>
+
+
+
+<h2 class="wp-block-heading">戦術とか</h2>
+
+
+
+<h3 class="wp-block-heading">フィールドマーカー</h3>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image.png"><img fetchpriority="high" decoding="async" width="623" height="622" src="/wp-content/uploads/2024/09/image.png" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2024/09/image.png 623w, /wp-content/uploads/2024/09/image-300x300.png 300w, /wp-content/uploads/2024/09/image-150x150.png 150w" sizes="(max-width: 623px) 100vw, 623px" /></a></figure>
+
+
+
+<ul class="wp-block-list">
+<li>ほぼ「円輪/輪円式ウィッチハント」の安地判断のためのマーカー。
+<ul class="wp-block-list">
+<li>マーカーに立てば「円」に当たらない。</li>
+
+
+
+<li>マーカー内側に立てば「輪（ドーナツ）」に当たらない。</li>
+
+
+
+<li>「円ｘ近い誘導」の時に誘導しない人はマーカー外に立てばセーフ。<br>（離れすぎなくていい）</li>
+
+
+
+<li>「輪ｘ近い誘導」の時に誘導しない人はマーカーちょい内にいればセーフ。<br>（離れすぎて焼かれない）</li>
+</ul>
+</li>
+
+
+
+<li>巨大化後の後半フィールドにマーカーは置いてないです。</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">フライングウィッチ</h3>
+
+
+
+<p>最初の格子状に焼かれるやつ。</p>
+
+
+
+<p>「ボスを見て避けてるのになんで焼かれるんじゃい！」</p>
+
+
+
+<p>とか思ってたけど、焼かれるラインは翼から出てる光のラインではなくて丸ポッチで光ってるそこだった。しかも左右にずれてるんですね。</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-2.png"><img decoding="async" width="526" height="422" src="/wp-content/uploads/2024/09/image-2.png" alt="" class="wp-image-1056" srcset="/wp-content/uploads/2024/09/image-2.png 526w, /wp-content/uploads/2024/09/image-2-300x241.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">ライトニング・ウィッチハント＋ウィッチハント</h3>
+
+
+
+<h4 class="wp-block-heading">概要：ライトニング・ウィッチハント</h4>
+
+
+
+<ul class="wp-block-list">
+<li>THかDPSのどちらか4人に着弾っぽい。
+<ul class="wp-block-list">
+<li>距離関係なくTHの4人に着弾したので。</li>
+</ul>
+</li>
+
+
+
+<li>着弾した人にデバフ付与
+<ul class="wp-block-list">
+<li>フォークライトニング（8秒）</li>
+
+
+
+<li>物理ダメージ増加（12秒）</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">概要：ウィッチハント</h4>
+
+
+
+<ul class="wp-block-list">
+<li>詠唱時のボス身体のマーカーで次のウィッチハント着弾（誘導先）が示されている。
+<ul class="wp-block-list">
+<li>ピンクの狭いひし形 ◇◇◇　→　近い4人に落ちる。</li>
+
+
+
+<li>紺色の広いひし形：◆　◆　◆　→　遠い4人に落ちる。</li>
+</ul>
+</li>
+
+
+
+<li>着弾した人にデバフ付与
+<ul class="wp-block-list">
+<li>物理ダメージ増加（12秒）</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">処理法</h4>
+
+
+
+<ul class="wp-block-list">
+<li>以下の感じでひとり1マスに立つ。（床安地次第で東西スライド）<br>　（北）<br>D3　D4<br>MT　ST<br>D1　D2<br>H1　H2</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>ライトニング・ウィッチハント着弾後、ボスの予兆（近い遠いどちらに着弾するか）を見る。</li>
+
+
+
+<li>ライトニング～を「喰らわなかったロール」が2発目を誘導するように遠近に場所変更する。</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">円輪/輪円式ウィッチハント</h3>
+
+
+
+<p>いろんなパターンで「脳みそが混乱しないのはどれだろう？」「動きやすいのは？」「殴れるのは？」とか考えましたけど最終的には気合いだー。</p>
+
+
+
+<h4 class="wp-block-heading">結局「8方向散開」「決まった順番で処理」ってことに</h4>
+
+
+
+<pre class="wp-block-code"><code>（8方向散開）
+D3　MT　D4
+H1　★　H2
+D1　ST　D2</code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>はちほうこうになった。</li>
+
+
+
+<li>D1D4→D2D3→H1H2→MTST</li>
+
+
+
+<li>立ち位置は以下の4箇所のいずれか
+<ul class="wp-block-list">
+<li>１．タゲサ2重の内側意識</li>
+
+
+
+<li>２．ドーナツ範囲の境界ぎりぎり</li>
+
+
+
+<li>３．円範囲の境界ぎりぎり</li>
+
+
+
+<li>４．マーカーの外</li>
+</ul>
+</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-1.png"><img decoding="async" width="550" height="572" src="/wp-content/uploads/2024/09/image-1.png" alt="" class="wp-image-1053" srcset="/wp-content/uploads/2024/09/image-1.png 550w, /wp-content/uploads/2024/09/image-1-288x300.png 288w" sizes="(max-width: 550px) 100vw, 550px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">コールの仕方</h4>
+
+
+
+<p>誘導役以外がどう動くかこんな風にコールしてました。</p>
+
+
+
+<ul class="wp-block-list">
+<li>「円スタート、みんなはマーカー往復」</li>
+
+
+
+<li>「ドーナツスタート、マラソン」
+<ul class="wp-block-list">
+<li>これは誘導役以外は「ターゲットサークル踏み＜ー＞マーカー外の往復」という意味合い。</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">以下、供養のための案</h4>
+
+
+
+<h5 class="wp-block-heading">ロール担当制</h5>
+
+
+
+<ul class="wp-block-list">
+<li>DPSは近い担当、THは遠い担当</li>
+
+
+
+<li>DPSは円担当、THは遠い担当</li>
+</ul>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png"><img loading="lazy" decoding="async" width="644" height="362" data-id="1055" src="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png" alt="" class="wp-image-1055" srcset="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png 644w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-300x169.png 300w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-768x432.png 768w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-700x394.png 700w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）.png"><img loading="lazy" decoding="async" width="644" height="362" data-id="1054" src="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-644x362.png" alt="" class="wp-image-1054" srcset="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-644x362.png 644w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-300x169.png 300w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-768x432.png 768w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-700x394.png 700w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+</figure>
+
+
+
+<h5 class="wp-block-heading">散開せずに受ける位置を2箇所くらいにする？</h5>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-3.png"><img loading="lazy" decoding="async" width="644" height="361" src="/wp-content/uploads/2024/09/image-3-644x361.png" alt="" class="wp-image-1057" srcset="/wp-content/uploads/2024/09/image-3-644x361.png 644w, /wp-content/uploads/2024/09/image-3-300x168.png 300w, /wp-content/uploads/2024/09/image-3-768x430.png 768w, /wp-content/uploads/2024/09/image-3-700x392.png 700w, /wp-content/uploads/2024/09/image-3.png 1158w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-4.png"><img loading="lazy" decoding="async" width="644" height="360" src="/wp-content/uploads/2024/09/image-4-644x360.png" alt="" class="wp-image-1058" srcset="/wp-content/uploads/2024/09/image-4-644x360.png 644w, /wp-content/uploads/2024/09/image-4-300x167.png 300w, /wp-content/uploads/2024/09/image-4-768x429.png 768w, /wp-content/uploads/2024/09/image-4-700x391.png 700w, /wp-content/uploads/2024/09/image-4.png 1159w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>その他色々絵を描いたりしてたものたちｗ</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-5.png"><img loading="lazy" decoding="async" width="102" height="830" src="/wp-content/uploads/2024/09/image-5.png" alt="" class="wp-image-1059" srcset="/wp-content/uploads/2024/09/image-5.png 102w, /wp-content/uploads/2024/09/image-5-37x300.png 37w" sizes="(max-width: 102px) 100vw, 102px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">ファンタスティックシンフォニー</h3>
+
+
+
+<h4 class="wp-block-heading">概要</h4>
+
+
+
+<ol class="wp-block-list">
+<li>フィールド外側4箇所にオブジェクト発生。</li>
+
+
+
+<li>ボスからのビームが3ウェーブ。</li>
+
+
+
+<li>オブジェクトに当たったビームが「1回」のところが安地。（該当オブジェクトは東西で1箇所ずつになる）</li>
+
+
+
+<li>かつ、ボスが半面焼きをしてくるので、最終的にフィールドのどこか1/4が安地になる。</li>
+
+
+
+<li>その中で散開orペア頭割りする。</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading">3回目のビームだけ見れば判断できる</h4>
+
+
+
+<p>1～3の判断の為に4箇所のオブジェクトみて数えるのしんど～と思っていたら、メンバーの学者さんが</p>
+
+
+
+<p>「数トライの録画を振り返ってみてたんだけど、<strong>安地は3回目ビームが『西は当たったところ』『東は当たらなかったところ』</strong>っぽい」</p>
+
+
+
+<p>とか言い出して実際そうだったので天才だと思った。</p>
+
+
+
+<p>おかげでわたしでも自分で判断ができました。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-jpg.webp"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-644x644.webp" alt="" class="wp-image-1060" srcset="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-644x644.webp 644w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-300x300.webp 300w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-150x150.webp 150w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-768x768.webp 768w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-700x700.webp 700w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-jpg.webp 980w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>例えば3回目ビームがこうなった時は「３」「１」が安地。</p>
+
+
+
+<p>散開は安地内でこんな感じでしてみた。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-644x362.png" alt="" class="wp-image-1061" srcset="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-644x362.png 644w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-300x169.png 300w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-768x432.png 768w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-700x394.png 700w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>とりあえず火力足りそうだから検証してないけど、ナイトも殴れる配置とかにできるかもね。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">早い遅いデバフ＋ライトニングゲージのやつ</h3>
+
+
+
+<p>はじめてこのギミックに到達して一度？ワイプしたタイミングが休憩とる時間だったんですけど、少し離席して戻ったら既にこの図が出てきてた。</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png"><img loading="lazy" decoding="async" width="478" height="479" src="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png" alt="" class="wp-image-1062" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png 478w, /wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置-300x300.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置-150x150.png 150w" sizes="(max-width: 478px) 100vw, 478px" /></a></figure>
+
+
+
+<p>プランつくるの早くて助かるわ！ｗ</p>
+
+
+
+<p>途中の半面焼き＋ペア/散開の組み合わせを考えるときも</p>
+
+
+
+<ul class="wp-block-list">
+<li>ビームくらった数だけデバフが広く爆発してるぽい？</li>
+
+
+
+<li>遅いデバフはペア/散開でくらった分もチャージされてるぽい？</li>
+
+
+
+<li>ってことはペアはデバフ持ちに着弾しないと成立しないよねぇ。</li>
+</ul>
+
+
+
+<p>みたいな読みをみんながしてたのが面白かったｗ</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-644x362.png" alt="" class="wp-image-1064" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-644x362.png 644w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-300x169.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-768x432.png 768w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-700x394.png 700w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-644x362.png" alt="" class="wp-image-1065" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-644x362.png 644w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-300x169.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-768x432.png 768w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-700x394.png 700w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">イオンクラスターと大砲</h3>
+
+
+
+<p>デバフの立ち位置考えるのがパズル味あって面白かった。</p>
+
+
+
+<p>大砲ビームは「タンクが前じゃないと痛いのかも？」と予想して以降そうして安定しているけど、本当にそうなのか正確には確認してないかも？</p>
+
+
+
+<p>ここに限らず「まぁ成立して進んでるからいいか」みたいなのは自力解明だとあるある。</p>
+
+
+
+<h4 class="wp-block-heading">デバフ処理</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスター_概要.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスター_概要-644x362.png" alt="" class="wp-image-1067" srcset="/wp-content/uploads/2024/09/06_イオンクラスター_概要-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスター_概要.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>初到達時に確認できたのがたしか</p>
+
+
+
+<ul class="wp-block-list">
+<li>ドーナツ</li>
+
+
+
+<li>近い人にビーム</li>
+
+
+
+<li>紫玉（これは確定でいつもつく）</li>
+</ul>
+
+
+
+<p>だったのでそれ前提で立ち位置さくっと決めてじゃぁやるか！とトライしたら次の回で「ちび円」と「遠い人ビーム」がついて「聞いてないよー！」と言いつつ死んでいくのあるある。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスターとなんか.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスターとなんか-644x362.png" alt="" class="wp-image-1068" srcset="/wp-content/uploads/2024/09/06_イオンクラスターとなんか-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>↑最初こう想定してたの図</p>
+
+
+
+<p>この日は「ドーナツは中央、ちび円ははじっこ」と場合分けして立ってたのだけど、デバフ模様見分けるの面倒くさくて。</p>
+
+
+
+<p>そんなのやだなぁって図を描いてたらどっちか判断しなくても対応できる絵ができたので楽ちんギミックになりましたね。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-644x362.png" alt="" class="wp-image-1069" srcset="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">そういえばスイッチ必要なタンク強攻撃ビーム</h3>
+
+
+
+<p>基本的にちゃんとスイッチして対応にしてました。<br>無敵を残しておいたほうが少しでも先のタイムライン確認できるからね。</p>
+
+
+
+<p>長年タンクをしている者だろう？スイッチくらいしておけ。<br>わたしは、失敗したぞ（スタンス忘れてた）</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">＼＼└(&#8216;ω&#8217;)┘/／ ｳｵｵｵ</h3>
+
+
+
+<p>エレクトロープ移植（変身）のとこ。</p>
+
+
+
+<p>紫ドームが着弾するのが誰か？ビームが飛ぶのが誰か？<br>その辺りを検証するのに8方向散開して食らってみたり、遠近パターンか？と立ち位置調整してみたり、そういうトライ＆エラーが楽しいですわね。</p>
+
+
+
+<p>結局ドームはロール別（THかDPS）、ビームはドーム着弾者狙ってるのかな？ってことでペア作って十字に配置で処理しました。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/扇の絵-jpg.webp"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/扇の絵-644x644.webp" alt="" class="wp-image-1071" srcset="/wp-content/uploads/2024/09/扇の絵-644x644.webp 644w, /wp-content/uploads/2024/09/扇の絵-300x300.webp 300w, /wp-content/uploads/2024/09/扇の絵-150x150.webp 150w, /wp-content/uploads/2024/09/扇の絵-768x768.webp 768w, /wp-content/uploads/2024/09/扇の絵-700x700.webp 700w, /wp-content/uploads/2024/09/扇の絵-jpg.webp 980w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>↑検討中の絵</p>
+
+
+
+<p>最後南側に集合して飛ぶので、ここは南を基準として散開図をつくりました。</p>
+
+
+
+<pre class="wp-block-code"><code>　　　（南)
+　　　　D2
+
+　　　　MT
+H1　D1　★　D4　H2
+　　　　ST
+
+　　　　D3</code></pre>
+
+
+
+<ul class="wp-block-list">
+<li>D2はピクトマンサーなので無駄に歩かせたくなかった。</li>
+
+
+
+<li>D4は召喚なので近づく可能性があるのでボス側に配置した。</li>
+</ul>
+
+
+
+<p>て感じ。</p>
+
+
+
+<p>扇の広さが違うとか、ビーム処理したあともう一回扇とか、なかなかいやらしい感じのが多くて性格の悪さが出てて好きです。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">クロステイル・スペシャル＼＼└(&#8216;ω&#8217;)┘/／ ﾄﾞﾝﾄﾞﾝ</h3>
+
+
+
+<p>でかい1撃じゃなくて痛い多段全体攻撃をタンクLB3で防ぐってのは私は初めてだったので新鮮でよかった。</p>
+
+
+
+<p>タンクLB3が早いと最後までもたないし、遅いと最初の数撃食らうけど、うちらは遅い方に合わせるってことで詠唱「シャ」くらいでボタン押してた。</p>
+
+
+
+<p>このフェーズにきた最初の頃にタンクLB3なくても頑張れた回があったので、クリア後にでもここのLB3を近接で使っちゃうのを試してみたいな～。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">エクサいっぱい</h3>
+
+
+
+<p>これは見る場所たくさんあって大変だ！</p>
+
+
+
+<p>…とか思ってたら対岸の一つみるだけでよかった。</p>
+
+
+
+<h4 class="wp-block-heading">最初はこんな風に「内向き2連続の間に立たないと」みたいに思ってた</h4>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-644x362.png" alt="" class="wp-image-1075" srcset="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-644x362.png 644w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-300x169.png 300w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-768x432.png 768w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-700x394.png 700w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>思ってたのだけど、よくよく観察するとフィールド外に出ていく予兆は1発目おちたら即消えている（フィールド端まで焼かない）ってんで</p>
+
+
+
+<h4 class="wp-block-heading">結局「対岸みて、隙間に立って、駆け込むだけ」だった</h4>
+
+
+
+<p>かんたん。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-644x362.png" alt="" class="wp-image-1076" srcset="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-644x362.png 644w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-300x169.png 300w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-768x432.png 768w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-700x394.png 700w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">マスタードボム<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a3.png" alt="💣" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h3>
+
+
+
+<p>技名でなんか内容予測ついちゃうのはよくないですね。</p>
+
+
+
+<p>連続で受け渡しか？とか思ってたらそんなことなかった。</p>
+
+
+
+<p>線ボムをタンク二人が受けたあとに、残り6人のうちからランダム2名がタンクについてデバフを受け取るって流れなので</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-6.png"><img loading="lazy" decoding="async" width="644" height="486" src="/wp-content/uploads/2024/09/image-6-644x486.png" alt="" class="wp-image-1077" srcset="/wp-content/uploads/2024/09/image-6-644x486.png 644w, /wp-content/uploads/2024/09/image-6-300x226.png 300w, /wp-content/uploads/2024/09/image-6-700x528.png 700w, /wp-content/uploads/2024/09/image-6.png 728w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>こんな配置にしておいて</p>
+
+
+
+<ul class="wp-block-list">
+<li>H1＞H2＞D1～D4 の優先順で</li>
+
+
+
+<li>優先度高い方が戦士、低いほうがナイトのを取る</li>
+
+
+
+<li>取った人はそこにとどまる。タンクは逃げる。</li>
+</ul>
+
+
+
+<p>てことにしました。途中で交差する事故防止が少しできるかな、ってことで。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">テイルスラスト</h3>
+
+
+
+<p>最初に受けたのが炎だったので、2回目このフェーズ来た時に「青ってなにー？？」とか言いながらふっとばされてました。お約束。</p>
+
+
+
+<p>でも炎が逃げるだから青は近づくか？とか言いながらみんな動いてたので流石だなぁと。</p>
+
+
+
+<h4 class="wp-block-heading">氷ノックバック</h4>
+
+
+
+<p>氷はノックバック発生源の赤玉に近づきすぎると角度ついちゃうかもなので、この黄色い点々エリアで気持ち前に飛ぶように位置してました。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-644x362.webp" alt="" class="wp-image-1078" srcset="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-644x362.webp 644w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-300x169.webp 300w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-768x432.webp 768w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-700x394.webp 700w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>（2024-09-05追記）<br>って感じでノックバック受けてやってたんだけど、これ厳密に赤丸からのノックバックじゃないのかなぁ？<br>なんか想定しない急角度で外周に飛ばされリングアウトした気がして。</p>
+
+
+
+<p>もしかしたらセーフとアウトの境界線があって、そこを超えるとノックバック風にみせつつ確定リングアウトさせられるみたいなラインあるのかしら？<br>あるいは角度が実際の立ち位置から指数的に計算されてふっとばされる、とか？</p>
+
+
+
+<p>ちょっとその1回があったので「気持ち斜め前」みたいなのは狙わずに真横狙いで飛ぶようにしてました。</p>
+
+
+
+<h4 class="wp-block-heading">炎は前のほうが歩く距離短くてよい</h4>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-7.png"><img loading="lazy" decoding="async" width="492" height="378" src="/wp-content/uploads/2024/09/image-7.png" alt="" class="wp-image-1079" srcset="/wp-content/uploads/2024/09/image-7.png 492w, /wp-content/uploads/2024/09/image-7-300x230.png 300w" sizes="(max-width: 492px) 100vw, 492px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">【日没】</h3>
+
+
+
+<p>日没、夜半とあったから夜明とかあるんかね～？とか思ってたらあとから出てきたね。</p>
+
+
+
+<ol class="wp-block-list">
+<li>AoE捨てたら逃げ。</li>
+
+
+
+<li>最初の1/4避けしたらスプリント。</li>
+
+
+
+<li>次のを避けたら中安地／外安地注意。</li>
+</ol>
+
+
+
+<p>最初2つの予兆馬を同時に見ようとしてて頭混乱してたけど、</p>
+
+
+
+<ol class="wp-block-list">
+<li>まず1つの馬を正面に見る。その安地側に気持ちずれる。</li>
+
+
+
+<li>2つ目の馬を見て、その安地側にずれつつ外周まで走る。</li>
+</ol>
+
+
+
+<p>で間に合っております。</p>
+
+
+
+<p>3つ目、4つ目も同じことをしようとするとスプリントを使っておくと安全。</p>
+
+
+
+<p>最後の中安地、外安地はどちらもギリギリまで避ける（中安地なら中心線あたり、外安地ならしっかり外周ギリ）のがいいね。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">【夜半】</h3>
+
+
+
+<p>初見で「散集って詠唱してたから集散もあるのかもね～」とか誰か言ってたらありましたね。<br>ありがとう輪円/円輪。</p>
+
+
+
+<h4 class="wp-block-heading">こんな風にしてる</h4>
+
+
+
+<p>最初からこの配置に散開しておいて、出てきてる像みて安地判断、からの処理位置判断してました。</p>
+
+
+
+<p>ドーナツが想定よりちょっとだけ小さめなのが罠。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/夜半_初期配置-jpg.webp"><img loading="lazy" decoding="async" width="644" height="490" src="/wp-content/uploads/2024/09/夜半_初期配置-644x490.webp" alt="" class="wp-image-1081" srcset="/wp-content/uploads/2024/09/夜半_初期配置-644x490.webp 644w, /wp-content/uploads/2024/09/夜半_初期配置-300x228.webp 300w, /wp-content/uploads/2024/09/夜半_初期配置-jpg.webp 651w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">供養</h4>
+
+
+
+<p>一番最初は「落ちてくるのが早い円でX字と十字に分かれて～・・・」って案がでてたのだけど、最初から境界線に立ってやる案が出てから楽ちんでした。ありがとうありがとう。</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="1082" src="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp" alt="" class="wp-image-1082" srcset="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp 644w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-300x169.webp 300w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-768x432.webp 768w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-700x394.webp 700w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="1083" src="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-644x362.webp" alt="" class="wp-image-1083" srcset="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-644x362.webp 644w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-300x169.webp 300w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-768x432.webp 768w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-700x394.webp 700w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+</figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">チェインライトニング</h3>
+
+
+
+<p>最近またDiablo4をしてるんだけど、チェインライトニングと言われるとDiabloを連想してしまう。とか思いながら処理してる。</p>
+
+
+
+<p>予兆みて避けるだけ。</p>
+
+
+
+<p>1つ目は最初からそこに立ってれば覚えなくていいので実質3つの記憶ゲーム。</p>
+
+
+
+<h4 class="wp-block-heading">問題はそこじゃない！</h4>
+
+
+
+<p>初見でここに辿り着いた時。</p>
+
+
+
+<p>直前にテイルスラスト（青：ノックバック）の予兆がきたんですよ。</p>
+
+
+
+<p>既にテイルスラストを見切っている我々はノックバック発生源となる赤丸印からフィールド中央側に飛ばされるように内側で待つじゃないですか。</p>
+
+
+
+<p>ノックバック発動を待ってたらフィールド中央に直線AoE予兆がでるから一旦当たらないように避けますよね。</p>
+
+
+
+<p>「あ～、これ直線AoE避けて直後にノックバック発生するから急いで内周に駆け込むってやつだな？」</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-large-font-size">とか思って駆け込んだら床が抜けてたわ！ｗ</p>
+
+
+
+<p>予想した全員が見事に！無防備に！抜けた床に飛び込んでいきましたｗ<br>床ぬけるとか聞いてないよ！ｗ</p>
+
+
+
+<p>開発者、ぜったい (・∀・)ﾆﾔﾆﾔ って笑ってたと思うわｗ</p>
+
+
+
+<h4 class="wp-block-heading">あと一連の最後のマスタードボム忘れがち</h4>
+
+
+
+<p>チェインライトニング処理して地面戻ってテイルスラスト処理した後のマスタードボム忘れがち問題。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">イオンクラスター＆【日出】</h3>
+
+
+
+<p>ギミック内容ひとつずつは既出でシンプルなので、立ち位置をどうするかというパズルゲームだった。</p>
+
+
+
+<h4 class="wp-block-heading">担当位置は塔も大砲も「THが西か南」「DPSが東か北」とした</h4>
+
+
+
+<p>東西を優先として対応したけど、南北優先として判断して近接DPSが前に位置する可能性増やしたほうがよかったかも？</p>
+
+
+
+<p>まぁ、私達がやってるいま（2024年9月3日（火））は装備も揃ってきてるから火力十分なのでそこまでシビアにする必要もないけどね。</p>
+
+
+
+<h5 class="wp-block-heading">判断順（THの場合）：</h5>
+
+
+
+<ul class="wp-block-list">
+<li>「3番」大砲を見る。
+<ul class="wp-block-list">
+<li>自分と違う色ならそこ担当。</li>
+
+
+
+<li>自分と同じ色なら「4番」大砲を見る。
+<ul class="wp-block-list">
+<li>自分と違う色ならそこ担当。</li>
+
+
+
+<li>自分と同じ色なら「2番」が担当位置。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h5 class="wp-block-heading">判断順（DPSの場合）：</h5>
+
+
+
+<ul class="wp-block-list">
+<li>「1番」大砲を見る。
+<ul class="wp-block-list">
+<li>自分と違う色ならそこ担当。</li>
+
+
+
+<li>自分と同じ色なら「2番」大砲を見る。
+<ul class="wp-block-list">
+<li>自分と違う色ならそこ担当。</li>
+
+
+
+<li>自分と同じ色なら「4番」が担当位置。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="487" src="/wp-content/uploads/2024/09/大砲担当位置の判断するやつ-644x487.webp" alt="" class="wp-image-1118" srcset="/wp-content/uploads/2024/09/大砲担当位置の判断するやつ-644x487.webp 644w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-300x227.webp 300w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-768x581.webp 768w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-700x530.webp 700w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-jpg.webp 928w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+
+
+
+<h4 class="wp-block-heading">大砲誘導は「塔がない辺（外向き）」としてみた</h4>
+
+
+
+<p>こんな感じで塔がない辺に向かって撃つ</p>
+
+
+
+<h5 class="wp-block-heading">東西に塔、南北に大砲を撃つ</h5>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-9.png"><img loading="lazy" decoding="async" width="460" height="347" src="/wp-content/uploads/2024/09/image-9.png" alt="" class="wp-image-1085" srcset="/wp-content/uploads/2024/09/image-9.png 460w, /wp-content/uploads/2024/09/image-9-300x226.png 300w" sizes="(max-width: 460px) 100vw, 460px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-8.png"><img loading="lazy" decoding="async" width="434" height="340" src="/wp-content/uploads/2024/09/image-8.png" alt="" class="wp-image-1084" srcset="/wp-content/uploads/2024/09/image-8.png 434w, /wp-content/uploads/2024/09/image-8-300x235.png 300w" sizes="(max-width: 434px) 100vw, 434px" /></a></figure>
+
+
+
+<h5 class="wp-block-heading">南北に塔、東西に大砲撃つ</h5>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-10.png"><img loading="lazy" decoding="async" width="456" height="344" src="/wp-content/uploads/2024/09/image-10.png" alt="" class="wp-image-1086" srcset="/wp-content/uploads/2024/09/image-10.png 456w, /wp-content/uploads/2024/09/image-10-300x226.png 300w" sizes="(max-width: 456px) 100vw, 456px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png"><img loading="lazy" decoding="async" width="449" height="591" src="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png" alt="" class="wp-image-1087" srcset="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png 449w, /wp-content/uploads/2024/09/大砲外向き_東西に撃つ-228x300.png 228w" sizes="(max-width: 449px) 100vw, 449px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">試してないけれど内周に向けるならこんな感じか？</h4>
+
+
+
+<p>試してないけどこっちでもいけそうな感じはありますね。</p>
+
+
+
+<h5 class="wp-block-heading">東西の塔の場合</h5>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-12.png"><img loading="lazy" decoding="async" width="644" height="487" src="/wp-content/uploads/2024/09/image-12-644x487.png" alt="" class="wp-image-1090" srcset="/wp-content/uploads/2024/09/image-12-644x487.png 644w, /wp-content/uploads/2024/09/image-12-300x227.png 300w, /wp-content/uploads/2024/09/image-12-700x529.png 700w, /wp-content/uploads/2024/09/image-12.png 753w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h5 class="wp-block-heading">南北の塔の場合</h5>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-11.png"><img loading="lazy" decoding="async" width="644" height="482" src="/wp-content/uploads/2024/09/image-11-644x482.png" alt="" class="wp-image-1089" srcset="/wp-content/uploads/2024/09/image-11-644x482.png 644w, /wp-content/uploads/2024/09/image-11-300x225.png 300w, /wp-content/uploads/2024/09/image-11-700x524.png 700w, /wp-content/uploads/2024/09/image-11.png 751w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">剣の舞</h3>
+
+
+
+<p>この感じで担当位置を決めておいて、横ラインで潰れる場合は前後にずれて横位置使うって感じで。</p>
+
+
+
+<pre class="wp-block-code"><code>（X字）
+MT/D1　　ST/D4
+
+H1/D3　　H2/D2</code></pre>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">クリア！お疲れ様でした！</h3>
+
+
+
+<p>2024-09-04（水）の活動日、残り0.1%でワイプしたのが24:00で。</p>
+
+
+
+<p>活動時間は0時までなのでその辺りはシビアにまた次回ねって解散しようとしたら、ひとりが「もう1回だけ…」って言うもんだから。</p>
+
+
+
+<p>0時すぎるけどやる？ってレディチェックしたら全員丸なのでじゃぁラストでってトライしたらクリアしましたわ笑</p>
+
+
+
+<p>みんなで「またこのパターンかーい」笑いましたわ。<br>（「じゃぁラストで」って言ったらクリアするジンクス）</p>
+
+
+
+<p>クリアおめでとう！ありがとう！みんなでがんばりました！</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562-644x270.png" alt="" class="wp-image-1126" srcset="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562-644x270.png 644w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-300x126.png 300w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-768x321.png 768w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-1536x643.png 1536w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-2048x857.png 2048w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/aji.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/aji-644x644.png" alt="" class="wp-image-1127" srcset="/wp-content/uploads/2024/09/aji-644x644.png 644w, /wp-content/uploads/2024/09/aji-300x300.png 300w, /wp-content/uploads/2024/09/aji-150x150.png 150w, /wp-content/uploads/2024/09/aji-768x768.png 768w, /wp-content/uploads/2024/09/aji-700x700.png 700w, /wp-content/uploads/2024/09/aji.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/ashley.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/ashley-644x644.png" alt="" class="wp-image-1128" srcset="/wp-content/uploads/2024/09/ashley-644x644.png 644w, /wp-content/uploads/2024/09/ashley-300x300.png 300w, /wp-content/uploads/2024/09/ashley-150x150.png 150w, /wp-content/uploads/2024/09/ashley-768x768.png 768w, /wp-content/uploads/2024/09/ashley-700x700.png 700w, /wp-content/uploads/2024/09/ashley.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/banana.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/banana-644x644.png" alt="" class="wp-image-1129" srcset="/wp-content/uploads/2024/09/banana-644x644.png 644w, /wp-content/uploads/2024/09/banana-300x300.png 300w, /wp-content/uploads/2024/09/banana-150x150.png 150w, /wp-content/uploads/2024/09/banana-768x768.png 768w, /wp-content/uploads/2024/09/banana-700x700.png 700w, /wp-content/uploads/2024/09/banana.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/maddie.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/maddie-644x644.png" alt="" class="wp-image-1130" srcset="/wp-content/uploads/2024/09/maddie-644x644.png 644w, /wp-content/uploads/2024/09/maddie-300x300.png 300w, /wp-content/uploads/2024/09/maddie-150x150.png 150w, /wp-content/uploads/2024/09/maddie-768x768.png 768w, /wp-content/uploads/2024/09/maddie-700x700.png 700w, /wp-content/uploads/2024/09/maddie.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/manjirou.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/manjirou-644x644.png" alt="" class="wp-image-1131" srcset="/wp-content/uploads/2024/09/manjirou-644x644.png 644w, /wp-content/uploads/2024/09/manjirou-300x300.png 300w, /wp-content/uploads/2024/09/manjirou-150x150.png 150w, /wp-content/uploads/2024/09/manjirou-768x768.png 768w, /wp-content/uploads/2024/09/manjirou-700x700.png 700w, /wp-content/uploads/2024/09/manjirou.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/teteo.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/teteo-644x644.png" alt="" class="wp-image-1132" srcset="/wp-content/uploads/2024/09/teteo-644x644.png 644w, /wp-content/uploads/2024/09/teteo-300x300.png 300w, /wp-content/uploads/2024/09/teteo-150x150.png 150w, /wp-content/uploads/2024/09/teteo-768x768.png 768w, /wp-content/uploads/2024/09/teteo-700x700.png 700w, /wp-content/uploads/2024/09/teteo.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/wataame.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/wataame-644x644.png" alt="" class="wp-image-1133" srcset="/wp-content/uploads/2024/09/wataame-644x644.png 644w, /wp-content/uploads/2024/09/wataame-300x300.png 300w, /wp-content/uploads/2024/09/wataame-150x150.png 150w, /wp-content/uploads/2024/09/wataame-768x768.png 768w, /wp-content/uploads/2024/09/wataame-700x700.png 700w, /wp-content/uploads/2024/09/wataame.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/yaso.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/yaso-644x644.png" alt="" class="wp-image-1134" srcset="/wp-content/uploads/2024/09/yaso-644x644.png 644w, /wp-content/uploads/2024/09/yaso-300x300.png 300w, /wp-content/uploads/2024/09/yaso-150x150.png 150w, /wp-content/uploads/2024/09/yaso-768x768.png 768w, /wp-content/uploads/2024/09/yaso-700x700.png 700w, /wp-content/uploads/2024/09/yaso.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">クリア後の情報解禁してから</h2>
+
+
+
+<p>2024-09-06（金）に他の解法などを見る会を行いました。</p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=zZDu5NY7DIo&amp;t=1121s" data-type="link" data-id="https://www.youtube.com/watch?v=zZDu5NY7DIo&amp;t=1121s" target="_blank" rel="noreferrer noopener">3層のアタッチ・フューズボムの時くらいのメリット</a>が感じられる解法を期待したけれどギミック内容的になかなか難しいですね。</p>
+
+
+
+<p>とは言え、やはり他の人の視点だとかは参考になる部分もあったので特に後半についてはいろいろ固定内で情報共有はしました。</p>
+
+
+
+<p>期待していた輪円/円輪については事故が多そうでそれを上回るメリットが感じられなかったので採用見送り。</p>
+
+
+
+<p>下で紹介している<strong>【日没】の馬の見方</strong>は良いなと思ったので使いたい人はやると良いと思います。</p>
+
+
+
+<p>以下、幾つかのギミックの感想。</p>
+
+
+
+<h3 class="wp-block-heading">輪円/円輪</h3>
+
+
+
+<p>「ロールごとに円輪/輪円の2パターンだけ立ち位置を覚えて、誘導が遠いはじまりか近いはじまりかを覚えなくて良い方法」</p>
+
+
+
+<p>この時点ではこれが流行りらしいですが、事故率が上がりそうなやり方なのと、そこまでシビアに殴れなくても火力は十分足りているので採用を見送りました。</p>
+
+
+
+<h3 class="wp-block-heading">エレクトロープ展開1回目</h3>
+
+
+
+<p>「3回目ビームの様子をみるだけで安地がわかる」はあまり知れていないのかな。</p>
+
+
+
+<p>近接が近づいて殴れるという情報は参考になったので今後は殴っていくかも知れない。</p>
+
+
+
+<h3 class="wp-block-heading">エレクトロープ展開2回目</h3>
+
+
+
+<p>途中のペア/頭割りの散開で近接が殴れる形が野良では流行っているようで、近接の人数やタンクの種類が変わるのでこれはそうだろうなぁという感想。</p>
+
+
+
+<p>うちの固定のジョブ構成の場合</p>
+
+
+
+<ul class="wp-block-list">
+<li>MT戦士と竜騎士は殴れる配置にした</li>
+
+
+
+<li>近接DPSは1名しかいない</li>
+
+
+
+<li>ナイトは丁度そのタイミングで遠隔魔法コンボになるので離れていてそれなりにダメージが出せる</li>
+</ul>
+
+
+
+<p>なので、これも配置は変えずにやることにしました。</p>
+
+
+
+<h3 class="wp-block-heading">（余談）後半のタンクLB使う所</h3>
+
+
+
+<p>これはクリア後に遊びで試したのですが、後半タンクLBをやめて近接LB3にしてみました。</p>
+
+
+
+<p>凌ぐのはできなくないけれど私（ナイト）とヒーラー2名の手が防御に回るのを上回るメリットがあるかと言われると、あんまりないかなという感触だったので採用見送り。</p>
+
+
+
+<h3 class="wp-block-heading">【日没】</h3>
+
+
+
+<p>「ブラックサバトで出てくるちび馬の向きは手じゃなくて尻尾を見ればいい」</p>
+
+
+
+<p>はなるほどと思いました。</p>
+
+
+
+<p>加えてこの方のnoteで拝見した「早く落ちてくる輪を斜めに両方みて・・・」というやり方がめちゃわかりやすかったです。これは採用！</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>サイドスパークは尻尾側が安置<br>サイドスパークしてくる分身を画面奥に見て<br>尻尾の向きが<br>→→だったら右へ<br>←←だったら左へ<br>→←だったら画面奥へ<br>←→だったら画面手前へ</p>
+<cite><a href="https://note.com/nocohouse/n/nb7b26bda2a5c#5e063a23-3304-4c4e-8c2c-accb85c5226e" data-type="link" data-id="https://note.com/nocohouse/n/nb7b26bda2a5c#5e063a23-3304-4c4e-8c2c-accb85c5226e" target="_blank" rel="noreferrer noopener">アルカディアL.H級零式で気をつけたこと4層編</a></cite></blockquote>
+
+
+
+<h3 class="wp-block-heading">（余談）テイルスラストがどっちからだかを外部記憶装置（チャット欄）に残すやつ</h3>
+
+
+
+<p>わたし1、2層のマクロでホットバーが埋まっていたのでしなかったのだけど、メンバーのひとりは /echo で残していたらしく。</p>
+
+
+
+<p>クリア後に聞いたのでパーティチャットに流してよ～とｗ</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="171" height="90" src="/wp-content/uploads/2024/09/image-13.png" alt="" class="wp-image-1181"/></figure>
+
+
+
+<p>こんな風に流してもらいました。</p>
+
+
+
+<h3 class="wp-block-heading">【日出】</h3>
+
+
+
+<p>野良も同じ様に外に向けて大砲誘導でした。</p>
+
+
+
+<p>こうなると内側誘導できないかなぁってチャレンジしたくなります笑</p>
+
+
+
+<h4 class="wp-block-heading">立ち位置に関して</h4>
+
+
+
+<p>私達は床の模様で立ち位置を認識していたのだけれど、「砲身先端の輪の模様付近に立ちつつ外周に誘導する」という考え方もあるみたいですね。</p>
+
+
+
+<p>これは有益な情報だったので固定内で情報共有しました。</p>
+
+
+
+<p>どちらでやっても解法という意味では同じですが、認識の仕方を複数知っているのはなにかの際の助けになるので。</p>
+
+
+
+<h2 class="wp-block-heading">おまけ：下限ILで行ってみた</h2>
+
+
+
+<p>現行零式は下限スイッチが利用できるので下限で4層行ってみました。</p>
+
+
+
+<p>被ダメに関しては絶望的な感じではなかったので事故なく殴れれば勝てそう？</p>
+
+
+
+<p>今度ちゃんと新式禁断装備でチャレンジしてみたいね～と言ってこの日は解散。</p>
+
+
+
+<p>（おわり）</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>FF14零式自力解明：アルカディアLH級3</title>
 		<link>/2024-08-19/ff14-blind-arcadia-lightheavy3/</link>
 		
@@ -272,7 +1774,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image-9.png"><img fetchpriority="high" decoding="async" width="641" height="646" src="/wp-content/uploads/2024/08/image-9.png" alt="" class="wp-image-973" srcset="/wp-content/uploads/2024/08/image-9.png 641w, /wp-content/uploads/2024/08/image-9-298x300.png 298w, /wp-content/uploads/2024/08/image-9-150x150.png 150w" sizes="(max-width: 641px) 100vw, 641px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image-9.png"><img loading="lazy" decoding="async" width="641" height="646" src="/wp-content/uploads/2024/08/image-9.png" alt="" class="wp-image-973" srcset="/wp-content/uploads/2024/08/image-9.png 641w, /wp-content/uploads/2024/08/image-9-298x300.png 298w, /wp-content/uploads/2024/08/image-9-150x150.png 150w" sizes="(max-width: 641px) 100vw, 641px" /></a></figure>
 
 
 
@@ -322,7 +1824,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-10.png"><img decoding="async" width="644" height="553" src="/wp-content/uploads/2024/08/image-10-644x553.png" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2024/08/image-10-644x553.png 644w, /wp-content/uploads/2024/08/image-10-300x258.png 300w, /wp-content/uploads/2024/08/image-10-768x659.png 768w, /wp-content/uploads/2024/08/image-10-700x601.png 700w, /wp-content/uploads/2024/08/image-10.png 821w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-10.png"><img loading="lazy" decoding="async" width="644" height="553" src="/wp-content/uploads/2024/08/image-10-644x553.png" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2024/08/image-10-644x553.png 644w, /wp-content/uploads/2024/08/image-10-300x258.png 300w, /wp-content/uploads/2024/08/image-10-768x659.png 768w, /wp-content/uploads/2024/08/image-10-700x601.png 700w, /wp-content/uploads/2024/08/image-10.png 821w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -358,7 +1860,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png" alt="" class="wp-image-1011" srcset="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png 644w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-300x169.png 300w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-768x432.png 768w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-700x394.png 700w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png" alt="" class="wp-image-1011" srcset="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png 644w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-300x169.png 300w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-768x432.png 768w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-700x394.png 700w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -414,7 +1916,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="678" data-id="1007" src="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png 644w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-285x300.png 285w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-768x809.png 768w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-700x737.png 700w, /wp-content/uploads/2024/08/零式フューズボム_散開_先.png 1308w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
 
 
@@ -513,7 +2015,7 @@
 <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png" alt="" class="wp-image-1017" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></figure></div>
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1019" src="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png" alt="" class="wp-image-1019" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 
 
@@ -531,7 +2033,7 @@
 
 
 
-<h3 class="wp-block-heading">アタッチ・フューズボム（ぐるぐる）は野良のやり方がめちゃ簡単</h3>
+<h3 class="wp-block-heading" id="guruguru-nora">アタッチ・フューズボム（ぐるぐる）は野良のやり方がめちゃ簡単</h3>
 
 
 
@@ -1064,7 +2566,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="931" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp" alt="" class="wp-image-931" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 </figure>
 
@@ -1910,7 +3412,7 @@ D1　ST　D2</code></pre>
 		
 			</item>
 		<item>
-		<title>FF14零式自力解明：アルカディアLH級（はじめに）</title>
+		<title>FF14零式自力解明：アルカディアLH級（まとめ）</title>
 		<link>/2024-07-30/ff14-blind-arcadia-lightheavy-00/</link>
 		
 		<dc:creator><![CDATA[wata]]></dc:creator>
@@ -1922,13 +3424,9 @@ D1　ST　D2</code></pre>
 		<category><![CDATA[零式]]></category>
 		<guid isPermaLink="false">/?p=884</guid>
 
-					<description><![CDATA[誰かのみつけた解法を予習してトレースするのではなく、せっかくだから自分たちでギミック処理の方法を考えたい、その過程も楽しみたい。 自力解明できるのは人生で一度だけ。貴重なその一回を楽しみたい。 ってことで自力解明の現行零...]]></description>
+					<description><![CDATA[・‥…━…‥・‥…━…‥神々に愛されし地エオルゼアに残された最後のフロンティア「高難易度コンテンツ ・ 未予習 ・ 自力解明」 次に何がくるかわからないドキドキ感。「このギミックをどう攻略しよう？」というパズルを解く楽し...]]></description>
 										<content:encoded><![CDATA[
-<p>誰かのみつけた解法を予習してトレースするのではなく、せっかくだから自分たちでギミック処理の方法を考えたい、その過程も楽しみたい。</p>
-
-
-
-<p>自力解明できるのは人生で一度だけ。貴重なその一回を楽しみたい。</p>
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-52c583a895ad8f27de296985c94a117f">・‥…━…‥・‥…━…‥<br>神々に愛されし地エオルゼアに残された最後のフロンティア<br>「高難易度コンテンツ ・ 未予習 ・ 自力解明」<br><br>次に何がくるかわからないドキドキ感。<br>「このギミックをどう攻略しよう？」というパズルを解く楽しさ。<br>みんなで考えた攻略法がピタッとハマって先に進めた時の高揚感！<br><br>そして「進んだ！」と思ったらまたわけのわからないものがきて<br>「わー！」とか叫びながらワイプしたい！（したくない！）<br><br>そのコンテンツを自力解明で楽しめるのは人生で1度だけ！<br>・‥…━…‥・‥…━…‥</p>
 
 
 
@@ -1953,24 +3451,208 @@ D1　ST　D2</code></pre>
 
 
 
-<li>アルカディア零式LH級4 の記録</li>
+<li><a href="https://note.nyaon.jp/2024-09-04/ff14-blind-arcadia-lightheavy4/" data-type="link" data-id="https://note.nyaon.jp/2024-09-04/ff14-blind-arcadia-lightheavy4/">アルカディア零式LH級4 の記録</a></li>
 </ul>
 
 
 
-<h2 class="wp-block-heading">固定パーティでやってます</h2>
+<h2 class="wp-block-heading">なぜ自力解明をするのか</h2>
 
 
 
-<p>募集要項はこんな感じ：<a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/" data-type="link" data-id="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/">ロドスト日記</a></p>
+<p>え、初見未予習でワーワーするの楽しいじゃん？</p>
 
 
 
-<p>絶に行くわけではないので零式はじめての人でもどうぞって感じ。<br>自力解明自体の経験有無は特に関係なく募集してました。</p>
+<p>情報収集から創意工夫する時間、パズルを解いていく楽しみ、うまくいった時の高揚感、そういったものを味わいたくて遊んでるから～。</p>
 
 
 
-<h3 class="wp-block-heading">自力解明のしかた</h3>
+<h4 class="wp-block-heading">これを書いている私</h4>
+
+
+
+<ul class="wp-block-list">
+<li>ここ数年の極は自力解明＋下限でやってます。</li>
+
+
+
+<li>過去零式を3？4？つ程、下限の自力解明でやりました。<br>この経験があったので零式の自力解明もそこまで無理のある遊びではないと知ってました。</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">なぜこの投稿をしているのか</h2>
+
+
+
+<p>高難易度でも自力解明したいなという人がいた時に、何かの参考になるかなってことで。<br>あなたがそうしたいのなら高難易度で自力解明して遊んで良いんだよ、と残したい。</p>
+
+
+
+<p>自力解明といっても思っているほど敷居の高いものでもないよ。</p>
+
+
+
+<h3 class="wp-block-heading">風潮ってのはプレイヤー自身がつくっていくものだと思うよ</h3>
+
+
+
+<p>「FF14は予習してからコンテンツにいくのが当たり前。常識。」みたいに言う人がいるけれど、単にシチュエーションだとか自分がどう楽しみたいかって話なだけだと思います。</p>
+
+
+
+<p>自分のしたいことと予習して臨むことがマッチしているならすればいい。<br>（わたしも必要なら予習してコンテンツ行くことあるもの）</p>
+
+
+
+<p>それと同じ感覚で「未予習、自力解明でチャレンジしたい」と思えばそうすればいいと思うよ～。</p>
+
+
+
+<h3 class="wp-block-heading">とはいえいろんな理由で自力解明している人は少ない、だから自力解明している人もいるってことは残しておきたい</h3>
+
+
+
+<p>自分は自力解明が好き。事情が許すならどのコンテンツもそうしたい。</p>
+
+
+
+<p>それには自力解明が好きな人口が増えれば良い。<br>自力解明自体がそんなに構えなくても楽しめるものになればいい。</p>
+
+
+
+<p>「自力解明が好きな人、している人は、世の中にちゃんといるよ！」てのが少しでも広まればいいかなって思う。</p>
+
+
+
+<p>ちなみに私は「下限で遊びたい」から下限で遊ぶ人のCWLSをつくりました。<br>その中には自力解明好きもたくさんいます。</p>
+
+
+
+<p>世の中結構自力解明に飢えていると思ってます笑</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">実は戦闘不慣れな人こそ自力解明パーティおすすめなのでは？</h2>
+
+
+
+<p>最近そんな風に思ってます。</p>
+
+
+
+<p>予習ありきのパーティだった場合、人によって予習の精度に差が出ることは良くあります。<br>同じ資料を確認してきても人によって理解の深さや細かさが違い、その差でパーティ内での進捗差や温度感の差になることもあります。</p>
+
+
+
+<p>一方で自力解明の場合、全員ができるようにならないとその先は未知です。</p>
+
+
+
+<p>未知のフェーズになればまた全員がゼロから一緒に練習していくことになるので、進捗の差が生まれにくいのかな～と。</p>
+
+
+
+<p>それに自力解明で1つのギミックずつゆっくり進むので、1つずつのギミックへの理解を深めながら進められる事にもなると思ってます。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">今回の活動ペースとクリアまでの時間</h2>
+
+
+
+<h3 class="wp-block-heading">活動ペース</h3>
+
+
+
+<ul class="wp-block-list">
+<li>週に4日。</li>
+
+
+
+<li>1日 2時間（22時～24時）。</li>
+
+
+
+<li>曜日固定（火水金日）</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">1層～4層踏破までの時間</h3>
+
+
+
+<ul class="wp-block-list">
+<li>零式実装日（2024/07/30）から開始。</li>
+
+
+
+<li>2024-09-04(水)に4層踏破。</li>
+
+
+
+<li>活動日数：22日
+<ul class="wp-block-list">
+<li>消化日も含みます。</li>
+
+
+
+<li>累計33.5時間ちょっと。</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">各層のクリアまでの時間</h3>
+
+
+
+<ul class="wp-block-list">
+<li>1層：3時間</li>
+
+
+
+<li>2層：6.5時間</li>
+
+
+
+<li>3層：8時間</li>
+
+
+
+<li>4層：16時間</li>
+</ul>
+
+
+
+<p>※消化とか装備更新とかもあったのでおおよその時間です。</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">うちは自力解明こんな風にしてました</h2>
+
+
+
+<h3 class="wp-block-heading">基本的にしていることは</h3>
 
 
 
@@ -1996,7 +3678,29 @@ D1　ST　D2</code></pre>
 
 
 
-<h4 class="wp-block-heading">使うもの</h4>
+<h3 class="wp-block-heading">重要視してたこと</h3>
+
+
+
+<ul class="wp-block-list">
+<li>とにかくタイムラインを進めること（先のギミックを少しでも見る為）</li>
+
+
+
+<li>8人そろってギミックに到達すること（じゃないと仕組みがわからない）</li>
+</ul>
+
+
+
+<p>時間切れが見れるまでは基本的にこれらを最重視してました。</p>
+
+
+
+<p>ギミックの対処法が決まり、時間切れ行けるくらい慣れた頃には火力は自然と出るので。<br>（これはトレースでの挑戦でも同じだとは思ってます）</p>
+
+
+
+<h3 class="wp-block-heading">ゲーム以外で使ったもの</h3>
 
 
 
@@ -2018,7 +3722,246 @@ D1　ST　D2</code></pre>
 
 
 
-<h2 class="wp-block-heading">MTはダイスで決めてます</h2>
+<p>当たり前だし必要もないのでログ解析するようなものは使ってないです。</p>
+
+
+
+<h3 class="wp-block-heading">タイムラインはGoogleスプレッドシートで共有してました</h3>
+
+
+
+<p>FF14の自力解明は時間切れまでのタイムラインをつくる作業ともいえるかもしれません。</p>
+
+
+
+<p>簡単なコンテンツなら単にギミック名を並べるだけでもいいかもですが、ちゃんと秒数まであるタイムラインがつくれると軽減やバフの計画もしやすいです。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="300" height="170" src="/wp-content/uploads/2024/07/image-2.png" alt="" class="wp-image-1153"/></figure>
+
+
+
+<p>プレイの録画をみながらちまちまと秒数をいれていく作業。</p>
+
+
+
+<h3 class="wp-block-heading">Discordに準備したチャンネルはこんな感じ</h3>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<ul class="wp-block-list">
+<li>カテゴリ：一般
+<ul class="wp-block-list">
+<li>ルール・方針</li>
+
+
+
+<li>挑戦予定日</li>
+
+
+
+<li>メンバー紹介な部屋</li>
+
+
+
+<li>写真とか動画とか</li>
+
+
+
+<li>活動に関する連絡とか</li>
+
+
+
+<li>ざつだん全般</li>
+</ul>
+</li>
+
+
+
+<li>攻略（その他全般）</li>
+
+
+
+<li>カテゴリ：4層
+<ul class="wp-block-list">
+<li>4層_雑談</li>
+
+
+
+<li>4層_戦術打ち合わせ</li>
+
+
+
+<li>4層_ギミックまとめ</li>
+
+
+
+<li>4層_次回これ試そう</li>
+</ul>
+</li>
+
+
+
+<li>カテゴリ：個室
+<ul class="wp-block-list">
+<li>（メンバーごとの名前の部屋が8つあります）</li>
+</ul>
+</li>
+
+
+
+<li>カテゴリ：ロール別の部屋
+<ul class="wp-block-list">
+<li>タンク</li>
+
+
+
+<li>ヒーラー</li>
+
+
+
+<li>DPS全般</li>
+
+
+
+<li>近接DPS</li>
+
+
+
+<li>遠隔DPS</li>
+
+
+
+<li>ギャザクラ</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+
+
+
+<p>例として4層のみ書いていますが1層～3層のもあります。<br>クリア済みの層は下に移動させてました。</p>
+
+
+
+<h4 class="wp-block-heading">「4層_戦術打ち合わせ」はフォーラム型チャンネルをつかってました。</h4>
+
+
+
+<p>フォーラム型チャンネルはDiscordのサーバーをコミュニティサーバーに変更しておくと使えます。</p>
+
+
+
+<p>各ギミック毎のスレッドを作って、そこで見た事実だとか、処理法の案だとかを打ち合わせしてました。<br>ギミック毎の情報が混ざらずに打ち合わせできたので良かったです。</p>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="440" height="413" src="/wp-content/uploads/2024/07/image-3.png" alt="" class="wp-image-1154" srcset="/wp-content/uploads/2024/07/image-3.png 440w, /wp-content/uploads/2024/07/image-3-300x282.png 300w" sizes="(max-width: 440px) 100vw, 440px" /></figure></div>
+
+
+<p>ギミック名に番号も振っておくとギミック順番もわかりやすかった・・・かな？</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">その他</h2>
+
+
+
+<h3 class="wp-block-heading">固定パーティでした</h3>
+
+
+
+<p>自力解明かつ都度募集で過去零式を下限でやったこともあるのですが流石に進みは遅くなるので、今回は固定パーティで挑みました。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>【自力解明】7.0零式固定メンバーひとり募集【早期じゃないよ】</p>
+<cite><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/" data-type="link" data-id="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/5401532/">パーティ募集のロドスト日記</a></cite></blockquote>
+
+
+
+<p>零式の固定パーティ自体は何度か組んだことがあり、零式未経験でも時間をかければクリア出来ることは経験から知ってました。</p>
+
+
+
+<p>なので今回も現行零式自体がはじめての人でもどうぞって感じで募集してました。<br>自力解明自体の経験有無も特に関係なく募集してました。</p>
+
+
+
+<p>ジョブ構成も被らなければ好きなジョブをやればいいと募集してました。<br>近接の人数も特に拘らず。</p>
+
+
+
+<p>あ！<br>今回わたしがエフェクト可愛いのを見たいが為に「ピクトマンサーをひとりいれる」だけは指定しました笑<br>黄金リリース前の募集段階では強いかどうかはわからなかったので、<strong>完全に趣味です</strong>。</p>
+
+
+
+<h4 class="wp-block-heading">蓋を開けてみればつよつよメンバーが集まりすぎた</h4>
+
+
+
+<p>現地でも日をまたいでも、「こうしようか」と打ち合わせしたことはそつなくきっちりこなす人たちだったので、見たフェーズは1回～数回で超えられて毎日先のフェーズが見られてました。</p>
+
+
+
+<p>進んでる感があったので気持ち的に楽でした。</p>
+
+
+
+<h4 class="wp-block-heading">ジョブ構成</h4>
+
+
+
+<ul class="wp-block-list">
+<li>ナイト</li>
+
+
+
+<li>戦士/ガンブレ</li>
+
+
+
+<li>白魔道士</li>
+
+
+
+<li>学者</li>
+
+
+
+<li>竜騎士</li>
+
+
+
+<li>ピクトマンサー</li>
+
+
+
+<li>踊り子</li>
+
+
+
+<li>召喚士</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">MTはダイスで決めてました</h3>
+
+
+
+<p>概ね私の趣味。<br>普段から戦術的に成立しない場面が発生しないならどのジョブがMTでも良いって考えなので。</p>
+
+
+
+<p>初週クリアを目指すわけではないしMTはどちらでもって感じで、二人が2層ずつ受け持つようにしました。</p>
 
 
 
@@ -2026,53 +3969,19 @@ D1　ST　D2</code></pre>
 
 
 
-<p>その結果今回は</p>
+<p>その結果今回は以下のような形でチャレンジしました。</p>
 
 
 
-<p>1層：ナイトMT、戦士ST<br>2層：戦士MT、ナイトST<br>3層：ナイトMT、ガンブレST（戦士が着替えた）<br>4層：ガンブレMT、ナイトST</p>
+<p>1層：ナイトMT、戦士ST<br>2層：戦士MT、ナイトST<br>3層：ナイトMT、ガンブレST（戦士が着替えた）<br>4層：戦士MT、ナイトST</p>
 
 
 
-<p>でチャレンジしてます。</p>
+<h2 class="wp-block-heading">以上です</h2>
 
 
 
-<h2 class="wp-block-heading">活動ペースとクリアに要した時間</h2>
-
-
-
-<ul class="wp-block-list">
-<li>週4、各2時間（火水金日の曜日固定）</li>
-
-
-
-<li>クリアに要した時間
-<ul class="wp-block-list">
-<li>以下の時間はゲーム内でトライした時間であって、実際は解法の検討などはこの時間外で行っている。</li>
-
-
-
-<li>消化時間、装備更新、写真撮影、休憩などもあるのでざっくりこれくらいって感じの時間。</li>
-
-
-
-<li>1層：180分（3時間）くらいでクリア。</li>
-
-
-
-<li>2層：390分（6.5時間）くらい？</li>
-
-
-
-<li>3層：480分（8時間）くらい？</li>
-</ul>
-</li>
-</ul>
-
-
-
-<p></p>
+<p>もしかしたら後日追記するかも？</p>
 ]]></content:encoded>
 					
 		
@@ -2192,71 +4101,6 @@ D1　ST　D2</code></pre>
 
 
 <p>ところで風脈とスプライト見間違えるの腹立たしいけど笑っちゃうから好きｗ</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>カントリーハウス（M）できたよ～</title>
-		<link>/2024-07-26/country-house-wall-finished/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Fri, 26 Jul 2024 01:03:07 +0000</pubDate>
-				<category><![CDATA[FF14旅の記録]]></category>
-		<guid isPermaLink="false">/?p=785</guid>
-
-					<description><![CDATA[うほほーい これが こう！ あれ、なんか小さくなった・・・？ とか思ったんですけど屋根の上になんか席が出来てました。眺めがめちゃいい！ うほほーい。 今回はじめてカンパニークラフトで家の外装を作ったけれど6段階くらいあっ...]]></description>
-										<content:encoded><![CDATA[
-<p>うほほーい</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/07/ffxiv_20240725_220625_689.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/07/ffxiv_20240725_220625_689-644x270.png" alt="" class="wp-image-786" srcset="/wp-content/uploads/2024/07/ffxiv_20240725_220625_689-644x270.png 644w, /wp-content/uploads/2024/07/ffxiv_20240725_220625_689-300x126.png 300w, /wp-content/uploads/2024/07/ffxiv_20240725_220625_689-768x321.png 768w, /wp-content/uploads/2024/07/ffxiv_20240725_220625_689-1536x643.png 1536w, /wp-content/uploads/2024/07/ffxiv_20240725_220625_689-2048x857.png 2048w, /wp-content/uploads/2024/07/ffxiv_20240725_220625_689-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
-
-
-<p>これが</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/07/ffxiv_20240725_220844_625.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/07/ffxiv_20240725_220844_625-644x270.png" alt="" class="wp-image-788" srcset="/wp-content/uploads/2024/07/ffxiv_20240725_220844_625-644x270.png 644w, /wp-content/uploads/2024/07/ffxiv_20240725_220844_625-300x126.png 300w, /wp-content/uploads/2024/07/ffxiv_20240725_220844_625-768x321.png 768w, /wp-content/uploads/2024/07/ffxiv_20240725_220844_625-1536x643.png 1536w, /wp-content/uploads/2024/07/ffxiv_20240725_220844_625-2048x857.png 2048w, /wp-content/uploads/2024/07/ffxiv_20240725_220844_625-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
-
-
-<p>こう！</p>
-
-
-
-<p>あれ、なんか小さくなった・・・？</p>
-
-
-
-<p>とか思ったんですけど屋根の上になんか席が出来てました。<br>眺めがめちゃいい！</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/07/ffxiv_20240725_221702_633.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/07/ffxiv_20240725_221702_633-644x270.png" alt="" class="wp-image-789" srcset="/wp-content/uploads/2024/07/ffxiv_20240725_221702_633-644x270.png 644w, /wp-content/uploads/2024/07/ffxiv_20240725_221702_633-300x126.png 300w, /wp-content/uploads/2024/07/ffxiv_20240725_221702_633-768x321.png 768w, /wp-content/uploads/2024/07/ffxiv_20240725_221702_633-1536x643.png 1536w, /wp-content/uploads/2024/07/ffxiv_20240725_221702_633-2048x857.png 2048w, /wp-content/uploads/2024/07/ffxiv_20240725_221702_633-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
-
-
-<p></p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/07/ffxiv_20240725_221915_169.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/07/ffxiv_20240725_221915_169-644x270.png" alt="" class="wp-image-790" srcset="/wp-content/uploads/2024/07/ffxiv_20240725_221915_169-644x270.png 644w, /wp-content/uploads/2024/07/ffxiv_20240725_221915_169-300x126.png 300w, /wp-content/uploads/2024/07/ffxiv_20240725_221915_169-768x321.png 768w, /wp-content/uploads/2024/07/ffxiv_20240725_221915_169-1536x643.png 1536w, /wp-content/uploads/2024/07/ffxiv_20240725_221915_169-2048x857.png 2048w, /wp-content/uploads/2024/07/ffxiv_20240725_221915_169-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
-
-
-<p>うほほーい。</p>
-
-
-
-<p>今回はじめてカンパニークラフトで家の外装を作ったけれど6段階くらいあったのかな？<br>最初が素材27必要だったので大変だと思ってたんだけど後半は9とか（品質あがって6とか）しか求められなかった。</p>
-
-
-
-<p>あと丁度黄金のレガシーでレベリング中に軍票余ってたのでグラスファイバー沢山交換済みだったのと、ギャザクラレベリング中の素材ストックがあったのでわりとすぐできました。<br>ラッキー。</p>
-
-
-
-<p>庭の作り込みはぴよもちにお任せしよう。</p>
 ]]></content:encoded>
 					
 		
