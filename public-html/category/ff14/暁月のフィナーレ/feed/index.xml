@@ -12,7 +12,7 @@
 	<atom:link href="/category/ff14/%E6%9A%81%E6%9C%88%E3%81%AE%E3%83%95%E3%82%A3%E3%83%8A%E3%83%BC%E3%83%AC/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 12 Jul 2023 05:18:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Oct 2024 06:00:31 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>参考：暁月アライアンス「ほんとに24人初見、未予習」で「下限『ステータス』調整」の募集</title>
+		<link>/2024-10-15/memo-endwalker-new-aliance-fresh-blind-min-ilvl/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 06:00:31 +0000</pubDate>
+				<category><![CDATA[24人レイド]]></category>
+		<category><![CDATA[FF14]]></category>
+		<category><![CDATA[下限風味]]></category>
+		<category><![CDATA[暁月のフィナーレ]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<guid isPermaLink="false">/?p=1214</guid>
+
+					<description><![CDATA[初見未予習限定「下限風味」暁月24人レイドhttps://jp.finalfantasyxiv.com/lodestone/character/25258283/event/59641 2年半前に私がやったやつ。7.1で...]]></description>
+										<content:encoded><![CDATA[
+<p><strong>初見未予習限定「下限風味」暁月24人レイド</strong><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/59641">https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/59641</a></p>
+
+
+
+<p>2年半前に私がやったやつ。<br>7.1でも似た感じでやるかな、と。</p>
+
+
+
+<p>「平均ILが下限」は「下限ILのステータス値」とは違うので、ちゃんと調整してやった。<br>かつ<br>なるべく集めやすいようにってことでこんな調整にしてた。</p>
+
+
+
+<p>最近メンツが戦闘慣れしすぎているので、もう少しステータス落としてもいいかもしれない。</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>暁月ネタバレ的な話（Lv86あたりのサブクエ）</title>
 		<link>/2023-07-12/%e6%9a%81%e6%9c%88%e3%83%8d%e3%82%bf%e3%83%90%e3%83%ac%e7%9a%84%e3%81%aa%e8%a9%b1%ef%bc%88lv86%e3%81%82%e3%81%9f%e3%82%8a%e3%81%ae%e3%82%b5%e3%83%96%e3%82%af%e3%82%a8%ef%bc%89/</link>
 		
