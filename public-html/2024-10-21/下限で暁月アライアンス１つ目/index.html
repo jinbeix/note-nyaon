@@ -74,8 +74,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <!-- jquery & iScroll -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
 <!-- drawer.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script><meta name="generator" content="performance-lab 3.3.1; plugins: webp-uploads">
-<meta name="generator" content="webp-uploads 2.0.2">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script><meta name="generator" content="performance-lab 3.5.1; plugins: webp-uploads">
+<meta name="generator" content="webp-uploads 2.2.0">
 	<style type="text/css">/* Colors */</style>
 	
 <!-- OGP -->
@@ -539,6 +539,10 @@ blockquote{
 			<div class="nav-previous">
 <div class="post-nav-title">古い投稿</div>
 <a href="/2024-10-15/memo-endwalker-new-aliance-fresh-blind-min-ilvl/" rel="prev">参考：暁月アライアンス「ほんとに24人初見、未予習」で「下限『ステータス』調整」の募集</a>
+</div>
+<div class="nav-next">
+<div class="post-nav-title">新しい投稿</div>
+<a href="/2024-10-22/starting-your-journey-as-a-healer/" rel="next">ヒーラーをがんばりはじめたあなたへ</a>
 </div>		</div>
 <!-- .nav-links -->
 	</nav><!-- .post-navigation -->
@@ -666,6 +670,7 @@ Theme: <a href="http://themegraphy.com/wordpress-themes/write/" target="_blank" 
 <script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/skip-link-focus-fix.js?ver=20160525" id="write-skip-link-focus-fix-js"></script>
 <script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/doubletaptogo.js?ver=1.0.0" id="double-tap-to-go-js"></script>
 <script type="text/javascript" src="/wp-content/themes/write-child-NyaonNote/js/functions.js?ver=20190226" id="write-functions-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/easy-fancybox/vendor/purify.min.js?ver=6.6.2" id="fancybox-purify-js"></script>
 <script type="text/javascript" src="/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.js?ver=6.6.2" id="jquery-fancybox-js"></script>
 <script type="text/javascript" id="jquery-fancybox-js-after">
 /* <![CDATA[ */
@@ -675,12 +680,12 @@ var easy_fancybox_handler=function(){
 jQuery([".nolightbox","a.wp-block-file__button","a.pin-it-button","a[href*='pinterest.com\/pin\/create']","a[href*='facebook.com\/share']","a[href*='twitter.com\/share']"].join(',')).addClass('nofancybox');
 jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
 /* IMG */
-						var unlinkedImageBlocks=jQuery(".wp-block-image > img:not(.nofancybox)");
+						var unlinkedImageBlocks=jQuery(".wp-block-image > img:not(.nofancybox,figure.nofancybox>img)");
 						unlinkedImageBlocks.wrap(function() {
 							var href = jQuery( this ).attr( "src" );
 							return "<a href='" + href + "'><\/a>";
 						});
-var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a),area[href*=".png" i]:not(.nofancybox),a[href*=".webp" i]:not(.nofancybox,li.nofancybox>a),area[href*=".webp" i]:not(.nofancybox),a[href*=".jpeg" i]:not(.nofancybox,li.nofancybox>a),area[href*=".jpeg" i]:not(.nofancybox)');
+var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".png" i]:not(.nofancybox),a[href*=".webp" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".webp" i]:not(.nofancybox),a[href*=".jpeg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpeg" i]:not(.nofancybox)');
 fb_IMG_select.addClass('fancybox image').attr('rel','gallery');
 jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'transition':'elastic','transitionIn':'elastic','transitionOut':'elastic','opacity':false,'hideOnContentClick':false,'titleShow':false,'titlePosition':'over','titleFromAlt':false,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false,'mouseWheel':'true','changeSpeed':250,'changeFade':300}))});
 };};

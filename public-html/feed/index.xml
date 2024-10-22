@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Mon, 21 Oct 2024 00:32:42 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Oct 2024 04:34:15 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,340 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ヒーラーをがんばりはじめたあなたへ</title>
+		<link>/2024-10-22/starting-your-journey-as-a-healer/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Tue, 22 Oct 2024 04:28:23 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[雑記]]></category>
+		<guid isPermaLink="false">/?p=1236</guid>
+
+					<description><![CDATA[これは2021/11/16に私がロドスト日記に掲載した内容と同じです。 https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/4890772/ ...]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>これは2021/11/16に私がロドスト日記に掲載した内容と同じです。</p>
+<cite><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/4890772/">https://jp.finalfantasyxiv.com/lodestone/character/25258283/blog/4890772/</a></cite></blockquote>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/f2/df/f2df79a0cbdbc0bfdc0c9321e232faa5e22b739d_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FEJCWMiaQAAhF8w?format=jpg&amp;name=large"></a></p>
+
+
+
+<p>ヒーラーをがんばりはじめたあなたへ</p>
+
+
+
+<p>（タンクとヒーラーで長く冒険している私から、ゲーム不慣れでヒーラーはじめたてのフレへ）</p>
+
+
+
+<h2 class="wp-block-heading"><strong>■はじめに</strong></h2>
+
+
+
+<p>これから様々な状況でプレイすることになるでしょうから、一律「こうすればいい」という事は言えません。タンク以上に状況分析、把握、それに合わせた戦い方を選ぶ必要があるかもしれません。</p>
+
+
+
+<ul class="wp-block-list">
+<li>パーティメンバーの慣れ、不慣れ。</li>
+
+
+
+<li>パーティメンバーの装備の充実度。</li>
+
+
+
+<li>行くコンテンツの種類、場所。</li>
+
+
+
+<li>コンテンツ突入時の設定（制限解除／シンク／下限）</li>
+</ul>
+
+
+
+<p>これだけの組み合わせがあるわけだから「状況による」としか言えないよ。<br>そしてそれは場数を踏むことで慣れていくしかないです。</p>
+
+
+
+<p><strong>一朝一夕で出来るようになるとか諦めてください。</strong></p>
+
+
+
+<p>なのでここでは「状況によらなさそうなこと」を書くよ。</p>
+
+
+
+<p>冒険者の血を吸って成長するの。それがヒーラーというイキモノ。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/cc/04/cc041b11f4beb9ee0801b6e253b2136e973859bf_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FEJCgMcacAAiGDM?format=jpg&amp;name=large"></a></p>
+
+
+
+<p>※以下、白のスキルで書いてます。</p>
+
+
+
+<h2 class="wp-block-heading"><strong>■参考URL：公式ジョブガイド「白魔道士」</strong></h2>
+
+
+
+<p><a href="https://jp.finalfantasyxiv.com/jobguide/whitemage/" target="_blank" rel="noreferrer noopener">https://jp.finalfantasyxiv.com/jobguide/whitemage/</a><br>細かい数字は面倒なんでここで自分で調べること。<br>いきなり見てもわからないだろうから試したり下のを読んだりしてから確認すると良いかもね。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/26/cd/26cd9224471bc2247f8a8cdacf924432487d290a_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FEJCe8PakAIAAhJ?format=jpg&amp;name=large"></a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>■基本的な心構え</strong></h2>
+
+
+
+<h3 class="wp-block-heading">（１）ヒールしろ！いいからヒールしろ。タンクと自分の命を守れ！</h3>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/0e/0e/0e0e6d4b43aac8828f14f4efee37d93b9be85752_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FEOoXC9aAAIJQUr?format=jpg&amp;name=large"></a></p>
+
+
+
+<p>いや、ほんとに。</p>
+
+
+
+<p>すこし慣れた人は「ヒーラーも攻撃しなきゃ」とか言いますけど、そういうのは一旦忘れていいです。あなたまだ不慣れなんだから攻撃とかしなくていいです。</p>
+
+
+
+<p>色んな事が不慣れなのは構わないです。でも攻撃しててヒール足りないとかは本末転倒です。あたなヒーラーなんですから。それをまず忘れないでください。</p>
+
+
+
+<p>レベルカンストしても初見や不慣れコンテンツならヒールに重点おいて戦った方が安全です。お忘れなく。</p>
+
+
+
+<h3 class="wp-block-heading">（２）状況を常に冷静に観察し認識しろ。考えるのを止めるな！</h3>
+
+
+
+<p>最初に書きましたが、様々な状況があるので誰かが死んだとしても「本当に100%自分のミスだったのか。」はちゃんと分析して認識しましょう。</p>
+
+
+
+<p>ろくに装備が揃っていないタンクやDPSなパーティで無茶なまとめ進行してて全滅したとしても、それは状況判断できてないタンクのせいかもしれません。そんな状況でヒールしきれなくても仕方ない。そんなもん気にすんな。</p>
+
+
+
+<p>でも誰かが死んだなら必ず何が悪かったのか分析、あるいは想像しましょう。自分にも改善の余地があるのかどうか考えてください。その余地があるなら次に活かせばいいです。</p>
+
+
+
+<p>敵が沢山きたり普段と違うことが起こると、パニックになるかもしれません。<br>まー、それは場数を踏んで慣れるしかないんじゃないですかね。</p>
+
+
+
+<p>そもそもの心構えとして<br>「ヒールしきれなくて誰かが死んだり全滅することもあるさー、人間だもの。」<br>とか思っておくとパニックにならずに冷静に見れるかもね。（死にゆく様を）</p>
+
+
+
+<h3 class="wp-block-heading">（３）手持ちのカードは全部使えるようにしとけ！</h3>
+
+
+
+<p>どんなシチュエーションでも対応できるように、自分の使えるアクションは全て準備し、どういう特徴があるか把握しておきましょう。</p>
+
+
+
+<p>なお、回復量だとかそのヒールでどの程度タンクがもつかは、やっぱりその時の状況によるので、数値的なものよりその魔法の特徴や使い所を把握しておいたほうがいいかもです。</p>
+
+
+
+<p>どんなに泥臭くても非効率でもスタイリッシュじゃなくても手持ちのカード全て使い切ったとしても、パーティを回復して支えるのがあなたの役割です。それができればまずは合格です。それを忘れないで。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/5c/02/5c028680e3514e88c51aa46fa1c08895466fa6a7_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FET-0xraUAAbsCo?format=jpg&amp;name=large"></a></p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/55/0e/550e359aae4e7d89c17cf8ba099409933066aa88_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FET-1yXaQAAVQF0?format=jpg&amp;name=large"></a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>■命の優先順位</strong></h2>
+
+
+
+<p>みんなを平等に愛せるといいよね。でも残念ながらヒーラーには優先する命が存在します。救えない命もあります。心を鬼にして見捨てることも必要です。</p>
+
+
+
+<pre class="wp-block-code"><code>（先に回復／蘇生）<br><strong>▲<br>│メインタンク、自分<br>│他のヒーラー、蘇生出来るDPS<br>│サブタンク、他<br>▼</strong><br>（あとまわし）</code></pre>
+
+
+
+<p>かな～。</p>
+
+
+
+<p><strong>メインタンク</strong>：減ったらヒール。ヒールしすぎくらいで良いです。<br><strong>自分</strong>：生きろ。自分が死んだら誰がパーティを支えるんだ！<br><strong>他のヒーラー</strong>：一緒にヒールしてくれる。蘇生もできる。助かる。<br><strong>蘇生出来るDPS</strong>：蘇生してくれるはず。そしたらヒールに専念できる。<br><strong>サブタンク</strong>：タンク二人必要なシーンもあるので要注意。<br><strong>その他</strong>：被弾しないことを祈ろう。</p>
+
+
+
+<p>選ばなければならない場面になったら優先度高い方を救いましょう。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/da/92/da92a9031a27349d6742e19bf604a099f2f4855c_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FEUA4h9aAAAtwod?format=jpg&amp;name=large"></a></p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/ae/84/ae842548472bb3504c2ba069eb1593efbdae85f8_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FET-3W7aIAAuLYH?format=jpg&amp;name=large"></a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>■自分の回復手段を把握しよう</strong></h2>
+
+
+
+<p>回復魔法は以下の組み合わせで色々あります。</p>
+
+
+
+<p><strong>対　象　</strong>：「単体回復」「範囲回復」<br><strong>回復方式</strong>：「発動した時に回復」「徐々に継続して回復」<br><strong>詠唱有無</strong>：詠唱が必要か、押したら即発動か。<br><strong>待ち時間</strong>：使った時に他のアクションボタンに待ち時間が発生するか。</p>
+
+
+
+<p>いろんな魔法がありますけど、この組み合わせです。<br>何がどれかはジョブガイドみつつ、自分に唱えたりフレに唱えたりして試してみて。</p>
+
+
+
+<h4 class="wp-block-heading"><strong>「徐々に継続して回復」</strong></h4>
+
+
+
+<p>これは連続して唱えても意味はないです。<br>リジェネ連射とかメディカラ連射はやめましょう。<br>一つ入れたらその効果時間中は他の手段で回復しよう。</p>
+
+
+
+<h4 class="wp-block-heading"><strong>「押したら即発動」</strong></h4>
+
+
+
+<p>移動しながら使えるので、ギミック避けながら回復できて便利。</p>
+
+
+
+<h4 class="wp-block-heading"><strong>「使った時に他のアクションボタンに待ち時間が発生するか」</strong></h4>
+
+
+
+<p>幾つかの魔法はすぐに次のアクションを使う事ができるものがあります。</p>
+
+
+
+<p>「待ちあり魔法」→「待ち無し即時発動魔法」→「待ちあり魔法」<br>みたいに使うと短時間で沢山回復できるかもね。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/81/5b/815b2a51e3c49bae0f11e49044ff6bd2f4269ad5_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FEUA4iNaIAMdnm2?format=jpg&amp;name=large"></a></p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/8a/87/8a877594b05ec1125bc38b4330a0567e2a4270a3_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FEUA4i6akAAtQJb?format=jpg&amp;name=large"></a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>■最後に</strong></h2>
+
+
+
+<p>これから「どうすれば上手く立ち回れるか」に悩むことがあるでしょう。<br>その時、ウェブで調べたり人に聞いたりすることもあるでしょう。</p>
+
+
+
+<p>その時は必ず<strong>「この話はどのシチュエーションが前提となっている話？」</strong>というのは意識しましょう。<br>なぜなら状況によってやることは変わるからです。</p>
+
+
+
+<p>いずれにせよどの情報も（この日記でさえも）鵜呑みにはせずに<br>「お前がそう思うんならそうなんだろう そのシチュエーションではな」<br>くらいのつもりで参考にしつつ、自分のやりやすい形でやればいいです。</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lds-img.finalfantasyxiv.com/accimg2/4e/5f/4e5fa46f6870f8bfe150c636f85242aa4cb6bf9b_110_110.jpg" alt=""/></figure>
+
+
+
+<p><a href="https://pbs.twimg.com/media/FBAvmpGVIAA3C5M?format=jpg&amp;name=large"></a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>■おまけ</strong></h2>
+
+
+
+<p>「生殺与奪の権を握るのたーのしー」<br>「死者がいっぱいじゃ、蘇生が旨い」<br>「あの子これから死ぬわ…死んだら蘇生しよ」<br>とか思えるようになったら一人前なんじゃないですかね？知らんけど。</p>
+
+
+
+<p>つづく？</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>下限で暁月アライアンス１つ目に行ってきたよ～</title>
 		<link>/2024-10-21/%e4%b8%8b%e9%99%90%e3%81%a7%e6%9a%81%e6%9c%88%e3%82%a2%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%82%b9%ef%bc%91%e3%81%a4%e7%9b%ae/</link>
 		
@@ -3651,49 +3985,6 @@ D1　ST　D2</code></pre>
 
 
 <p>今後どうなるのかは色んな意味で興味深いです。</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>零式自力解明であそんでます</title>
-		<link>/2024-08-07/arcadia-savage-blind-start/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Wed, 07 Aug 2024 04:43:11 +0000</pubDate>
-				<category><![CDATA[FF14]]></category>
-		<category><![CDATA[未予習自力解明]]></category>
-		<category><![CDATA[黄金のレガシー]]></category>
-		<guid isPermaLink="false">/?p=808</guid>
-
-					<description><![CDATA[とりあえず1層はクリア。 いろんな高難易度を実装時や下限で行っていると、誰かのみつけた解法をなぞってクリアできてもまぁそりゃ出来ますわよねぇ・・・みたいな感覚（当社比）なので、自力で謎解きパズル解きするところに楽しさを見...]]></description>
-										<content:encoded><![CDATA[
-<p>とりあえず1層はクリア。</p>
-
-
-
-<p>いろんな高難易度を実装時や下限で行っていると、誰かのみつけた解法をなぞってクリアできてもまぁそりゃ出来ますわよねぇ・・・みたいな感覚（当社比）なので、自力で謎解きパズル解きするところに楽しさを見出してる。</p>
-
-
-
-<p>自力解明で遊べるのは真っ白な最初だけだからね～。<br>てことで未予習な8人でちまちま頑張ってます。</p>
-
-
-
-<p>零式の自力解明踏破はいくつか経験あって、無理な遊び方ではないと知っているからわりとお気楽。今回は下限ではないから時間が経てば装備も強くなるしね。</p>
-
-
-
-<p>加えて今回のメンバーはわりとおかしなメンツが揃っているので立ち回りは問題ないと思われるので、健康維持（！）さえできればすんなり行けそうかな？</p>
-
-
-
-<p>最近の零式は簡単って話もよく聞きますし、自力解明おすすめですわよ。</p>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		
