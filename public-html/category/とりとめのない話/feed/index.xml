@@ -12,13 +12,13 @@
 	<atom:link href="/category/%E3%81%A8%E3%82%8A%E3%81%A8%E3%82%81%E3%81%AE%E3%81%AA%E3%81%84%E8%A9%B1/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Sep 2024 06:24:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Nov 2024 00:36:05 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
@@ -28,6 +28,223 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Blueskyはどういうところがいいの？</title>
+		<link>/2024-11-15/good-point-about-bluesky/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 00:07:29 +0000</pubDate>
+				<category><![CDATA[とりとめのない話]]></category>
+		<guid isPermaLink="false">/?p=1246</guid>
+
+					<description><![CDATA[「今のところTwitterと同じように使っている。」とBlueskyにきた友人が言っていたけれど、それで良いと思う。 「𝕏と似てるようで似ていない、ちょっとだけ違うSNS」 と思っていれば概ね間違いないかと。 で 「Bl...]]></description>
+										<content:encoded><![CDATA[
+<p>「今のところTwitterと同じように使っている。」とBlueskyにきた友人が言っていたけれど、それで良いと思う。</p>
+
+
+
+<p class="has-large-font-size">「𝕏と似てるようで似ていない、ちょっとだけ違うSNS」</p>
+
+
+
+<p>と思っていれば概ね間違いないかと。</p>
+
+
+
+<p>で</p>
+
+
+
+<p>「<strong>Blueskyはどういうところがいいの？</strong>」ってのを友人に聞かれたので私が思っているところを書いてみる。（2024-11-14（木）時点）</p>
+
+
+
+<p>ひとまずエンドユーザー視点に絞って書いてみよう。</p>
+
+
+
+<p>・・・と下の一旦書いてからざっと見返すと</p>
+
+
+
+<p>「自分のみたいものがちゃんと見れる」<br>「feed面白い」</p>
+
+
+
+<p>に集約されるかな？</p>
+
+
+
+<h2 class="wp-block-heading">雰囲気とかそういう方面</h2>
+
+
+
+<h3 class="wp-block-heading">自分が見たいものだけを見られる。</h3>
+
+
+
+<ul class="wp-block-list">
+<li>邪悪なおすすめタブを強制されない。</li>
+
+
+
+<li>宣伝が差し込まれない。</li>
+</ul>
+
+
+
+<p>余計なものが出てこないのサイコーｗ<br>「何を見るか」の裁量が自分にあるのはよい。</p>
+
+
+
+<p>以前（○○年前）のTwitterは自分が興味を持ってフォローしている人の投稿を見つつ、時々その人がリツイートする見知らぬ誰かの自分の知らない世界の情報に触れられて、それが適度な刺激になるという楽しみ方だった。</p>
+
+
+
+<p>今の𝕏はノイズが多すぎる。そして興味よりも不快と思うものが多い。</p>
+
+
+
+<p>Blueskyはノイズが少ないので最初は淋しく感じるかも知れないけれど、自分の芸風にあったフォローを増やして徐々に構築される最強のタイムラインをつくる楽しみがある。</p>
+
+
+
+<p>好みのfeedとフォローで自分にあった情報にだけ触れられるし、ちょっと外に出て他の情報に触れて合わなければ帰ってこれる。</p>
+
+
+
+<h3 class="wp-block-heading">胡散くささがない。（いまは）</h3>
+
+
+
+<p>𝕏は胡散臭い。<br>Blueskyは今のところそういう雰囲気を感じない。</p>
+
+
+
+<p>サービス運営しているチームやリーダーを、胡散臭い・信用ならないと感じたものと一緒に住めないので、今のところBlueskyはそういう感じはない。</p>
+
+
+
+<h3 class="wp-block-heading">変な人に遭遇しない（しにくい）</h3>
+
+
+
+<p>いや実際はBlueskyにも招待制がまだあった頃から胡散臭いユーザーはいた。<br>自己矛盾する主張をするインフルエンサーもどきと、それにいいねする人々とか。</p>
+
+
+
+<p>でもやっぱり𝕏の様な「押し付けがましい投稿のおすすめ表示」がないので、自分からそっちに寄らない限りはあんまり遭遇する感じがない。</p>
+
+
+
+<p>あとはまだ新興SNSなのでフロンティア的な人が多く論理的思考や読める文章を書く人が多いように思う。（そういう人やfeedしかフォローしてないのかもだけど）</p>
+
+
+
+<p>経験則だけど、Blueskyに限らずインターネット自体も各サービスも黎明期はまっとうな人の割合の方が多く思う。そういう意味でもいまはまだBlueskyの雰囲気は私にあっている。</p>
+
+
+
+<p>この点は人が増えたらどうなるのかはわからないけどね。</p>
+
+
+
+<h2 class="wp-block-heading">機能の話</h2>
+
+
+
+<h3 class="wp-block-heading">feed機能が面白い</h3>
+
+
+
+<p>feedって何と聞かれたら、検索条件をみんなで共有できるって言えばいいのかしらね？</p>
+
+
+
+<p>その検索条件がシンプルなものからとても複雑なものまで用意できる。<br>プログラミングできる人だと更に機能性も持たせられる。</p>
+
+
+
+<p>feedの面白さ体験としてわかりやすいって見せているのがこれ。</p>
+
+
+
+<h4 class="wp-block-heading">ランダムセッション５７５</h4>
+
+
+
+<p><a href="https://bsky.app/profile/did:plc:kf6t4wjnff7x7bcbngvefb36/feed/aaamycemtidju" target="_blank" rel="noreferrer noopener">https://bsky.app/profile/did:plc:kf6t4wjnff7x7bcbngvefb36/feed/aaamycemtidju</a></p>
+
+
+
+<h4 class="wp-block-heading">しりとり</h4>
+
+
+
+<p><a href="https://bsky.app/profile/did:plc:v2tssqq5tlnx4f5qvtpnlw5j/feed/siritori" target="_blank" rel="noreferrer noopener">https://bsky.app/profile/did:plc:v2tssqq5tlnx4f5qvtpnlw5j/feed/siritori</a></p>
+
+
+
+<p>上のは、Blueskyのどこかにいる見知らぬ誰かの投稿で「５・７・５」を作ったり「投稿が連なってしりとりになってる」みたいなfeed。こういうのも作れる。</p>
+
+
+
+<h4 class="wp-block-heading">FF14たのしい、おもしろい</h4>
+
+
+
+<p><a href="https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaad5ul77ueqw">https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaad5ul77ueqw</a></p>
+
+
+
+<p>こちらは自作feedだけど基本的に検索機能で絞り込んだfeed。<br>ただ単にワード検索ではなくて、その中に以下の条件が含まれている</p>
+
+
+
+<ul class="wp-block-list">
+<li>日本語以外の言語を省く。（日本語投稿に絞るため）</li>
+
+
+
+<li>AND、「FF14」OR「ファイナルファンタジー14」OR・・・といったFF14関連であるワードが含まれている</li>
+
+
+
+<li>AND、「たのしい」OR「おもしろい」OR・・・など幾つかのポジティブワードが含まれている。</li>
+</ul>
+
+
+
+<p>みたいな事が可能。</p>
+
+
+
+<h3 class="wp-block-heading">モデレーション機能いろいろ</h3>
+
+
+
+<p>ブロックしたいアカウント（スパムとか）をまとめくとリストみたいなのが作れて共有できる。</p>
+
+
+
+<p>※他人のモデレーションリストは内容確認しないとほんとにスパマーだけなのかは不明だから注意。</p>
+
+
+
+<h3 class="wp-block-heading">ラベル機能いろいろ</h3>
+
+
+
+<p>FF14のジョブ名をアカウントにラベリングする、とかそういうのも作れるぽい。</p>
+
+
+
+<p>一旦ここまで。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>あるいはもっと視野を広げてみろ。</title>
 		<link>/2024-09-17/%e3%81%82%e3%82%8b%e3%81%84%e3%81%af%e3%82%82%e3%81%a3%e3%81%a8%e8%a6%96%e9%87%8e%e3%82%92%e5%ba%83%e3%81%92%e3%81%a6%e3%81%bf%e3%82%8d%e3%80%82/</link>
 		
@@ -1040,146 +1257,6 @@
 <p>例えば<br />「ピアノが弾けないやつはうちの子じゃない」<br />「医学部に入れないと家にいづらい」<br />「ゲームが下手なやつに人権はない」<br />とかそういうの？かな。たぶん。</p>
 <p>言われてみればドラマとかで見かけそうな話。でも自分がそういう見かたをしてなかったのですっかり忘れていた。</p>
 <p>気づいてしまえばあるあるな話だった。</p>
-</div>
-</div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>人を見るとき3つのレイヤーに分けて見てる気がするという話</title>
-		<link>/2024-04-25/%e4%ba%ba%e3%82%92%e8%a6%8b%e3%82%8b%e3%81%a8%e3%81%8d3%e3%81%a4%e3%81%ae%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ab%e5%88%86%e3%81%91%e3%81%a6%e8%a6%8b%e3%81%a6%e3%82%8b%e6%b0%97%e3%81%8c%e3%81%99/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:56:00 +0000</pubDate>
-				<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false"></guid>
-
-					<description><![CDATA[わたしも誰かのことを見て「いいな」「そういうとこ好きだな」だとか「だめだな」「合わないな」と思うことはあります。 人に対する好き嫌いが心に生じた時、あるいは発言した時に「３つあるレイヤーのどのレイヤーに対しての感情なのか...]]></description>
-										<content:encoded><![CDATA[<p>わたしも誰かのことを見て「いいな」「そういうとこ好きだな」だとか「だめだな」「合わないな」と思うことはあります。</p>
-<p>人に対する好き嫌いが心に生じた時、あるいは発言した時に「３つあるレイヤーのどのレイヤーに対しての感情なのか」は自分自身で正確に把握するように努めている。</p>
-<p>感情のコントロールは難しい。<br />自分の感情がどう処理されているものなのか把握することはコントロールの助けになると思ってる。それを書き出してみたいと思う。</p>
-<p>あと他人から何か感情を受けた時にも一旦似たようにこの人はどのレイヤーについて言ってるのだろう？と考えるようにしている。</p>
-<p>わたしに興味がある人にはわたしはこういう思考回路を今の時点では持ってるぽいと知っておいてほしい。<br />知ってもらうことでお互いスムーズなコミュニケーションができると思うので。</p>
-<p><span style="color: #666666;">※いま（2024-04-25）の時点でわたしってこうかなぁと考えてるモデルです。</span></p>
-<h2 style="text-align: left;">概要</h2>
-<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/05/How-I-view-you_01.jpg" style="margin-left: 1em; margin-right: 1em;"><img decoding="async" border="0" data-original-height="510" data-original-width="589" height="277" src="/wp-content/uploads/2024/05/How-I-view-you_01-300x260.jpg" width="320" /></a></div>
-<div style="clear: both; text-align: center;"></div>
-<div style="clear: both; text-align: left;">
-<div style="clear: both;">わたしは人を見る時に3つのレイヤーで認識している気がします。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">下から順に積み上がっていくイメージで</div>
-<div style="clear: both;">
-<ol style="text-align: left;">
-<li>根本的な善悪</li>
-<li>人柄、性格、癖、ものの見かた、価値観、礼儀作法、言葉遣い</li>
-<li>様々な分野に対する得意、不得意</li>
-</ol>
-</div>
-<div style="clear: both;">といった感じでしょうか。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">全体的に高ければ好ましく思ったり信じる方に賭けられたりしやすいです。</div>
-<div style="clear: both;"></div>
-<h2 style="clear: both; text-align: left;">(1) 根本的な善悪</h2>
-<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_02.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="110" data-original-width="732" height="48" src="/wp-content/uploads/2024/04/How-I-view-you_02-300x45.jpg" width="320" /></a></div>
-<div style="clear: both; text-align: left;"></div>
-<div style="clear: both;">ネコを蹴る、ヒトと魔物はわかりあえない、といったレベルの「根本的な善悪価値観やモラルの合う／合わない」のレイヤー。</div>
-<div style="clear: both;">ここは高さが一定。許容できるか、できないか。0か1かというイメージ。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">ここが0ならこの上のレイヤーはそもそも存在しない。</div>
-<div style="clear: both;">存在が社会を脅かすみたいなイメージなのでここに該当する人はあまりいないですね。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">でも本来2段目のレイヤーに含まれる要素な気がしますが「カジュアルに約束を破る」「私あるいは私の大事な人を傷つける言動をする」といった人はここが0みたいな認識をするので、このレイヤーに含まれる範囲はもっと広いのかも知れない。</div>
-<div></div>
-<h2 style="text-align: left;">(2) 人柄、性格、癖、ものの見かた、価値観、礼儀作法、言葉遣い、などなど</h2>
-<div style="clear: both; text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_03.jpg" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" decoding="async" border="0" data-original-height="208" data-original-width="594" height="112" src="/wp-content/uploads/2024/04/How-I-view-you_03-300x105.jpg" width="320" /></a></div>
-<p></p>
-<div>ひとつの要素ではなく様々な要素が総合的に合わさって高さが決まっているイメージ。</div>
-<div>
-<div>判定要素としては例示したものだけでなくてもっといろいろ含まれていると思います。</div>
-<div>いわゆる「芸風があう、あわない」に該当するレイヤー。</div>
-<div></div>
-<div>ここが高いとベースとして「好き」「人間的に信頼できる」と思えて友達になりたい、一緒に過ごしたいになる。</div>
-<div></div>
-<div>ここが極端に低い場合、関わりたくない見たくないになる。</div>
-<div>お互い価値観が合わないのだから無理に一緒に過ごす必要はない。住み分ければいい。人間は沢山いるので無理に関わる必要もない。</div>
-<div>とか思う人も含まれている。</div>
-<div></div>
-<div>「積極的に避けたい」</div>
-<div>「無関心」</div>
-<div>「知り合い」</div>
-<div>「友達」</div>
-<div>「超すき」</div>
-<div></div>
-<div>いろいろ。</div>
-</div>
-<div></div>
-<h2 style="text-align: left;">(3) 様々な才能、才覚、分野に対する得意、不得意</h2>
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_04.jpg" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="541" data-original-width="504" height="320" src="/wp-content/uploads/2024/04/How-I-view-you_04-279x300.jpg" title="才能の比較として見るとこう" width="298" /></a></td>
-</tr>
-<tr>
-<td style="text-align: center;">才能にフォーカスした見かた</td>
-</tr>
-</tbody>
-</table>
-<div style="clear: both; text-align: center;"></div>
-<div style="clear: both; text-align: center;">
-<div style="text-align: left;">
-<div>このレイヤーもいろいろな要素があるけれど、それぞれは独立して判定されているイメージ。その人の才能それぞれの得意、不得意という部分がこのレイヤー。</div>
-<div></div>
-<div>ある人はピアノが上手だけど料理は苦手かもしれない。</div>
-<div>別の人は料理は得意だけどピアノは苦手かもしれない。</div>
-<div></div>
-<div>そういった部分。</div>
-<div>それぞれが高さを持っている。</div>
-<div></div>
-<div>音楽が得意な人が話す音楽に関する情報は信頼度が高い。</div>
-<div>でも同じ人が料理の話をする時に、その人が料理がめちゃくちゃ苦手だったら、料理に関する話は怪しい情報かもしれない。</div>
-<div></div>
-<div>この場合、料理が苦手だから音楽に関する信頼度が減るわけでもないし、音楽が得意だからといって料理に関する信頼度があがるわけじゃない。</div>
-</div>
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="text-align: center;"><a href="/wp-content/uploads/2024/04/How-I-view-you_05.jpg" style="margin-left: auto; margin-right: auto;"><img loading="lazy" decoding="async" border="0" data-original-height="524" data-original-width="499" height="320" src="/wp-content/uploads/2024/04/How-I-view-you_05-286x300.jpg" title="総合的にその人を見る場合こう" width="305" /></a></td>
-</tr>
-<tr>
-<td style="text-align: center;">その人を総合的に見る場合</td>
-</tr>
-</tbody>
-</table>
-<p></div>
-<div style="clear: both; text-align: left;">
-<div style="clear: both;">ただ、総合的な人間として見た場合に少しだけ見え方は変わる可能性はある。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">2段目のレイヤーで十分な信頼度がある人、たとえば「この人はなんでもちゃんと調べて根拠に基づいて日頃から話している。」という信頼のベースがあるとする。</div>
-<div style="clear: both;">その場合、その人が苦手な分野だったとしてもその人からの話しはよくよく聞いたほうがいいかもしれない。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">みたいな。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">逆に「いけ好かないやつだけど、この点は凄い。」みたいに人格と能力を分けてみたりもします。たぶんきっと友達にはならないけど。</div>
-<div style="clear: both;"></div>
-<h2 style="clear: both; text-align: left;">わたしはどこを見て誰かに好き、嫌い、凄い、いまいち、etc.と感じているのか</h2>
-<div style="clear: both;">上に書いたような思考回路なので、私が誰かに対して「好き、嫌い、凄い、いまいち」みたいな感情をもつとき、あるいはそれを相手に伝える時、「どのレイヤーに関してなのか」は大事なポイントです。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">（めんどうなので雑な表現で言うと）</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">自分が誰かの何かを「嫌だな」と感じた時に、それが一番上の何か限定的な部分の事から感じているのか、2番目の人柄的なところで感じているのかを考えていかないと、相手との付き合い方が全く変わってきてしまいます。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">例えば誰かに対して「ここがダメだから直して」と伝える時に、1番上のレイヤーのはなしなのに2番目のレイヤーのことと取られると「人格否定された！」となるのかなって思います。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">好きとか凄いとかポジティブな言葉はカジュアルに伝えてもそんなに悪影響ないとは思いますが「何かの才覚」なのか「人柄の何か」なのかわたしが具体的にどの部分を良いと感じているのかが伝わった方が受け取った方もより気持ちよくなれるし、私が何をみているのかをしってくれるかなとも思います。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">おわり。</div>
-<div style="clear: both;"></div>
-<div style="clear: both;">
-<h4 style="clear: both; text-align: left;">2024-05-07（火）追記した：</h4>
-<div style="clear: both;">»&nbsp;<a href="https://note.nyaon.st/2024/05/3.html">「人を見るとき3つのレイヤーに分けて見てる気がするという話」を読んだ友人との会話で得たものめも</a></div>
-</div>
 </div>
 </div>
 ]]></content:encoded>

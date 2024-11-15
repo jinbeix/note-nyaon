@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Tue, 22 Oct 2024 04:34:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Nov 2024 00:36:05 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
@@ -28,6 +28,223 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Blueskyはどういうところがいいの？</title>
+		<link>/2024-11-15/good-point-about-bluesky/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 00:07:29 +0000</pubDate>
+				<category><![CDATA[とりとめのない話]]></category>
+		<guid isPermaLink="false">/?p=1246</guid>
+
+					<description><![CDATA[「今のところTwitterと同じように使っている。」とBlueskyにきた友人が言っていたけれど、それで良いと思う。 「𝕏と似てるようで似ていない、ちょっとだけ違うSNS」 と思っていれば概ね間違いないかと。 で 「Bl...]]></description>
+										<content:encoded><![CDATA[
+<p>「今のところTwitterと同じように使っている。」とBlueskyにきた友人が言っていたけれど、それで良いと思う。</p>
+
+
+
+<p class="has-large-font-size">「𝕏と似てるようで似ていない、ちょっとだけ違うSNS」</p>
+
+
+
+<p>と思っていれば概ね間違いないかと。</p>
+
+
+
+<p>で</p>
+
+
+
+<p>「<strong>Blueskyはどういうところがいいの？</strong>」ってのを友人に聞かれたので私が思っているところを書いてみる。（2024-11-14（木）時点）</p>
+
+
+
+<p>ひとまずエンドユーザー視点に絞って書いてみよう。</p>
+
+
+
+<p>・・・と下の一旦書いてからざっと見返すと</p>
+
+
+
+<p>「自分のみたいものがちゃんと見れる」<br>「feed面白い」</p>
+
+
+
+<p>に集約されるかな？</p>
+
+
+
+<h2 class="wp-block-heading">雰囲気とかそういう方面</h2>
+
+
+
+<h3 class="wp-block-heading">自分が見たいものだけを見られる。</h3>
+
+
+
+<ul class="wp-block-list">
+<li>邪悪なおすすめタブを強制されない。</li>
+
+
+
+<li>宣伝が差し込まれない。</li>
+</ul>
+
+
+
+<p>余計なものが出てこないのサイコーｗ<br>「何を見るか」の裁量が自分にあるのはよい。</p>
+
+
+
+<p>以前（○○年前）のTwitterは自分が興味を持ってフォローしている人の投稿を見つつ、時々その人がリツイートする見知らぬ誰かの自分の知らない世界の情報に触れられて、それが適度な刺激になるという楽しみ方だった。</p>
+
+
+
+<p>今の𝕏はノイズが多すぎる。そして興味よりも不快と思うものが多い。</p>
+
+
+
+<p>Blueskyはノイズが少ないので最初は淋しく感じるかも知れないけれど、自分の芸風にあったフォローを増やして徐々に構築される最強のタイムラインをつくる楽しみがある。</p>
+
+
+
+<p>好みのfeedとフォローで自分にあった情報にだけ触れられるし、ちょっと外に出て他の情報に触れて合わなければ帰ってこれる。</p>
+
+
+
+<h3 class="wp-block-heading">胡散くささがない。（いまは）</h3>
+
+
+
+<p>𝕏は胡散臭い。<br>Blueskyは今のところそういう雰囲気を感じない。</p>
+
+
+
+<p>サービス運営しているチームやリーダーを、胡散臭い・信用ならないと感じたものと一緒に住めないので、今のところBlueskyはそういう感じはない。</p>
+
+
+
+<h3 class="wp-block-heading">変な人に遭遇しない（しにくい）</h3>
+
+
+
+<p>いや実際はBlueskyにも招待制がまだあった頃から胡散臭いユーザーはいた。<br>自己矛盾する主張をするインフルエンサーもどきと、それにいいねする人々とか。</p>
+
+
+
+<p>でもやっぱり𝕏の様な「押し付けがましい投稿のおすすめ表示」がないので、自分からそっちに寄らない限りはあんまり遭遇する感じがない。</p>
+
+
+
+<p>あとはまだ新興SNSなのでフロンティア的な人が多く論理的思考や読める文章を書く人が多いように思う。（そういう人やfeedしかフォローしてないのかもだけど）</p>
+
+
+
+<p>経験則だけど、Blueskyに限らずインターネット自体も各サービスも黎明期はまっとうな人の割合の方が多く思う。そういう意味でもいまはまだBlueskyの雰囲気は私にあっている。</p>
+
+
+
+<p>この点は人が増えたらどうなるのかはわからないけどね。</p>
+
+
+
+<h2 class="wp-block-heading">機能の話</h2>
+
+
+
+<h3 class="wp-block-heading">feed機能が面白い</h3>
+
+
+
+<p>feedって何と聞かれたら、検索条件をみんなで共有できるって言えばいいのかしらね？</p>
+
+
+
+<p>その検索条件がシンプルなものからとても複雑なものまで用意できる。<br>プログラミングできる人だと更に機能性も持たせられる。</p>
+
+
+
+<p>feedの面白さ体験としてわかりやすいって見せているのがこれ。</p>
+
+
+
+<h4 class="wp-block-heading">ランダムセッション５７５</h4>
+
+
+
+<p><a href="https://bsky.app/profile/did:plc:kf6t4wjnff7x7bcbngvefb36/feed/aaamycemtidju" target="_blank" rel="noreferrer noopener">https://bsky.app/profile/did:plc:kf6t4wjnff7x7bcbngvefb36/feed/aaamycemtidju</a></p>
+
+
+
+<h4 class="wp-block-heading">しりとり</h4>
+
+
+
+<p><a href="https://bsky.app/profile/did:plc:v2tssqq5tlnx4f5qvtpnlw5j/feed/siritori" target="_blank" rel="noreferrer noopener">https://bsky.app/profile/did:plc:v2tssqq5tlnx4f5qvtpnlw5j/feed/siritori</a></p>
+
+
+
+<p>上のは、Blueskyのどこかにいる見知らぬ誰かの投稿で「５・７・５」を作ったり「投稿が連なってしりとりになってる」みたいなfeed。こういうのも作れる。</p>
+
+
+
+<h4 class="wp-block-heading">FF14たのしい、おもしろい</h4>
+
+
+
+<p><a href="https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaad5ul77ueqw">https://bsky.app/profile/did:plc:oidpmy3ium7cho7fguxgscts/feed/aaad5ul77ueqw</a></p>
+
+
+
+<p>こちらは自作feedだけど基本的に検索機能で絞り込んだfeed。<br>ただ単にワード検索ではなくて、その中に以下の条件が含まれている</p>
+
+
+
+<ul class="wp-block-list">
+<li>日本語以外の言語を省く。（日本語投稿に絞るため）</li>
+
+
+
+<li>AND、「FF14」OR「ファイナルファンタジー14」OR・・・といったFF14関連であるワードが含まれている</li>
+
+
+
+<li>AND、「たのしい」OR「おもしろい」OR・・・など幾つかのポジティブワードが含まれている。</li>
+</ul>
+
+
+
+<p>みたいな事が可能。</p>
+
+
+
+<h3 class="wp-block-heading">モデレーション機能いろいろ</h3>
+
+
+
+<p>ブロックしたいアカウント（スパムとか）をまとめくとリストみたいなのが作れて共有できる。</p>
+
+
+
+<p>※他人のモデレーションリストは内容確認しないとほんとにスパマーだけなのかは不明だから注意。</p>
+
+
+
+<h3 class="wp-block-heading">ラベル機能いろいろ</h3>
+
+
+
+<p>FF14のジョブ名をアカウントにラベリングする、とかそういうのも作れるぽい。</p>
+
+
+
+<p>一旦ここまで。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>ヒーラーをがんばりはじめたあなたへ</title>
 		<link>/2024-10-22/starting-your-journey-as-a-healer/</link>
 		
@@ -438,30 +655,30 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1221" src="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994-644x270.png" alt="" class="wp-image-1221" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1221" src="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994-644x270.png" alt="" class="wp-image-1221" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1219" src="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544-644x270.png" alt="" class="wp-image-1219" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1219" src="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544-644x270.png" alt="" class="wp-image-1219" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1224" src="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631-644x270.png" alt="" class="wp-image-1224" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1224" src="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631-644x270.png" alt="" class="wp-image-1224" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1225" src="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092-644x270.png" alt="" class="wp-image-1225" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1225" src="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092-644x270.png" alt="" class="wp-image-1225" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 </figure>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777-644x270.png" alt="" class="wp-image-1226" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777-644x270.png" alt="" class="wp-image-1226" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782-644x270.png" alt="" class="wp-image-1227" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782-644x270.png" alt="" class="wp-image-1227" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746-644x270.png" alt="" class="wp-image-1218" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>]]></content:encoded>
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746-644x270.png" alt="" class="wp-image-1218" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>]]></content:encoded>
 					
 		
 		
@@ -534,7 +751,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457-644x270.png" alt="" class="wp-image-1202" srcset="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457-644x270.png" alt="" class="wp-image-1202" srcset="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -546,7 +763,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592-644x270.png" alt="" class="wp-image-1203" srcset="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592-644x270.png" alt="" class="wp-image-1203" srcset="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -890,7 +1107,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image.png"><img loading="lazy" decoding="async" width="623" height="622" src="/wp-content/uploads/2024/09/image.png" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2024/09/image.png 623w, /wp-content/uploads/2024/09/image-300x300.png 300w, /wp-content/uploads/2024/09/image-150x150.png 150w" sizes="(max-width: 623px) 100vw, 623px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image.png"><img loading="lazy" decoding="async" width="623" height="622" src="/wp-content/uploads/2024/09/image.png" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2024/09/image.png 623w, /wp-content/uploads/2024/09/image-300x300.png 300w, /wp-content/uploads/2024/09/image-150x150.png 150w" sizes="auto, (max-width: 623px) 100vw, 623px" /></a></figure>
 
 
 
@@ -940,7 +1157,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-2.png"><img loading="lazy" decoding="async" width="526" height="422" src="/wp-content/uploads/2024/09/image-2.png" alt="" class="wp-image-1056" srcset="/wp-content/uploads/2024/09/image-2.png 526w, /wp-content/uploads/2024/09/image-2-300x241.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-2.png"><img loading="lazy" decoding="async" width="526" height="422" src="/wp-content/uploads/2024/09/image-2.png" alt="" class="wp-image-1056" srcset="/wp-content/uploads/2024/09/image-2.png 526w, /wp-content/uploads/2024/09/image-2-300x241.png 300w" sizes="auto, (max-width: 526px) 100vw, 526px" /></a></figure>
 
 
 
@@ -1077,7 +1294,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-1.png"><img loading="lazy" decoding="async" width="550" height="572" src="/wp-content/uploads/2024/09/image-1.png" alt="" class="wp-image-1053" srcset="/wp-content/uploads/2024/09/image-1.png 550w, /wp-content/uploads/2024/09/image-1-288x300.png 288w" sizes="(max-width: 550px) 100vw, 550px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-1.png"><img loading="lazy" decoding="async" width="550" height="572" src="/wp-content/uploads/2024/09/image-1.png" alt="" class="wp-image-1053" srcset="/wp-content/uploads/2024/09/image-1.png 550w, /wp-content/uploads/2024/09/image-1-288x300.png 288w" sizes="auto, (max-width: 550px) 100vw, 550px" /></a></figure>
 
 
 
@@ -1122,11 +1339,11 @@ D1　ST　D2</code></pre>
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png"><img loading="lazy" decoding="async" width="644" height="362" data-id="1055" src="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png" alt="" class="wp-image-1055" srcset="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png 644w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-300x169.png 300w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-768x432.png 768w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-700x394.png 700w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png"><img loading="lazy" decoding="async" width="644" height="362" data-id="1055" src="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png" alt="" class="wp-image-1055" srcset="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png 644w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-300x169.png 300w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-768x432.png 768w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-700x394.png 700w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）.png"><img loading="lazy" decoding="async" width="644" height="362" data-id="1054" src="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-644x362.png" alt="" class="wp-image-1054" srcset="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-644x362.png 644w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-300x169.png 300w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-768x432.png 768w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-700x394.png 700w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）.png"><img loading="lazy" decoding="async" width="644" height="362" data-id="1054" src="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-644x362.png" alt="" class="wp-image-1054" srcset="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-644x362.png 644w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-300x169.png 300w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-768x432.png 768w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）-700x394.png 700w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（近いDPS／遠いタンヒラで担当制）.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 </figure>
 
 
@@ -1135,11 +1352,11 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-3.png"><img loading="lazy" decoding="async" width="644" height="361" src="/wp-content/uploads/2024/09/image-3-644x361.png" alt="" class="wp-image-1057" srcset="/wp-content/uploads/2024/09/image-3-644x361.png 644w, /wp-content/uploads/2024/09/image-3-300x168.png 300w, /wp-content/uploads/2024/09/image-3-768x430.png 768w, /wp-content/uploads/2024/09/image-3-700x392.png 700w, /wp-content/uploads/2024/09/image-3.png 1158w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-3.png"><img loading="lazy" decoding="async" width="644" height="361" src="/wp-content/uploads/2024/09/image-3-644x361.png" alt="" class="wp-image-1057" srcset="/wp-content/uploads/2024/09/image-3-644x361.png 644w, /wp-content/uploads/2024/09/image-3-300x168.png 300w, /wp-content/uploads/2024/09/image-3-768x430.png 768w, /wp-content/uploads/2024/09/image-3-700x392.png 700w, /wp-content/uploads/2024/09/image-3.png 1158w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-4.png"><img loading="lazy" decoding="async" width="644" height="360" src="/wp-content/uploads/2024/09/image-4-644x360.png" alt="" class="wp-image-1058" srcset="/wp-content/uploads/2024/09/image-4-644x360.png 644w, /wp-content/uploads/2024/09/image-4-300x167.png 300w, /wp-content/uploads/2024/09/image-4-768x429.png 768w, /wp-content/uploads/2024/09/image-4-700x391.png 700w, /wp-content/uploads/2024/09/image-4.png 1159w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-4.png"><img loading="lazy" decoding="async" width="644" height="360" src="/wp-content/uploads/2024/09/image-4-644x360.png" alt="" class="wp-image-1058" srcset="/wp-content/uploads/2024/09/image-4-644x360.png 644w, /wp-content/uploads/2024/09/image-4-300x167.png 300w, /wp-content/uploads/2024/09/image-4-768x429.png 768w, /wp-content/uploads/2024/09/image-4-700x391.png 700w, /wp-content/uploads/2024/09/image-4.png 1159w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1147,7 +1364,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-5.png"><img loading="lazy" decoding="async" width="102" height="830" src="/wp-content/uploads/2024/09/image-5.png" alt="" class="wp-image-1059" srcset="/wp-content/uploads/2024/09/image-5.png 102w, /wp-content/uploads/2024/09/image-5-37x300.png 37w" sizes="(max-width: 102px) 100vw, 102px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-5.png"><img loading="lazy" decoding="async" width="102" height="830" src="/wp-content/uploads/2024/09/image-5.png" alt="" class="wp-image-1059" srcset="/wp-content/uploads/2024/09/image-5.png 102w, /wp-content/uploads/2024/09/image-5-37x300.png 37w" sizes="auto, (max-width: 102px) 100vw, 102px" /></a></figure>
 
 
 
@@ -1205,7 +1422,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-jpg.webp"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-644x644.webp" alt="" class="wp-image-1060" srcset="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-644x644.webp 644w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-300x300.webp 300w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-150x150.webp 150w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-768x768.webp 768w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-700x700.webp 700w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-jpg.webp 980w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-jpg.webp"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-644x644.webp" alt="" class="wp-image-1060" srcset="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-644x644.webp 644w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-300x300.webp 300w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-150x150.webp 150w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-768x768.webp 768w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-700x700.webp 700w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー安地-jpg.webp 980w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1217,7 +1434,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-644x362.png" alt="" class="wp-image-1061" srcset="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-644x362.png 644w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-300x169.png 300w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-768x432.png 768w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-700x394.png 700w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-644x362.png" alt="" class="wp-image-1061" srcset="/wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-644x362.png 644w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-300x169.png 300w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-768x432.png 768w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置-700x394.png 700w, /wp-content/uploads/2024/09/04_ファンタスティックシンフォニー_散開位置.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1237,7 +1454,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png"><img loading="lazy" decoding="async" width="478" height="479" src="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png" alt="" class="wp-image-1062" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png 478w, /wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置-300x300.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置-150x150.png 150w" sizes="(max-width: 478px) 100vw, 478px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png"><img loading="lazy" decoding="async" width="478" height="479" src="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png" alt="" class="wp-image-1062" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置.png 478w, /wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置-300x300.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_デバフ爆発位置-150x150.png 150w" sizes="auto, (max-width: 478px) 100vw, 478px" /></a></figure>
 
 
 
@@ -1267,11 +1484,11 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-644x362.png" alt="" class="wp-image-1064" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-644x362.png 644w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-300x169.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-768x432.png 768w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-700x394.png 700w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-644x362.png" alt="" class="wp-image-1064" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-644x362.png 644w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-300x169.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-768x432.png 768w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役-700x394.png 700w, /wp-content/uploads/2024/09/05_ライトニングケージ_爆発時の散開位置と調整役.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-644x362.png" alt="" class="wp-image-1065" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-644x362.png 644w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-300x169.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-768x432.png 768w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-700x394.png 700w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-644x362.png" alt="" class="wp-image-1065" srcset="/wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-644x362.png 644w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-300x169.png 300w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-768x432.png 768w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役-700x394.png 700w, /wp-content/uploads/2024/09/05_ライトニングケージ_散開位置と調整役.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1299,7 +1516,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスター_概要.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスター_概要-644x362.png" alt="" class="wp-image-1067" srcset="/wp-content/uploads/2024/09/06_イオンクラスター_概要-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスター_概要.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスター_概要.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスター_概要-644x362.png" alt="" class="wp-image-1067" srcset="/wp-content/uploads/2024/09/06_イオンクラスター_概要-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスター_概要-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスター_概要.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1325,7 +1542,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスターとなんか.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスターとなんか-644x362.png" alt="" class="wp-image-1068" srcset="/wp-content/uploads/2024/09/06_イオンクラスターとなんか-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスターとなんか.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスターとなんか-644x362.png" alt="" class="wp-image-1068" srcset="/wp-content/uploads/2024/09/06_イオンクラスターとなんか-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスターとなんか.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1341,7 +1558,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-644x362.png" alt="" class="wp-image-1069" srcset="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-644x362.png" alt="" class="wp-image-1069" srcset="/wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-644x362.png 644w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-300x169.png 300w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-768x432.png 768w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置-700x394.png 700w, /wp-content/uploads/2024/09/06_イオンクラスターデバフ処理立ち位置.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1381,7 +1598,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/扇の絵-jpg.webp"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/扇の絵-644x644.webp" alt="" class="wp-image-1071" srcset="/wp-content/uploads/2024/09/扇の絵-644x644.webp 644w, /wp-content/uploads/2024/09/扇の絵-300x300.webp 300w, /wp-content/uploads/2024/09/扇の絵-150x150.webp 150w, /wp-content/uploads/2024/09/扇の絵-768x768.webp 768w, /wp-content/uploads/2024/09/扇の絵-700x700.webp 700w, /wp-content/uploads/2024/09/扇の絵-jpg.webp 980w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/扇の絵-jpg.webp"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/扇の絵-644x644.webp" alt="" class="wp-image-1071" srcset="/wp-content/uploads/2024/09/扇の絵-644x644.webp 644w, /wp-content/uploads/2024/09/扇の絵-300x300.webp 300w, /wp-content/uploads/2024/09/扇の絵-150x150.webp 150w, /wp-content/uploads/2024/09/扇の絵-768x768.webp 768w, /wp-content/uploads/2024/09/扇の絵-700x700.webp 700w, /wp-content/uploads/2024/09/扇の絵-jpg.webp 980w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1462,7 +1679,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-644x362.png" alt="" class="wp-image-1075" srcset="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-644x362.png 644w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-300x169.png 300w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-768x432.png 768w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-700x394.png 700w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-644x362.png" alt="" class="wp-image-1075" srcset="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-644x362.png 644w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-300x169.png 300w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-768x432.png 768w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00-700x394.png 700w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_00.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1478,7 +1695,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-644x362.png" alt="" class="wp-image-1076" srcset="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-644x362.png 644w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-300x169.png 300w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-768x432.png 768w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-700x394.png 700w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-644x362.png" alt="" class="wp-image-1076" srcset="/wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-644x362.png 644w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-300x169.png 300w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-768x432.png 768w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01-700x394.png 700w, /wp-content/uploads/2024/09/09_エクサいっぱい安地探し_01.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1502,7 +1719,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-6.png"><img loading="lazy" decoding="async" width="644" height="486" src="/wp-content/uploads/2024/09/image-6-644x486.png" alt="" class="wp-image-1077" srcset="/wp-content/uploads/2024/09/image-6-644x486.png 644w, /wp-content/uploads/2024/09/image-6-300x226.png 300w, /wp-content/uploads/2024/09/image-6-700x528.png 700w, /wp-content/uploads/2024/09/image-6.png 728w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-6.png"><img loading="lazy" decoding="async" width="644" height="486" src="/wp-content/uploads/2024/09/image-6-644x486.png" alt="" class="wp-image-1077" srcset="/wp-content/uploads/2024/09/image-6-644x486.png 644w, /wp-content/uploads/2024/09/image-6-300x226.png 300w, /wp-content/uploads/2024/09/image-6-700x528.png 700w, /wp-content/uploads/2024/09/image-6.png 728w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1552,7 +1769,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-644x362.webp" alt="" class="wp-image-1078" srcset="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-644x362.webp 644w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-300x169.webp 300w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-768x432.webp 768w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-700x394.webp 700w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-644x362.webp" alt="" class="wp-image-1078" srcset="/wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-644x362.webp 644w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-300x169.webp 300w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-768x432.webp 768w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-700x394.webp 700w, /wp-content/uploads/2024/09/11_テイルスラスト立ち位置_氷-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1572,7 +1789,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-7.png"><img loading="lazy" decoding="async" width="492" height="378" src="/wp-content/uploads/2024/09/image-7.png" alt="" class="wp-image-1079" srcset="/wp-content/uploads/2024/09/image-7.png 492w, /wp-content/uploads/2024/09/image-7-300x230.png 300w" sizes="(max-width: 492px) 100vw, 492px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-7.png"><img loading="lazy" decoding="async" width="492" height="378" src="/wp-content/uploads/2024/09/image-7.png" alt="" class="wp-image-1079" srcset="/wp-content/uploads/2024/09/image-7.png 492w, /wp-content/uploads/2024/09/image-7-300x230.png 300w" sizes="auto, (max-width: 492px) 100vw, 492px" /></a></figure>
 
 
 
@@ -1652,7 +1869,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/夜半_初期配置-jpg.webp"><img loading="lazy" decoding="async" width="644" height="490" src="/wp-content/uploads/2024/09/夜半_初期配置-644x490.webp" alt="" class="wp-image-1081" srcset="/wp-content/uploads/2024/09/夜半_初期配置-644x490.webp 644w, /wp-content/uploads/2024/09/夜半_初期配置-300x228.webp 300w, /wp-content/uploads/2024/09/夜半_初期配置-jpg.webp 651w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/夜半_初期配置-jpg.webp"><img loading="lazy" decoding="async" width="644" height="490" src="/wp-content/uploads/2024/09/夜半_初期配置-644x490.webp" alt="" class="wp-image-1081" srcset="/wp-content/uploads/2024/09/夜半_初期配置-644x490.webp 644w, /wp-content/uploads/2024/09/夜半_初期配置-300x228.webp 300w, /wp-content/uploads/2024/09/夜半_初期配置-jpg.webp 651w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1665,11 +1882,11 @@ H1　D1　★　D4　H2
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="1082" src="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp" alt="" class="wp-image-1082" srcset="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp 644w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-300x169.webp 300w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-768x432.webp 768w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-700x394.webp 700w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="1082" src="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp" alt="" class="wp-image-1082" srcset="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp 644w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-300x169.webp 300w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-768x432.webp 768w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-700x394.webp 700w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="1083" src="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-644x362.webp" alt="" class="wp-image-1083" srcset="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-644x362.webp 644w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-300x169.webp 300w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-768x432.webp 768w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-700x394.webp 700w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="1083" src="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-644x362.webp" alt="" class="wp-image-1083" srcset="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-644x362.webp 644w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-300x169.webp 300w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-768x432.webp 768w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-700x394.webp 700w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_01-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 </figure>
 
 
@@ -1818,7 +2035,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="487" src="/wp-content/uploads/2024/09/大砲担当位置の判断するやつ-644x487.webp" alt="" class="wp-image-1118" srcset="/wp-content/uploads/2024/09/大砲担当位置の判断するやつ-644x487.webp 644w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-300x227.webp 300w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-768x581.webp 768w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-700x530.webp 700w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-jpg.webp 928w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="487" src="/wp-content/uploads/2024/09/大砲担当位置の判断するやつ-644x487.webp" alt="" class="wp-image-1118" srcset="/wp-content/uploads/2024/09/大砲担当位置の判断するやつ-644x487.webp 644w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-300x227.webp 300w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-768x581.webp 768w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-700x530.webp 700w, /wp-content/uploads/2024/09/大砲担当位置の判断するやつ-jpg.webp 928w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure>
 
 
 
@@ -1834,11 +2051,11 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-9.png"><img loading="lazy" decoding="async" width="460" height="347" src="/wp-content/uploads/2024/09/image-9.png" alt="" class="wp-image-1085" srcset="/wp-content/uploads/2024/09/image-9.png 460w, /wp-content/uploads/2024/09/image-9-300x226.png 300w" sizes="(max-width: 460px) 100vw, 460px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-9.png"><img loading="lazy" decoding="async" width="460" height="347" src="/wp-content/uploads/2024/09/image-9.png" alt="" class="wp-image-1085" srcset="/wp-content/uploads/2024/09/image-9.png 460w, /wp-content/uploads/2024/09/image-9-300x226.png 300w" sizes="auto, (max-width: 460px) 100vw, 460px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-8.png"><img loading="lazy" decoding="async" width="434" height="340" src="/wp-content/uploads/2024/09/image-8.png" alt="" class="wp-image-1084" srcset="/wp-content/uploads/2024/09/image-8.png 434w, /wp-content/uploads/2024/09/image-8-300x235.png 300w" sizes="(max-width: 434px) 100vw, 434px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-8.png"><img loading="lazy" decoding="async" width="434" height="340" src="/wp-content/uploads/2024/09/image-8.png" alt="" class="wp-image-1084" srcset="/wp-content/uploads/2024/09/image-8.png 434w, /wp-content/uploads/2024/09/image-8-300x235.png 300w" sizes="auto, (max-width: 434px) 100vw, 434px" /></a></figure>
 
 
 
@@ -1846,11 +2063,11 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-10.png"><img loading="lazy" decoding="async" width="456" height="344" src="/wp-content/uploads/2024/09/image-10.png" alt="" class="wp-image-1086" srcset="/wp-content/uploads/2024/09/image-10.png 456w, /wp-content/uploads/2024/09/image-10-300x226.png 300w" sizes="(max-width: 456px) 100vw, 456px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-10.png"><img loading="lazy" decoding="async" width="456" height="344" src="/wp-content/uploads/2024/09/image-10.png" alt="" class="wp-image-1086" srcset="/wp-content/uploads/2024/09/image-10.png 456w, /wp-content/uploads/2024/09/image-10-300x226.png 300w" sizes="auto, (max-width: 456px) 100vw, 456px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png"><img loading="lazy" decoding="async" width="449" height="591" src="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png" alt="" class="wp-image-1087" srcset="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png 449w, /wp-content/uploads/2024/09/大砲外向き_東西に撃つ-228x300.png 228w" sizes="(max-width: 449px) 100vw, 449px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png"><img loading="lazy" decoding="async" width="449" height="591" src="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png" alt="" class="wp-image-1087" srcset="/wp-content/uploads/2024/09/大砲外向き_東西に撃つ.png 449w, /wp-content/uploads/2024/09/大砲外向き_東西に撃つ-228x300.png 228w" sizes="auto, (max-width: 449px) 100vw, 449px" /></a></figure>
 
 
 
@@ -1866,7 +2083,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-12.png"><img loading="lazy" decoding="async" width="644" height="487" src="/wp-content/uploads/2024/09/image-12-644x487.png" alt="" class="wp-image-1090" srcset="/wp-content/uploads/2024/09/image-12-644x487.png 644w, /wp-content/uploads/2024/09/image-12-300x227.png 300w, /wp-content/uploads/2024/09/image-12-700x529.png 700w, /wp-content/uploads/2024/09/image-12.png 753w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-12.png"><img loading="lazy" decoding="async" width="644" height="487" src="/wp-content/uploads/2024/09/image-12-644x487.png" alt="" class="wp-image-1090" srcset="/wp-content/uploads/2024/09/image-12-644x487.png 644w, /wp-content/uploads/2024/09/image-12-300x227.png 300w, /wp-content/uploads/2024/09/image-12-700x529.png 700w, /wp-content/uploads/2024/09/image-12.png 753w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1874,7 +2091,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-11.png"><img loading="lazy" decoding="async" width="644" height="482" src="/wp-content/uploads/2024/09/image-11-644x482.png" alt="" class="wp-image-1089" srcset="/wp-content/uploads/2024/09/image-11-644x482.png 644w, /wp-content/uploads/2024/09/image-11-300x225.png 300w, /wp-content/uploads/2024/09/image-11-700x524.png 700w, /wp-content/uploads/2024/09/image-11.png 751w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/image-11.png"><img loading="lazy" decoding="async" width="644" height="482" src="/wp-content/uploads/2024/09/image-11-644x482.png" alt="" class="wp-image-1089" srcset="/wp-content/uploads/2024/09/image-11-644x482.png 644w, /wp-content/uploads/2024/09/image-11-300x225.png 300w, /wp-content/uploads/2024/09/image-11-700x524.png 700w, /wp-content/uploads/2024/09/image-11.png 751w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1925,39 +2142,39 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562-644x270.png" alt="" class="wp-image-1126" srcset="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562-644x270.png 644w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-300x126.png 300w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-768x321.png 768w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-1536x643.png 1536w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-2048x857.png 2048w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562-644x270.png" alt="" class="wp-image-1126" srcset="/wp-content/uploads/2024/09/ffxiv_20240905_002047_562-644x270.png 644w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-300x126.png 300w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-768x321.png 768w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-1536x643.png 1536w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-2048x857.png 2048w, /wp-content/uploads/2024/09/ffxiv_20240905_002047_562-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/aji.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/aji-644x644.png" alt="" class="wp-image-1127" srcset="/wp-content/uploads/2024/09/aji-644x644.png 644w, /wp-content/uploads/2024/09/aji-300x300.png 300w, /wp-content/uploads/2024/09/aji-150x150.png 150w, /wp-content/uploads/2024/09/aji-768x768.png 768w, /wp-content/uploads/2024/09/aji-700x700.png 700w, /wp-content/uploads/2024/09/aji.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/aji.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/aji-644x644.png" alt="" class="wp-image-1127" srcset="/wp-content/uploads/2024/09/aji-644x644.png 644w, /wp-content/uploads/2024/09/aji-300x300.png 300w, /wp-content/uploads/2024/09/aji-150x150.png 150w, /wp-content/uploads/2024/09/aji-768x768.png 768w, /wp-content/uploads/2024/09/aji-700x700.png 700w, /wp-content/uploads/2024/09/aji.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/ashley.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/ashley-644x644.png" alt="" class="wp-image-1128" srcset="/wp-content/uploads/2024/09/ashley-644x644.png 644w, /wp-content/uploads/2024/09/ashley-300x300.png 300w, /wp-content/uploads/2024/09/ashley-150x150.png 150w, /wp-content/uploads/2024/09/ashley-768x768.png 768w, /wp-content/uploads/2024/09/ashley-700x700.png 700w, /wp-content/uploads/2024/09/ashley.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/ashley.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/ashley-644x644.png" alt="" class="wp-image-1128" srcset="/wp-content/uploads/2024/09/ashley-644x644.png 644w, /wp-content/uploads/2024/09/ashley-300x300.png 300w, /wp-content/uploads/2024/09/ashley-150x150.png 150w, /wp-content/uploads/2024/09/ashley-768x768.png 768w, /wp-content/uploads/2024/09/ashley-700x700.png 700w, /wp-content/uploads/2024/09/ashley.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/banana.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/banana-644x644.png" alt="" class="wp-image-1129" srcset="/wp-content/uploads/2024/09/banana-644x644.png 644w, /wp-content/uploads/2024/09/banana-300x300.png 300w, /wp-content/uploads/2024/09/banana-150x150.png 150w, /wp-content/uploads/2024/09/banana-768x768.png 768w, /wp-content/uploads/2024/09/banana-700x700.png 700w, /wp-content/uploads/2024/09/banana.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/banana.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/banana-644x644.png" alt="" class="wp-image-1129" srcset="/wp-content/uploads/2024/09/banana-644x644.png 644w, /wp-content/uploads/2024/09/banana-300x300.png 300w, /wp-content/uploads/2024/09/banana-150x150.png 150w, /wp-content/uploads/2024/09/banana-768x768.png 768w, /wp-content/uploads/2024/09/banana-700x700.png 700w, /wp-content/uploads/2024/09/banana.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/maddie.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/maddie-644x644.png" alt="" class="wp-image-1130" srcset="/wp-content/uploads/2024/09/maddie-644x644.png 644w, /wp-content/uploads/2024/09/maddie-300x300.png 300w, /wp-content/uploads/2024/09/maddie-150x150.png 150w, /wp-content/uploads/2024/09/maddie-768x768.png 768w, /wp-content/uploads/2024/09/maddie-700x700.png 700w, /wp-content/uploads/2024/09/maddie.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/maddie.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/maddie-644x644.png" alt="" class="wp-image-1130" srcset="/wp-content/uploads/2024/09/maddie-644x644.png 644w, /wp-content/uploads/2024/09/maddie-300x300.png 300w, /wp-content/uploads/2024/09/maddie-150x150.png 150w, /wp-content/uploads/2024/09/maddie-768x768.png 768w, /wp-content/uploads/2024/09/maddie-700x700.png 700w, /wp-content/uploads/2024/09/maddie.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/manjirou.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/manjirou-644x644.png" alt="" class="wp-image-1131" srcset="/wp-content/uploads/2024/09/manjirou-644x644.png 644w, /wp-content/uploads/2024/09/manjirou-300x300.png 300w, /wp-content/uploads/2024/09/manjirou-150x150.png 150w, /wp-content/uploads/2024/09/manjirou-768x768.png 768w, /wp-content/uploads/2024/09/manjirou-700x700.png 700w, /wp-content/uploads/2024/09/manjirou.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/manjirou.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/manjirou-644x644.png" alt="" class="wp-image-1131" srcset="/wp-content/uploads/2024/09/manjirou-644x644.png 644w, /wp-content/uploads/2024/09/manjirou-300x300.png 300w, /wp-content/uploads/2024/09/manjirou-150x150.png 150w, /wp-content/uploads/2024/09/manjirou-768x768.png 768w, /wp-content/uploads/2024/09/manjirou-700x700.png 700w, /wp-content/uploads/2024/09/manjirou.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/teteo.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/teteo-644x644.png" alt="" class="wp-image-1132" srcset="/wp-content/uploads/2024/09/teteo-644x644.png 644w, /wp-content/uploads/2024/09/teteo-300x300.png 300w, /wp-content/uploads/2024/09/teteo-150x150.png 150w, /wp-content/uploads/2024/09/teteo-768x768.png 768w, /wp-content/uploads/2024/09/teteo-700x700.png 700w, /wp-content/uploads/2024/09/teteo.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/teteo.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/teteo-644x644.png" alt="" class="wp-image-1132" srcset="/wp-content/uploads/2024/09/teteo-644x644.png 644w, /wp-content/uploads/2024/09/teteo-300x300.png 300w, /wp-content/uploads/2024/09/teteo-150x150.png 150w, /wp-content/uploads/2024/09/teteo-768x768.png 768w, /wp-content/uploads/2024/09/teteo-700x700.png 700w, /wp-content/uploads/2024/09/teteo.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/wataame.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/wataame-644x644.png" alt="" class="wp-image-1133" srcset="/wp-content/uploads/2024/09/wataame-644x644.png 644w, /wp-content/uploads/2024/09/wataame-300x300.png 300w, /wp-content/uploads/2024/09/wataame-150x150.png 150w, /wp-content/uploads/2024/09/wataame-768x768.png 768w, /wp-content/uploads/2024/09/wataame-700x700.png 700w, /wp-content/uploads/2024/09/wataame.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/wataame.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/wataame-644x644.png" alt="" class="wp-image-1133" srcset="/wp-content/uploads/2024/09/wataame-644x644.png 644w, /wp-content/uploads/2024/09/wataame-300x300.png 300w, /wp-content/uploads/2024/09/wataame-150x150.png 150w, /wp-content/uploads/2024/09/wataame-768x768.png 768w, /wp-content/uploads/2024/09/wataame-700x700.png 700w, /wp-content/uploads/2024/09/wataame.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/yaso.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/yaso-644x644.png" alt="" class="wp-image-1134" srcset="/wp-content/uploads/2024/09/yaso-644x644.png 644w, /wp-content/uploads/2024/09/yaso-300x300.png 300w, /wp-content/uploads/2024/09/yaso-150x150.png 150w, /wp-content/uploads/2024/09/yaso-768x768.png 768w, /wp-content/uploads/2024/09/yaso-700x700.png 700w, /wp-content/uploads/2024/09/yaso.png 1317w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/yaso.png"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/09/yaso-644x644.png" alt="" class="wp-image-1134" srcset="/wp-content/uploads/2024/09/yaso-644x644.png 644w, /wp-content/uploads/2024/09/yaso-300x300.png 300w, /wp-content/uploads/2024/09/yaso-150x150.png 150w, /wp-content/uploads/2024/09/yaso-768x768.png 768w, /wp-content/uploads/2024/09/yaso-700x700.png 700w, /wp-content/uploads/2024/09/yaso.png 1317w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -2396,7 +2613,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image-9.png"><img loading="lazy" decoding="async" width="641" height="646" src="/wp-content/uploads/2024/08/image-9.png" alt="" class="wp-image-973" srcset="/wp-content/uploads/2024/08/image-9.png 641w, /wp-content/uploads/2024/08/image-9-298x300.png 298w, /wp-content/uploads/2024/08/image-9-150x150.png 150w" sizes="(max-width: 641px) 100vw, 641px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image-9.png"><img loading="lazy" decoding="async" width="641" height="646" src="/wp-content/uploads/2024/08/image-9.png" alt="" class="wp-image-973" srcset="/wp-content/uploads/2024/08/image-9.png 641w, /wp-content/uploads/2024/08/image-9-298x300.png 298w, /wp-content/uploads/2024/08/image-9-150x150.png 150w" sizes="auto, (max-width: 641px) 100vw, 641px" /></a></figure>
 
 
 
@@ -2446,7 +2663,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-10.png"><img loading="lazy" decoding="async" width="644" height="553" src="/wp-content/uploads/2024/08/image-10-644x553.png" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2024/08/image-10-644x553.png 644w, /wp-content/uploads/2024/08/image-10-300x258.png 300w, /wp-content/uploads/2024/08/image-10-768x659.png 768w, /wp-content/uploads/2024/08/image-10-700x601.png 700w, /wp-content/uploads/2024/08/image-10.png 821w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-10.png"><img loading="lazy" decoding="async" width="644" height="553" src="/wp-content/uploads/2024/08/image-10-644x553.png" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2024/08/image-10-644x553.png 644w, /wp-content/uploads/2024/08/image-10-300x258.png 300w, /wp-content/uploads/2024/08/image-10-768x659.png 768w, /wp-content/uploads/2024/08/image-10-700x601.png 700w, /wp-content/uploads/2024/08/image-10.png 821w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -2482,11 +2699,11 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png" alt="" class="wp-image-1011" srcset="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png 644w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-300x169.png 300w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-768x432.png 768w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-700x394.png 700w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png" alt="" class="wp-image-1011" srcset="/wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-644x362.png 644w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-300x169.png 300w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-768x432.png 768w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？-700x394.png 700w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目かんたん避け？.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-644x362.webp" alt="" class="wp-image-1012" srcset="/wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-644x362.webp 644w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-300x169.webp 300w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-768x432.webp 768w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-700x394.webp 700w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-644x362.webp" alt="" class="wp-image-1012" srcset="/wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-644x362.webp 644w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-300x169.webp 300w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-768x432.webp 768w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-700x394.webp 700w, /wp-content/uploads/2024/08/チェーンデスマッチ1発目ばなな式_ここなら殴れそう-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -2526,7 +2743,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="326" src="/wp-content/uploads/2024/08/image-13-644x326.png" alt="" class="wp-image-1005" srcset="/wp-content/uploads/2024/08/image-13-644x326.png 644w, /wp-content/uploads/2024/08/image-13-300x152.png 300w, /wp-content/uploads/2024/08/image-13-768x389.png 768w, /wp-content/uploads/2024/08/image-13-700x354.png 700w, /wp-content/uploads/2024/08/image-13.png 1250w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="326" src="/wp-content/uploads/2024/08/image-13-644x326.png" alt="" class="wp-image-1005" srcset="/wp-content/uploads/2024/08/image-13-644x326.png 644w, /wp-content/uploads/2024/08/image-13-300x152.png 300w, /wp-content/uploads/2024/08/image-13-768x389.png 768w, /wp-content/uploads/2024/08/image-13-700x354.png 700w, /wp-content/uploads/2024/08/image-13.png 1250w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure>
 
 
 
@@ -2539,11 +2756,11 @@ H1/D3　　H2/D2</code></pre>
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="678" data-id="1007" src="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png 644w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-285x300.png 285w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-768x809.png 768w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-700x737.png 700w, /wp-content/uploads/2024/08/零式フューズボム_散開_先.png 1308w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="678" data-id="1007" src="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png 644w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-285x300.png 285w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-768x809.png 768w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-700x737.png 700w, /wp-content/uploads/2024/08/零式フューズボム_散開_先.png 1308w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="678" data-id="1006" src="/wp-content/uploads/2024/08/零式フューズボム_散開_後-644x678.png" alt="" class="wp-image-1006" srcset="/wp-content/uploads/2024/08/零式フューズボム_散開_後-644x678.png 644w, /wp-content/uploads/2024/08/零式フューズボム_散開_後-285x300.png 285w, /wp-content/uploads/2024/08/零式フューズボム_散開_後-768x809.png 768w, /wp-content/uploads/2024/08/零式フューズボム_散開_後-700x737.png 700w, /wp-content/uploads/2024/08/零式フューズボム_散開_後.png 1308w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="678" data-id="1006" src="/wp-content/uploads/2024/08/零式フューズボム_散開_後-644x678.png" alt="" class="wp-image-1006" srcset="/wp-content/uploads/2024/08/零式フューズボム_散開_後-644x678.png 644w, /wp-content/uploads/2024/08/零式フューズボム_散開_後-285x300.png 285w, /wp-content/uploads/2024/08/零式フューズボム_散開_後-768x809.png 768w, /wp-content/uploads/2024/08/零式フューズボム_散開_後-700x737.png 700w, /wp-content/uploads/2024/08/零式フューズボム_散開_後.png 1308w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure>
 </figure>
 
 
@@ -2606,11 +2823,11 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-644x362.png" alt="" class="wp-image-1015" srcset="/wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-644x362.png 644w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-300x169.png 300w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-768x432.png 768w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-700x394.png 700w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-644x362.png" alt="" class="wp-image-1015" srcset="/wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-644x362.png 644w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-300x169.png 300w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-768x432.png 768w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開-700x394.png 700w, /wp-content/uploads/2024/08/LH3_アタッチ・フューズボム_散開案_2024-08-21_DPS先に散開.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/極盛りTH先.gif" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/08/極盛りTH先-644x644.gif" alt="" class="wp-image-1026" srcset="/wp-content/uploads/2024/08/極盛りTH先-644x644.gif 644w, /wp-content/uploads/2024/08/極盛りTH先-300x300.gif 300w, /wp-content/uploads/2024/08/極盛りTH先-150x150.gif 150w, /wp-content/uploads/2024/08/極盛りTH先-768x768.gif 768w, /wp-content/uploads/2024/08/極盛りTH先-700x700.gif 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/極盛りTH先.gif" target="_blank" rel="noopener"><img loading="lazy" decoding="async" width="644" height="644" src="/wp-content/uploads/2024/08/極盛りTH先-644x644.gif" alt="" class="wp-image-1026" srcset="/wp-content/uploads/2024/08/極盛りTH先-644x644.gif 644w, /wp-content/uploads/2024/08/極盛りTH先-300x300.gif 300w, /wp-content/uploads/2024/08/極盛りTH先-150x150.gif 150w, /wp-content/uploads/2024/08/極盛りTH先-768x768.gif 768w, /wp-content/uploads/2024/08/極盛りTH先-700x700.gif 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -2634,15 +2851,15 @@ H1/D3　　H2/D2</code></pre>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png" alt="" class="wp-image-1017" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png" alt="" class="wp-image-1017" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure></div>
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1019" src="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png" alt="" class="wp-image-1019" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1019" src="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png" alt="" class="wp-image-1019" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240818_234118_698.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1018" src="/wp-content/uploads/2024/08/ffxiv_20240818_234118_698-644x270.png" alt="" class="wp-image-1018" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234118_698-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240818_234118_698.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1018" src="/wp-content/uploads/2024/08/ffxiv_20240818_234118_698-644x270.png" alt="" class="wp-image-1018" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234118_698-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234118_698-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 </figure>
 
 
@@ -2943,7 +3160,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-5.png"><img loading="lazy" decoding="async" width="639" height="688" src="/wp-content/uploads/2024/08/image-5.png" alt="" class="wp-image-906" srcset="/wp-content/uploads/2024/08/image-5.png 639w, /wp-content/uploads/2024/08/image-5-279x300.png 279w" sizes="(max-width: 639px) 100vw, 639px" /></a></figure></div>
+<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-5.png"><img loading="lazy" decoding="async" width="639" height="688" src="/wp-content/uploads/2024/08/image-5.png" alt="" class="wp-image-906" srcset="/wp-content/uploads/2024/08/image-5.png 639w, /wp-content/uploads/2024/08/image-5-279x300.png 279w" sizes="auto, (max-width: 639px) 100vw, 639px" /></a></figure></div>
 
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -2958,7 +3175,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/基本散開の図-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/基本散開の図-644x362.webp" alt="" class="wp-image-910" srcset="/wp-content/uploads/2024/08/基本散開の図-644x362.webp 644w, /wp-content/uploads/2024/08/基本散開の図-300x169.webp 300w, /wp-content/uploads/2024/08/基本散開の図-768x432.webp 768w, /wp-content/uploads/2024/08/基本散開の図-700x394.webp 700w, /wp-content/uploads/2024/08/基本散開の図-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/基本散開の図-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/基本散開の図-644x362.webp" alt="" class="wp-image-910" srcset="/wp-content/uploads/2024/08/基本散開の図-644x362.webp 644w, /wp-content/uploads/2024/08/基本散開の図-300x169.webp 300w, /wp-content/uploads/2024/08/基本散開の図-768x432.webp 768w, /wp-content/uploads/2024/08/基本散開の図-700x394.webp 700w, /wp-content/uploads/2024/08/基本散開の図-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3009,7 +3226,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="340" height="112" src="/wp-content/uploads/2024/08/image-8.png" alt="" class="wp-image-979" srcset="/wp-content/uploads/2024/08/image-8.png 340w, /wp-content/uploads/2024/08/image-8-300x99.png 300w" sizes="(max-width: 340px) 100vw, 340px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="340" height="112" src="/wp-content/uploads/2024/08/image-8.png" alt="" class="wp-image-979" srcset="/wp-content/uploads/2024/08/image-8.png 340w, /wp-content/uploads/2024/08/image-8-300x99.png 300w" sizes="auto, (max-width: 340px) 100vw, 340px" /></figure>
 
 
 
@@ -3026,7 +3243,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="376" height="108" src="/wp-content/uploads/2024/08/image-11.png" alt="" class="wp-image-981" srcset="/wp-content/uploads/2024/08/image-11.png 376w, /wp-content/uploads/2024/08/image-11-300x86.png 300w" sizes="(max-width: 376px) 100vw, 376px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="376" height="108" src="/wp-content/uploads/2024/08/image-11.png" alt="" class="wp-image-981" srcset="/wp-content/uploads/2024/08/image-11.png 376w, /wp-content/uploads/2024/08/image-11-300x86.png 300w" sizes="auto, (max-width: 376px) 100vw, 376px" /></figure>
 
 
 
@@ -3076,7 +3293,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-6.png"><img loading="lazy" decoding="async" width="644" height="189" src="/wp-content/uploads/2024/08/image-6-644x189.png" alt="" class="wp-image-917" srcset="/wp-content/uploads/2024/08/image-6-644x189.png 644w, /wp-content/uploads/2024/08/image-6-300x88.png 300w, /wp-content/uploads/2024/08/image-6.png 689w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-6.png"><img loading="lazy" decoding="async" width="644" height="189" src="/wp-content/uploads/2024/08/image-6-644x189.png" alt="" class="wp-image-917" srcset="/wp-content/uploads/2024/08/image-6-644x189.png 644w, /wp-content/uploads/2024/08/image-6-300x88.png 300w, /wp-content/uploads/2024/08/image-6.png 689w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3189,12 +3406,12 @@ H1/D3　　H2/D2</code></pre>
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="931" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp" alt="" class="wp-image-931" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="931" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp" alt="" class="wp-image-931" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 </figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-644x362.webp" alt="" class="wp-image-930" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-644x362.webp" alt="" class="wp-image-930" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／16ずつ移動-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3232,15 +3449,15 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-00.png"><img loading="lazy" decoding="async" width="644" height="363" src="/wp-content/uploads/2024/08/2ndLive-00-644x363.png" alt="" class="wp-image-920" srcset="/wp-content/uploads/2024/08/2ndLive-00-644x363.png 644w, /wp-content/uploads/2024/08/2ndLive-00-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-00-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-00-700x394.png 700w, /wp-content/uploads/2024/08/2ndLive-00.png 1167w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-00.png"><img loading="lazy" decoding="async" width="644" height="363" src="/wp-content/uploads/2024/08/2ndLive-00-644x363.png" alt="" class="wp-image-920" srcset="/wp-content/uploads/2024/08/2ndLive-00-644x363.png 644w, /wp-content/uploads/2024/08/2ndLive-00-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-00-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-00-700x394.png 700w, /wp-content/uploads/2024/08/2ndLive-00.png 1167w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-01.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-01-644x362.png" alt="" class="wp-image-921" srcset="/wp-content/uploads/2024/08/2ndLive-01-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-01-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-01-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-01-700x393.png 700w, /wp-content/uploads/2024/08/2ndLive-01.png 1171w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-01.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-01-644x362.png" alt="" class="wp-image-921" srcset="/wp-content/uploads/2024/08/2ndLive-01-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-01-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-01-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-01-700x393.png 700w, /wp-content/uploads/2024/08/2ndLive-01.png 1171w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-02.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-02-644x362.png" alt="" class="wp-image-922" srcset="/wp-content/uploads/2024/08/2ndLive-02-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-02-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-02-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-02-700x393.png 700w, /wp-content/uploads/2024/08/2ndLive-02.png 1169w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-02.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-02-644x362.png" alt="" class="wp-image-922" srcset="/wp-content/uploads/2024/08/2ndLive-02-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-02-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-02-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-02-700x393.png 700w, /wp-content/uploads/2024/08/2ndLive-02.png 1169w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3248,7 +3465,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-03.png"><img loading="lazy" decoding="async" width="644" height="306" src="/wp-content/uploads/2024/08/2ndLive-03-644x306.png" alt="" class="wp-image-927" srcset="/wp-content/uploads/2024/08/2ndLive-03-644x306.png 644w, /wp-content/uploads/2024/08/2ndLive-03-300x143.png 300w, /wp-content/uploads/2024/08/2ndLive-03-768x365.png 768w, /wp-content/uploads/2024/08/2ndLive-03-1536x730.png 1536w, /wp-content/uploads/2024/08/2ndLive-03-2048x973.png 2048w, /wp-content/uploads/2024/08/2ndLive-03-700x333.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-03.png"><img loading="lazy" decoding="async" width="644" height="306" src="/wp-content/uploads/2024/08/2ndLive-03-644x306.png" alt="" class="wp-image-927" srcset="/wp-content/uploads/2024/08/2ndLive-03-644x306.png 644w, /wp-content/uploads/2024/08/2ndLive-03-300x143.png 300w, /wp-content/uploads/2024/08/2ndLive-03-768x365.png 768w, /wp-content/uploads/2024/08/2ndLive-03-1536x730.png 1536w, /wp-content/uploads/2024/08/2ndLive-03-2048x973.png 2048w, /wp-content/uploads/2024/08/2ndLive-03-700x333.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3256,7 +3473,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-04.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-04-644x362.png" alt="" class="wp-image-934" srcset="/wp-content/uploads/2024/08/2ndLive-04-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-04-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-04-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-04-700x394.png 700w, /wp-content/uploads/2024/08/2ndLive-04.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/2ndLive-04.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/2ndLive-04-644x362.png" alt="" class="wp-image-934" srcset="/wp-content/uploads/2024/08/2ndLive-04-644x362.png 644w, /wp-content/uploads/2024/08/2ndLive-04-300x169.png 300w, /wp-content/uploads/2024/08/2ndLive-04-768x432.png 768w, /wp-content/uploads/2024/08/2ndLive-04-700x394.png 700w, /wp-content/uploads/2024/08/2ndLive-04.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3288,7 +3505,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-7.png"><img loading="lazy" decoding="async" width="644" height="363" src="/wp-content/uploads/2024/08/image-7-644x363.png" alt="" class="wp-image-938" srcset="/wp-content/uploads/2024/08/image-7-644x363.png 644w, /wp-content/uploads/2024/08/image-7-300x169.png 300w, /wp-content/uploads/2024/08/image-7-768x433.png 768w, /wp-content/uploads/2024/08/image-7-1536x866.png 1536w, /wp-content/uploads/2024/08/image-7-700x395.png 700w, /wp-content/uploads/2024/08/image-7.png 1648w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-7.png"><img loading="lazy" decoding="async" width="644" height="363" src="/wp-content/uploads/2024/08/image-7-644x363.png" alt="" class="wp-image-938" srcset="/wp-content/uploads/2024/08/image-7-644x363.png 644w, /wp-content/uploads/2024/08/image-7-300x169.png 300w, /wp-content/uploads/2024/08/image-7-768x433.png 768w, /wp-content/uploads/2024/08/image-7-1536x866.png 1536w, /wp-content/uploads/2024/08/image-7-700x395.png 700w, /wp-content/uploads/2024/08/image-7.png 1648w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3308,7 +3525,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/3rdLive-00.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/3rdLive-00-644x362.png" alt="" class="wp-image-942" srcset="/wp-content/uploads/2024/08/3rdLive-00-644x362.png 644w, /wp-content/uploads/2024/08/3rdLive-00-300x169.png 300w, /wp-content/uploads/2024/08/3rdLive-00-768x432.png 768w, /wp-content/uploads/2024/08/3rdLive-00-700x394.png 700w, /wp-content/uploads/2024/08/3rdLive-00.png 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/3rdLive-00.png"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/3rdLive-00-644x362.png" alt="" class="wp-image-942" srcset="/wp-content/uploads/2024/08/3rdLive-00-644x362.png 644w, /wp-content/uploads/2024/08/3rdLive-00-300x169.png 300w, /wp-content/uploads/2024/08/3rdLive-00-768x432.png 768w, /wp-content/uploads/2024/08/3rdLive-00-700x394.png 700w, /wp-content/uploads/2024/08/3rdLive-00.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3380,14 +3597,14 @@ H1/D1　　H2/D2</code></pre>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920.png"><img loading="lazy" decoding="async" width="644" height="325" src="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-644x325.png" alt="" class="wp-image-953" srcset="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-644x325.png 644w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-300x151.png 300w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-768x388.png 768w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-1536x775.png 1536w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-700x353.png 700w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920.png 1920w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920.png"><img loading="lazy" decoding="async" width="644" height="325" src="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-644x325.png" alt="" class="wp-image-953" srcset="/wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-644x325.png 644w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-300x151.png 300w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-768x388.png 768w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-1536x775.png 1536w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920-700x353.png 700w, /wp-content/uploads/2024/08/2層初クリア_2024-08-09_w1920.png 1920w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
 
 
 <p></p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431-644x270.png" alt="" class="wp-image-896" srcset="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431-644x270.png" alt="" class="wp-image-896" srcset="/wp-content/uploads/2024/08/ffxiv_20240809_235311_431-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240809_235311_431-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
 
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -3635,7 +3852,7 @@ H1/D1　　H2/D2</code></pre>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-1.png"><img loading="lazy" decoding="async" width="640" height="686" src="/wp-content/uploads/2024/08/image-1.png" alt="" class="wp-image-849" srcset="/wp-content/uploads/2024/08/image-1.png 640w, /wp-content/uploads/2024/08/image-1-280x300.png 280w" sizes="(max-width: 640px) 100vw, 640px" /></a></figure></div>
+<figure class="aligncenter size-full"><a href="/wp-content/uploads/2024/08/image-1.png"><img loading="lazy" decoding="async" width="640" height="686" src="/wp-content/uploads/2024/08/image-1.png" alt="" class="wp-image-849" srcset="/wp-content/uploads/2024/08/image-1.png 640w, /wp-content/uploads/2024/08/image-1-280x300.png 280w" sizes="auto, (max-width: 640px) 100vw, 640px" /></a></figure></div>
 
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -3673,7 +3890,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp" alt="" class="wp-image-838" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp" alt="" class="wp-image-838" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後クアドラ（ペア）-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3681,7 +3898,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp" alt="" class="wp-image-839" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp" alt="" class="wp-image-839" srcset="/wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-644x362.webp 644w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-300x169.webp 300w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-768x432.webp 768w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-700x394.webp 700w, /wp-content/uploads/2024/08/クアドラネイル_十字固定案_最後ダブル（４：４）-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3701,7 +3918,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン.png"><img loading="lazy" decoding="async" width="644" height="326" src="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-644x326.png" alt="" class="wp-image-844" srcset="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-644x326.png 644w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-300x152.png 300w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-768x389.png 768w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-700x354.png 700w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン.png 842w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン.png"><img loading="lazy" decoding="async" width="644" height="326" src="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-644x326.png" alt="" class="wp-image-844" srcset="/wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-644x326.png 644w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-300x152.png 300w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-768x389.png 768w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン-700x354.png 700w, /wp-content/uploads/2024/08/リーピング半面焼きの安地パターン.png 842w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3739,7 +3956,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image.png"><img loading="lazy" decoding="async" width="323" height="100" src="/wp-content/uploads/2024/08/image.png" alt="" class="wp-image-848" srcset="/wp-content/uploads/2024/08/image.png 323w, /wp-content/uploads/2024/08/image-300x93.png 300w" sizes="(max-width: 323px) 100vw, 323px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/08/image.png"><img loading="lazy" decoding="async" width="323" height="100" src="/wp-content/uploads/2024/08/image.png" alt="" class="wp-image-848" srcset="/wp-content/uploads/2024/08/image.png 323w, /wp-content/uploads/2024/08/image-300x93.png 300w" sizes="auto, (max-width: 323px) 100vw, 323px" /></a></figure>
 
 
 
@@ -3781,7 +3998,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="305" src="/wp-content/uploads/2024/08/image-2-644x305.png" alt="" class="wp-image-854" srcset="/wp-content/uploads/2024/08/image-2-644x305.png 644w, /wp-content/uploads/2024/08/image-2-300x142.png 300w, /wp-content/uploads/2024/08/image-2-768x363.png 768w, /wp-content/uploads/2024/08/image-2-700x331.png 700w, /wp-content/uploads/2024/08/image-2.png 1253w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="305" src="/wp-content/uploads/2024/08/image-2-644x305.png" alt="" class="wp-image-854" srcset="/wp-content/uploads/2024/08/image-2-644x305.png 644w, /wp-content/uploads/2024/08/image-2-300x142.png 300w, /wp-content/uploads/2024/08/image-2-768x363.png 768w, /wp-content/uploads/2024/08/image-2-700x331.png 700w, /wp-content/uploads/2024/08/image-2.png 1253w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure>
 
 
 
@@ -3801,7 +4018,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-644x362.webp" alt="" class="wp-image-865" srcset="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-644x362.webp 644w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-300x169.webp 300w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-768x432.webp 768w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-700x394.webp 700w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-jpg.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-644x362.webp" alt="" class="wp-image-865" srcset="/wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-644x362.webp 644w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-300x169.webp 300w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-768x432.webp 768w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-700x394.webp 700w, /wp-content/uploads/2024/08/LH級1層_検証_床ドンアッパースプレッド_01-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3849,7 +4066,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-3.png"><img loading="lazy" decoding="async" width="644" height="606" src="/wp-content/uploads/2024/08/image-3-644x606.png" alt="" class="wp-image-866" srcset="/wp-content/uploads/2024/08/image-3-644x606.png 644w, /wp-content/uploads/2024/08/image-3-300x282.png 300w, /wp-content/uploads/2024/08/image-3-700x658.png 700w, /wp-content/uploads/2024/08/image-3.png 741w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/image-3.png"><img loading="lazy" decoding="async" width="644" height="606" src="/wp-content/uploads/2024/08/image-3-644x606.png" alt="" class="wp-image-866" srcset="/wp-content/uploads/2024/08/image-3-644x606.png 644w, /wp-content/uploads/2024/08/image-3-300x282.png 300w, /wp-content/uploads/2024/08/image-3-700x658.png 700w, /wp-content/uploads/2024/08/image-3.png 741w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -3861,7 +4078,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="520" src="/wp-content/uploads/2024/08/image-4-644x520.png" alt="" class="wp-image-867" srcset="/wp-content/uploads/2024/08/image-4-644x520.png 644w, /wp-content/uploads/2024/08/image-4-300x242.png 300w, /wp-content/uploads/2024/08/image-4-768x620.png 768w, /wp-content/uploads/2024/08/image-4-700x565.png 700w, /wp-content/uploads/2024/08/image-4.png 894w" sizes="(max-width: 644px) 100vw, 644px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="520" src="/wp-content/uploads/2024/08/image-4-644x520.png" alt="" class="wp-image-867" srcset="/wp-content/uploads/2024/08/image-4-644x520.png 644w, /wp-content/uploads/2024/08/image-4-300x242.png 300w, /wp-content/uploads/2024/08/image-4-768x620.png 768w, /wp-content/uploads/2024/08/image-4-700x565.png 700w, /wp-content/uploads/2024/08/image-4.png 894w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure>
 
 
 
@@ -3869,10 +4086,10 @@ D1　ST　D2</code></pre>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990-644x270.png" alt="" class="wp-image-871" srcset="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990-644x270.png" alt="" class="wp-image-871" srcset="/wp-content/uploads/2024/08/ffxiv_20240802_234714_990-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240802_234714_990-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522-644x270.png" alt="" class="wp-image-875" srcset="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-700x293.png 700w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure></div>
+<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522-644x270.png" alt="" class="wp-image-875" srcset="/wp-content/uploads/2024/08/ffxiv_20240802_234723_522-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240802_234723_522-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
 
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -3908,83 +4125,6 @@ D1　ST　D2</code></pre>
 <ul class="wp-block-list">
 <li>リーピング＋半面／クアドラ　からの　コピーキャットの際に散開向きをコピーキャットの向きにはしませんでした。<br>上述しましたが向きを変更するメリットがよくわからなかったので。</li>
 </ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>世界中の冒険者と知り合えるオンラインゲームが好きだ</title>
-		<link>/2024-08-09/love-mmo-and-ff14/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Fri, 09 Aug 2024 02:54:46 +0000</pubDate>
-				<category><![CDATA[とりとめのない話]]></category>
-		<guid isPermaLink="false">/?p=817</guid>
-
-					<description><![CDATA[MMORPGの醍醐味は人と出会えることだと思ってる。友達までいかなくても街で見かける人も好き。 芸風が同じ人も、違う人も、何かの偶然で知り合い、ひょっとしたら友達に、もしかするとお互いにとても大事な存在になれる、そういう...]]></description>
-										<content:encoded><![CDATA[
-<p>MMORPGの醍醐味は人と出会えることだと思ってる。<br>友達までいかなくても街で見かける人も好き。</p>
-
-
-
-<p>芸風が同じ人も、違う人も、何かの偶然で知り合い、ひょっとしたら友達に、もしかするとお互いにとても大事な存在になれる、そういう可能性があるこの世界のことが好きなのだ。</p>
-
-
-
-<p>　◇</p>
-
-
-
-<p>私がFF14って素晴らしいなと思っていたのは事実。暁月までに対してそう思っている事は今も変わらないです。<br>黄金のレガシーの舞台などもとても良かったです。</p>
-
-
-
-<p>ファンフェスもプライマルズライブもオケコンも運良く当たったので参加したし、ユーザー体験が統一されたうえでのそういったライブやコンサートは面白く貴重な体験だなって感心しました。</p>
-
-
-
-<p>FF14というMMORPGのおかげで人と出会えるのが好き。<br>おかげで色んな人と出会えたし、とても仲良くなれた人も多くはないけれどいる。</p>
-
-
-
-<p>もともとMMOは古くから遊んでて、流行ったゲームもいずれ人が減り、新しいゲームへプレイヤーは移っていく。<br>そんな経験は沢山してきたけれど、FF14規模のMMOが今後でてくるかというと怪しい。</p>
-
-
-
-<p>黄金のメインストーリーは、ストーリーがどうという前に、流れが不自然で説明ばかりで作品として没入感を得られないまま、正直に言えば終わらすために進めるという気持ちでプレイしていました。</p>
-
-
-
-<p>とても質が低いものと私は感じました。</p>
-
-
-
-<p>今後この質でいくのか？<br>この質で満足するプレイヤーを対象としてリリースし続ける企業／運営方針なのか？</p>
-
-
-
-<p>7.1くらいでそれを見極めて去就を決めることになるかなっていまは思っています。</p>
-
-
-
-<p>でも、暁月までの様な、物語を通じて自分の人生を振り返れたり、道標にできるような言葉に出会えたり、私が他人に気持ちよく勧められる作品に戻ればいいなとも思っています。</p>
-
-
-
-<p>もしかしたら企業方針で私のようなプレイヤーは対象から外れたのかも知れません。<br>でもだからといって、ただ「無理」「合わない」で投げ捨てるにはこの世界は惜しいので、少しだけ抗いたいなとフォーラムにも書きました。</p>
-
-
-
-<p>note.comに投稿しているのも、そんな感じ。</p>
-
-
-
-<p>私達は確かにいたんだよって足跡？爪痕？は残しておかないと去るにしても心残りになるかもだからね。</p>
-
-
-
-<p>今後どうなるのかは色んな意味で興味深いです。</p>
 ]]></content:encoded>
 					
 		
