@@ -203,7 +203,8 @@ blockquote {
 	color: #777;
 	font-style: italic;
 	margin: 0 0 2.4em;
-	padding: 12px 0 0 44px;
+	font-size:0.8em;
+	padding: 1em 0.5em 0 24px;
 	position: relative;
 }
 blockquote:before {
