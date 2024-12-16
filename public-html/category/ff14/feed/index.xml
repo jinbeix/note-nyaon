@@ -12,7 +12,7 @@
 	<atom:link href="/category/ff14/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Dec 2024 15:40:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2024 06:28:12 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,288 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ワールドリグループを経てクロスデータセンターCWLSを2年半やってみて</title>
+		<link>/2024-12-16/%e3%83%87%e3%83%bc%e3%82%bf%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e5%88%86%e5%89%b2%e3%83%bb%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%83%aa%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%82%92%e7%b5%8c%e3%81%a6/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 04:25:46 +0000</pubDate>
+				<category><![CDATA[CWLS下限だいすきを振り返る]]></category>
+		<category><![CDATA[FF14]]></category>
+		<guid isPermaLink="false">/?p=1440</guid>
+
+					<description><![CDATA[まとめ FF14運営はコミュニティ分断が起こる事は予想できてたのだから、コミュニケーション機能をもっと充実させてからやってほしかった。 2年半経過した現在、何も変わっていないどころか使えていた機能（コンパニオンアプリの通...]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">まとめ</h2>
+
+
+
+<p>FF14運営はコミュニティ分断が起こる事は予想できてたのだから、コミュニケーション機能をもっと充実させてからやってほしかった。</p>
+
+
+
+<p>2年半経過した現在、何も変わっていないどころか使えていた機能（コンパニオンアプリの通知やロドストのタイムライン通知）が使えなくなった点は非常に残念です。</p>
+
+
+
+<p>私自身はワールドリグループ直後のメテオDCでの運用・新規メンバーのフォローに失敗したと思っている。この点はメンバーに申し訳なく思う。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">背景説明</h2>
+
+
+
+<p>2022年7月は暁月のフィナーレ発売から約半年後、パンデモニウム煉獄編がはじまる1ヶ月ちょっと前。<br>そろそろこんなの知らない人も多くなってそう。</p>
+
+
+
+<h3 class="wp-block-heading">2022年7月に「データセンタートラベル」が導入されました</h3>
+
+
+
+<p>それより前は同一データセンター内でのワールド移動は可能で、クロスワールドリンクシェルも存在してましたが、別データセンターへ行って遊ぶ手段はありませんでした。</p>
+
+
+
+<p>もし別データセンターに普段遊んでいるキャラクターを連れていきたければ、お金を払ってキャラクターの所属DCを変更する必要がありました。</p>
+
+
+
+<p>それまでは、たとえばElemental DCの人はElemental DCの人としか遊ぶことが出来ませんでした。</p>
+
+
+
+<p>それが今のように別のデータセンターに遊びに行けるようになったのがこの時の「DCトラベル」導入です。</p>
+
+
+
+<h3 class="wp-block-heading">同時にデータセンター内のワールドリグループが行われた。</h3>
+
+
+
+<p>簡単に言うと</p>
+
+
+
+<ul class="wp-block-list">
+<li>4つ目のデータセンター（メテオ）が新規追加された。</li>
+
+
+
+<li>メテオDC内のワールドは、既存の3DCから2～3ずつワールドが移動されて構成された。</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Before</h4>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/12/image-5-png.webp"><img fetchpriority="high" decoding="async" width="538" height="227" src="/wp-content/uploads/2024/12/image-5-png.webp" alt="" class="wp-image-1441" srcset="/wp-content/uploads/2024/12/image-5-png.webp 538w, /wp-content/uploads/2024/12/image-5-300x127.webp 300w" sizes="(max-width: 538px) 100vw, 538px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">After</h4>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/12/image-6-png.webp"><img decoding="async" width="545" height="180" src="/wp-content/uploads/2024/12/image-6-png.webp" alt="" class="wp-image-1442" srcset="/wp-content/uploads/2024/12/image-6-png.webp 545w, /wp-content/uploads/2024/12/image-6-300x99.webp 300w" sizes="(max-width: 545px) 100vw, 545px" /></a></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">ワールドリグループでCWLSが真っ二つになった時、データセンターをまたいだCWLSとしてやっていく決断をしたわけですが・・・</h2>
+
+
+
+<p>CWLSオーナーである私自身がエレメンタルDCを去ることになり、メンバーもちょうど半々になるということで、CWLS終了、あるいはエレメンタル側は解散とすることもできた。</p>
+
+
+
+<p>実際ワールドリグループでCWLS解散した話もちらほら聞いていた。</p>
+
+
+
+<p>それでもなお、折角知り合った縁を手放すのが惜しくて今日まで頑張ってきた。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>だとしたらさ、偶然私の募集を見て入ってくれて知り合って、これまで少なくない時間を共に過ごして「このCWLSが好きだ」「このCWLSがあってよかった」と言ってくれてた仲間を、DCリグループで分かれるからそちらはそちらで頑張って…と手をひくのは、諦めるのは、自分的にどうなの？って。</p>
+<cite><a href="https://note.nyaon.jp/2022-03-13/ff14%EF%BC%9Adc%E3%83%AA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A8cwls%E3%82%92%E5%B7%A1%E3%82%8B%E7%89%A9%E8%AA%9E/" data-type="link" data-id="https://note.nyaon.jp/2022-03-13/ff14%EF%BC%9Adc%E3%83%AA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A8cwls%E3%82%92%E5%B7%A1%E3%82%8B%E7%89%A9%E8%AA%9E/" target="_blank" rel="noreferrer noopener">FF14：DCリグループとCWLSを巡る物語</a></cite></blockquote>
+
+
+
+<h3 class="wp-block-heading">2年半やってきてどうなの？</h3>
+
+
+
+<p>運用的に失敗したなぁという部分と、FF14のコミュニケーション機能もっとどうにかしてよって部分がありますね。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">FF14はもっとユーザーコミュニケーションツールに力をいれてほしい</h2>
+
+
+
+<p>ワールドリグループ時点であればよかったのだけど。</p>
+
+
+
+<h3 class="wp-block-heading">ワールドやデータセンターに依存しないチャット機能を作ってほしい</h3>
+
+
+
+<p>FF14がかつてお手本とした世界のMMORPG「World of Warcraft」⋯っていうかBlizzardではだいぶ昔から実現している。FF14よりももっと大規模な環境で。<br>ざっくり言うならスクエニアカウント単位で繋がれて、ワールド（データセンター違い）でも、なんだったらゲーム違いでも連絡が可能。</p>
+
+
+
+<p>もっと言えば同じスクエニのMMORPGドラクエ10では当初からワールド依存しない設計なのにねぇ。</p>
+
+
+
+<h3 class="wp-block-heading">データセンター依存しないマッチングシステム</h3>
+
+
+
+<p>これはなんか作ってそうなコメントどこかでみかけましたね。<br>チャット機能もここらへんと一緒に入るのかなぁ。</p>
+
+
+
+<h3 class="wp-block-heading">CWLSメンバー上限を増やして欲しい</h3>
+
+
+
+<p>別DCの人もCWLS入れるのに枠が少なすぎる。<br>別DCの人をいれると自DCメンバーが減るわけで、結果日常的に会話できる（そのデータセンターにいる）人の割合が減る。</p>
+
+
+
+<h3 class="wp-block-heading">コンパニオンアプリもうすこしどうにかならないか</h3>
+
+
+
+<p>もともと吉田P/Dはワールドリグループ導入時の説明で、コミュニティが分断されることになるけれど、コンパニオンアプリでDCまたいだコミュニケーションが可能なのでと発言していた。</p>
+
+
+
+<p>でもチャット着信してもバッジでない不具合はずっと残ってる。<br>チャットグループのメンバー上限は増えたけど、スケジュール機能の招待人数が変わってないので全員をスケジュール招待できない。</p>
+
+
+
+<p>「みんなSNSやDiscordで繋がってるから」みたいな理由なのかな。</p>
+
+
+
+<p>あるいはDC依存しないチャットシステム作ってるからその時刷新なのかなー。</p>
+
+
+
+<h3 class="wp-block-heading">ゲーム内からロドストイベント参加申請とかできるといい。</h3>
+
+
+
+<p>クライアントにウェブインターフェース載せれば実現できそうだけど・・・。</p>
+
+
+
+<p>イベント作るのもゲーム内から出来るといい。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">運用面で失敗したなと思う点</h2>
+
+
+
+<h3 class="wp-block-heading">わたしがメテオ側のCWLSをケアしなさすぎた</h3>
+
+
+
+<p>ワールドリグループで各DCから2～3のワールドが連れてこられたメテオDC。</p>
+
+
+
+<p>つまり同じメテオの中でもみんな異文化だったり知らない人だらけだったはず。<br>既存のコミュニティからも分断されて。</p>
+
+
+
+<p>元々エレメンタルDCのCWLS下限だいすきから半分くらいが来たと言っても、メテオに移ってきたCWLSメンバーは30人に満たない。<br>そこから新規募集するってことは半分以上が新しい人メンバー、はじめましてなメンバーだった。</p>
+
+
+
+<p>そういう状況で、メテオ側でチャットなどでフォローをよくしてくれる人はそこまで多くなかった。</p>
+
+
+
+<p>エレメンタルDCのみで運用していたころは、私がいなくても誰かがチャットすれば返事する人、ルレとかで人が足りなければ参加してくれる人、そういったフォローしてくれる人が一定数いた。</p>
+
+
+
+<h3 class="wp-block-heading">問題だったのは、私がその点に気づいていたけれどフォローをあまりできなかったことです。</h3>
+
+
+
+<p>この「チャットでフォロー」みたいなのをするしないは人の性格なのでそれをできなかったとしても、それはいい。<br>チャットでのフォローはなくても募集パーティに積極的に参加してくれたり埋まらない枠を埋めてくれるような人は沢山いたのは知ってるから。</p>
+
+
+
+<p>ワールドリグループ直後に新規メンバーを募集して、新しい人に参加してもらって。<br>そうこうしているうちにパンデモニウム煉獄編がはじまり、私はその零式攻略の固定パーティも主催していた。</p>
+
+
+
+<p>ワールドリグループ直後で固定パーティ参加メンバーが活動過程でどういう感じになるかもわからなかった為、定期的に集合データセンターをメンバー所属DCになるようにしていた。</p>
+
+
+
+<p>つまり、別DC集合の期間中わたしがメテオに長い間いなかった。</p>
+
+
+
+<p>メテオDCにいなければ当然チャットも見えず、誰かが困っていても、すきま時間に手伝える何かがあっても、そういったことに一切気づけずフォローもできなかった。</p>
+
+
+
+<p>当時、いなかったから当たり前だけど、どういう状況だったのかはわからない。<br>でも個人的にこれが一番失敗だったと思っている。</p>
+
+
+
+<p>新しい世界で、完全に新規のCWLSを作ったつもりでいるべきだった。<br>もっとメンバーの交流だとかフォロー、ケアに力を注ぐべきだった。</p>
+
+
+
+<p>もし自分ができないのなら、そのフォローをしてくれる雰囲気づくりや人の手配をすべきだった。</p>
+
+
+
+<p>メンバー間の交流する土壌ができあがらないまま次の解散・新生をしたりうやむやなまま今日に至ってしまったと、そう思っている。</p>
+
+
+
+<p>もし、とか言ってもしかたないけれど、明確にこれは自分の失敗だと今も思っている。</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>CWLS解散と新生システムを考えた理由と今ある課題</title>
 		<link>/2024-12-12/cwls%e8%a7%a3%e6%95%a3%e3%81%a8%e6%96%b0%e7%94%9f%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%82%92%e8%80%83%e3%81%88%e3%81%9f%e7%90%86%e7%94%b1%e3%81%a8%e4%bb%8a%e3%81%82%e3%82%8b%e5%95%8f%e9%a1%8c/</link>
 		
@@ -407,7 +689,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2024/12/image-2-png.webp"><img fetchpriority="high" decoding="async" width="644" height="393" src="/wp-content/uploads/2024/12/image-2-644x393.webp" alt="" class="wp-image-1370" srcset="/wp-content/uploads/2024/12/image-2-644x393.webp 644w, /wp-content/uploads/2024/12/image-2-300x183.webp 300w, /wp-content/uploads/2024/12/image-2-768x469.webp 768w, /wp-content/uploads/2024/12/image-2-700x427.webp 700w, /wp-content/uploads/2024/12/image-2-png.webp 1147w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2024/12/image-2-png.webp"><img decoding="async" width="644" height="393" src="/wp-content/uploads/2024/12/image-2-644x393.webp" alt="" class="wp-image-1370" srcset="/wp-content/uploads/2024/12/image-2-644x393.webp 644w, /wp-content/uploads/2024/12/image-2-300x183.webp 300w, /wp-content/uploads/2024/12/image-2-768x469.webp 768w, /wp-content/uploads/2024/12/image-2-700x427.webp 700w, /wp-content/uploads/2024/12/image-2-png.webp 1147w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -467,7 +749,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-png.webp"><img decoding="async" width="644" height="305" src="/wp-content/uploads/2024/12/image-644x305.webp" alt="" class="wp-image-1349" srcset="/wp-content/uploads/2024/12/image-644x305.webp 644w, /wp-content/uploads/2024/12/image-300x142.webp 300w, /wp-content/uploads/2024/12/image-768x364.webp 768w, /wp-content/uploads/2024/12/image-700x332.webp 700w, /wp-content/uploads/2024/12/image-png.webp 1147w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-png.webp"><img loading="lazy" decoding="async" width="644" height="305" src="/wp-content/uploads/2024/12/image-644x305.webp" alt="" class="wp-image-1349" srcset="/wp-content/uploads/2024/12/image-644x305.webp 644w, /wp-content/uploads/2024/12/image-300x142.webp 300w, /wp-content/uploads/2024/12/image-768x364.webp 768w, /wp-content/uploads/2024/12/image-700x332.webp 700w, /wp-content/uploads/2024/12/image-png.webp 1147w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -503,7 +785,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-1-png.webp"><img decoding="async" width="644" height="632" src="/wp-content/uploads/2024/12/image-1-644x632.webp" alt="" class="wp-image-1356" srcset="/wp-content/uploads/2024/12/image-1-644x632.webp 644w, /wp-content/uploads/2024/12/image-1-300x294.webp 300w, /wp-content/uploads/2024/12/image-1-png.webp 689w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-1-png.webp"><img loading="lazy" decoding="async" width="644" height="632" src="/wp-content/uploads/2024/12/image-1-644x632.webp" alt="" class="wp-image-1356" srcset="/wp-content/uploads/2024/12/image-1-644x632.webp 644w, /wp-content/uploads/2024/12/image-1-300x294.webp 300w, /wp-content/uploads/2024/12/image-1-png.webp 689w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -1937,87 +2219,6 @@
 
 
 <p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>アルカディア零式LH4層、下限クリアしました</title>
-		<link>/2024-10-03/cleared-lh4-savage-min-ilvl-no-echo/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Thu, 03 Oct 2024 02:38:03 +0000</pubDate>
-				<category><![CDATA[FF14]]></category>
-		<category><![CDATA[下限だいすき]]></category>
-		<category><![CDATA[下限チャレンジ]]></category>
-		<category><![CDATA[至天の座アルカディア]]></category>
-		<category><![CDATA[零式]]></category>
-		<guid isPermaLink="false">/?p=1201</guid>
-
-					<description><![CDATA[自力解明で零式やってたんですけど思いのほか早く4層クリアできました。 で、メンバーの一人Aさんが「下限でやりたい！」って言うもんだから、消化日以外に1日活動日をつくって下限ILでチャレンジしてました。 新式装備でフル禁断...]]></description>
-										<content:encoded><![CDATA[
-<p><a href="https://note.nyaon.jp/2024-07-30/ff14-blind-arcadia-lightheavy-00/">自力解明で零式やってた</a>んですけど思いのほか早く4層クリアできました。</p>
-
-
-
-<p>で、メンバーの一人Aさんが「下限でやりたい！」って言うもんだから、消化日以外に1日活動日をつくって下限ILでチャレンジしてました。</p>
-
-
-
-<p>新式装備でフル禁断。<br>装備的には初週初日で天道装備も何も無い状態ですね。</p>
-
-
-
-<p>昨日（2024-10-02（水））無事クリアできました～。やったー。</p>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457-644x270.png" alt="" class="wp-image-1202" srcset="/wp-content/uploads/2024/10/ffxiv_20241002_233424_457-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241002_233424_457-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<p></p>
-
-
-
-<p>ちゃんと下限↓</p>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592-644x270.png" alt="" class="wp-image-1203" srcset="/wp-content/uploads/2024/10/ffxiv_20241002_233831_592-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241002_233831_592-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<p></p>
-
-
-
-<p>一回ひとり倒れたけど倒せたので「それなりに叩いて誰も死ななければ、そこまで無理なく勝てる」って感じでしょうか。</p>
-
-
-
-<p>◇　◇　◇</p>
-
-
-
-<p>4層クリアして撮影タイムが終わった後に「時間あるから3層いっちゃう？」って言ったらメンバーのひとりに</p>
-
-
-
-<p>（この人たちは何を言ってるんだ？）</p>
-
-
-
-<p>みたいな顔されました笑</p>
-
-
-
-<p>メンバーの大半が<a href="https://www.ff14kagen.jp/" target="_blank" rel="noreferrer noopener">CWLS下限だいすき</a>所属なのでね・・・。<br>下限チャレンジが好きなのｗ</p>
-
-
-
-<p>次週は3層下限クリアになりそうです。<br>その後はロールシャッフルで遊ぶとかですかね～。</p>
 ]]></content:encoded>
 					
 		

@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Dec 2024 15:40:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2024 06:28:12 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,431 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ワールドリグループを経てクロスデータセンターCWLSを2年半やってみて</title>
+		<link>/2024-12-16/%e3%83%87%e3%83%bc%e3%82%bf%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e5%88%86%e5%89%b2%e3%83%bb%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%83%aa%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%82%92%e7%b5%8c%e3%81%a6/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 04:25:46 +0000</pubDate>
+				<category><![CDATA[CWLS下限だいすきを振り返る]]></category>
+		<category><![CDATA[FF14]]></category>
+		<guid isPermaLink="false">/?p=1440</guid>
+
+					<description><![CDATA[まとめ FF14運営はコミュニティ分断が起こる事は予想できてたのだから、コミュニケーション機能をもっと充実させてからやってほしかった。 2年半経過した現在、何も変わっていないどころか使えていた機能（コンパニオンアプリの通...]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">まとめ</h2>
+
+
+
+<p>FF14運営はコミュニティ分断が起こる事は予想できてたのだから、コミュニケーション機能をもっと充実させてからやってほしかった。</p>
+
+
+
+<p>2年半経過した現在、何も変わっていないどころか使えていた機能（コンパニオンアプリの通知やロドストのタイムライン通知）が使えなくなった点は非常に残念です。</p>
+
+
+
+<p>私自身はワールドリグループ直後のメテオDCでの運用・新規メンバーのフォローに失敗したと思っている。この点はメンバーに申し訳なく思う。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">背景説明</h2>
+
+
+
+<p>2022年7月は暁月のフィナーレ発売から約半年後、パンデモニウム煉獄編がはじまる1ヶ月ちょっと前。<br>そろそろこんなの知らない人も多くなってそう。</p>
+
+
+
+<h3 class="wp-block-heading">2022年7月に「データセンタートラベル」が導入されました</h3>
+
+
+
+<p>それより前は同一データセンター内でのワールド移動は可能で、クロスワールドリンクシェルも存在してましたが、別データセンターへ行って遊ぶ手段はありませんでした。</p>
+
+
+
+<p>もし別データセンターに普段遊んでいるキャラクターを連れていきたければ、お金を払ってキャラクターの所属DCを変更する必要がありました。</p>
+
+
+
+<p>それまでは、たとえばElemental DCの人はElemental DCの人としか遊ぶことが出来ませんでした。</p>
+
+
+
+<p>それが今のように別のデータセンターに遊びに行けるようになったのがこの時の「DCトラベル」導入です。</p>
+
+
+
+<h3 class="wp-block-heading">同時にデータセンター内のワールドリグループが行われた。</h3>
+
+
+
+<p>簡単に言うと</p>
+
+
+
+<ul class="wp-block-list">
+<li>4つ目のデータセンター（メテオ）が新規追加された。</li>
+
+
+
+<li>メテオDC内のワールドは、既存の3DCから2～3ずつワールドが移動されて構成された。</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Before</h4>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/12/image-5-png.webp"><img fetchpriority="high" decoding="async" width="538" height="227" src="/wp-content/uploads/2024/12/image-5-png.webp" alt="" class="wp-image-1441" srcset="/wp-content/uploads/2024/12/image-5-png.webp 538w, /wp-content/uploads/2024/12/image-5-300x127.webp 300w" sizes="(max-width: 538px) 100vw, 538px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">After</h4>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/12/image-6-png.webp"><img decoding="async" width="545" height="180" src="/wp-content/uploads/2024/12/image-6-png.webp" alt="" class="wp-image-1442" srcset="/wp-content/uploads/2024/12/image-6-png.webp 545w, /wp-content/uploads/2024/12/image-6-300x99.webp 300w" sizes="(max-width: 545px) 100vw, 545px" /></a></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">ワールドリグループでCWLSが真っ二つになった時、データセンターをまたいだCWLSとしてやっていく決断をしたわけですが・・・</h2>
+
+
+
+<p>CWLSオーナーである私自身がエレメンタルDCを去ることになり、メンバーもちょうど半々になるということで、CWLS終了、あるいはエレメンタル側は解散とすることもできた。</p>
+
+
+
+<p>実際ワールドリグループでCWLS解散した話もちらほら聞いていた。</p>
+
+
+
+<p>それでもなお、折角知り合った縁を手放すのが惜しくて今日まで頑張ってきた。</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>だとしたらさ、偶然私の募集を見て入ってくれて知り合って、これまで少なくない時間を共に過ごして「このCWLSが好きだ」「このCWLSがあってよかった」と言ってくれてた仲間を、DCリグループで分かれるからそちらはそちらで頑張って…と手をひくのは、諦めるのは、自分的にどうなの？って。</p>
+<cite><a href="https://note.nyaon.jp/2022-03-13/ff14%EF%BC%9Adc%E3%83%AA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A8cwls%E3%82%92%E5%B7%A1%E3%82%8B%E7%89%A9%E8%AA%9E/" data-type="link" data-id="https://note.nyaon.jp/2022-03-13/ff14%EF%BC%9Adc%E3%83%AA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A8cwls%E3%82%92%E5%B7%A1%E3%82%8B%E7%89%A9%E8%AA%9E/" target="_blank" rel="noreferrer noopener">FF14：DCリグループとCWLSを巡る物語</a></cite></blockquote>
+
+
+
+<h3 class="wp-block-heading">2年半やってきてどうなの？</h3>
+
+
+
+<p>運用的に失敗したなぁという部分と、FF14のコミュニケーション機能もっとどうにかしてよって部分がありますね。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">FF14はもっとユーザーコミュニケーションツールに力をいれてほしい</h2>
+
+
+
+<p>ワールドリグループ時点であればよかったのだけど。</p>
+
+
+
+<h3 class="wp-block-heading">ワールドやデータセンターに依存しないチャット機能を作ってほしい</h3>
+
+
+
+<p>FF14がかつてお手本とした世界のMMORPG「World of Warcraft」⋯っていうかBlizzardではだいぶ昔から実現している。FF14よりももっと大規模な環境で。<br>ざっくり言うならスクエニアカウント単位で繋がれて、ワールド（データセンター違い）でも、なんだったらゲーム違いでも連絡が可能。</p>
+
+
+
+<p>もっと言えば同じスクエニのMMORPGドラクエ10では当初からワールド依存しない設計なのにねぇ。</p>
+
+
+
+<h3 class="wp-block-heading">データセンター依存しないマッチングシステム</h3>
+
+
+
+<p>これはなんか作ってそうなコメントどこかでみかけましたね。<br>チャット機能もここらへんと一緒に入るのかなぁ。</p>
+
+
+
+<h3 class="wp-block-heading">CWLSメンバー上限を増やして欲しい</h3>
+
+
+
+<p>別DCの人もCWLS入れるのに枠が少なすぎる。<br>別DCの人をいれると自DCメンバーが減るわけで、結果日常的に会話できる（そのデータセンターにいる）人の割合が減る。</p>
+
+
+
+<h3 class="wp-block-heading">コンパニオンアプリもうすこしどうにかならないか</h3>
+
+
+
+<p>もともと吉田P/Dはワールドリグループ導入時の説明で、コミュニティが分断されることになるけれど、コンパニオンアプリでDCまたいだコミュニケーションが可能なのでと発言していた。</p>
+
+
+
+<p>でもチャット着信してもバッジでない不具合はずっと残ってる。<br>チャットグループのメンバー上限は増えたけど、スケジュール機能の招待人数が変わってないので全員をスケジュール招待できない。</p>
+
+
+
+<p>「みんなSNSやDiscordで繋がってるから」みたいな理由なのかな。</p>
+
+
+
+<p>あるいはDC依存しないチャットシステム作ってるからその時刷新なのかなー。</p>
+
+
+
+<h3 class="wp-block-heading">ゲーム内からロドストイベント参加申請とかできるといい。</h3>
+
+
+
+<p>クライアントにウェブインターフェース載せれば実現できそうだけど・・・。</p>
+
+
+
+<p>イベント作るのもゲーム内から出来るといい。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">運用面で失敗したなと思う点</h2>
+
+
+
+<h3 class="wp-block-heading">わたしがメテオ側のCWLSをケアしなさすぎた</h3>
+
+
+
+<p>ワールドリグループで各DCから2～3のワールドが連れてこられたメテオDC。</p>
+
+
+
+<p>つまり同じメテオの中でもみんな異文化だったり知らない人だらけだったはず。<br>既存のコミュニティからも分断されて。</p>
+
+
+
+<p>元々エレメンタルDCのCWLS下限だいすきから半分くらいが来たと言っても、メテオに移ってきたCWLSメンバーは30人に満たない。<br>そこから新規募集するってことは半分以上が新しい人メンバー、はじめましてなメンバーだった。</p>
+
+
+
+<p>そういう状況で、メテオ側でチャットなどでフォローをよくしてくれる人はそこまで多くなかった。</p>
+
+
+
+<p>エレメンタルDCのみで運用していたころは、私がいなくても誰かがチャットすれば返事する人、ルレとかで人が足りなければ参加してくれる人、そういったフォローしてくれる人が一定数いた。</p>
+
+
+
+<h3 class="wp-block-heading">問題だったのは、私がその点に気づいていたけれどフォローをあまりできなかったことです。</h3>
+
+
+
+<p>この「チャットでフォロー」みたいなのをするしないは人の性格なのでそれをできなかったとしても、それはいい。<br>チャットでのフォローはなくても募集パーティに積極的に参加してくれたり埋まらない枠を埋めてくれるような人は沢山いたのは知ってるから。</p>
+
+
+
+<p>ワールドリグループ直後に新規メンバーを募集して、新しい人に参加してもらって。<br>そうこうしているうちにパンデモニウム煉獄編がはじまり、私はその零式攻略の固定パーティも主催していた。</p>
+
+
+
+<p>ワールドリグループ直後で固定パーティ参加メンバーが活動過程でどういう感じになるかもわからなかった為、定期的に集合データセンターをメンバー所属DCになるようにしていた。</p>
+
+
+
+<p>つまり、別DC集合の期間中わたしがメテオに長い間いなかった。</p>
+
+
+
+<p>メテオDCにいなければ当然チャットも見えず、誰かが困っていても、すきま時間に手伝える何かがあっても、そういったことに一切気づけずフォローもできなかった。</p>
+
+
+
+<p>当時、いなかったから当たり前だけど、どういう状況だったのかはわからない。<br>でも個人的にこれが一番失敗だったと思っている。</p>
+
+
+
+<p>新しい世界で、完全に新規のCWLSを作ったつもりでいるべきだった。<br>もっとメンバーの交流だとかフォロー、ケアに力を注ぐべきだった。</p>
+
+
+
+<p>もし自分ができないのなら、そのフォローをしてくれる雰囲気づくりや人の手配をすべきだった。</p>
+
+
+
+<p>メンバー間の交流する土壌ができあがらないまま次の解散・新生をしたりうやむやなまま今日に至ってしまったと、そう思っている。</p>
+
+
+
+<p>もし、とか言ってもしかたないけれど、明確にこれは自分の失敗だと今も思っている。</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>memories Are Here</title>
+		<link>/2024-12-14/memories-are-here/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 04:52:48 +0000</pubDate>
+				<category><![CDATA[とりとめのない話]]></category>
+		<guid isPermaLink="false">/?p=1434</guid>
+
+					<description><![CDATA[so,I close my eyes and then realizeI don&#8217;t want to cry but tears are flowing by themselves when I unders...]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>so,I close my eyes and then realize<br>I don&#8217;t want to cry but tears are flowing by themselves</p>
+
+
+
+<p>when I understood I&#8217;m smitten with you<br>from the very first moment I knew the sad truth</p>
+
+
+
+<p>the days spent with you feel so distant too<br>though you&#8217;re very close to me so I can feel your breath</p>
+
+
+
+<p>that softhearted smile I&#8217;ve always admired<br>will I ever see its shine again,I wonder</p>
+
+
+
+<p>this is not finale<br>and isn&#8217;t &#8220;the end&#8221;<br>I don&#8217;t want you to be sad, don&#8217;t forget!<br>we&#8217;re making our way<br>I knew that some day it would happen<br>but I didn&#8217;t want to realize</p>
+
+
+
+<p>the feeling I have will guide us ahead<br>ripping all the thorns that blocking our long path<br>heartbeat&#8217;s getting louder<br>the hundreds of eyes watching the show<br>but this show is for us</p>
+
+
+
+<p>memories are here beautiful and clear<br>and I don&#8217;t think I can forget I don&#8217;t want to!<br>predestined scenario is wrong<br>and our secret is happy-end</p>
+
+
+
+<p>wrapping in the brilliance I&#8217;m getting my wing same as yours<br>let&#8217;s fly away on the same wings</p>
+
+
+
+<p>I&#8217;m so glad that I was born in these times so i could be with you<br>my heart is filled with thanks<br>so there is nothing fearful for me</p>
+
+
+
+<p>I can see the gateway to the new world</p>
+
+
+
+<p>to the sky that softly taking me inside clouds everywhere</p>
+
+
+
+<p>my feelings are here there is no future or the past</p>
+
+
+
+<p>memories are here &#8211; fragile souvenir<br>and if you go the other way I won&#8217;t feel sad</p>
+
+
+
+<p>I&#8217;m sure you will remember</p>
+
+
+
+<p>and I&#8217;ll keep this scene forever inside my heart</p>
+
+
+
+<p>even far away and far far away<br>no one can&#8217;t steal them now<br>memories are here</p>
+</blockquote>
+
+
+
+<p>目を閉じると気づいてしまう<br>泣きたくないのに、涙が勝手に流れていく</p>
+
+
+
+<p>あなたに心を奪われたと分かった時<br>最初の瞬間から、この切ない真実を知っていた</p>
+
+
+
+<p>あなたと過ごした日々が、遠く感じる<br>すぐそばにいて、その息遣いさえ感じられるのに</p>
+
+
+
+<p>ずっと憧れていた、あの優しい笑顔<br>もう一度、その輝きに会えるのかな</p>
+
+
+
+<p>これは終章じゃない<br>「終わり」でもない<br>悲しまないで、忘れないで！<br>私たちは進んでいる<br>いつかこうなることは分かっていた<br>でも、それを認めたくなかった</p>
+
+
+
+<p>この気持ちが私たちを導いていく<br>長い道のりを塞ぐ棘を切り裂いて<br>高鳴る鼓動<br>無数の視線がこのショーを見ている<br>だけど、このショーは私たちのためのもの</p>
+
+
+
+<p>思い出がここにある、美しく鮮やかに<br>忘れられない、忘れたくない！<br>運命と決められた筋書きは間違いで<br>私たちの秘密はハッピーエンド</p>
+
+
+
+<p>輝きに包まれながら、あなたと同じ翼を得る<br>同じ翼で飛び立とう</p>
+
+
+
+<p>この時代に生まれたことが本当にうれしい<br>あなたと出会えたから<br>心が感謝で満たされて<br>もう何も恐れるものはない</p>
+
+
+
+<p>新しい世界への扉が見える</p>
+
+
+
+<p>優しく迎え入れてくれる空へ、雲が広がる中へ</p>
+
+
+
+<p>私の気持ちはここにあり<br>未来も過去も存在しない</p>
+
+
+
+<p>思い出がここにある──儚い記念品<br>もしあなたが別の道を進んでも、悲しくはない</p>
+
+
+
+<p>きっと思い出してくれるでしょう</p>
+
+
+
+<p>そしてこの景色を永遠に心に刻んでおく</p>
+
+
+
+<p>どんなに遠く離れても、もっともっと遠くても<br>誰にも奪えない<br>思い出がここにある</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>CWLS解散と新生システムを考えた理由と今ある課題</title>
 		<link>/2024-12-12/cwls%e8%a7%a3%e6%95%a3%e3%81%a8%e6%96%b0%e7%94%9f%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%82%92%e8%80%83%e3%81%88%e3%81%9f%e7%90%86%e7%94%b1%e3%81%a8%e4%bb%8a%e3%81%82%e3%82%8b%e5%95%8f%e9%a1%8c/</link>
 		
@@ -407,7 +832,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2024/12/image-2-png.webp"><img fetchpriority="high" decoding="async" width="644" height="393" src="/wp-content/uploads/2024/12/image-2-644x393.webp" alt="" class="wp-image-1370" srcset="/wp-content/uploads/2024/12/image-2-644x393.webp 644w, /wp-content/uploads/2024/12/image-2-300x183.webp 300w, /wp-content/uploads/2024/12/image-2-768x469.webp 768w, /wp-content/uploads/2024/12/image-2-700x427.webp 700w, /wp-content/uploads/2024/12/image-2-png.webp 1147w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large is-style-default"><a href="/wp-content/uploads/2024/12/image-2-png.webp"><img decoding="async" width="644" height="393" src="/wp-content/uploads/2024/12/image-2-644x393.webp" alt="" class="wp-image-1370" srcset="/wp-content/uploads/2024/12/image-2-644x393.webp 644w, /wp-content/uploads/2024/12/image-2-300x183.webp 300w, /wp-content/uploads/2024/12/image-2-768x469.webp 768w, /wp-content/uploads/2024/12/image-2-700x427.webp 700w, /wp-content/uploads/2024/12/image-2-png.webp 1147w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -467,7 +892,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-png.webp"><img decoding="async" width="644" height="305" src="/wp-content/uploads/2024/12/image-644x305.webp" alt="" class="wp-image-1349" srcset="/wp-content/uploads/2024/12/image-644x305.webp 644w, /wp-content/uploads/2024/12/image-300x142.webp 300w, /wp-content/uploads/2024/12/image-768x364.webp 768w, /wp-content/uploads/2024/12/image-700x332.webp 700w, /wp-content/uploads/2024/12/image-png.webp 1147w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-png.webp"><img loading="lazy" decoding="async" width="644" height="305" src="/wp-content/uploads/2024/12/image-644x305.webp" alt="" class="wp-image-1349" srcset="/wp-content/uploads/2024/12/image-644x305.webp 644w, /wp-content/uploads/2024/12/image-300x142.webp 300w, /wp-content/uploads/2024/12/image-768x364.webp 768w, /wp-content/uploads/2024/12/image-700x332.webp 700w, /wp-content/uploads/2024/12/image-png.webp 1147w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -503,7 +928,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-1-png.webp"><img decoding="async" width="644" height="632" src="/wp-content/uploads/2024/12/image-1-644x632.webp" alt="" class="wp-image-1356" srcset="/wp-content/uploads/2024/12/image-1-644x632.webp 644w, /wp-content/uploads/2024/12/image-1-300x294.webp 300w, /wp-content/uploads/2024/12/image-1-png.webp 689w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/image-1-png.webp"><img loading="lazy" decoding="async" width="644" height="632" src="/wp-content/uploads/2024/12/image-1-644x632.webp" alt="" class="wp-image-1356" srcset="/wp-content/uploads/2024/12/image-1-644x632.webp 644w, /wp-content/uploads/2024/12/image-1-300x294.webp 300w, /wp-content/uploads/2024/12/image-1-png.webp 689w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
 
@@ -2008,148 +2433,6 @@
 
 
 <p>つづく？</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>下限で暁月アライアンス１つ目に行ってきたよ～</title>
-		<link>/2024-10-21/%e4%b8%8b%e9%99%90%e3%81%a7%e6%9a%81%e6%9c%88%e3%82%a2%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%82%b9%ef%bc%91%e3%81%a4%e7%9b%ae/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Mon, 21 Oct 2024 00:23:07 +0000</pubDate>
-				<category><![CDATA[24人レイド]]></category>
-		<category><![CDATA[FF14]]></category>
-		<category><![CDATA[下限だいすき]]></category>
-		<category><![CDATA[下限チャレンジ]]></category>
-		<guid isPermaLink="false">/?p=1217</guid>
-
-					<description><![CDATA[CWLSの仲間のコートニーさんが企画してくれたので行ってきました。 暁月24人レイドに＼「下限ILで挑戦」のスイッチが生まれた／ということで下限にしアクセを二つ外しつつ一発目の奴に挑戦する企画です。 下限アクセ二つ外しス...]]></description>
-										<content:encoded><![CDATA[
-<p>CWLSの仲間のコートニーさんが企画してくれたので行ってきました。</p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>暁月24人レイドに＼「下限ILで挑戦」のスイッチが生まれた／<br>ということで下限にしアクセを二つ外しつつ一発目の奴に挑戦する企画です。</p>
-<cite><a href="https://jp.finalfantasyxiv.com/lodestone/character/532800/event/79912/" data-type="link" data-id="https://jp.finalfantasyxiv.com/lodestone/character/532800/event/79912/" target="_blank" rel="noreferrer noopener">下限アクセ二つ外しスタート暁月24人レイド一発目 10/20(日)</a></cite></blockquote>
-
-
-
-<p>FF14ではなぜか24人アライアンスレイドだけ「<strong>次の拡張パッケージが出るまでゲームシステムとして下限IL設定が選べない</strong>」のです。</p>
-
-
-
-<p>なのでうちのCWLSでは新しい24人レイドが入ると「下限IL相当のステータス値」になるように装備を調整して「下限風味」として初見チャレンジしてました。</p>
-
-
-
-<p>（参考： <a href="https://ff14-kagen.nyaon.works/about-min-ilvl#h.lfbs9k5294eo" data-type="link" data-id="https://ff14-kagen.nyaon.works/about-min-ilvl#h.lfbs9k5294eo" target="_blank" rel="noreferrer noopener">「下限と同じ平均IL」と「下限と同じステータス」は別だよって話</a>）</p>
-
-
-
-<p>で今回、新しい拡張パッケージがリリースされたので前拡張の「暁月24人アライアンスレイド」がちゃんと下限スイッチで行けるようになったので行ってきた、という話。</p>
-
-
-
-<p>やっぱり下限でアクセ外しとは言え、大半の人がギミックを知っていると避けられる人も多いので全滅はないですねぇ。</p>
-
-
-
-<p>全体攻撃は軽減が薄かったり戻しが甘いと死んじゃう感じだったのでその点は良い難易度でしたね。</p>
-
-
-
-<p class="has-medium-font-size">まぁ私がヒーラーだったんで難易度さげちゃってましたね<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2728.png" alt="✨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<p>あと何よりギミックを全部見られたのはよかった。<br>新しく始めた人が追いついた時って高火力すぎてギミック全部みられないってのが多いからねぇ。</p>
-
-
-
-<p>24人レイドで出発前に集合場所あるとスタートまでにわいわいする。あの雰囲気も好き。</p>
-
-
-
-<p>来月は新しい24人レイドがリリースされるので楽しみだね。</p>
-
-
-
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224418_148.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1223" src="/wp-content/uploads/2024/10/ffxiv_20241020_224418_148-644x270.png" alt="" class="wp-image-1223" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224418_148-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224418_148-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224418_148-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224418_148-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224418_148-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224418_148-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224508_508.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1222" src="/wp-content/uploads/2024/10/ffxiv_20241020_224508_508-644x270.png" alt="" class="wp-image-1222" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224508_508-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224508_508-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224508_508-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224508_508-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224508_508-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224508_508-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224518_012.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1220" src="/wp-content/uploads/2024/10/ffxiv_20241020_224518_012-644x270.png" alt="" class="wp-image-1220" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224518_012-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224518_012-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224518_012-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224518_012-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224518_012-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224518_012-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1221" src="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994-644x270.png" alt="" class="wp-image-1221" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224530_994-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224530_994-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1219" src="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544-644x270.png" alt="" class="wp-image-1219" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224541_544-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224541_544-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1224" src="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631-644x270.png" alt="" class="wp-image-1224" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224547_631-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224547_631-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1225" src="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092-644x270.png" alt="" class="wp-image-1225" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224602_092-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224602_092-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
-</figure>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777-644x270.png" alt="" class="wp-image-1226" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_224727_777-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_224727_777-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782-644x270.png" alt="" class="wp-image-1227" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_221420_782-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_221420_782-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>
-
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746.png"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746-644x270.png" alt="" class="wp-image-1218" srcset="/wp-content/uploads/2024/10/ffxiv_20241020_212708_746-644x270.png 644w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-300x126.png 300w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-768x321.png 768w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-1536x643.png 1536w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-2048x857.png 2048w, /wp-content/uploads/2024/10/ffxiv_20241020_212708_746-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure></div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>参考：暁月アライアンス「ほんとに24人初見、未予習」で「下限『ステータス』調整」の募集</title>
-		<link>/2024-10-15/memo-endwalker-new-aliance-fresh-blind-min-ilvl/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Tue, 15 Oct 2024 06:00:31 +0000</pubDate>
-				<category><![CDATA[24人レイド]]></category>
-		<category><![CDATA[FF14]]></category>
-		<category><![CDATA[下限風味]]></category>
-		<category><![CDATA[暁月のフィナーレ]]></category>
-		<category><![CDATA[未予習自力解明]]></category>
-		<guid isPermaLink="false">/?p=1214</guid>
-
-					<description><![CDATA[初見未予習限定「下限風味」暁月24人レイドhttps://jp.finalfantasyxiv.com/lodestone/character/25258283/event/59641 2年半前に私がやったやつ。7.1で...]]></description>
-										<content:encoded><![CDATA[
-<p><strong>初見未予習限定「下限風味」暁月24人レイド</strong><a href="https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/59641">https://jp.finalfantasyxiv.com/lodestone/character/25258283/event/59641</a></p>
-
-
-
-<p>2年半前に私がやったやつ。<br>7.1でも似た感じでやるかな、と。</p>
-
-
-
-<p>「平均ILが下限」は「下限ILのステータス値」とは違うので、ちゃんと調整してやった。<br>かつ<br>なるべく集めやすいようにってことでこんな調整にしてた。</p>
-
-
-
-<p>最近メンツが戦闘慣れしすぎているので、もう少しステータス落としてもいいかもしれない。</p>
 
 
 
