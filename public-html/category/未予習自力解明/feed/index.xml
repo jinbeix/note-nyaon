@@ -12,7 +12,7 @@
 	<atom:link href="/category/%E6%9C%AA%E4%BA%88%E7%BF%92%E8%87%AA%E5%8A%9B%E8%A7%A3%E6%98%8E/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Dec 2024 03:55:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Jan 2025 03:19:41 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,409 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>滅やみせか自力解明：フェーズ1</title>
+		<link>/2024-12-27/metsu-yamiseka-blind/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 01:03:25 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[滅闇の世界]]></category>
+		<guid isPermaLink="false">/?p=1509</guid>
+
+					<description><![CDATA[「クリスマスの夜にヒカセンが24人。こういう時、普通どうするんですか……？」「滅やみせか自力解明」Link » 「滅闇の世界」の投稿一覧 2024-12-25（水）からスタートしたので参加者向けまとめの意味も含めて書く。...]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>「クリスマスの夜にヒカセンが24人。<br>こういう時、普通どうするんですか……？」<br>「滅やみせか自力解明」<br>Link » <a href="/category/ff14/cwls%e4%b8%8b%e9%99%90%e3%81%a0%e3%81%84%e3%81%99%e3%81%8d%e3%82%92%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8b/" data-type="link" data-id="/category/ff14/cwls%e4%b8%8b%e9%99%90%e3%81%a0%e3%81%84%e3%81%99%e3%81%8d%e3%82%92%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8b/">「滅闇の世界」の投稿一覧</a></p>
+</blockquote>
+
+
+
+<p>2024-12-25（水）からスタートしたので参加者向けまとめの意味も含めて書く。</p>
+
+
+
+<h2 class="wp-block-heading">チーム分け</h2>
+
+
+
+<ul class="wp-block-list">
+<li>A：<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" />あんら・まんゆ</li>
+
+
+
+<li>B：<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f409.png" alt="🐉" class="wp-smiley" style="height: 1em; max-height: 1em;" />ふぁいぶへっど</li>
+
+
+
+<li>C：<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f436.png" alt="🐶" class="wp-smiley" style="height: 1em; max-height: 1em;" />けるべろす</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">ざっくりタイムライン</h2>
+
+
+
+<p>闇の抱擁デバフの最初についた短い秒数でルート分岐する。</p>
+
+
+
+<h3 class="wp-block-heading">デスジャ/エアロジャ Start</h3>
+
+
+
+<p>条件：デバフ<strong>40</strong>秒</p>
+
+
+
+<p>１．片乱雲ビーム（格子ビーム）<br>２．デスジャ/エアロジャ（ビームを避けながら移動）<br>３．エンデスジャ/エンエアロジャを詠唱<br>４．闇の抱擁デバフ１回目処理<br>５．連射波動砲(８人頭割)を４回受ける<br>６．頭割が終わったら、闇の抱擁デバフ２回目処理<br>７．片乱雲ビーム（格子ビーム）<br>８．闇の刃（安置へ移動、これが終わったらアムレン準備）<br>９．エンデスジャ/エンエアロジャ発動<br>10．処理後、闇の抱擁デバフ３回目処理<br>11．フレア詠唱完了で距離減付与、立ち位置へ<br>12．フレア処理後、闇の抱擁デバフ４回目処理</p>
+
+
+
+<h3 class="wp-block-heading">フレア Start</h3>
+
+
+
+<p>条件：デバフ50秒</p>
+
+
+
+<p>１．片乱雲ビーム（格子ビーム）<br>２．フレア（ビームを避けながらフレアの持ち位置へ）<br>３．フレア発動後、ダークホーリー(ヒラ頭割)を処理<br>４．闇の刃（頭割を受けたら移動）<br>５．エンデスジャ/エンエアロジャ詠唱<br>６．闇の抱擁デバフを３連続で処理する（１回目～３回目）<br>７．ブレクジャ詠唱開始、雑魚がいない場所を探してそっちを向く<br>８．闇の刃（安置へ移動、これが終わったらアムレン準備）<br>９．エンデスジャ/エンエアロジャ発動<br>10．片乱雲ビーム（格子ビーム）<br>11．闇の抱擁デバフ４回目処理（ビームを避けながら捨て位置へ）<br>12．デスジャ</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">闇の刃</h2>
+
+
+
+<p>左足元安地、右足元安地、離れる　の3種類のAoE攻撃。</p>
+
+
+
+<p>ボスのモーションみて避ける。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">闇の抱擁（時限式デバフ）</h2>
+
+
+
+<ul class="wp-block-list">
+<li>デバフカウント0で発動。</li>
+
+
+
+<li>素早く前か後ろに避ける。</li>
+
+
+
+<li>デバフ付与時のボスの手でどっち避けか判断、覚えておく。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">判断の仕方</h3>
+
+
+
+<p>現地で「順手」「逆手」というワードが飛び交ってたけどララフェル理解できなかったので絵を描いた。こういうことらしい。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01.webp"><img fetchpriority="high" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-644x362.webp" alt="" class="wp-image-1522" srcset="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-644x362.webp 644w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-300x169.webp 300w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-768x432.webp 768w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-700x394.webp 700w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02.webp"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-644x362.webp" alt="" class="wp-image-1523" srcset="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-644x362.webp 644w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-300x169.webp 300w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-768x432.webp 768w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-700x394.webp 700w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">覚えられないララフェルだから /echo マクロ使うととかなんかすると安心。</h4>
+
+
+
+<p>発動時、前にいきたい</p>
+
+
+
+<pre class="wp-block-code"><code>/echo 　▲
+/echo ▲▲▲</code></pre>
+
+
+
+<p>発動時、後ろにいきたい</p>
+
+
+
+<pre class="wp-block-code"><code>/echo ▽▽▽
+/echo 　▽</code></pre>
+
+
+
+<h4 class="wp-block-heading">覚えられないララフェルの外部ツール</h4>
+
+
+
+<p>こういうアナログな方が便利な場合も。<br>デバフつくタイミングは他のギミック特に無いしね。</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/IMG_5114.webp"><img decoding="async" width="644" height="873" data-id="1540" src="/wp-content/uploads/2024/12/IMG_5114-644x873.webp" alt="" class="wp-image-1540" srcset="/wp-content/uploads/2024/12/IMG_5114-644x873.webp 644w, /wp-content/uploads/2024/12/IMG_5114-221x300.webp 221w, /wp-content/uploads/2024/12/IMG_5114-768x1041.webp 768w, /wp-content/uploads/2024/12/IMG_5114-1133x1536.webp 1133w, /wp-content/uploads/2024/12/IMG_5114-700x949.webp 700w, /wp-content/uploads/2024/12/IMG_5114.webp 1444w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/IMG_5115.webp"><img loading="lazy" decoding="async" width="644" height="772" data-id="1542" src="/wp-content/uploads/2024/12/IMG_5115-644x772.webp" alt="" class="wp-image-1542" srcset="/wp-content/uploads/2024/12/IMG_5115-644x772.webp 644w, /wp-content/uploads/2024/12/IMG_5115-250x300.webp 250w, /wp-content/uploads/2024/12/IMG_5115-768x920.webp 768w, /wp-content/uploads/2024/12/IMG_5115-1282x1536.webp 1282w, /wp-content/uploads/2024/12/IMG_5115-700x839.webp 700w, /wp-content/uploads/2024/12/IMG_5115.webp 1492w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/IMG_5116.webp"><img loading="lazy" decoding="async" width="644" height="800" data-id="1541" src="/wp-content/uploads/2024/12/IMG_5116-644x800.webp" alt="" class="wp-image-1541" srcset="/wp-content/uploads/2024/12/IMG_5116-644x800.webp 644w, /wp-content/uploads/2024/12/IMG_5116-242x300.webp 242w, /wp-content/uploads/2024/12/IMG_5116-768x954.webp 768w, /wp-content/uploads/2024/12/IMG_5116-1237x1536.webp 1237w, /wp-content/uploads/2024/12/IMG_5116-700x869.webp 700w, /wp-content/uploads/2024/12/IMG_5116.webp 1380w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+</figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">片乱雲ビーム（格子ビーム）</h2>
+
+
+
+<ul class="wp-block-list">
+<li>外側から格子ビーム。</li>
+
+
+
+<li>予兆が交互に4回。</li>
+
+
+
+<li>同じラインには来ない。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2本良ければセーフ</h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-644x362.webp" alt="" class="wp-image-1536" srcset="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-644x362.webp 644w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-300x169.webp 300w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-768x432.webp 768w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-700x394.webp 700w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-644x362.webp" alt="" class="wp-image-1537" srcset="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-644x362.webp 644w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-300x169.webp 300w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-768x432.webp 768w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-700x394.webp 700w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>直後に他の技が来たりするので油断しない。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">デスジャ、エアロジャ</h2>
+
+
+
+<h3 class="wp-block-heading">デスジャ</h3>
+
+
+
+<ol class="wp-block-list">
+<li>引き寄せ</li>
+
+
+
+<li>中心ちび円範囲</li>
+
+
+
+<li>反転してドーナツ範囲<br>が一連で発動する。</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading">つまり？</h4>
+
+
+
+<ol class="wp-block-list">
+<li>遠く待機</li>
+
+
+
+<li>引き寄せを受ける</li>
+
+
+
+<li>ちび円範囲のすぐ外で待機</li>
+
+
+
+<li>ちび円範囲の予兆オレンジが消えたら飛び込む</li>
+
+
+
+<li>ドーナツ範囲発動。回避しておわり。</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-05_デスジャ_01.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-05_デスジャ_01-644x362.webp" alt="" class="wp-image-1544" srcset="/wp-content/uploads/2024/12/P1-05_デスジャ_01-644x362.webp 644w, /wp-content/uploads/2024/12/P1-05_デスジャ_01-300x169.webp 300w, /wp-content/uploads/2024/12/P1-05_デスジャ_01-768x432.webp 768w, /wp-content/uploads/2024/12/P1-05_デスジャ_01-700x394.webp 700w, /wp-content/uploads/2024/12/P1-05_デスジャ_01.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">エアロジャ</h3>
+
+
+
+<p>フィールド中央に青色予兆が出てノックバックされるだけ。<br>アムレン有効。</p>
+
+
+
+<h3 class="wp-block-heading">エン＋デスジャ or エアロジャ</h3>
+
+
+
+<p>あとで発動するパターン。<br>直前に闇の刃を回避してたりするので、闇の刃安地入ったら即アムレンすると楽。</p>
+
+
+
+<p>エンほにゃららは予兆見えてから発動までに猶予がほとんどない。</p>
+
+
+
+<h4 class="wp-block-heading">エンデスジャはちゃんと回避しましょう。</h4>
+
+
+
+<p>ちび円範囲→ドーナツ範囲は回避しましょう。</p>
+
+
+
+<h4 class="wp-block-heading">エンエアロジャはアムレンしたら気にしなくてよい。</h4>
+
+
+
+<p>でも中央の青予兆にいると死ぬよ。</p>
+
+
+
+<h3 class="wp-block-heading">デスジャ・エアロジャ・マーカーこうじゃ</h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-644x362.webp" alt="" class="wp-image-1575" srcset="/wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-644x362.webp 644w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-300x169.webp 300w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-768x432.webp 768w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-700x394.webp 700w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">ブレクジャ</h2>
+
+
+
+<p>ボスとフィールドに3匹くらい出る雑魚から視線。<br>外側をみて回避しよう。</p>
+
+
+
+<h3 class="wp-block-heading">ボス近くでも、この位置でこっち向けば喰らわずに済みそう。</h3>
+
+
+
+<p>知っていると救われる命がある。</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-png.webp"><img loading="lazy" decoding="async" width="433" height="389" src="/wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-png.webp" alt="" class="wp-image-1529" srcset="/wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-png.webp 433w, /wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-300x270.webp 300w" sizes="auto, (max-width: 433px) 100vw, 433px" /></a></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">連射式波動砲</h2>
+
+
+
+<ul class="wp-block-list">
+<li>各アラにわかれて</li>
+
+
+
+<li>タンクを先頭にして縦並び</li>
+
+
+
+<li>ビームがんばって受ける</li>
+</ul>
+
+
+
+<p>軽減と回復がんばれ。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">フェーズ移行時</h2>
+
+
+
+<ul class="wp-block-list">
+<li>闇の氾濫
+<ul class="wp-block-list">
+<li>全体攻撃</li>
+
+
+
+<li>最初のフィールドに戻る</li>
+</ul>
+</li>
+
+
+
+<li>闇の大氾濫
+<ul class="wp-block-list">
+<li>全体攻撃＋ペイン付与（DoT）</li>
+
+
+
+<li>丼フィールドに移行する</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>と全体攻撃が続くのでしっかり軽減と回復が必要。</p>
+
+
+
+<p>ちなみに大氾濫後16秒くらいでまた全体攻撃がくるのでペインDoTで減った分は戻していないと沢山の人々が死ぬ。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>参考：暁月アライアンス「ほんとに24人初見、未予習」で「下限『ステータス』調整」の募集</title>
 		<link>/2024-10-15/memo-endwalker-new-aliance-fresh-blind-min-ilvl/</link>
 		
@@ -305,7 +708,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image.png"><img fetchpriority="high" decoding="async" width="623" height="622" src="/wp-content/uploads/2024/09/image.png" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2024/09/image.png 623w, /wp-content/uploads/2024/09/image-300x300.png 300w, /wp-content/uploads/2024/09/image-150x150.png 150w" sizes="(max-width: 623px) 100vw, 623px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image.png"><img loading="lazy" decoding="async" width="623" height="622" src="/wp-content/uploads/2024/09/image.png" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2024/09/image.png 623w, /wp-content/uploads/2024/09/image-300x300.png 300w, /wp-content/uploads/2024/09/image-150x150.png 150w" sizes="auto, (max-width: 623px) 100vw, 623px" /></a></figure>
 
 
 
@@ -355,7 +758,7 @@
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-2.png"><img decoding="async" width="526" height="422" src="/wp-content/uploads/2024/09/image-2.png" alt="" class="wp-image-1056" srcset="/wp-content/uploads/2024/09/image-2.png 526w, /wp-content/uploads/2024/09/image-2-300x241.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-2.png"><img loading="lazy" decoding="async" width="526" height="422" src="/wp-content/uploads/2024/09/image-2.png" alt="" class="wp-image-1056" srcset="/wp-content/uploads/2024/09/image-2.png 526w, /wp-content/uploads/2024/09/image-2-300x241.png 300w" sizes="auto, (max-width: 526px) 100vw, 526px" /></a></figure>
 
 
 
@@ -492,7 +895,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-1.png"><img decoding="async" width="550" height="572" src="/wp-content/uploads/2024/09/image-1.png" alt="" class="wp-image-1053" srcset="/wp-content/uploads/2024/09/image-1.png 550w, /wp-content/uploads/2024/09/image-1-288x300.png 288w" sizes="(max-width: 550px) 100vw, 550px" /></a></figure>
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/09/image-1.png"><img loading="lazy" decoding="async" width="550" height="572" src="/wp-content/uploads/2024/09/image-1.png" alt="" class="wp-image-1053" srcset="/wp-content/uploads/2024/09/image-1.png 550w, /wp-content/uploads/2024/09/image-1-288x300.png 288w" sizes="auto, (max-width: 550px) 100vw, 550px" /></a></figure>
 
 
 
@@ -536,7 +939,7 @@ D1　ST　D2</code></pre>
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png"><img loading="lazy" decoding="async" width="644" height="362" data-id="1055" src="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png" alt="" class="wp-image-1055" srcset="/wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-644x362.png 644w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-300x169.png 300w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-768x432.png 768w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）-700x394.png 700w, /wp-content/uploads/2024/09/輪円／円輪ｘ遠い→近い（ドーナツDPS／円タンヒラで担当制）.png 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
@@ -1079,7 +1482,7 @@ H1　D1　★　D4　H2
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="1082" src="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp" alt="" class="wp-image-1082" srcset="/wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-644x362.webp 644w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-300x169.webp 300w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-768x432.webp 768w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-700x394.webp 700w, /wp-content/uploads/2024/09/12_ブラックサバト【夜半】_00-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
@@ -1953,7 +2356,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="644" height="678" data-id="1007" src="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2024/08/零式フューズボム_散開_先-644x678.png 644w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-285x300.png 285w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-768x809.png 768w, /wp-content/uploads/2024/08/零式フューズボム_散開_先-700x737.png 700w, /wp-content/uploads/2024/08/零式フューズボム_散開_先.png 1308w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure>
 
 
@@ -2052,7 +2455,7 @@ H1/D3　　H2/D2</code></pre>
 <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="644" height="270" src="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png" alt="" class="wp-image-1017" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234031_380-1-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></figure></div>
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243.png"><img loading="lazy" decoding="async" width="644" height="270" data-id="1019" src="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png" alt="" class="wp-image-1019" srcset="/wp-content/uploads/2024/08/ffxiv_20240818_234131_243-644x270.png 644w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-300x126.png 300w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-768x321.png 768w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-1536x643.png 1536w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-2048x857.png 2048w, /wp-content/uploads/2024/08/ffxiv_20240818_234131_243-700x293.png 700w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 
 
@@ -2603,7 +3006,7 @@ H1/D3　　H2/D2</code></pre>
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp"><img loading="lazy" decoding="async" width="644" height="362" data-id="931" src="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp" alt="" class="wp-image-931" srcset="/wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-644x362.webp 644w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-300x169.webp 300w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-768x432.webp 768w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-700x394.webp 700w, /wp-content/uploads/2024/08/アラームフェロモンｘ16直線のやつ_1／8ずつ移動-jpg.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
 </figure>
 
@@ -4122,77 +4525,6 @@ D1　ST　D2</code></pre>
 <p>右の線→睡眠→中央に固まる。<br />左の線→混乱＋ヘヴィ→四隅に分かれる</p>
 <p>なんやかんやあって時間切れ。</p>
 <div>（２回目の記録ここまで）</div>
-<div></div>
-<div></div>
-<p>ここから上に書くと隠れる</p>
-</p></div>
-</div>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>下限自力解明：オメガシグマ零式3層</title>
-		<link>/2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/</link>
-		
-		<dc:creator><![CDATA[wata]]></dc:creator>
-		<pubDate>Wed, 19 Apr 2023 06:03:00 +0000</pubDate>
-				<category><![CDATA[FF14]]></category>
-		<category><![CDATA[下限チャレンジ]]></category>
-		<category><![CDATA[未予習自力解明]]></category>
-		<category><![CDATA[次元の狭間オメガ零式：シグマ編]]></category>
-		<guid isPermaLink="false">/2023-04-19/%e4%b8%8b%e9%99%90%e8%87%aa%e5%8a%9b%e8%a7%a3%e6%98%8e%ef%bc%9a%e3%82%aa%e3%83%a1%e3%82%ac%e3%82%b7%e3%82%b0%e3%83%9e%e9%9b%b6%e5%bc%8f3%e5%b1%a4/</guid>
-
-					<description><![CDATA[メモしていくよ。（2023-04-19更新） 3/30（木）：3層1回目。70％くらいまで。序盤はとりあえずわかった。4/06（木）：3層2回目。60％くらいまで安定。新ギミック未解明。4/12（水）：3層3回目。新ギミ...]]></description>
-										<content:encoded><![CDATA[<p>メモしていくよ。<span style="color: #2b00fe;">（2023-04-19更新）</span></p>
-<p>3/30（木）：3層1回目。70％くらいまで。序盤はとりあえずわかった。<br />4/06（木）：3層2回目。60％くらいまで安定。新ギミック未解明。<br />4/12（水）：3層3回目。新ギミックの解明にチャレンジ。<br />4/18（火）：3層4回目。25％くらいまで進んだ。<br />4/25（火）：3層5回目。クリア。</p>
-<div name="box1">ここまで解明した内容（ギミックネタバレ）</div>
-<div>
-        <span>pets</span></p>
-<div>
-<p>ここから下に書くと隠れる</p>
-<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆配置図<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
-<p>基本散開＆オレンジマーカーからの緑ドーム捨て場所</p>
-<p>D3　　　　　D4<br />　　　MT<br />H1　　★　　H2</p>
-<p>D1　　ST　　D2</p>
-<p>－－－</p>
-<p>塔踏み　　D3<br />　　　　ST　MT<br />　　 H1　★　　D4<br />　　　　D1　D2<br />　　　　　H2</p>
-<p>※D4とH2の塔ふみ位置を変えてます。</p>
-<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆前提知識<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
-<p>各「ローディング」時にモニタに映っていた絵柄のギミックが発動する。<br />それを処理しつつなんやかんやするコンテンツ。</p>
-<p>絵柄は左と右がある。消えてから発動する場合もあるので注意。</p>
-</p>
-<ul style="text-align: left;">
-<li>ローディング：左の絵が発動。</li>
-<li>スキップ・ローディング：右の絵が発動。</li>
-<li>リバース・ローディング：スキップされた時の左の絵が発動（モニタは既に消えてる）</li>
-</ul>
-<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆絵柄の説明<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
-<p>－－だだるま－－<br />ローディング時：ノックバック（アムレン）<br />実体化時：頭に青マークついたら波動砲くるので外周に向ける。</p>
-<p></p>
-<p>－－飛行機－－<br />ローディング時：ガーディアンからAoE（離れる）<br />実体化時：雑魚線を外に向けつつ目の前の雑魚たおす。</p>
-<p></p>
-<p>－－たこ－－<br />ローディング時：8人ちびAoE（基本散開）<br />たこ足の詠唱：ガーディアン前後に立ってAoE捨て→東西に逃げる。<br />実体化：基本散開</p>
-<p></p>
-<p>－－ロボ－－<br />ローディング時：魔法陣踏み<br />MT,H1,D1,D3：西→北<br />ST,H2,D2,D4：東→南</p>
-<p></p>
-<p>－－みどりエヘン虫－－<br />ローディング時：軽く散開しておく。<br />なんやかんやデバフが付くけれど「灼熱」か「孤独」だけを見れば良い。<br />ローディング中に軽く散開、からの位置に駆け込み待機。</p>
-<p>　　　（北）<br />灼熱T　→　　←　灼熱H<br />　　&nbsp; &nbsp; &nbsp; 孤独<br />　　　　←TD→<br />　　　　←HD→</p>
-<p>灼熱D　→　　←　灼熱D</p>
-<p></p>
-<p>磁力で引っ張られても灼熱Dは速やかに角に戻る。<br />孤独Dのどちらかに「エーテルロット」が付くので、磁力で弾かれたら隣のDに移す。<br />以降はエーテルロット持ちはCマーカーでロット受け渡し待ちする。<br />ロット受け取り順は適当に決めます。</p>
-<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆その他のギミック<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
-<p>フィールド全体が緑円でふおんふおん：<br />　→　動かない。着弾時に動くと麻痺。</p>
-<p>DPS4人に頭に赤い尖ったマーカー：<br />　→　着弾時に緑爆発ドーム設置。<br />　→　基本散開方向のフィールド角に捨てる。</p>
-<p>頭に赤い◯ぽいマーカー＋照準デバフ：<br />　→　気にせずパーティのところにいてok。</p>
-<p>ローディング・ミサイル：<br />　→　外周からミサイルくるので避ける。<br />　→　塔が出てたら塔の中でよければok。</p>
-<p>ガーディアンが空を飛ぶ：<br />　→　向いた方の地面にめちゃ痛いAoE（向いた方から逃げろ）<br />　→　からの距離減衰。</p>
-<p>＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br />◆タイムライン<br />￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
-<p>テキストだと長くなったのでスプシにした。「TL0418」のシートの方。<br />色分けはなんとなくの一連のフェーズぽい区切り。<br />（※見分けられるように色変えているだけなので、色同士に関連性はないです。）</p>
-<p>https://docs.google.com/spreadsheets/d/1zL4hAKu-Z4uZFSMKekN7slrz-2F8L-Ckg5v8KsmkcNs/edit?usp=sharing&nbsp;</p>
-<p>「プログラム・ペースト」はモニタ表示なし、バフが付いて何かは判別できるが、判別した時には最初の着弾がきているのでとりあえず散開かな～。</p>
 <div></div>
 <div></div>
 <p>ここから上に書くと隠れる</p>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>滅闇の世界 &#8211; にゃおんノート</title>
+	<atom:link href="/category/ff14/%E6%BB%85%E9%97%87%E3%81%AE%E4%B8%96%E7%95%8C/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Jan 2025 03:19:41 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/06/cropped-snow_ICON_800x800_透過-32x32.png</url>
+	<title>滅闇の世界 &#8211; にゃおんノート</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>滅やみせか自力解明：フェーズ1</title>
+		<link>/2024-12-27/metsu-yamiseka-blind/</link>
+		
+		<dc:creator><![CDATA[wata]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 01:03:25 +0000</pubDate>
+				<category><![CDATA[FF14]]></category>
+		<category><![CDATA[未予習自力解明]]></category>
+		<category><![CDATA[滅闇の世界]]></category>
+		<guid isPermaLink="false">/?p=1509</guid>
+
+					<description><![CDATA[「クリスマスの夜にヒカセンが24人。こういう時、普通どうするんですか……？」「滅やみせか自力解明」Link » 「滅闇の世界」の投稿一覧 2024-12-25（水）からスタートしたので参加者向けまとめの意味も含めて書く。...]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>「クリスマスの夜にヒカセンが24人。<br>こういう時、普通どうするんですか……？」<br>「滅やみせか自力解明」<br>Link » <a href="/category/ff14/cwls%e4%b8%8b%e9%99%90%e3%81%a0%e3%81%84%e3%81%99%e3%81%8d%e3%82%92%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8b/" data-type="link" data-id="/category/ff14/cwls%e4%b8%8b%e9%99%90%e3%81%a0%e3%81%84%e3%81%99%e3%81%8d%e3%82%92%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8b/">「滅闇の世界」の投稿一覧</a></p>
+</blockquote>
+
+
+
+<p>2024-12-25（水）からスタートしたので参加者向けまとめの意味も含めて書く。</p>
+
+
+
+<h2 class="wp-block-heading">チーム分け</h2>
+
+
+
+<ul class="wp-block-list">
+<li>A：<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" />あんら・まんゆ</li>
+
+
+
+<li>B：<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f409.png" alt="🐉" class="wp-smiley" style="height: 1em; max-height: 1em;" />ふぁいぶへっど</li>
+
+
+
+<li>C：<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f436.png" alt="🐶" class="wp-smiley" style="height: 1em; max-height: 1em;" />けるべろす</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">ざっくりタイムライン</h2>
+
+
+
+<p>闇の抱擁デバフの最初についた短い秒数でルート分岐する。</p>
+
+
+
+<h3 class="wp-block-heading">デスジャ/エアロジャ Start</h3>
+
+
+
+<p>条件：デバフ<strong>40</strong>秒</p>
+
+
+
+<p>１．片乱雲ビーム（格子ビーム）<br>２．デスジャ/エアロジャ（ビームを避けながら移動）<br>３．エンデスジャ/エンエアロジャを詠唱<br>４．闇の抱擁デバフ１回目処理<br>５．連射波動砲(８人頭割)を４回受ける<br>６．頭割が終わったら、闇の抱擁デバフ２回目処理<br>７．片乱雲ビーム（格子ビーム）<br>８．闇の刃（安置へ移動、これが終わったらアムレン準備）<br>９．エンデスジャ/エンエアロジャ発動<br>10．処理後、闇の抱擁デバフ３回目処理<br>11．フレア詠唱完了で距離減付与、立ち位置へ<br>12．フレア処理後、闇の抱擁デバフ４回目処理</p>
+
+
+
+<h3 class="wp-block-heading">フレア Start</h3>
+
+
+
+<p>条件：デバフ50秒</p>
+
+
+
+<p>１．片乱雲ビーム（格子ビーム）<br>２．フレア（ビームを避けながらフレアの持ち位置へ）<br>３．フレア発動後、ダークホーリー(ヒラ頭割)を処理<br>４．闇の刃（頭割を受けたら移動）<br>５．エンデスジャ/エンエアロジャ詠唱<br>６．闇の抱擁デバフを３連続で処理する（１回目～３回目）<br>７．ブレクジャ詠唱開始、雑魚がいない場所を探してそっちを向く<br>８．闇の刃（安置へ移動、これが終わったらアムレン準備）<br>９．エンデスジャ/エンエアロジャ発動<br>10．片乱雲ビーム（格子ビーム）<br>11．闇の抱擁デバフ４回目処理（ビームを避けながら捨て位置へ）<br>12．デスジャ</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">闇の刃</h2>
+
+
+
+<p>左足元安地、右足元安地、離れる　の3種類のAoE攻撃。</p>
+
+
+
+<p>ボスのモーションみて避ける。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">闇の抱擁（時限式デバフ）</h2>
+
+
+
+<ul class="wp-block-list">
+<li>デバフカウント0で発動。</li>
+
+
+
+<li>素早く前か後ろに避ける。</li>
+
+
+
+<li>デバフ付与時のボスの手でどっち避けか判断、覚えておく。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">判断の仕方</h3>
+
+
+
+<p>現地で「順手」「逆手」というワードが飛び交ってたけどララフェル理解できなかったので絵を描いた。こういうことらしい。</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01.webp"><img fetchpriority="high" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-644x362.webp" alt="" class="wp-image-1522" srcset="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-644x362.webp 644w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-300x169.webp 300w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-768x432.webp 768w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01-700x394.webp 700w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_01.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02.webp"><img decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-644x362.webp" alt="" class="wp-image-1523" srcset="/wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-644x362.webp 644w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-300x169.webp 300w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-768x432.webp 768w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02-700x394.webp 700w, /wp-content/uploads/2024/12/P1-02_闇の抱擁デバフ_02.webp 960w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h4 class="wp-block-heading">覚えられないララフェルだから /echo マクロ使うととかなんかすると安心。</h4>
+
+
+
+<p>発動時、前にいきたい</p>
+
+
+
+<pre class="wp-block-code"><code>/echo 　▲
+/echo ▲▲▲</code></pre>
+
+
+
+<p>発動時、後ろにいきたい</p>
+
+
+
+<pre class="wp-block-code"><code>/echo ▽▽▽
+/echo 　▽</code></pre>
+
+
+
+<h4 class="wp-block-heading">覚えられないララフェルの外部ツール</h4>
+
+
+
+<p>こういうアナログな方が便利な場合も。<br>デバフつくタイミングは他のギミック特に無いしね。</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/IMG_5114.webp"><img decoding="async" width="644" height="873" data-id="1540" src="/wp-content/uploads/2024/12/IMG_5114-644x873.webp" alt="" class="wp-image-1540" srcset="/wp-content/uploads/2024/12/IMG_5114-644x873.webp 644w, /wp-content/uploads/2024/12/IMG_5114-221x300.webp 221w, /wp-content/uploads/2024/12/IMG_5114-768x1041.webp 768w, /wp-content/uploads/2024/12/IMG_5114-1133x1536.webp 1133w, /wp-content/uploads/2024/12/IMG_5114-700x949.webp 700w, /wp-content/uploads/2024/12/IMG_5114.webp 1444w" sizes="(max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/IMG_5115.webp"><img loading="lazy" decoding="async" width="644" height="772" data-id="1542" src="/wp-content/uploads/2024/12/IMG_5115-644x772.webp" alt="" class="wp-image-1542" srcset="/wp-content/uploads/2024/12/IMG_5115-644x772.webp 644w, /wp-content/uploads/2024/12/IMG_5115-250x300.webp 250w, /wp-content/uploads/2024/12/IMG_5115-768x920.webp 768w, /wp-content/uploads/2024/12/IMG_5115-1282x1536.webp 1282w, /wp-content/uploads/2024/12/IMG_5115-700x839.webp 700w, /wp-content/uploads/2024/12/IMG_5115.webp 1492w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/IMG_5116.webp"><img loading="lazy" decoding="async" width="644" height="800" data-id="1541" src="/wp-content/uploads/2024/12/IMG_5116-644x800.webp" alt="" class="wp-image-1541" srcset="/wp-content/uploads/2024/12/IMG_5116-644x800.webp 644w, /wp-content/uploads/2024/12/IMG_5116-242x300.webp 242w, /wp-content/uploads/2024/12/IMG_5116-768x954.webp 768w, /wp-content/uploads/2024/12/IMG_5116-1237x1536.webp 1237w, /wp-content/uploads/2024/12/IMG_5116-700x869.webp 700w, /wp-content/uploads/2024/12/IMG_5116.webp 1380w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+</figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">片乱雲ビーム（格子ビーム）</h2>
+
+
+
+<ul class="wp-block-list">
+<li>外側から格子ビーム。</li>
+
+
+
+<li>予兆が交互に4回。</li>
+
+
+
+<li>同じラインには来ない。</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2本良ければセーフ</h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-644x362.webp" alt="" class="wp-image-1536" srcset="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-644x362.webp 644w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-300x169.webp 300w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-768x432.webp 768w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01-700x394.webp 700w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_01.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-644x362.webp" alt="" class="wp-image-1537" srcset="/wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-644x362.webp 644w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-300x169.webp 300w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-768x432.webp 768w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02-700x394.webp 700w, /wp-content/uploads/2024/12/P1-07_格子ビーム（片乱雲）回避方法_02.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<p>直後に他の技が来たりするので油断しない。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">デスジャ、エアロジャ</h2>
+
+
+
+<h3 class="wp-block-heading">デスジャ</h3>
+
+
+
+<ol class="wp-block-list">
+<li>引き寄せ</li>
+
+
+
+<li>中心ちび円範囲</li>
+
+
+
+<li>反転してドーナツ範囲<br>が一連で発動する。</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading">つまり？</h4>
+
+
+
+<ol class="wp-block-list">
+<li>遠く待機</li>
+
+
+
+<li>引き寄せを受ける</li>
+
+
+
+<li>ちび円範囲のすぐ外で待機</li>
+
+
+
+<li>ちび円範囲の予兆オレンジが消えたら飛び込む</li>
+
+
+
+<li>ドーナツ範囲発動。回避しておわり。</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-05_デスジャ_01.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-05_デスジャ_01-644x362.webp" alt="" class="wp-image-1544" srcset="/wp-content/uploads/2024/12/P1-05_デスジャ_01-644x362.webp 644w, /wp-content/uploads/2024/12/P1-05_デスジャ_01-300x169.webp 300w, /wp-content/uploads/2024/12/P1-05_デスジャ_01-768x432.webp 768w, /wp-content/uploads/2024/12/P1-05_デスジャ_01-700x394.webp 700w, /wp-content/uploads/2024/12/P1-05_デスジャ_01.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">エアロジャ</h3>
+
+
+
+<p>フィールド中央に青色予兆が出てノックバックされるだけ。<br>アムレン有効。</p>
+
+
+
+<h3 class="wp-block-heading">エン＋デスジャ or エアロジャ</h3>
+
+
+
+<p>あとで発動するパターン。<br>直前に闇の刃を回避してたりするので、闇の刃安地入ったら即アムレンすると楽。</p>
+
+
+
+<p>エンほにゃららは予兆見えてから発動までに猶予がほとんどない。</p>
+
+
+
+<h4 class="wp-block-heading">エンデスジャはちゃんと回避しましょう。</h4>
+
+
+
+<p>ちび円範囲→ドーナツ範囲は回避しましょう。</p>
+
+
+
+<h4 class="wp-block-heading">エンエアロジャはアムレンしたら気にしなくてよい。</h4>
+
+
+
+<p>でも中央の青予兆にいると死ぬよ。</p>
+
+
+
+<h3 class="wp-block-heading">デスジャ・エアロジャ・マーカーこうじゃ</h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー.webp"><img loading="lazy" decoding="async" width="644" height="362" src="/wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-644x362.webp" alt="" class="wp-image-1575" srcset="/wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-644x362.webp 644w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-300x169.webp 300w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-768x432.webp 768w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー-700x394.webp 700w, /wp-content/uploads/2024/12/P1-05_デスジャ_02_マーカー.webp 960w" sizes="auto, (max-width: 644px) 100vw, 644px" /></a></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">ブレクジャ</h2>
+
+
+
+<p>ボスとフィールドに3匹くらい出る雑魚から視線。<br>外側をみて回避しよう。</p>
+
+
+
+<h3 class="wp-block-heading">ボス近くでも、この位置でこっち向けば喰らわずに済みそう。</h3>
+
+
+
+<p>知っていると救われる命がある。</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="/wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-png.webp"><img loading="lazy" decoding="async" width="433" height="389" src="/wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-png.webp" alt="" class="wp-image-1529" srcset="/wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-png.webp 433w, /wp-content/uploads/2024/12/スクリーンショット-2024-12-26-152921-300x270.webp 300w" sizes="auto, (max-width: 433px) 100vw, 433px" /></a></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">連射式波動砲</h2>
+
+
+
+<ul class="wp-block-list">
+<li>各アラにわかれて</li>
+
+
+
+<li>タンクを先頭にして縦並び</li>
+
+
+
+<li>ビームがんばって受ける</li>
+</ul>
+
+
+
+<p>軽減と回復がんばれ。</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">フェーズ移行時</h2>
+
+
+
+<ul class="wp-block-list">
+<li>闇の氾濫
+<ul class="wp-block-list">
+<li>全体攻撃</li>
+
+
+
+<li>最初のフィールドに戻る</li>
+</ul>
+</li>
+
+
+
+<li>闇の大氾濫
+<ul class="wp-block-list">
+<li>全体攻撃＋ペイン付与（DoT）</li>
+
+
+
+<li>丼フィールドに移行する</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>と全体攻撃が続くのでしっかり軽減と回復が必要。</p>
+
+
+
+<p>ちなみに大氾濫後16秒くらいでまた全体攻撃がくるのでペインDoTで減った分は戻していないと沢山の人々が死ぬ。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
